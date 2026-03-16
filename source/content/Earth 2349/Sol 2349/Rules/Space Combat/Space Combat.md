@@ -1,0 +1,14 @@
+Space combat in **SOL 2349** is rare, dangerous, and often decisive. Unlike the heroic dogfights of old science fiction, battles in the vacuum of space are tense, calculated engagements where a single mistake can disable a ship or doom its crew. Ships are expensive, crews are highly trained, and every vessel carries systems capable of inflicting catastrophic damage. Because of this, commanders usually prefer intimidation, maneuver, or negotiation over open conflict. Yet combat still happens.
+
+Ships may fight to enforce laws, protect trade routes, intercept smugglers, or defend valuable infrastructure. Corporations maintain security fleets to safeguard their interests, while planetary governments patrol key orbits and transit corridors. Pirates and raiders stalk shipping lanes, waiting for vulnerable freighters. In times of crisis, military vessels clash over strategic locations such as stations, mining operations, or orbital shipyards.
+
+Even when destruction is possible, most engagements aim to **disable rather than annihilate**. A crippled ship can be boarded, captured, or salvaged. The deliberate destruction of a vessel—and the loss of its crew—is considered an escalation that few factions take lightly. International agreements and long-standing norms discourage the use of extreme weapons such as nuclear devices or large-scale orbital bombardment. Violating these conventions risks political catastrophe across the Solar System.
+
+Combat in space unfolds across enormous distances. Missiles and torpedoes can travel thousands of kilometers before impact, and sensor warfare often determines the outcome before direct weapons ever fire. Pilots must carefully manage distance and orientation, engineers struggle to keep systems running under stress, and point-defense gunners race to intercept incoming threats before they reach the hull.
+
+For the purposes of play, the current rules provide a [[Narrative Mode]]. In this mode, a ship is treated as a unified entity whose performance is shaped by its crew. Players take actions that enhance their vessel’s capabilities—improving targeting, boosting defenses, or maneuvering into advantageous positions—while enemy attacks threaten the ship’s structural integrity.
+
+A more detailed **Tactical Space Combat system** is planned for future versions of the game. Tactical combat will expand ship systems, weapon mechanics, and subsystem damage for groups that want a more technical and simulation-oriented experience.
+
+For now, [[Narrative Mode]] combat captures the essential drama of space battles:  
+incoming missiles, desperate evasive maneuvers, and the constant struggle to keep a fragile machine—and its crew—alive in the silent void.

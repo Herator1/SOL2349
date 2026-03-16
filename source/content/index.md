@@ -12,17 +12,18 @@ SOL 2349 combines **simple and fast rules** with **deep character development**.
 With a setting spanning the entire [[Solar System]]—from the crowded orbital cities of [[Earth]] to the industrial mines of the Asteroid Belt and the research arcologies of Mars—SOL 2349 offers **endless possibilities for stories** of exploration, survival, corporate intrigue, and human resilience beyond Earth.
 
 # Rules
-[[Core Mechanics]]
+- [[Core Mechanics]]
+- [[Space Combat]]
 
 ##  The Solar System
-[[Solar System]]
+- [[Solar System]]
 
 # Factions
-[[Megacorporations]]
-[[Criminal Networks]]
-[[Cults and Religions]]
+- [[Megacorporations]]
+- [[Criminal Networks]]
+- [[Cults and Religions]]
 
 # Life in Space
-[[Food]]
-[[Living in Space]]
+- [[Food]]
+- [[Living in Space]]
 

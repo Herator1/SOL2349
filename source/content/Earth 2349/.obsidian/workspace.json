@@ -1,0 +1,249 @@
+{
+  "main": {
+    "id": "f12f2114b64f9799",
+    "type": "split",
+    "children": [
+      {
+        "id": "5188bc5db6ab263e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc5eb6f8797178fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sol 2349/01 Landing Page/Sol 2349.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sol 2349"
+            }
+          },
+          {
+            "id": "dfa9c399cdc6d3be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sol 2349/01 Landing Page/Sol 2349.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sol 2349"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2689145f7cf0045a",
+    "type": "split",
+    "children": [
+      {
+        "id": "32096b280c358e4e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "954eb3e991d60591",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Dateiexplorer"
+            }
+          },
+          {
+            "id": "f132698c68f68759",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Suchen"
+            }
+          },
+          {
+            "id": "df417f5942afe086",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Lesezeichen"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "91c44660741e2003",
+    "type": "split",
+    "children": [
+      {
+        "id": "af751d622c5741cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf1ea447764ef77a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sol 2349/01 Landing Page/Sol 2349.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rückverweise auf Sol 2349"
+            }
+          },
+          {
+            "id": "60974a10f5876c7b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sol 2349.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Ausgehende Links von Sol 2349 öffnen"
+            }
+          },
+          {
+            "id": "f4bc602e8304abc0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "39d4c4c37b0096cd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Alle Eigenschaften"
+            }
+          },
+          {
+            "id": "9b4a32df10a3560c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sol 2349.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Gliederung von Sol 2349"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graph-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "bases:Neue Base erstellen": false
+    }
+  },
+  "active": "dfa9c399cdc6d3be",
+  "lastOpenFiles": [
+    "Sol 2349/Solar System/Asteroids/Ceres.md",
+    "Pasted image 20260315225834.png",
+    "Sol 2349/00 Assets/Unbenannt 1",
+    "Ceres trade district.png",
+    "Sol 2349/Solar System/Asteroids/16 Psyche.md",
+    "Sol 2349/Solar System/Asteroids/Asteroids.md",
+    "Sol 2349/Solar System/Asteroids/Eros.md",
+    "Sol 2349/Solar System/Solar System.md",
+    "Sol 2349/01 Landing Page/Sol 2349.md",
+    "Sol 2349/Solar System/Asteroids/Hygiea.md",
+    "Sol 2349/Solar System/Asteroids/Pallas.md",
+    "Sol 2349/Solar System/Asteroids/Vesta.md",
+    "Sol 2349/Life in Space/Living in Space.md",
+    "Sol 2349/Life in Space/Food.md",
+    "Sol 2349/Factions/Criminal Networks/Criminal Networks.md",
+    "Sol 2349/Factions/Cults and Religions/Cults and Religions.md",
+    "Sol 2349/Factions/Research and Exploration",
+    "Sol 2349/00 Assets/Misc/Megacorps/Atlas logo.png",
+    "Sol 2349/Factions/Criminal Networks",
+    "Sol 2349/Factions/NGOs",
+    "Sol 2349/Factions/Worker Unions",
+    "Sol 2349/Factions/Political Factions",
+    "Sol 2349/Life in Space",
+    "Sol 2349/Factions/Criminal Networks/Pirates/Space Pirates.md",
+    "Sol 2349/Factions/Megacorps/Atlas.md",
+    "Pasted image 20260315214602.png",
+    "Sol 2349/00 Assets/Misc/Megacorps/Nyx logo.png",
+    "Sol 2349/00 Assets/Misc/Megacorps/Atlas werft.png",
+    "Sol 2349/00 Assets/Misc/Megacorps/Solaris logo.png",
+    "Sol 2349/Factions/Megacorps/Nyx.md",
+    "Sol 2349/Factions/Megacorps/Megacorporations.md",
+    "Sol 2349/Factions/Megacorps/Solaris.md",
+    "Sol 2349/00 Assets/Misc/Megacorps/Novachem logo.png",
+    "Sol 2349/Factions/Megacorps/Shukra.md",
+    "Sol 2349/Factions/Megacorps/NovaChem.md",
+    "Sol 2349/Factions/Megacorps/Unbenannt",
+    "Sol 2349/Solar System/Asteroids/Kuiper Belt.md",
+    "Sol 2349/Solar System/Asteroids",
+    "Sol 2349/Solar System/Planets/03 Earth/Earth.md",
+    "Sol 2349/Solar System/Planets/03 Earth",
+    "Sol 2349/Solar System/Planets/04 Mars.md",
+    "Sol 2349/Factions/Megacorps/Kaiten.md",
+    "Sol 2349/Factions/Megacorps/Helios.md",
+    "Sol 2349/00 Assets/Misc/Megacorps/Archeron Logo.png",
+    "Sol 2349/00 Assets/Misc/Megacorps/Kaiten logo.png",
+    "Unbenannt.canvas"
+  ]
+}

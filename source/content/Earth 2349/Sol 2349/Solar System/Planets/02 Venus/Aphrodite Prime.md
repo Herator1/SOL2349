@@ -1,0 +1,13 @@
+## Aphrodite Prime
+![[Aphrodite prime.jpeg|450]]
+**Population:** ~95 million
+
+Aphrodite Prime is the largest and most influential city in the Venusian cloud layer, a vast drifting metropolis suspended high above the planet’s lethal surface. The city consists of hundreds of interconnected aerostat platforms—industrial zones, residential districts, corporate towers and logistics hubs—linked by transport bridges and cargo corridors that stretch through the golden haze of the Venusian atmosphere.
+
+The city serves as the **primary headquarters for many of the major megacorporations operating in the inner solar system**. Corporate arcologies and industrial complexes dominate the upper tiers of the city, where executive districts, research facilities and financial centers oversee the enormous manufacturing output of Venus. From Aphrodite Prime, megacorps coordinate chemical production, materials manufacturing and trade routes reaching from Mercury’s solar industries to the orbital infrastructure of Earth.
+
+Life in the city, however, is far from orderly. The lower industrial tiers and cargo platforms form a sprawling maze of refineries, fabrication plants and transport docks where **smuggling, cartel activity and grey-market trade** are a constant presence. Independent operators, syndicates and corporate contractors compete for control of logistics routes and supply chains that move millions of tons of materials through the city every day.
+
+Despite its rough edges, Aphrodite Prime is also a place of enormous **wealth and opportunity**. Corporate elites inhabit luxurious high-altitude districts with controlled climates, panoramic cloud vistas and exclusive transport access to orbit. Below them, vast working populations live in dense industrial habitats where the atmosphere smells faintly of solvents and polymers, and the city’s machinery never truly stops.
+
+Yet even with its stark inequalities, Aphrodite Prime is still considered by many to be **a better place to live than most of Earth’s megacities**. Employment is plentiful, infrastructure is reliable, and the rule of corporations—while often ruthless—provides a degree of stability that many overcrowded regions on Earth can no longer guarantee.

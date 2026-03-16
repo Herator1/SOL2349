@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "2e9225e34664efd4",
+    "id": "e33c72649a8db9de",
     "type": "split",
     "children": [
       {
-        "id": "0571c1c94d829fac",
+        "id": "36b247624debfc1f",
         "type": "tabs",
         "children": [
           {
-            "id": "47ef711f7e8c1d64",
+            "id": "d4e9bc11026f5557",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "1243752a4df710bb",
+    "id": "6d4fdece500255cc",
     "type": "split",
     "children": [
       {
-        "id": "8a4c81639dc8783e",
+        "id": "c009112eeed43b15",
         "type": "tabs",
         "children": [
           {
-            "id": "b77831b90dd9f87b",
+            "id": "b14127382a598fcd",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +44,7 @@
             }
           },
           {
-            "id": "0829eb50dbb8a2b3",
+            "id": "14614f00b8a6a92d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +61,7 @@
             }
           },
           {
-            "id": "436d75c49c949463",
+            "id": "b31b7937de019620",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,15 +77,15 @@
     "width": 300
   },
   "right": {
-    "id": "ba1ec06a672fb227",
+    "id": "fa7e6786444390d7",
     "type": "split",
     "children": [
       {
-        "id": "6cea78168fbf9ccd",
+        "id": "c3adfdc967b8ce13",
         "type": "tabs",
         "children": [
           {
-            "id": "2aa5a4c073617928",
+            "id": "3295f9d42af1ca7b",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -103,7 +103,7 @@
             }
           },
           {
-            "id": "5acb7020384970a8",
+            "id": "dbbe29db5b336458",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -116,7 +116,7 @@
             }
           },
           {
-            "id": "f850ba7e9e699bea",
+            "id": "001bc4ef9c30b5c5",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,7 +131,21 @@
             }
           },
           {
-            "id": "2d9129bb8dcf7983",
+            "id": "2ab16f3e1784e8af",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Alle Eigenschaften"
+            }
+          },
+          {
+            "id": "45d1d7d446a82e9c",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -159,15 +173,56 @@
       "daily-notes:Heutige Notiz öffnen": false,
       "templates:Vorlage einfügen": false,
       "command-palette:Befehlspalette öffnen": false,
-      "bases:Neue Base erstellen": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Neue Base erstellen": false
     }
   },
-  "active": "47ef711f7e8c1d64",
+  "active": "d4e9bc11026f5557",
   "lastOpenFiles": [
-    "index.md",
-    "category-folder/index.md",
-    "category-folder/Some note.md",
-    "category-folder"
+    "Earth 2349/Sol 2349/Solar System/Stations and Docks",
+    "Earth 2349/Sol 2349/Solar System/Planets/03 Earth/Earth.md",
+    "Earth 2349/Sol 2349/Solar System/Planets/03 Earth",
+    "Earth 2349/Sol 2349/Solar System/Planets/02 Venus/Venus.md",
+    "Earth 2349/Sol 2349/Solar System/Planets/02 Venus/Ishtar Gate.md",
+    "Earth 2349/Sol 2349/Solar System/Planets/02 Venus/Aphrodite Prime.md",
+    "Earth 2349/Sol 2349/Solar System/Planets/02 Venus",
+    "Earth 2349/Sol 2349/Solar System/Planets/01 Merkur/Mercury.md",
+    "Earth 2349/Sol 2349/Solar System/Planets/07 Uranus.md",
+    "Earth 2349/Sol 2349/Solar System/Planets/06 Saturn.md",
+    "Earth 2349/Sol 2349/Solar System/Planets/05 Jupiter.md",
+    "Earth 2349/Sol 2349/Solar System/Planets/04 Mars.md",
+    "Earth 2349/Sol 2349/Solar System/Planets/01 Merkur",
+    "Earth 2349/Sol 2349/Solar System/Asteroids/Vesta.md",
+    "Earth 2349/Sol 2349/Solar System/Asteroids/Pallas.md",
+    "Earth 2349/Sol 2349/Solar System/Asteroids/Kuiper Belt.md",
+    "Earth 2349/Sol 2349/Solar System/Asteroids/Hygiea.md",
+    "Earth 2349/Sol 2349/Solar System/Asteroids/Eros.md",
+    "Earth 2349/Sol 2349/Solar System/Asteroids/Ceres.md",
+    "Earth 2349/Sol 2349/Solar System/Asteroids/Asteroids.md",
+    "Earth 2349/Sol 2349/Solar System/Asteroids/16 Psyche.md",
+    "Earth 2349/Sol 2349/Solar System/Solar System.md",
+    "Earth 2349/Sol 2349/Solar System/Planets",
+    "Earth 2349/Sol 2349/Solar System/Asteroids",
+    "Earth 2349/Sol 2349/Solar System",
+    "Earth 2349/Sol 2349/Rules/Core Mechanics/Stress.md",
+    "Earth 2349/Sol 2349/Rules/Core Mechanics/Progress Points.md",
+    "Earth 2349/Sol 2349/Rules/Core Mechanics/Difficulty DC.md",
+    "Earth 2349/Sol 2349/Rules/Core Mechanics/Dice System.md",
+    "Earth 2349/Sol 2349/Rules/Core Mechanics/Damage and Wounds.md",
+    "Earth 2349/Sol 2349/Rules/Core Mechanics/Core Mechanics.md",
+    "Earth 2349/Sol 2349/Rules/Core Mechanics/Action Economy.md",
+    "Earth 2349/Sol 2349/Rules/Core Mechanics",
+    "Earth 2349/Sol 2349/Rules",
+    "Earth 2349/Sol 2349/Lore and History",
+    "Earth 2349/Sol 2349/Life in Space",
+    "Earth 2349/Sol 2349/00 Assets/Planets/Venus Orbit.png",
+    "Earth 2349/Sol 2349/00 Assets/Planets/Merkur.png",
+    "Earth 2349/Sol 2349/00 Assets/Planets/Earth test image.png",
+    "Earth 2349/Sol 2349/00 Assets/Misc/Megacorps/Solaris logo.png",
+    "Earth 2349/Sol 2349/00 Assets/Misc/Megacorps/Shukra Logo.png",
+    "Earth 2349/Sol 2349/00 Assets/Misc/Megacorps/Nyx logo.png",
+    "Earth 2349/Sol 2349/00 Assets/Misc/Megacorps/Novachem logo.png",
+    "Earth 2349/Sol 2349/00 Assets/Misc/Megacorps/Kaiten logo.png",
+    "Earth 2349/Sol 2349/00 Assets/Misc/Megacorps/Helios.png",
+    "Earth 2349/Sol 2349/00 Assets/Misc/Megacorps/Atlas werft.png"
   ]
 }

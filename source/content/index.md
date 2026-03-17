@@ -27,3 +27,8 @@ With a setting spanning the entire [[Solar System]]—from the crowded orbital c
 - [[Food]]
 - [[Living in Space]]
 
+# Lore and History
+- [[Timeline of SOL 2349]]
+- [[Interplanetary Law]]
+- [[Xenology]]
+- [[Rumors and Secrets (minor Spoilers)]]

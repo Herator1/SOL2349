@@ -1,14 +1,24 @@
 
 ![[Venus Orbit.png|450]]
 
-| Cloud Cities      |                             |
-| ----------------- | --------------------------- |
-| Population        | 240 million                 |
-| Gravity           | 0.9 g                       |
-| Temperature Range | ~470 °C (Surface)           |
-| Pressure          | 92 bar (Surface)            |
-| Atmosphere        | 0.96 CO2 0.04 N2 0.0015 SO2 |
-| Habitability      | F- (Surface) B-(60 km)      |
+| Parameter                     | Value                                                           |
+| ----------------------------- | --------------------------------------------------------------- |
+| Population                    | ~420 million                                                    |
+| Surface Gravity               | 0.90 g                                                          |
+| Average Temperature (Surface) | ~465 °C                                                         |
+| Surface Pressure              | ~92 bar                                                         |
+| Atmosphere                    | Dense CO₂ atmosphere with sulfuric acid clouds                  |
+| Breathability                 | Non-breathable                                                  |
+| Habitable Zone                | Floating cloud layer (~50–60 km altitude)                       |
+| Day Length                    | 243 Earth days (retrograde rotation)                            |
+| Year Length                   | 225 Earth days                                                  |
+| Major Settlement Type         | Floating cloud cities / aerostat habitats                       |
+| Major Industries              | Heavy industry, manufacturing, chemical processing              |
+| Key Exports                   | Industrial goods, refined materials, high-density manufacturing |
+| Key Imports                   | Food, biological materials, advanced biotech                    |
+| Major Powers                  | Archeron Defense Systems and corporate alliances                |
+| Largest Habitats              | Aphrodite Cloud Arcologies                                      |
+| Political Status              | Corporate-dominated planetary economy                           |
 ## Venus (2349)
 
 In the year 2349, Venus has become one of the most important industrial hubs of the inner solar system. Roughly **240 million people** live within vast networks of **floating cloud cities**, suspended high in the planet’s atmosphere where pressure and temperature allow human habitation. These aerostat metropolises drift through the dense golden clouds, connected by cargo platforms, atmospheric aircraft, and orbital elevators linking them to space.

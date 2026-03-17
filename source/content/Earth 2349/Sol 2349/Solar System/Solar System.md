@@ -8,7 +8,10 @@ This section provides an overview of the **major locations of the Solar System i
 [[Mercury]]
 [[Venus]]
 [[Earth]]
-
+[[Mars]]
+[[Jupiter]]
+[[Saturn]]
 
 # Asteroids
 [[Ceres]]
+[[16 Psyche]]

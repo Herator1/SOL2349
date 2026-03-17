@@ -26,9 +26,13 @@ With a setting spanning the entire [[Solar System]]—from the crowded orbital c
 # Life in Space
 - [[Food]]
 - [[Living in Space]]
+- [[Advanced Medicine]]
+- [[Money in Space]]
 
 # Lore and History
 - [[Timeline of SOL 2349]]
 - [[Interplanetary Law]]
 - [[Xenology]]
 - [[Rumors and Secrets (minor Spoilers)]]
+
+# Gamemaster Area

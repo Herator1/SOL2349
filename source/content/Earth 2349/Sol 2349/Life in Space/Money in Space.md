@@ -86,13 +86,13 @@ Docking fees usually include basic life support hookups, maintenance access, and
 ---
 
 ### Refueling Costs (fusion fuel / reaction mass)
+| Location      | Cost (small freighter) |
+| ------------- | ---------------------- |
+| Jovian system | 5 – 10 SOL             |
+| Asteroid Belt | 5 – 40 SOL             |
+| Mars / Venus  | 20 – 100 SOL           |
 
-|Location|Cost|
-|---|---|
-|Jovian system|0.2 – 0.5 SOL|
-|Asteroid Belt|0.5 – 1 SOL|
-|Mars / Venus|1 – 3 SOL|
-Fuel is far cheaper near gas giants where helium-3 and reaction mass are harvested. Transporting fuel inward dramatically increases its price.
+Fuel is significantly cheaper close to its source — especially in the Jovian system, where **helium-3 and reaction mass are harvested at scale**. The further inward it is transported, the more its price increases due to logistics, demand, and infrastructure constraints. These values assume a **small freighter on a standard refueling cycle**. Actual costs can vary heavily depending on burn profile, fuel type (He-3 vs. alternatives), and local availability.
 
 ---
 # Spacecraft Prices

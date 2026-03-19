@@ -11,9 +11,10 @@ SOL 2349 combines **simple and fast rules** with **deep character development**.
 
 With a setting spanning the entire [[Solar System]]—from the crowded orbital cities of [[Earth]] to the industrial mines of the Asteroid Belt and the research arcologies of Mars—SOL 2349 offers **endless possibilities for stories** of exploration, survival, corporate intrigue, and human resilience beyond Earth.
 
-# Rules
+# Basic Rules
 - [[Core Mechanics]]
 - [[Space Combat]]
+- [[Augmentations and Gear]]
 
 ##  The Solar System
 - [[Solar System]]
@@ -36,6 +37,6 @@ With a setting spanning the entire [[Solar System]]—from the crowded orbital c
 - [[Rumors and Secrets (minor Spoilers)]]
 
 # Technology of 2349
-[[Energy and Drive Systems]]
+- [[Energy and Drive Systems]]
 
 # Gamemaster Area

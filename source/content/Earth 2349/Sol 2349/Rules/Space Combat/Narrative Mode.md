@@ -28,7 +28,7 @@ Combat usually ends when one ship is disabled, forced to retreat, or surrenders.
 - [[Range Bands]]
 - [[Engagement Types]]
 - [[Ship Types]]
-- [[Weapons]]
+- [[Earth 2349/Sol 2349/Rules/Space Combat/Weapons]]
 - [[Example Engagement]]
 
 # [[Ship Statistics]]
@@ -56,7 +56,7 @@ The structural condition of the ship. Damage reduces this value.
 When Hull Integrity reaches **0**, the ship is disabled.
 
 
-# [[Weapons]]
+# [[Earth 2349/Sol 2349/Rules/Space Combat/Weapons]]
 
 Each ship has a number of **Hardpoints**, which determine how many weapon systems it can mount.
 

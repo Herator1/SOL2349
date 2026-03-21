@@ -10,4 +10,5 @@ The mechanics are built around a **simple core resolution system using a d20**, 
 - [[Damage and Wounds]]
 - [[Rerolls and Advantage]]
 - [[Critical Hits and Damage Modifications]]
+- [[Implants and Load]]
 

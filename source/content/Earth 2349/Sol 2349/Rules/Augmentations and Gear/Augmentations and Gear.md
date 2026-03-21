@@ -9,9 +9,7 @@ From basic tools and protective gear to advanced implants and autonomous systems
 Augmentations and equipment serve two primary roles:
 
 - **Expand what a character can do**
-    
 - **Improve how effectively they can do it**
-    
 
 Unlike skills, which represent training, augmentations provide **new functions or enhanced performance**, often with resource limitations such as Load or Mod Space.
 
@@ -21,23 +19,26 @@ Unlike skills, which represent training, augmentations provide **new functions o
 
 Augmentations and gear are divided into several broad categories:
 
-- **Implants**  
+- **[[Implants (Lists)]]**  
     Cybernetic systems installed into the body. Often active, consuming Load when used.
     
-- **Genetic Modifications**  
+- **[[Genetic Modifications]]**  
     Permanent biological enhancements. Always active, but come with trade-offs.
     
-- **Weapons & Combat Gear**  
+- **[[Weapons and Tactical Gear]]**  
     Firearms, melee weapons, armor, and tactical equipment.
     
-- **Tools & Devices**  
+- **[[Tools and Devices]]**  
     Engineering tools, scanners, medical equipment, hacking devices.
     
-- **Drones & Robotics**  
+- **[[Drones and Robotics]]**  
     Remote systems, autonomous helpers, and combat drones.
-    
 
-Each category is detailed in its own section.
+ - **[[Consumables]]**
+	Single use items, such as stims or first aid kits.
+	
+- **[[Genetic Modifications]]**
+	Permanent genetic adaptations that come with a drawback.
 
 ---
 
@@ -76,11 +77,8 @@ This creates a world where:
 Not all equipment is equally available everywhere.
 
 - Inner planets and major stations → wide availability
-    
 - Remote installations → limited selection
-    
 - Corporate or military tech → restricted access
-    
 
 The GM may use availability, legality, or logistics as additional constraints.
 
@@ -91,10 +89,7 @@ The GM may use availability, legality, or logistics as additional constraints.
 This section is currently **work in progress**.
 
 - Prices are preliminary
-    
 - Balance between gear, augmentations, and character abilities is not final
-    
 - Additional categories and refinements will be added
-    
 
 The goal at this stage is to establish a **coherent technological baseline**, which will be expanded and balanced alongside the rest of the system.

@@ -2,7 +2,6 @@
 title: My GitHub Pages Notebook!
 ---
 ### SOL 2349 – A Hard Science Fiction Roleplaying Game
-
 **SOL 2349** is a tabletop roleplaying game set in a realistic vision of the Solar System three centuries in the future. Humanity has spread across planets, moons, and orbital habitats, but space remains a harsh and unforgiving frontier shaped by physics, economics, and human ambition.
 
 The game focuses on **hard science fiction**, emphasizing believable technology, realistic space travel, and a living interplanetary economy dominated by powerful megacorporations. There are no aliens, no superintelligent AI—only humans pushing the limits of survival and expansion in space.
@@ -17,7 +16,10 @@ With a setting spanning the entire [[Solar System]]—from the crowded orbital c
 - [[Augmentations and Gear]]
 
 ##  The Solar System
-- [[Solar System]]
+- [[Planets]]
+- [[Stations and Docks]]
+- [[Lagrange Points]]
+- [[Asteroids]]
 
 # Factions
 - [[Megacorporations]]

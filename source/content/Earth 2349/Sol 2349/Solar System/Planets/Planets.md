@@ -1,0 +1,11 @@
+The major planets of the solar system form the **anchor points of human civilization**, shaping both economic structure and long-distance connectivity. The inner planets—Earth, Mars, and Venus—act as the primary centers of population, industry, and scientific development, while the outer systems provide resources, energy, and strategic depth. Positioned between these regions, the planetary network defines the flow of goods, people, and information across vast distances. Planets serve as hubs of governance, culture, and large-scale infrastructure, but also as critical intermediaries between the dense, highly developed inner system and the more distributed, resource-driven economies of the outer solar system. In this role, they do not just host civilization—they organize it.
+
+- [[Mercury]]
+- [[Venus]]
+- [[Earth]]
+- [[Mars]]
+- [[Jupiter]]
+- [[Saturn]]
+- [[Uranus]]
+- [[Neptun]]
+- [[Pluto]]

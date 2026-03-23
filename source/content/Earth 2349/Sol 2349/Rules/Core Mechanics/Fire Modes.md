@@ -1,81 +1,112 @@
-Weapons can be used in different **fire modes**, chosen per attack. Available modes are specified for each weapon.
+# 🔫 **Fire Modes**
+
+Weapons can be used in different **fire modes**, chosen per attack.
+
+Each mode trades **precision, control, and resource cost** against each other.
 
 ---
-
 ## Standard Fire Modes
 
 |Mode|Cost|Effect|
 |---|---|---|
 |**Single Shot**|1 Action|No modifier. Standard attack.|
-|**Burst Fire**|1 Action|Choose one: **+2 to hit** or **+1d6 damage**|
+|**Burst Fire**|1 Action|Choose one: **+2 to hit** OR **+1d6 damage**|
 |**Full Auto**|1 Action|See below|
+---
+# 🔥 **Full Auto**
+
+Full auto represents **overwhelming fire volume**, not precision.
 
 ---
 
-## Full Auto
+## Requirements
 
-Full auto represents uncontrolled, high-volume fire.
-
-**Requirements:**
-Cannot be used while Low Ammo is active
+- Cannot be used while **Low Ammo** is active
 
 ---
-**Effects:**
+
+## Core Effects
+
+- Apply **−2 to hit**
 - **Take Aim has no effect**
-    
 - Automatically applies **Low Ammo**
-    
-Choose one of the following:
 
 ---
-### A) High Damage
-
-- Attack **automatically counts as a critical hit**
-    
-- Roll **double weapon damage dice**
-
-Example: 2d6 → 4d6
-
-- If the attack roll is a **natural 20**, roll **triple weapon damage dice instead**
-    
-
-Example: 2d6 → 6d6
-
----
-### B) Suppression
-
-- Targets suffer **Complication**
-    
-- Leaving cover or attacking may trigger **reaction fire** (uses reaction)
-    
+## Choose one mode:
 
 ---
 
-### C) Area Attack
+### 🟥 A) **High Impact Fire**
 
-- Attack **all targets within a 5m radius**
-    
-- Each target is attacked separately
-    
-- Targets in **full cover cannot be targeted**
-    
+- On hit:  
+    → deal **+1 weapon damage die**
+- On critical:  
+    → **double total dice as normal (no stacking bonus)**
 
----
-
-## Low Ammo
-
-Triggered automatically by **Full Auto**.
-
-Effect:
-
-−2 to all attacks
-
-Low Ammo must be cleared before Full Auto can be used again.
+👉 Example:  
+2d6 → **3d6**  
+Crit → **6d6**
 
 ---
+👉 Wichtig:
 
-## Reload
+- kein Auto-Crit mehr
+- bleibt stark, aber kontrollierbar
 
-1 Action
+---
+### 🟣 B) **Suppressive Fire**
 
-Removes **Low Ammo**.
+- Target suffers **Complication**
+- If the target:
+    - leaves cover
+    - or attacks
+
+👉 attacker may spend **1 Action** to immediately attack again
+
+- This counts as a **Reactive Action**
+- Applies normal diminishing penalties
+
+---
+👉 sauber in dein System integriert
+
+---
+### 🟦 C) **Area Fire**
+
+- Target a **5m area**
+- Make one attack roll
+
+Each target:
+
+- must beat the roll (or is hit)
+- or is attacked separately (GM choice)
+
+Targets:
+
+- gain **+2 DC from movement/cover abstraction**
+- full cover = immune
+
+Damage:
+
+- **−1 damage die**
+
+---
+👉 wichtig:
+
+- Multi-target = weniger Damage
+- kein Free DPS Boost
+
+---
+# ⚙️ **Low Ammo**
+
+Triggered automatically by **Full Auto**
+
+---
+### Effect
+
+- **−2 to all attacks**
+
+---
+### Recovery
+
+- **Reload (1 Action)**  
+    → removes Low Ammo

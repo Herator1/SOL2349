@@ -1,59 +1,129 @@
-Base stats represent a character’s **core survivability and operational limits**. Unlike attributes and skills, which describe capability, base stats define how much stress, damage, and system load a character can handle before failure.
+Base stats represent a character’s **core survivability and operational limits**.
 
-These values are partly derived from attributes, but can also be improved directly through progression.
+Unlike attributes and skills, which define capability, base stats determine:
 
----
-## Guard
+- how much damage a character can withstand
+- how long they can remain effective under pressure
+- how far they can push their systems before failure
 
-Guard represents a character’s **immediate survivability in combat**—movement, positioning, reaction speed, and the protective benefit of armor. It reflects how well a character avoids or mitigates incoming damage before being physically harmed.
-
-Guard is the first layer of defense and is depleted before Health. It fluctuates constantly during combat and can be restored through actions such as taking cover.
-
-Guard is primarily influenced by **Fitness and Reflexes**, as well as armor.
-
----
-## Health
-
-Health represents a character’s **physical condition and ability to sustain injury**. It includes stamina, minor wounds, and overall resilience under stress.
-
-Once Guard is depleted, incoming damage is applied to Health. As Health decreases, the risk of serious injury increases significantly.
-
-Health is mainly influenced by **Fitness** and recovers relatively quickly under proper conditions.
+These values are partly derived from attributes, but can also be improved directly.
 
 ---
 
-## Wounds
+## 🛡️ **Guard**
 
-Wounds represent **serious physical trauma**—injuries that have lasting consequences and cannot be ignored. Broken bones, internal damage, or severe system shock are all represented as Wounds.
+Guard represents a character’s **immediate survivability in combat**:
 
-When Health drops below zero, a character suffers a Wound and is temporarily incapacitated. Each additional Wound reduces overall effectiveness and brings the character closer to death.
+- movement
+- positioning
+- reaction speed
+- situational awareness
 
-Wounds are difficult to treat and require proper medical intervention to recover.
-
----
-
-## Stress
-
-Stress measures a character’s **psychological pressure and mental stability** in extreme situations. Isolation, danger, system failures, and combat all contribute to rising stress levels.
-
-If stress exceeds a character’s limit, it can trigger immediate negative effects such as panic, hesitation, or loss of control.
-
-Stress can be reduced through rest, psychological support, or specific abilities, but is a constant factor in prolonged or dangerous scenarios.
+Guard is the **first layer of defense** and absorbs damage before Health.
 
 ---
 
-## Load
+### Key Characteristics
 
-Load represents a character’s **capacity to operate and sustain active augmentations**. Each activation of an implant or advanced ability consumes Load, limiting how frequently such systems can be used in a short period of time.
-
-Load does not represent carried equipment, but rather the **internal strain on a character’s systems and body**. Once depleted, further activation of augmentations becomes impossible until recovery.
-
-Load resets after a short break and is a key limiting factor for augmentation-heavy characters.
+- highly dynamic
+- changes constantly during combat
+- restored through actions (e.g. taking cover)
 
 ---
-## Mod Space
 
-Mod Space defines how many **implants and technological enhancements** a character can integrate into their body. It represents physical space, system compatibility, and biological tolerance.
+### System Impact
 
-Each implant requires a certain amount of Mod Space, forcing characters to make meaningful choices about which augmentations to install.
+- determines how long a character can **avoid real injury**
+- strongly influenced by **Reflexes and Fitness**
 
+---
+
+## ❤️ **Health**
+
+Health represents a character’s **physical condition and resilience**.
+
+Once Guard is depleted, damage is applied to Health.
+
+---
+
+### Key Characteristics
+
+- reflects actual injury
+- decreases under sustained damage
+- recovers through rest and treatment
+
+---
+
+### System Impact
+
+- determines how long a character can **stay in the fight**
+- primarily influenced by **Fitness**
+
+---
+
+## 🩸 **Wounds**
+
+Wounds represent **serious physical trauma**.
+
+They occur when a character is pushed beyond their physical limits.
+
+---
+
+### Key Characteristics
+
+- triggered when Health drops below **0**
+- cause **temporary incapacitation**
+- apply cumulative penalties
+
+---
+
+### System Impact
+
+- define long-term survivability
+- determine when a character becomes **dying**
+
+---
+
+## 🔥 **Load**
+
+Load represents a character’s **system strain and operational stress**.
+
+It is generated primarily by:
+
+- implant use
+- advanced abilities
+- pushing systems beyond safe limits
+
+---
+
+### Key Characteristics
+
+- increases during combat
+- has a defined **maximum threshold**
+- exceeding the limit triggers **Overload**
+
+---
+
+### System Impact
+
+- limits how often powerful systems can be used
+- introduces **risk vs reward decisions**
+- directly interacts with the Action Economy
+
+---
+
+👉 Load does **not prevent actions**  
+👉 it makes them **dangerous**
+
+---
+
+## 🧬 **Mod Space**
+
+Mod Space defines how many **implants and augmentations** a character can integrate.
+
+---
+### Key Characteristics
+
+- limited resource
+- each implant consumes space
+- forces meaningful build decisions

@@ -1,145 +1,202 @@
-## **Cardio Regulation System**
+# 🦿 **Kinetic Leg System**
 
-_Physical • endurance • cardio • mSpace 2_
+**Category:** Physical  
+**Type:** Muscular / Kinetic  
+**Mod Space:** 2
 
-An internal system optimizing heart rate, oxygen transport, and recovery under physical strain.
+---
+## 🧠 Flavor
+
+Your legs are engineered for explosive movement.  Distance, height, and impact are variables you control.
 
 ---
 
-### **Endurance Boost**
+## ⚙️ Abilities
 
-- **Effect:** Ignore penalties from fatigue or exhaustion
-- **Load:** 1
-- **Action:** BA
-- **Duration:** 5 turns
+### ⚡ **Burst Movement (Augmented Action)**
+
+- Move up to **+10 m** (in addition to normal movement)
+
+---
+### Effects:
+
+- ignores **terrain penalties**
+- can include:
+    - jumps
+    - vertical movement
+
+---
+### ⚠️ Cost
+
+→ **+1 Load**
 
 ---
 
-### **Adrenal Surge**
+### 🦘 **Enhanced Mobility**
 
-- **Effect:** Gain advantage on all physical rolls
-- **Load:** 2
-- **Action:** BA
-- **Duration:** 2 turns
+- Jump distance **doubled**
+- Fall damage **reduced by half**
 
 ---
 
-### **Rapid Recovery**
+### 🦵 **Impact Kick**
 
-- **Effect:** Reduce Stress by 1
-- **Load:** 1
-- **Action:** BA
-- **Duration:** instant
+- Melee attack using legs
+
+---
+
+### Effects:
+
+- deals **+1 damage die**
+- target is pushed **2–3 m**
+
+---
+
+### ⚠️ Cost
+
+→ **+1 Load**
+
+# **Titan Frame (Upper Body)**
+
+**Category:** Physical  
+**Type:** Muscular / Reinforcement  
+**Mod Space:** 3
+
+---
+
+## 🧠 Flavor
+
+Your upper body is reinforced for raw force.  
+You don’t just fight—you **move the battlefield**.
+
+---
+
+## ⚙️ Abilities
+
+
+### 💥 **Power Strike**
+
+- Melee attack
+
+---
+### Effects:
+
+- gains **+1 damage die**
+- ignores **1 Armor**
+
+---
+### 🪨 **Lift & Throw (Augmented Action)**
+
+- Pick up and throw:
+    - heavy objects
+    - enemies (GM discretion)
+
+---
+### Effects:
+
+- ranged attack using Physical
+- deals **2d6 damage** (or weapon equivalent)
+- may apply:
+    - knockdown
+    - reposition
+
+---
+### ⚠️ Cost
+
+→ **+2 Load**
+
+---
+
+### 🧠 **Brute Force**
+
+- Gain **Tactical Edge** on:
+    - strength checks
+    - forced interactions (doors, objects)
+
+
+
+# 🩰 **Inertial Agility Suite**
+
+**Category:** Physical + Survival  
+**Type:** Neural / Balance  
+**Mod Space:** 2
+
+---
+
+## 🧠 Flavor
+
+Your body never stops moving.  
+You survive by never being where the attack lands.
+
+---
+
+## ⚙️ Abilities
+
+---
+
+### 🔁 **Slip Step (Augmented Action)**
+
+- Move up to **3–5 m instantly**
+
+---
+
+### Effects:
+
+- ignores **movement penalties**
+- can break:
+    - line of sight
+    - engagement
+
+---
+
+### ⚠️ Cost
+
+→ **+1 Load**
 
 ---
 
 ---
 
-## **Enhanced Leg Actuators**
+### ⚡ **Evasion Protocol (Reactive Augmented Action)**
 
-_Physical • movement • legs • mSpace 2_
+When you are **targeted by an attack (before the roll is resolved)**:
 
-Reinforced leg structures and actuator support for improved speed, jumping, and mobility.
+👉 you may:
 
----
-
-### **Sprint Burst**
-
-- **Effect:** Double your movement this turn
-- **Load:** 1
-- **Action:** BA
-- **Duration:** 1 turn
+- move up to **3 m**
+- gain **+2 DC against that attack**
 
 ---
 
-### **Jump Assist**
+### Resolution:
 
-- **Effect:** Gain advantage on jumping or climbing rolls
-- **Load:** 1
-- **Action:** BA
-- **Duration:** 3 turns
+- movement happens **before the attack roll**
+- if the attacker still has line of sight → attack proceeds with **+2 DC**
+- if you move into **full cover or break line of sight**:
 
----
-
-### **Impact Dampening**
-
-- **Effect:** Ignore fall damage
-- **Load:** 2
-- **Action:** R
-- **Duration:** instant
+👉 the attack **automatically misses**
 
 ---
 
----
+### Limitations:
 
-## **Upper Body Reinforcement**
-
-_Physical • strength • arms • mSpace 2_
-
-A system enhancing muscular output and load-bearing capacity of the upper body.
+- cannot be used **after damage is rolled**
+- does **not interrupt** the triggering action
+- can be used **once per turn**
 
 ---
 
-### **Lift Assist**
+### ⚠️ Cost
 
-- **Effect:** Gain +2 on strength-based rolls
-- **Load:** 1
-- **Action:** BA
-- **Duration:** 3 turns
-
----
-
-### **Grip Lock**
-
-- **Effect:** Cannot be disarmed or forced to drop held objects
-- **Load:** 1
-- **Action:** R
-- **Duration:** 1 turn
-
----
-
-### **Force Application**
-
-- **Effect:** Move or push heavy objects effortlessly
-- **Load:** 2
-- **Action:** A
-- **Duration:** instant
+→ **+2 Load**
 
 ---
 
 ---
 
-## **Low-G Adaptation Matrix**
+### 🩰 **Fluid Control**
 
-_Physical • movement • low-g • mSpace 2_
-
-A coordination and muscle control system designed to optimize movement in low-gravity environments.
-
----
-
-### **Low-G Control**
-
-- **Effect:** Ignore penalties from low-gravity movement
-- **Load:** 1
-- **Action:** BA
-- **Duration:** 3 turns
-
----
-
-### **Momentum Control**
-
-- **Effect:** Adjust movement precisely in low gravity (no drift or overshoot)
-- **Load:** 1
-- **Action:** BA
-- **Duration:** 2 turns
-
----
-
-### **Extended Leap**
-
-- **Effect:** Move up to 8 m in low gravity as part of movement
-- **Load:** 1
-- **Action:** BA
-- **Duration:** instant
-
----
+- Gain **Tactical Edge** on:
+    - balance
+    - acrobatics
+    - movement-based checks

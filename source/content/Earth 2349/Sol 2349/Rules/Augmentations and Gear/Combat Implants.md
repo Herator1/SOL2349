@@ -1,180 +1,204 @@
-## **Reflex Booster Array**
+# ⚡ **Reflex Booster**
 
-_Combat • reflex • neural • mSpace 3_
+**Category:** Combat  
+**Type:** Neural / Reflex  
+**Mod Space:** 3
 
-A high-speed neural accelerator that reduces reaction latency and enhances combat responsiveness in short bursts.
+---
+### 🧠 Flavor
+
+Your nervous system is overclocked.  
+Time does not slow down—you simply act faster than everyone else.
+
+---
+### ⚙️ Abilities
+
+---
+### ⚡ **Overdrive Trigger**
+
+Activate to gain:
+- **+1 Action this turn**, Additionally: this Action gains **Tactical Edge**
+
+### ❗ **Limit**
+
+- Neural Correction can be used **once per round**
+
+---
+### 🔁 **Reflex Spike (Augmented Action)**
+
+- Perform **one additional Action**
+- Can be used:
+    - during your turn
+    - or reactively
+
+---
+👉 Effects:
+- gains **Tactical Edge**
+- ignores **movement-related penalties**
+
+---
+### 🎯 **Neural Correction**
+
+- After a failed, combat related roll:  
+    → **reroll**
+
+---
+### ⚠️ Cost
+
+- Overdrive Trigger → **+2 Load**
+- Reflex Spike → **+2 Load**
+- Reroll → **+3 Load**
 
 ---
 
-### **Reflex Surge**
+# 🎯 **Targeting Suite**
 
-- **Effect:** Gain advantage on all attack rolls
-- **Load:** 2
-- **Action:** BA
-- **Duration:** 2 turns
+**Category:** Combat  
+**Type:** Neural / Optic  
+**Mod Space:** 2
+
+---
+### 🧠 Flavor
+
+Your targeting system predicts movement before it happens.
+
+---
+### ⚙️ Abilities
+
+---
+### 🎯 **Predictive Targeting**
+
+- Gain **Tactical Edge** on attack
+- ignores:
+    - movement penalties
+    - partial cover (−2 max)
+
+---
+### 🔧 **Recoil Dampening**
+
+- Passive: Ignore **repetition penalties** on attacks up to: second attack = no penalty
+
+---
+### 🔁 **Lock-On (Augmented Action)**
+
+- Mark a target
+
+For the rest of the turn:
+
+- all attacks against target:  
+    → gain **+2 to hit**
+
+---
+### ⚠️ Cost
+
+- Predictive Targeting → **+1 Load**
+- Lock-On → **+2 Load**
+---
+
+# 🔪 **Close Quarters Suite**
+
+**Category:** Combat + Physical  
+**Type:** Muscular / Neural  
+**Mod Space:** 3
 
 ---
 
-### **Snap Reaction**
+## 🧠 Flavor
 
-- **Effect:** Gain one additional Reaction this turn
-- **Load:** 2
-- **Action:** BA
-- **Duration:** 1 turn
-- **Notes:** Max 1 extra Reaction per turn
+Your body is weaponized.  
+Distance is a problem you solve by **removing it**.
 
 ---
 
-### **Adrenal Overdrive**
+## ⚙️ Abilities
 
-- **Effect:** Gain one additional Action this turn
-- **Load:** 3
-- **Action:** BA
-- **Duration:** instant
-- **Notes:** Max 1 extra Action per turn
+---
+### ⚡ **Bull Rush (Augmented Action)**
+
+- Move up to **10 m directly toward a target**
+- Can be used:
+    - during your turn
+    - or as a **Reactive Action**
+
+---
+### Effects:
+
+- ignores **difficult terrain**
+- ignores **movement penalties**
+If you end in melee range: gain **Tactical Edge on your next melee attack**
+
+---
+## 🔥 **Impact Strike (Optional)**
+
+If Bull Rush ends in melee range, you may immediately perform:
+
+👉 **1 melee attack**
+
+---
+### Conditions:
+
+- attack gains **Tactical Edge**
+- counts toward **repetition penalties**
+- does **not interrupt** the triggering action
+
+---
+### ⚠️ Cost
+
+- Bull Rush (movement only) → **+2 Load**
+- Bull Rush + Impact Strike → **+3 Load**
+
+---
+## ❗ Limits
+
+- Can be used **once per turn**
+- When used as a Reactive Action:
+    - it **does not interrupt** the triggering action
+    - the triggering action resolves normally
+
+---
+## 🧠 Notes
+
+- Impact Strike is part of the same activation and does **not require an additional Action**
+- Follow-up attacks in the same turn suffer **normal repetition penalties**
 
 ---
 
-## **Targeting Optics Suite**
+### 🔪 **Enhanced Strikes**
 
-_Combat • targeting • sensor • mSpace 2_
+- Melee attacks gain:
 
-An advanced targeting system that enhances precision, tracking, and shot placement under combat conditions.
-
----
-
-### **Target Lock**
-
-- **Effect:** Ignore penalties from cover or target movement
-- **Load:** 1
-- **Action:** BA
-- **Duration:** 2 turns
+👉 **+1 damage die**
 
 ---
 
-### **Precision Strike**
+### ⚔️ **Close Combat Advantage**
 
-- **Effect:** Your next attack deals +3 damage
-- **Load:** 2
-- **Action:** A
-- **Duration:** instant
-
----
-
-### **Kill Window**
-
-- **Effect:** Activate before an attack → on hit, gain -1 Load and reduce Stress by 2
-- **Load:** 1
-- **Action:** BA
-- **Duration:** 1 turn
+- Gain **Tactical Edge** on:
+    - melee attacks
+    - grappling
 
 
 ---
 
-## **Ballistic Compensation System**
+### 🪓 **Augmented Throw (Augmented Action)**
 
-_Combat • recoil • weapon • mSpace 2_
+- Throw a melee weapon:
+- counts as ranged attack
+- uses melee skill
 
-A stabilization and compensation system that minimizes recoil and maximizes sustained fire accuracy.
+---
+### Effects:
+
+- gains **+1 damage die**
+- ignores **short-range penalties**
+
+### ⚠️ Cost
+
+→ **+1 Load**
+
 
 ---
 
-### **Recoil Dampening**
+### 🔁 **Relentless Assault**
 
-- **Effect:** Gain +2 on all attack rolls this turn
-- **Load:** 1
-- **Action:** BA
-- **Duration:** 1 turn
-
----
-
-### **Suppressive Fire**
-
-- **Effect:** Target suffers disadvantage on its next attack
-- **Load:** 2
-- **Action:** A
-- **Duration:** 1 turn
-- **Range:** M
-
----
-
-### **Controlled Burst**
-
-- **Effect:** Make two attacks against the same target
-- **Load:** 3
-- **Action:** A
-- **Duration:** instant
-- **Notes:** Cannot be combined with extra Action effects
-
----
-
-## **Combat Awareness Node**
-
-_Combat • awareness • tactical • mSpace 2_
-
-A predictive combat system that enhances situational awareness and anticipates enemy movement.
-
----
-
-### **Threat Focus**
-
-- **Effect:** Gain advantage on all rolls against a chosen target
-- **Load:** 2
-- **Action:** BA
-- **Duration:** 2 turns
-
----
-
-### **Damage Mitigation**
-
-- **Effect:** Reduce incoming damage by 3
-- **Load:** 2
-- **Action:** R
-- **Duration:** instant
-
----
-
-### **Tactical Reposition**
-
-- **Effect:** Move up to 5 m without triggering reactions or overwatch
-- **Load:** 1
-- **Action:** BA
-- **Duration:** instant
-
----
-
-## **Close Combat Enhancer**
-
-_Combat • melee • kinetic • mSpace 2_
-
-A system designed to enhance close-quarters combat through optimized movement, impact timing, and force application.
-
----
-
-### **Impact Boost**
-
-- **Effect:** Your next melee attack deals +3 damage
-- **Load:** 2
-- **Action:** A
-- **Duration:** instant
-- **Range:** M
-
----
-
-### **Combat Flow**
-
-- **Effect:** Activate before an attack → on hit, you may move up to 5 m
-- **Load:** 1
-- **Action:** BA
-- **Duration:** 1 turn
-- **Notes:** Works with melee and ranged attacks
-
----
-
-### **Brutal Strike**
-
-- **Effect:** On hit, target gains +2 Stress
-- **Load:** 2
-- **Action:** A
-- **Duration:** instant
-- **Range:** M
+- First melee repetition penalty is ignored

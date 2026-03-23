@@ -1,180 +1,206 @@
-## **Adaptive Environment Layer**
 
-_Survival • environment • protection • mSpace 2_
+# 🧬 **Adaptive Life Support**
 
-A responsive bio-synthetic layer that adapts to extreme environmental conditions, reducing physical stress from heat, cold, and radiation.
-
----
-
-### **Thermal Regulation**
-
-- **Effect:** Ignore environmental heat or cold damage
-- **Load:** 1
-- **Action:** BA
-- **Duration:** 3 turns
+**Category:** Survival  
+**Type:** Bio / Regulatory  
+**Mod Space:** 3
 
 ---
 
-### **Radiation Buffer**
+## 🧠 Flavor
 
-- **Effect:** Reduce radiation exposure and related effects significantly
-- **Load:** 2
-- **Action:** BA
-- **Duration:** 3 turns
+Your body adapts to hostile environments in real time. Where others fail, you stabilize.
+## 🧠 Flavor
 
----
-
-### **Stress Dampening**
-
-- **Effect:** Reduce Stress by 1
-- **Load:** 1
-- **Action:** BA
-- **Duration:** instant
+Your body adapts to hostile environments in real time.  
+Where others fail, you stabilize.
 
 ---
 
----
-
-## **Metabolic Efficiency Core**
-
-_Survival • metabolism • endurance • mSpace 2_
-
-An internal system optimizing energy usage, hydration, and physical resilience during extended operations in hostile environments.
+## ⚙️ Abilities
 
 ---
 
-### **Resource Optimization**
+### ❤️ **Emergency Regeneration (Augmented Action)**
 
-- **Effect:** Drastically reduce food, water, and oxygen consumption
-- **Load:** 1
-- **Action:** BA
-- **Duration:** 1 hour
+- Restore **2d6 Health**
 
 ---
 
-### **Fatigue Suppression**
+### Conditions:
 
-- **Effect:** Ignore penalties from exhaustion, hunger, or dehydration
-- **Load:** 2
-- **Action:** BA
-- **Duration:** 10 minutes
+- can only be used when **below 50% Health**
 
 ---
 
-### **Last Reserve**
+### Limit:
 
-- **Effect:** Restore 1d6 HP (self only)
-- **Load:** 3
-- **Action:** A
-- **Duration:** instant
-- **Notes:** Can only be used once per 12 hours
+- **once per short rest
 
 ---
 
----
+### ⚠️ Cost
 
-## **Stealth Field Skin**
-
-_Survival • stealth • concealment • mSpace 3_
-
-A reactive surface layer that reduces visibility and minimizes detectable presence in hostile environments.
-
----
-
-### **Adaptive Camouflage**
-
-- **Effect:** Gain advantage on stealth rolls
-- **Load:** 2
-- **Action:** BA
-- **Duration:** 3 turns
-
----
-
-### **Thermal Masking**
-
-- **Effect:** Cannot be detected by heat-based sensors
-- **Load:** 1
-- **Action:** BA
-- **Duration:** 3 turns
-
----
-
-### **Active Noise Cancellation**
-
-- **Effect:** Suppress movement noise → advantage on stealth rolls involving sound
-- **Load:** 1
-- **Action:** BA
-- **Duration:** 3 turns
+→ **+2 Load**
 
 
 ---
 
-## **Perception Amplifier Suite**
+### 🌫️ **Environmental Shielding**
 
-_Survival • perception • sensor • mSpace 2_
+Activate to ignore (reasonable levels of, no running around on the sun side of mercury):
 
-A neural enhancement system improving sensory input, awareness, and environmental perception.
+- heat / cold
+- toxic atmosphere
+- radiation (basic level)
 
----
+### Duration:
 
-### **Heightened Senses**
+→ **3 turns**
 
-- **Effect:** Gain +2 on all perception rolls
-- **Load:** 1
-- **Action:** BA
-- **Duration:** 3 turns
+### ⚠️ Cost
 
----
+→ **+1 Load**
 
-### **Threat Detection**
-
-- **Effect:** Cannot be surprised
-- **Load:** 2
-- **Action:** BA
-- **Duration:** 2 turns
 
 ---
 
-### **Focus Sense**
+### 🌌 **Vacuum Tolerance**
 
-- **Effect:** Activate before a perception roll → roll with advantage
-- **Load:** 1
-- **Action:** R
-- **Duration:** instant
+- Survive in vacuum for **short duration (~2 turns)**
+- no immediate Wound / damage
+- slow controlled movements only!
+
+---
+👉 does NOT replace EVA gear  
+👉 emergency only
+
+---
+
+# 👻 **Active Camouflage System**
+
+**Category:** Survival + Operations  
+**Type:** Optical / Field  
+**Mod Space:** 3
+
+---
+
+## 🧠 Flavor
+
+You don’t hide—you simply **stop being seen**.
+
+---
+
+## ⚙️ Abilities
+
+---
+
+### 👻 **Active Camouflage (Augmented Action)**
+
+- Become **visually concealed**
+
+---
+### Effects:
+
+- enemies suffer **Complication** when targeting you
+- gain **Tactical Edge** on:
+    - stealth
+    - repositioning
+
+---
+### Duration:
+
+→ **2 turns**
+
+---
+### ⚠️ Cost
+
+→ **+2 Load**
+
+
+---
+
+### 🔁 **Ghost Movement**
+
+While active:
+
+- movement does **not break stealth** immediately
+
+---
+
+### 🎯 **Ambush Window**
+
+Breaking camouflage:
+
+👉 your next attack gains **Tactical Edge**
+
+---
+
+
+# 🧭 **Recon & Awareness Suite**
+
+**Category:** Survival  
+**Type:** Neural / Sensor  
+**Mod Space:** 2
+
+---
+
+## 🧠 Flavor
+
+You always know where you are—and what’s around you.
+
+---
+
+## ⚙️ Abilities
+
+---
+
+### 🔍 **Enhanced Perception**
+
+- Gain **Tactical Edge** on:
+    - perception
+    - detection
+    - awareness
 
 ---
 
 ---
 
-## **Hazard Response System**
+### 🧭 **Navigation Assist**
 
-_Survival • hazard • reflex • mSpace 2_
-
-A rapid-response system that reacts to environmental threats and sudden danger.
-
----
-
-### **Reactive Shielding**
-
-- **Effect:** Reduce environmental or hazard damage by 3
-- **Load:** 2
-- **Action:** R
-- **Duration:** instant
+- Cannot become:
+    - lost
+    - disoriented
 
 ---
 
-### **Emergency Adaptation**
-
-- **Effect:** Ignore effects of one environmental hazard for 1 turn
-- **Load:** 2
-- **Action:** BA
-- **Duration:** 1 turn
+- always know:
+    - direction
+    - relative position
 
 ---
 
-### **Instinctive Reaction**
+---
 
-- **Effect:** Immediately move 3 m to avoid danger
-- **Load:** 1
-- **Action:** R
-- **Duration:** instant
+### 📡 **Threat Scan (Augmented Action)**
+
+- Scan area within ~20–30 m
+
+---
+
+### Effects:
+
+- detect:
+    - hidden enemies
+    - movement
+    - anomalies
+
+---
+
+👉 targets cannot benefit from **full concealment**
+
+---
+
+### ⚠️ Cost
+
+→ **+1 Load**

@@ -1,97 +1,205 @@
-Character creation in SOL 2349 is based on a **fully open, point-based system**. Players begin with a neutral baseline and shape their character by investing Progress Points into attributes, skills, and base capabilities.
+# 🧬 **Character Creation**
 
-At this stage, character creation is intentionally simple and flexible, allowing players to define their role without predefined classes or restrictions.
+Character creation in _SOL 2349_ is based on a **fully open, point-based system**.
+
+Players begin from a neutral baseline and shape their character by investing **Progress Points** into attributes, skills, and core capabilities.
+
+There are no predefined classes—but choices in **attributes, skills, and implants** will naturally define a character’s role.
 
 ---
-## Starting Values
+## ⚙️ **Starting Values**
 
 All characters begin with the same baseline:
 
-### Attributes
+---
+### 🧠 **Attributes**
 
-All attributes start at 1
+All attributes start at **1**
 
 ---
-### Skills
+### 🎯 **Skills**
 
-All skills start at 0
+All skills start at **0**
 
 ---
-### Base Stats
+### ❤️ **Base Stats**
 
 |Stat|Base Value|
 |---|---|
-|Guard|0 (derived during play)|
+|Guard|0 (derived)|
 |Health|8|
-|Stress|5|
 |Load|5|
 |Wounds|3|
 |Mod Space|5|
 
-Guard is calculated dynamically based on attributes and equipment.
+---
+👉 Guard is calculated dynamically based on:
+
+- attributes
+- positioning
+- equipment
 
 ---
-## Genetic Modifications
 
-Characters may have a limited number of **genetic modifications (genemods)**.
+## 🧬 **Implant System (Core Identity)**
+
+Characters can integrate advanced augmentations—but only within strict limits.
+
+---
+### ⚙️ **Categories**
+
+Implants are grouped into **10 categories**:
+
+- Combat
+- Spacefaring
+- Physical
+- Survival
+- Medical
+- Engineering
+- Operations
+- Science
+- Social
+- Psychology
+
+---
+
+### 🔒 **Category Limit**
+
+A character may select:
+
+👉 **only 2 implant categories**
+
+---
+
+This represents:
+
+- neural specialization
+- training focus
+- system compatibility
+
+---
+
+### 🔀 **Hybrid Implants**
+
+Some implants combine **two categories**.
+
+👉 Example:
+
+- Combat + Engineering
+- Operations + Survival
+
+---
+
+Rules:
+
+- Hybrid implants **count as both categories**
+- They can only be used if both categories are selected
+- They are typically **more powerful or flexible**
+
+---
+
+### 🧠 **Design Impact**
+
+This system:
+
+- prevents “everything builds”
+- forces specialization
+- creates clear archetypes
+
+👉 without introducing classes
+
+---
+
+## 🔥 **Mod Space**
+
+Each implant requires **Mod Space**.
+
+- Base value: **5**
+- Can be increased through progression
+
+---
+
+👉 Players must choose:
+
+- fewer powerful systems
+- or more lightweight options
+
+---
+
+## 🧬 **Genetic Modifications**
+
+Characters may have **genetic modifications (genemods)**.
 
 - Maximum total: **3**
-    
 - At character creation: **up to 2**
-    
-
-Genemods provide passive benefits but often come with trade-offs and cannot be removed.
 
 ---
-## Spending Progress Points
+
+Genemods:
+
+- provide **passive effects**
+- often include **trade-offs**
+- cannot be removed
+
+---
+
+👉 Genemods are **not restricted by implant categories**
+
+---
+
+## 💰 **Progress Points**
 
 At character creation, players receive:
 
-50 Progress Points
+👉 **50 Progress Points**
 
-These can be freely allocated to:
+---
 
-- Skills
-    
+These can be allocated to:
+
 - Attributes
-    
-- Base stats
-    
+- Skills
+- Base Stats
+
+---
 
 Costs follow the standard progression system.
 
 ---
 
-## Result
+## 🎯 **Result**
 
 The result is a character defined by:
 
-- broad attributes
-    
+- core attributes
 - specialized skills
-    
-- chosen strengths and weaknesses
-    
-- optional augmentations
-    
-
-There are no fixed roles, but characters will naturally develop into archetypes such as pilots, engineers, agents, or combat specialists.
+- chosen implant categories
+- limited augmentation capacity
 
 ---
 
-## Disclaimer (Current State)
+There are no fixed roles—but characters will naturally develop into:
 
-Character creation is still in an **early design stage**.
+- pilots
+- engineers
+- agents
+- combat specialists
 
-The system is currently **not fully balanced** with:
+---
+
+## ⚠️ **Current State**
+
+Character creation is still in an **early design phase**.
+
+The system is not yet fully balanced with:
 
 - equipment
-    
-- augmentations
-    
 - implants
-    
+- augmentation scaling
 
-These elements will be integrated and balanced once the remaining core systems are finalized.
+---
 
-In addition, **starter packages** (e.g. background, origin, profession) will be added later to provide faster entry points and structured character options.
+Starter packages (backgrounds, professions, origins) may be added later to provide:
+
+- faster onboarding
+- structured entry points

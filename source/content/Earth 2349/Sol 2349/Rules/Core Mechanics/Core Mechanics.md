@@ -2,13 +2,15 @@ _SOL 2349_ is designed as a **hard science fiction roleplaying game grounded in 
 
 The mechanics are built around a **simple core resolution system using a d20**, allowing players to resolve most actions quickly while still supporting meaningful character specialization and progression. The goal is a system that feels **credible and immersive**, where equipment, environment and human capability matter, but where players can focus on **decisions, teamwork and storytelling rather than complex calculations**.
 
+At its core, the game uses a **flexible action economy** that allows characters to freely allocate their effort each round. Instead of rigid action types, players decide how aggressively or cautiously they act, balancing **efficiency, risk and system strain**. Repeated actions become less effective, while pushing beyond safe limits increases pressure on both equipment and the human body. This creates a dynamic flow where **every additional action is a meaningful choice**, reinforcing the tension and unpredictability of high-risk environments.
+
 - [[Dice System]]
 - [[Actions]]
 - [[Difficulty DC]]
 - [[Cover System and Modifications]]
 - [[Stress]]
 - [[Damage and Wounds]]
-- [[Rerolls and Advantage]]
+- [[Tactical Edge, Complication & Rerolls]]
 - [[Critical Hits and Damage Modifications]]
 - [[Implants and Load]]
 

@@ -1,15 +1,69 @@
-In SOL 2349, weapons are tools designed for very different environments—**pressurized habitats, spacecraft, and open vacuum**. The choice of weapon is not only a question of firepower, but also of **control, safety, and context**.
+I# 🔫 Weapons
 
-Military weapons are built for **maximum lethality and penetration**, often at the risk of damaging structures or causing decompression. Civilian and security-grade weapons prioritize **control and containment**, using reduced penetration or non-lethal effects.
+In _SOL 2349_, weapons are tools adapted to different environments:
 
-In close quarters—such as stations or ships—even small arms can become dangerous. A missed shot may hit more than just the intended target. As a result, many organizations enforce strict weapon policies, and “safe-rated” equipment is often preferred in sensitive environments.
+- pressurized habitats
+- spacecraft
+- open vacuum
 
-Weapons differ in more than damage:  
-**range, fire modes, recoil behavior, and special traits** all influence how they perform in combat.
+Weapon choice is not only about damage, but about:
+
+- **control**
+- **risk**
+- **environmental impact**
+
+In confined spaces, even small arms can be dangerous. Missed shots may cause collateral damage or structural failure. Many organizations therefore restrict weapon use or require **safe-rated equipment**.
 
 ---
 
-# Weapon Overview
+# ⚙️ Weapon Mechanics
+
+Weapons are defined by:
+
+- **Damage (d6-based)**
+- **Range**
+- **Fire Modes**
+- **Traits**
+
+Combat effectiveness depends on:
+
+- positioning
+- action economy
+- fire mode selection
+- situational control
+
+---
+
+## 🔁 Fire Modes
+
+Weapons may support:
+
+- **S** → Single Shot
+- **B** → Burst
+- **FA** → Full Auto
+
+Fire modes determine how a weapon behaves in combat and interact directly with the action system.
+
+---
+
+# 🧠 Weapon Traits
+
+|Trait|Effect|
+|---|---|
+|**AP X**|Reduces Armor by X|
+|**Safe**|Cannot cause structural damage or decompression|
+|**Non-lethal**|Does not deal Health damage, applies **Mental Condition +1** instead|
+|**Area**|Affects multiple targets|
+|**Energy**|Ignores certain physical limitations (GM discretion)|
+|**Assisted**|Ignores movement penalties or gains Edge vs moving targets|
+|**Silent**|No detectable sound signature|
+|**Spread**|Gains Edge at close range (≤10 m)|
+
+---
+
+# 🔫 Weapon Overview
+
+---
 
 ## Pistols & Sidearms
 
@@ -82,174 +136,101 @@ Weapons differ in more than damage:
 |Smoke Grenade|—|30 m|Area|
 |Tear Gas|—|30 m|Area, Non-lethal|
 |Plasma Grenade|5d6|30 m|Area, AP 1|
-# Weapon Descriptions & Costs 
 
 ---
 
-## Service Pistol
-
-**Cost:** 0.1–0.2 SOL  
-A reliable and widely available sidearm used by civilians, security personnel, and professionals alike.
+# ⚙️ Special Rules
 
 ---
 
-## Smart Pistol
+## 💨 Area Attacks
 
-**Cost:** 0.3–0.5 SOL  
-Equipped with targeting assistance, improving accuracy against moving targets.
+Area attacks:
 
----
-
-## Silenced Pistol
-
-**Cost:** 0.3–0.4 SOL  
-Designed for stealth operations with reduced noise and signature.
+- affect multiple targets
+- targets in full cover are unaffected
+- deal **−1 damage die**
 
 ---
 
-## Riot Sidearm
+## 🧠 Non-lethal Effects
 
-**Cost:** 0.1–0.3 SOL  
-Non-lethal weapon for crowd control. Causes stress instead of physical damage.
+Non-lethal weapons:
 
----
-
-## Assault Rifle
-
-**Cost:** 0.5–0.8 SOL  
-Standard military rifle, versatile and reliable.
+- do not deal Health damage
+- instead apply **Mental Condition +1**
+- may stack up to maximum condition level
 
 ---
 
-## Compact Carbine
+## 🌫️ Environmental Effects
 
-**Cost:** 0.4–0.6 SOL  
-Optimized for close-quarters environments.
+Some weapons create lasting effects:
 
----
-
-## Laser Rifle
-
-**Cost:** 4–6 SOL  
-Advanced energy weapon with high precision and no recoil.
+- Smoke → applies **Complication** in the area
+- Tear Gas → applies **Mental Condition +1 per turn (max 3)**
+- EMP → disables systems or applies Complication
 
 ---
 
-## Marksman Rifle
-
-**Cost:** 0.6–1.0 SOL  
-Precision semi-automatic rifle for longer ranges.
+# 💰 Weapon Costs
 
 ---
 
-## Sniper Rifle
+## Pistols & Sidearms
 
-**Cost:** 5–10 SOL  
-High-powered long-range weapon with strong impact.
-
----
-
-## Rail Sniper
-
-**Cost:** 12–25 SOL  
-Advanced magnetic weapon with extreme penetration, rare and restricted.
+- Service Pistol → 0.1–0.2 SOL
+- Smart Pistol → 0.3–0.5 SOL
+- Silenced Pistol → 0.3–0.4 SOL
+- Riot Sidearm → 0.1–0.3 SOL
 
 ---
 
-## LMG
+## Rifles
 
-**Cost:** 1.2–2.0 SOL  
-Heavy weapon for suppression and sustained fire.
-
----
-
-## Grenade Launcher
-
-**Cost:** 1.0–1.5 SOL  
-Fires explosive rounds for area control.
+- Assault Rifle → 0.5–0.8 SOL
+- Compact Carbine → 0.4–0.6 SOL
+- Laser Rifle → 4–6 SOL
+- Marksman Rifle → 0.6–1.0 SOL
 
 ---
 
-## Rocket Launcher
+## Precision Weapons
 
-**Cost:** 10–20 SOL  
-Heavy anti-armor weapon with extreme destructive power.
-
----
-
-## Boarding Shotgun
-
-**Cost:** 0.4–0.7 SOL  
-Close-range weapon designed for ship combat with reduced penetration.
+- Sniper Rifle → 5–10 SOL
+- Rail Sniper → 12–25 SOL
 
 ---
 
-## Combat Knife
+## Heavy Weapons
 
-**Cost:** 0.02–0.05 SOL  
-Simple and widely available melee weapon.
-
----
-
-## Shock Baton
-
-**Cost:** 0.1–0.2 SOL  
-Non-lethal melee weapon delivering electrical shock.
+- LMG → 1.2–2.0 SOL
+- Grenade Launcher → 1.0–1.5 SOL
+- Rocket Launcher → 10–20 SOL
 
 ---
 
-## Monoblade
+## Close Combat
 
-**Cost:** 3–6 SOL  
-High-tech blade capable of cutting through armor.
-
----
-
-## Plasma Cutter
-
-**Cost:** 0.5–1.0 SOL  
-Industrial tool repurposed as a weapon, extremely dangerous at close range.
+- Boarding Shotgun → 0.4–0.7 SOL
+- Combat Knife → 0.02–0.05 SOL
+- Shock Baton → 0.1–0.2 SOL
+- Monoblade → 3–6 SOL
 
 ---
 
-## Arc Welder
+## Industrial
 
-**Cost:** 0.2–0.5 SOL  
-Tool capable of causing severe burns in close combat.
-
----
-
-## Heavy Tool
-
-**Cost:** negligible  
-Improvised weapon such as a wrench or crowbar.
+- Plasma Cutter → 0.5–1.0 SOL
+- Arc Welder → 0.2–0.5 SOL
+- Heavy Tool → negligible
 
 ---
 
-## Frag Grenade
+## Grenades
 
-**Cost:** 0.1–0.2 SOL
-
----
-
-## Stun Grenade
-
-**Cost:** 0.1–0.3 SOL
-
----
-
-## Smoke Grenade
-
-**Cost:** 0.05–0.1 SOL
-
----
-
-## Tear Gas
-
-**Cost:** 0.1–0.2 SOL
-
----
-
-## Plasma Grenade
-
-**Cost:** 2–5 SOL
+- Frag → 0.1–0.2 SOL
+- Stun → 0.1–0.3 SOL
+- Smoke → 0.05–0.1 SOL
+- Tear Gas → 0.1–0.2 SOL
+- Plasma → 2–5 SOL

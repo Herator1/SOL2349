@@ -1,121 +1,179 @@
-Skills represent a character’s **training and applied expertise**. Each skill is linked to an attribute and defines how effectively a character can perform specific tasks.
-
-The total bonus for any skill test is always the sum of: Attribute + Skill
-
-This means that attributes provide a broad foundation, while skills represent specific training. Both are equally important in determining success. Each attribute governs two categories, with three skills each, for a total of **30 skills**.
+Skills represent a character’s **training and applied expertise**.  
+They define how effectively a character can perform specific actions under pressure.
 
 ---
-# Reflexes
+## ⚙️ **Skill Tests**
 
-## Combat
+The total bonus for any test is: 👉 **Attribute + Skill**
+
+- Attributes provide **broad capability**
+- Skills represent **focused training**
+Both are equally important.
+
+---
+## 🧠 **When Skills Matter**
+
+Skills are most relevant when:
+
+- actions are performed under pressure
+- timing and precision matter
+- failure has meaningful consequences
+
+👉 Routine actions succeed without a roll.
+
+---
+## ⚖️ **Interaction with the System**
+
+Skills interact directly with:
+- **Action Economy** (multiple actions reduce effectiveness)
+- **Tactical Edge / Complication** (situational modifiers)
+- **Load & Mental Conditions** (performance under strain)
+
+👉 A highly skilled character is not always effective—  
+**conditions and decisions matter just as much.**
+
+---
+## 🧩 **Skill Structure**
+
+Each attribute governs **two categories**, with **three skills each**:
+👉 Total: **30 skills**
+
+---
+# ⚡ **Reflexes**
+
+---
+## 🔫 Combat
 
 |Skill|Description|Example Uses|
 |---|---|---|
-|**Melee**|Close combat using fists or melee weapons|Unarmed combat, knife fighting, grappling|
-|**Firearms**|Use of standard ranged weapons|Pistols, rifles, aimed shots|
-|**Ordnance**|Use of heavy and explosive weapons|Grenades, rocket launchers, breaching charges|
+|**Melee**|Close combat using fists or melee weapons|Unarmed combat, grappling|
+|**Firearms**|Use of ranged weapons|Pistols, rifles, aimed fire|
+|**Ordnance**|Heavy and explosive weapons|Grenades, breaching charges|
 
 ---
-
-## Spacefaring
+## 🚀 Spacefaring
 
 |Skill|Description|Example Uses|
 |---|---|---|
-|**Piloting**|Manual control of spacecraft and vehicles|Docking, evasive maneuvers, landing|
-|**Gunnery**|Operation of ship-mounted weapons|Targeting, firing turrets, tracking targets|
-|**EVA**|Movement and operation outside spacecraft|Maneuvering in vacuum, external repairs|
+|**Piloting**|Manual control of vehicles|Docking, evasive maneuvers|
+|**Gunnery**|Operation of ship weapons|Targeting, tracking|
+|**EVA**|Movement in vacuum|Zero-G maneuvering, external repair|
 
 ---
 
-# Fitness
+# 💪 **Fitness**
 
-## Physical
+---
+## 🏃 Physical
 
 |Skill|Description|Example Uses|
 |---|---|---|
-|**Low G Movement**|Movement in low or zero gravity environments|Navigating stations, combat in low gravity|
-|**Athletics**|General physical ability and movement|Climbing, sprinting, jumping|
-|**Endurance**|Sustained physical effort and resistance|Long exertion, resisting fatigue, holding position|
+|**Low-G Movement**|Movement in altered gravity|Station combat, EVA transitions|
+|**Athletics**|General physical ability|Climbing, sprinting|
+|**Endurance**|Sustained effort|Fatigue resistance, holding position|
 
 ---
-
-## Survival
+## 🌌 Survival
 
 |Skill|Description|Example Uses|
 |---|---|---|
-|**Stealth**|Moving without being detected|Sneaking, avoiding sensors, silent movement|
-|**Perception**|Noticing details and threats|Spotting enemies, detecting anomalies|
-|**Navigation**|Orientation and route planning|Finding paths, navigating unfamiliar areas|
+|**Stealth**|Avoid detection|Silent movement, evasion|
+|**Perception**|Detect threats|Spotting enemies, anomalies|
+|**Navigation**|Orientation|Pathfinding, route planning|
 
 ---
+# 🎯 **Coordination**
 
-# Coordination
-
-## Engineering
+---
+## ⚙️ Engineering
 
 |Skill|Description|Example Uses|
 |---|---|---|
-|**Mechanics**|Mechanical systems and structures|Repairing machines, fixing engines|
-|**Electronics**|Electronic systems and circuitry|Sensors, devices, signal systems|
-|**Robotics**|Operation and control of drones and robots|Controlling drones, remote operations|
+|**Mechanics**|Mechanical systems|Repairs, structural fixes|
+|**Electronics**|Circuits and devices|Sensors, signal systems|
+|**Robotics**|Drones and automation|Remote control, deployment|
 
 ---
 
-## Medicine
+## 🏥 Medicine
 
 |Skill|Description|Example Uses|
 |---|---|---|
-|**Trauma**|Immediate medical care|Stabilizing injuries, first aid|
-|**Surgery**|Advanced medical procedures|Operations, internal repair|
-|**Cybernetics**|Installation and maintenance of implants|Installing mods, repairing augmentations|
+|**Trauma**|Emergency care|Stabilization, first aid|
+|**Surgery**|Advanced procedures|Internal repair|
+|**Cybernetics**|Implant systems|Installation, maintenance|
 
 ---
 
-# Intellect
+# 🧠 **Intellect**
 
-## Science
+---
+
+## 🔬 Science
 
 |Skill|Description|Example Uses|
 |---|---|---|
-|**Physics**|Physical systems and energy|Reactors, propulsion, structural forces|
-|**Biology**|Living systems and organisms|Alien life, human physiology|
-|**Analysis**|Data interpretation and pattern recognition|Sensor data, anomaly detection|
+|**Physics**|Energy and systems|Reactors, propulsion|
+|**Biology**|Living systems|Physiology, alien life|
+|**Analysis**|Data interpretation|Sensors, anomalies|
 
 ---
 
-## Operations
+## 🖥️ Operations
 
 |Skill|Description|Example Uses|
 |---|---|---|
-|**Systems**|Operation of complex systems|Ship systems, infrastructure control|
-|**Hacking**|Intrusion and system manipulation|Bypassing security, accessing networks|
-|**Security**|Defensive systems and protocols|Lockdown systems, counter-intrusion|
+|**Systems**|Complex system control|Infrastructure, ship ops|
+|**Hacking**|Intrusion|Bypassing security|
+|**Security**|Defensive systems|Countermeasures, lockdown|
 
 ---
 
-# Presence
+# 🗣️ **Presence**
 
-## Social
+---
+
+## 🤝 Social
 
 |Skill|Description|Example Uses|
 |---|---|---|
-|**Persuasion**|Convincing others through reasoning|Negotiation, diplomacy|
-|**Command**|Giving orders and coordinating others|Leading teams, issuing commands|
-|**Deception**|Misleading or lying|Bluffing, disguising intent|
+|**Persuasion**|Convincing others|Negotiation|
+|**Command**|Coordinating others|Tactical orders|
+|**Deception**|Misleading others|Bluffing|
 
 ---
 
-## Psychology
+## 🧠 Psychology
 
 |Skill|Description|Example Uses|
 |---|---|---|
-|**Intimidation**|Applying pressure or fear|Threats, coercion|
-|**Stress Control**|Managing mental strain|Resisting panic, staying focused|
-|**Insight**|Understanding others’ intentions|Reading behavior, detecting lies|
+|**Intimidation**|Applying pressure|Threats, coercion|
+|**Stress Control**|Maintaining focus|Resisting mental strain|
+|**Insight**|Reading others|Detecting intent|
 
 ---
 
-# Summary
+## 🔗 **Psychology & Mental System**
 
-Skills define **what a character can do in practice**, while attributes define their underlying capability.  
-Together, they determine the outcome of most actions in SOL 2349.
+Psychology skills interact directly with **Mental Conditions**:
+
+- **Stress Control** → resist or reduce mental penalties
+- **Insight** → detect instability or weakness
+- **Intimidation** → apply psychological pressure
+
+---
+
+👉 Psychological pressure is a **valid combat tool**, not just roleplay
+
+---
+
+# 🎯 **Summary**
+
+Skills define **what a character can do in practice**, while attributes define their underlying capability.
+
+Together, they determine performance—but success also depends on:
+
+- positioning
+- timing
+- resource management
+- and risk

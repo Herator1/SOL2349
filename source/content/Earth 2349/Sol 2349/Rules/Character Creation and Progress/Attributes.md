@@ -1,73 +1,131 @@
-Attributes represent a character’s **natural aptitude and core capabilities**. They provide the foundation for all skill use and influence key aspects of survivability and performance.
+A# 🧬 **Attributes**
 
-Each attribute affects **two skill categories**, meaning that increasing an attribute improves a wide range of related actions. Attributes are broad by design, keeping the system simple while still allowing meaningful specialization.
+Attributes represent a character’s **natural aptitude and core capabilities**.  
+They define how effectively a character can act under pressure, adapt to changing situations, and perform across different domains.
 
----
-## Reflexes
-
-Reflexes measure **reaction speed, coordination in motion, and combat responsiveness**—the ability to act before others even realize what is happening. In a firefight or during high-speed maneuvering, fractions of a second decide outcomes.
-
-They are used for:
-
-- Combat skills (aiming, shooting, melee reactions)
-    
-- Spacefaring tasks (piloting, gunnery, EVA maneuvering)
-    
-
-Reflexes also contribute to **Guard**, representing a character’s ability to avoid or mitigate incoming damage.
+Each attribute supports **multiple skill categories**, allowing broad competence while still enabling specialization through skills.
 
 ---
-## Fitness
 
-Fitness represents **physical condition, endurance, and resilience**—not just strength, but the ability to keep going when the body is under stress. Whether in vacuum, low gravity, or extreme environments, Fitness determines how long a character can endure.
+## ⚙️ **Role in the System**
 
-It is used for:
+Attributes are used to:
+
+- modify **Action Tests**
+- influence **combat effectiveness and survivability**
+- determine how well a character performs under **time pressure and stress**
+
+👉 Attributes matter most when actions are taken under pressure—when timing, positioning, and risk become critical.
+
+---
+
+## ⚡ **Reflexes**
+
+Reflexes measure **reaction speed, coordination in motion, and combat responsiveness**.
+
+They determine how quickly and effectively a character can act in dynamic situations.
+
+---
+
+### Used for:
+
+- Combat (attacks, targeting, reaction speed)
+- Spacefaring (piloting, gunnery, EVA maneuvering)
+
+---
+
+### System Impact:
+
+- contributes to **Guard**
+- improves performance in **Reactive Actions**
+- critical for acting under pressure
+
+---
+
+## 💪 **Fitness**
+
+Fitness represents **physical condition, endurance, and resilience**.
+
+It determines how well a character withstands strain and continues functioning under extreme conditions.
+
+---
+
+### Used for:
 
 - Physical activity (movement, strength, stamina)
-    
-- Survival (stealth, navigation, environmental resistance)
-    
-
-Fitness directly affects **Health** and contributes to **Guard**, making it critical for staying alive in dangerous situations.
+- Survival (environmental resistance, navigation, stealth)
 
 ---
-## Coordination
 
-Coordination reflects **precision, fine motor control, and technical handling**—steady hands and exact movements that allow a character to work with complex systems, delicate tools, or fragile components.
+### System Impact:
 
-It is used for:
+- determines **Health**
+- contributes to **Guard**
+- improves resistance to environmental hazards
+
+---
+
+## 🎯 **Coordination**
+
+Coordination reflects **precision, fine motor control, and technical execution**.
+
+It governs a character’s ability to manipulate systems and perform delicate actions under pressure.
+
+---
+
+### Used for:
 
 - Engineering (mechanics, electronics, robotics)
-    
 - Medicine (surgery, trauma care, cybernetics)
-    
-
-Coordination determines how effectively a character can **manipulate systems, tools, and equipment** under pressure.
 
 ---
-## Intellect
 
-Intellect represents **analytical thinking, technical understanding, and problem-solving ability**—the capacity to interpret complex systems, recognize patterns, and make informed decisions in unfamiliar situations.
+### System Impact:
 
-It is used for:
-
-- Scientific knowledge (physics, biology, analysis)
-    
-- Operational systems (hacking, security, system control)
-    
-
-Intellect governs how well a character can **understand, predict, and exploit technological and scientific systems**.
+- improves reliability of **technical and medical actions**
+- important for **equipment interaction under stress**
 
 ---
-## Presence
 
-Presence reflects **social ability, confidence, and psychological influence**—the capacity to command attention, apply pressure, or remain composed when others lose control.
+## 🧠 **Intellect**
 
-It is used for:
+Intellect represents **analysis, technical understanding, and problem-solving**.
+
+It determines how well a character can interpret systems, anticipate outcomes, and exploit opportunities.
+
+---
+
+### Used for:
+
+- Science (analysis, research, diagnostics)
+- Operations (hacking, system control, security)
+
+---
+
+### System Impact:
+
+- improves efficiency in **complex or multi-step actions**
+- critical for interacting with **advanced systems**
+
+---
+
+## 🗣️ **Presence**
+
+Presence reflects **social ability, psychological control, and influence**.
+
+It governs how a character affects others—and how well they maintain composure under pressure.
+
+---
+
+### Used for:
 
 - Social interaction (persuasion, deception, leadership)
-    
-- Psychological skills (intimidation, stress control, insight)
-    
+- Psychology (insight, stabilization, pressure)
 
-Presence determines how a character **affects others—and resists being influenced in return**.
+---
+
+### System Impact:
+
+- improves **mental stability and recovery**
+- enables influence over other characters
+- supports **Psychological Support actions**

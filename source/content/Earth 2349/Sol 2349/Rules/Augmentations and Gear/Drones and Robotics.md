@@ -1,212 +1,102 @@
-Drones and robotic systems are **remote-operated or semi-autonomous units** used for scouting, repair, combat support, and hazardous operations.
-
-Most drones require:
-
-• Robotics skill to operate  
-• 1 Action per turn to control
-
-Without active control, drones either:
-
-- remain idle
-- follow simple last command (GM discretion)
+Drones are **remote-operated or semi-autonomous systems** that extend a character’s reach into combat, hazardous environments, and technical operations.  
+They are not independent characters, but **tools with agency**.
 
 ---
-# Drone Overview
+## ⚙️ Core Concept
 
-|Drone|Type|HP|Guard|Traits|Notes|
+**Modes:**
+- 🎮 **Direct Control** → uses your **Actions**
+- 🔁 **Autonomous Mode** → follows **simple commands**, limited effectiveness
+
+### 🎮 Direct Control
+
+- Spend **1 Action** → drone performs **1 meaningful action**
+- Uses your **Robotics skill**
+- Counts toward your **action economy decisions**
+- Does **NOT use DR tracks** (no attack penalty scaling)
+
+**Examples:** attack, scan, repair, reposition
+
+---
+### 🔁 Autonomous Mode
+
+If not controlled, drone performs simple behavior:
+
+- hold position
+- follow target
+- continue last non-complex task
+
+**Limitations:**
+
+- no attacks
+- no complex actions
+- no tactical decisions
+
+👉 Autonomous = utility, not combat
+
+---
+
+## 📊 Drone Overview
+
+|Drone|Role|HP|Guard|Traits|Notes|
 |---|---|---|---|---|---|
-|Micro Drone|Scout|4|1|Silent, Sensor|Small, stealth|
+|Micro Drone|Scout|4|1|Silent, Sensor|Stealth recon|
 |Survey Drone|Recon|6|1|Sensor, Analysis|Mapping|
 |Utility Drone|Support|8|2|Carry, Tool Use|General tasks|
-|Repair Bot|Engineering|10|2|Repair, Radiation Resist|Reactor work|
-|EVA Drone|Space Ops|8|2|EVA, Thrusters|Vacuum capable|
-|Combat Drone (Light)|Combat|8|2|Weapon Mount|Requires control|
-|Combat Drone (Heavy)|Combat|12|3|Weapon Mount, Armor|Military|
-|Shield Drone|Support|6|2|Guard Boost|Defensive|
-|EVA Jetpack|Mobility|—|—|EVA, Thrusters|Worn equipment|
+|Repair Bot|Engineering|10|2|Repair, Hazard Resist|Sustained repair|
+|EVA Drone|Space Ops|8|2|EVA, Thrusters|Vacuum ops|
+|Combat Drone (Light)|Combat|8|2|Weapon Mount|Mobile fire support|
+|Combat Drone (Heavy)|Combat|12|3|Weapon Mount, Armor|Military unit|
+|Shield Drone|Support|6|2|Guard Projector|Defensive support|
 
 ---
-# Drone Rules
+## ⚠️ General Rules
 
-• Drones use operator’s Robotics skill  
-• Controlling a drone = 1 Action  
-• Drones act on the operator’s turn  
-• Drones can be targeted and destroyed
+- Drones can be **targeted, damaged, destroyed**
+- Damage flow: **Guard → HP → destroyed**
+- Drones do **not take Wounds**
 
----
+## 🔧 Drone Actions
 
-# Individual Units
-
----
-
-## Micro Drone
-
-**Cost:** 0.2–0.5 SOL  
-**HP:** 4  
-**Guard:** 1
-
-Small surveillance drone used for stealth and reconnaissance.
-
-- Very hard to detect
-- Minimal durability
-
-**Use:**
-
-- scouting
-- surveillance
-- following targets
+- 🔫 **Attack** → requires Direct Control, uses Robotics
+- 🔍 **Scan** → detect enemies, anomalies, signals
+- 🔧 **Repair** → restore systems, structures, limited HP
+- 🏃 **Reposition** → move drone
+- 🛡️ **Support (Shield Drone)** → **+2 Guard (1×/turn)**
 
 ---
+## 🤖 Individual Units
 
-## Survey Drone
+**Micro Drone** (0.2–0.5 SOL, HP 4 / Guard 1)
 
-**Cost:** 0.5–1.0 SOL  
-**HP:** 6  
-**Guard:** 1
+- stealth surveillance, hard to detect
 
-Designed for environmental scanning and mapping.
+**Survey Drone** (0.5–1.0 SOL, HP 6 / Guard 1)
 
-**Capabilities:**
+- mapping, anomaly detection
 
-- terrain mapping
-- anomaly detection
-- sensor analysis
+**Utility Drone** (0.5–1.5 SOL, HP 8 / Guard 2)
 
----
+- tools, transport, assistance
 
-## Utility Drone
+**Repair Bot** (1–3 SOL, HP 10 / Guard 2)
 
-**Cost:** 0.5–1.5 SOL  
-**HP:** 8  
-**Guard:** 2
+- continuous repair, hazard resistant
 
-General-purpose support drone.
+**EVA Drone** (1–2 SOL, HP 8 / Guard 2)
 
-**Capabilities:**
+- vacuum capable, thruster movement
 
-- carry equipment
-- assist tasks
-- operate simple tools
+**Combat Drone (Light)** (2–5 SOL, HP 8 / Guard 2)
 
----
+- ranged attack, mobile support
 
-## Repair Bot
+**Combat Drone (Heavy)** (5–10 SOL, HP 12 / Guard 3)
 
-**Cost:** 1–3 SOL  
-**HP:** 10  
-**Guard:** 2
+- heavy weapons, sustained fire
+- slow movement
 
-Specialized unit for maintaining critical infrastructure.
+**Shield Drone** (2–4 SOL, HP 6 / Guard 2)
 
-**Traits:**
-
-- Radiation resistant
-- Works in hazardous environments
-
-**Capabilities:**
-
-- repair systems (incl. reactors)
-- stabilize damaged structures
-- continuous repair over time
-
----
-
-## EVA Drone
-
-**Cost:** 1–2 SOL  
-**HP:** 8  
-**Guard:** 2
-
-Designed for vacuum operations.
-
-**Traits:**
-
-- EVA capable
-- thruster movement
-
-**Use:**
-
-- hull inspection
-- external repair
-- retrieval tasks
-
----
-
-## Combat Drone (Light)
-
-**Cost:** 2–5 SOL  
-**HP:** 8  
-**Guard:** 2
-
-Light combat drone.
-
-**Notes:**
-
-- requires active control
-- low durability
-
-**Capabilities:**
-
-- uses mounted small arms
-- mobile fire support
-
----
-
-## Combat Drone (Heavy)
-
-**Cost:** 5–10 SOL  
-**HP:** 12  
-**Guard:** 3
-
-Military-grade drone.
-
-**Traits:**
-
-- armored
-- high firepower
-
-**Capabilities:**
-
-- sustained combat support
-- heavier weapon systems
-
----
-
-## Shield Drone
-
-**Cost:** 2–4 SOL  
-**HP:** 6  
-**Guard:** 2
-
-Support-focused defensive drone.
-
-**Capabilities:**
-
-- grant **+2 Guard** to one target
-- defensive positioning
-- limited protection effects
-
----
-
-## EVA Jetpack
-
-**Cost:** 0.5–1.5 SOL
-
-Personal mobility system for vacuum operations.
-
-**Effect:**
-
-- enables controlled movement in zero-G
-- allows free 3D repositioning
-
----
-
-# Summary
-
-Drones are **specialized tools that extend a character’s reach** into dangerous or inaccessible environments.
-
-They are powerful—but require:
-
-- **attention (actions)**
-- **skill (Robotics)**
-- and are **vulnerable to damage**
+- **+2 Guard to one target (1×/turn)**
+- requires line of sight

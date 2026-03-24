@@ -1,206 +1,47 @@
+## 🧬 Adaptive Life Support
 
-# 🧬 **Adaptive Life Support**
+**Cat:** Survival | **Type:** Bio / Regulatory | **mSpace:** 3
 
-**Category:** Survival  
-**Type:** Bio / Regulatory  
-**Mod Space:** 3
+**Flavor:** You stabilize where others fail.
 
----
+**Emergency Regeneration (Aug):** 2d6 Health, only <50% HP on self, 1× per Short Rest → **+2 Load**
 
-## 🧠 Flavor
+**Environmental Shielding:** ignore heat/cold, toxins, basic radiation (3 turns) → **+1 Load**
 
-Your body adapts to hostile environments in real time. Where others fail, you stabilize.
-## 🧠 Flavor
+**Vacuum Tolerance:** survive vacuum 2 turns, slow movement, no radiation protection; emergency only (no EVA replacement)
 
-Your body adapts to hostile environments in real time.  
-Where others fail, you stabilize.
+**Role:** survivability
 
 ---
 
-## ⚙️ Abilities
+## 👻 Active Camouflage System
+
+**Cat:** Survival + Operations | **Type:** Optical / Field | **mSpace:** 3
+
+**Flavor:** You stop being perceived.
+
+**Active Camouflage (Aug):** concealed; enemies suffer Complication; gain Tactical Edge on stealth & reposition (2 turns) → **+2 Load**
+
+**Active Noise Suppression:** suppress movement/gear noise; detection requires LoS or sensors
+
+**Ghost Movement:** movement does not immediately break concealment
+
+**Ambush Window:** breaking stealth → next attack gains Tactical Edge
+
+**Role:** stealth / positioning
 
 ---
 
-### ❤️ **Emergency Regeneration (Augmented Action)**
+## 🧭 Recon & Awareness Suite
 
-- Restore **2d6 Health**
+**Cat:** Survival | **Type:** Neural / Sensor | **mSpace:** 2
 
----
+**Flavor:** You always know what’s around you.
 
-### Conditions:
+**Enhanced Perception:** Tactical Edge on perception, detection, navigation
 
-- can only be used when **below 50% Health**
+**Navigation Assist:** cannot get lost; know direction & relative position (not in deep space)
 
----
+**Threat Scan (Active):** scan ~20–30 m → detect hidden enemies, movement, anomalies; negates full concealment → **+1 Load**
 
-### Limit:
-
-- **once per short rest
-
----
-
-### ⚠️ Cost
-
-→ **+2 Load**
-
-
----
-
-### 🌫️ **Environmental Shielding**
-
-Activate to ignore (reasonable levels of, no running around on the sun side of mercury):
-
-- heat / cold
-- toxic atmosphere
-- radiation (basic level)
-
-### Duration:
-
-→ **3 turns**
-
-### ⚠️ Cost
-
-→ **+1 Load**
-
-
----
-
-### 🌌 **Vacuum Tolerance**
-
-- Survive in vacuum for **short duration (~2 turns)**
-- no immediate Wound / damage
-- slow controlled movements only!
-
----
-👉 does NOT replace EVA gear  
-👉 emergency only
-
----
-
-# 👻 **Active Camouflage System**
-
-**Category:** Survival + Operations  
-**Type:** Optical / Field  
-**Mod Space:** 3
-
----
-
-## 🧠 Flavor
-
-You don’t hide—you simply **stop being seen**.
-
----
-
-## ⚙️ Abilities
-
----
-
-### 👻 **Active Camouflage (Augmented Action)**
-
-- Become **visually concealed**
-
----
-### Effects:
-
-- enemies suffer **Complication** when targeting you
-- gain **Tactical Edge** on:
-    - stealth
-    - repositioning
-
----
-### Duration:
-
-→ **2 turns**
-
----
-### ⚠️ Cost
-
-→ **+2 Load**
-
-
----
-
-### 🔁 **Ghost Movement**
-
-While active:
-
-- movement does **not break stealth** immediately
-
----
-
-### 🎯 **Ambush Window**
-
-Breaking camouflage:
-
-👉 your next attack gains **Tactical Edge**
-
----
-
-
-# 🧭 **Recon & Awareness Suite**
-
-**Category:** Survival  
-**Type:** Neural / Sensor  
-**Mod Space:** 2
-
----
-
-## 🧠 Flavor
-
-You always know where you are—and what’s around you.
-
----
-
-## ⚙️ Abilities
-
----
-
-### 🔍 **Enhanced Perception**
-
-- Gain **Tactical Edge** on:
-    - perception
-    - detection
-    - awareness
-
----
-
----
-
-### 🧭 **Navigation Assist**
-
-- Cannot become:
-    - lost
-    - disoriented
-
----
-
-- always know:
-    - direction
-    - relative position
-
----
-
----
-
-### 📡 **Threat Scan (Augmented Action)**
-
-- Scan area within ~20–30 m
-
----
-
-### Effects:
-
-- detect:
-    - hidden enemies
-    - movement
-    - anomalies
-
----
-
-👉 targets cannot benefit from **full concealment**
-
----
-
-### ⚠️ Cost
-
-→ **+1 Load**
+**Role:** intel / exploration

@@ -1,189 +1,137 @@
-## **Nanomedical Interface**
+## 🧬 **Nanomedical Core (Advanced)**
 
-_Medicine • nano • medical • mSpace 3_
+**Cat:** Medicine | **Type:** Nano / Internal | **mSpace:** 3
 
-A controlled nanomedical system capable of stabilizing injuries and accelerating tissue repair in critical situations.
+**Flavor:** Autonomous nanites stabilize, repair, and rebuild tissue in critical situations.
 
----
+**Emergency Reconstruction (Aug):** Restore **3d6 Health** → **+2 Load**  
+_Limit:_ **1× per Full Rest**, cannot be used above 50% Health
 
-### **Tissue Restoration**
+**Stabilize Critical (Active):** Target at 0 HP or dying becomes **stable**, no further death progression → **+1 Load**
 
-- **Effect:** Restore 2d6 HP
-- **Load:** 3
-- **Action:** A
-- **Duration:** instant
-- **Range:** M
-- **Notes:** Cannot be used on the same target again for 12 hours
+**Wound Repair (Long Action):** Remove **1 Wound** → **+2 Load**  
+_Limit:_ **1× per Full Rest**, requires proper conditions
 
----
+**Medical Scan:** Gain **Tactical Edge** on diagnosis, trauma assessment
 
-### **Stabilize Patient**
+**Notes:**
 
-- **Effect:** Target is stabilized and cannot worsen
-- **Load:** 2
-- **Action:** A
-- **Duration:** instant
-- **Range:** M
+- healing effects from this implant **do not stack** with other major healing sources in the same encounter
+- prioritizes survivability over sustained healing
+
+**Role:** high-end field medic
 
 ---
 
-### **Nanomedical Scan**
+## 🩹 **Field Medical System (Standard)**
 
-- **Effect:** Gain +2 on all medical rolls on the target
-- **Load:** 1
-- **Action:** BA
-- **Duration:** 3 turns
-- **Range:** 5 m
+**Cat:** Medicine | **Type:** Bio / Support | **mSpace:** 2
 
----
+**Flavor:** Compact medical systems designed for stabilization and sustained field care.
 
----
+**Rapid Treatment (Aug):** Restore **2d6 Health** → **+2 Load**  
+_Limit:_ **1× per Short Rest**, cannot stack with other healing in same encounter
 
-## **Trauma Control System**
+**Stabilize Patient (Active):** Remove dying state, target can act next turn → **+1 Load**
 
-_Medicine • trauma • emergency • mSpace 2_
+**Condition Treatment:** Remove:
 
-A rapid-response system designed to prevent physiological collapse and manage critical injuries in the field.
+- bleeding
+- shock
+- basic impairments  
+    → **+1 Load**
 
----
+**Trauma Support:** Gain **Tactical Edge** on:
 
-### **Hemostasis Burst**
+- Trauma
+- emergency treatment
 
-- **Effect:** Reduce incoming damage by 3
-- **Load:** 2
-- **Action:** R
-- **Duration:** instant
+**Role:** reliable combat medic
 
 ---
 
-### **Shock Stabilization**
+## 🧠 **Medical Assistant AI**
 
-- **Effect:** Target ignores wound penalties for 1 turn
-- **Load:** 2
-- **Action:** BA
-- **Duration:** 1 turn
-- **Range:** M
+**Cat:** Medicine | **Type:** Neural / Support | **mSpace:** 1
+
+**Flavor:** A predictive AI that guides medical procedures in real time.
+
+**Cognitive Assistance (Passive):**  
+Gain **Tactical Edge** on:
+
+- Trauma
+- Surgery
+- Cybernetics
+
+**Procedure Optimization:**  
+Once per turn, reduce **Load cost of a medical ability by 1** (min 1)
+
+**Predictive Analysis:**  
+Gain **Tactical Edge** when:
+
+- diagnosing conditions
+- planning treatment
+
+**Notes:**
+
+- does not heal directly
+- enhances efficiency and reliability
+
+**Role:** medical specialist support
+
+---
+## 💉 **Combat Stim Dispenser** _(Medicine + Physical)_
+
+**Cat:** Medicine + Physical | **Type:** Injector / Mechanical | **mSpace:** 2
+
+**Flavor:** Integrated injector system delivering rapid chemical enhancement in close proximity.
 
 ---
 
-### **Pain Suppression**
+**Stim Injection (Aug):**  
+Apply one of the following to a target in **melee range**:
 
-- **Effect:** Reduce Stress by 2
-- **Load:** 1
-- **Action:** BA
-- **Duration:** instant
-- **Range:** M
+- **Combat Stim:** +2 to all rolls (2 turns)
+- **Pain Suppression:** ignore **ALL Wounds** (2 turns)
+- **Mobility Stim:** +5 m movement, increased jump distance (2 turns)
+→ **+2 Load**
+
+---
+**Emergency Boost:**  
+Grant:
+
+- +1 Action (1 turn)
+→ **+3 Load**
+
+---
+**Limitations:**
+- each target can only benefit from **one stim at a time**
+- stims do **not stack**
+- second use within one **Short Rest** → target gains **+1 Stress** after effect
+
+## 🌿 **Adaptive Recovery System** _(Medicine + Survival)_
+
+**Cat:** Medicine + Survival | **Type:** Bio / Regulation | **mSpace:** 2
+
+**Flavor:** Your body regulates recovery and stress under sustained pressure.
+
+**Recovery Optimization:**  
+During **Short Rest**:
+
+- restore **+1 additional Health**
+- reduce **+1 additional Stress**
 
 ---
 
----
+**Stabilized Systems:**  
+When at high Load (above limit):
 
-## **Advanced Surgical Suite**
-
-_Medicine • surgery • precision • mSpace 2_
-
-A precision medical system designed for controlled procedures and post-combat treatment, not frontline use.
+- reduce Overload severity by **−1 (minimum 1)**
 
 ---
 
-### **Wound Treatment**
+**Endurance Support:**  
+Gain **Tactical Edge** on:
 
-- **Effect:** Heal 1 Wound
-- **Load:** 3
-- **Action:** A
-- **Duration:** 10 minutes
-- **Range:** M
-- **Notes:** Cannot be used in combat; target must be stable; 12h cooldown per target
-
----
-
-### **Surgical Precision**
-
-- **Effect:** Gain +2 on all medical procedures
-- **Load:** 1
-- **Action:** BA
-- **Duration:** 10 minutes
-
----
-
-### **Internal Repair**
-
-- **Effect:** Restore 1d6 HP
-- **Load:** 2
-- **Action:** A
-- **Duration:** 1 minute
-- **Range:** M
-- **Notes:** Cannot be used in active combat
-
----
-
----
-
-## **Detoxification Module**
-
-_Medicine • toxin • bio • mSpace 2_
-
-A biochemical filtering system that neutralizes toxins, drugs, and harmful substances within the body.
-
----
-
-### **Toxin Purge**
-
-- **Effect:** Remove poison, drug, or toxin effects
-- **Load:** 2
-- **Action:** A
-- **Duration:** instant
-- **Range:** self / M
-
----
-
-### **Resistance Boost**
-
-- **Effect:** Gain advantage on rolls against toxins or drugs
-- **Load:** 1
-- **Action:** BA
-- **Duration:** 3 turns
-
----
-
-### **Metabolic Flush**
-
-- **Effect:** Reduce Stress by 1 and remove minor biological effects
-- **Load:** 1
-- **Action:** BA
-- **Duration:** instant
-
-## **Field Medic Rig**
-
-_Medicine • field • support • mSpace 2_
-
-A compact medical support system designed for rapid intervention and battlefield triage.
-
----
-
-### **Quick Patch**
-
-- **Effect:** Restore 1d6 HP
-- **Load:** 2
-- **Action:** A
-- **Duration:** instant
-- **Range:** M
-- **Notes:** Cannot be used on the same target again for 12 hours
----
-
-### **Combat Stabilization**
-
-- **Effect:** Target cannot be reduced below 1 HP this turn
-- **Load:** 3
-- **Action:** R
-- **Duration:** 1 turn
-- **Range:** M
-
----
-
-### **Adrenal Support**
-
-- **Effect:** Target gains advantage on next roll and +1 Stress
-- **Load:** 1
-- **Action:** BA
-- **Duration:** 1 turn
+- resisting fatigue
+- recovery-related checks

@@ -1,5 +1,3 @@
-## ⚙️ **Consumable Use**
-
 All consumables require **1 Action** unless explicitly stated otherwise.
 
 There are **no bonus actions** in _SOL 2349_.

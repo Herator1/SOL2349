@@ -1,142 +1,148 @@
-## **Sensory Recording Implant**
+## 📊 Analysis Engine
 
-_Science • cognition • recording • mSpace 2_
+**Cat:** Science | **Type:** Neural / Cognitive | **mSpace:** 2
 
-A neural recording system that captures all sensory input in perfect detail, allowing later playback and analysis.
+**Flavor:** You don’t observe patterns—you explain them.
 
----
+**Pattern Recognition (Passive):** Tactical Edge on **Analysis**
 
-### **Full Spectrum Capture**
+**Causal Insight:**
 
-- **Effect:** Record all sensory input (visual, audio, environmental) in perfect detail
-- **Load:** 1
-- **Action:** BA
-- **Duration:** 5 minutes
+- determine:
+    - causes behind behavior
+    - hidden relationships
+    - underlying mechanisms
 
----
-
-### **Playback Reconstruction**
-
-- **Effect:** Replay recorded sensory data for detailed review or analysis
-- **Load:** 1
-- **Action:** BA
-- **Duration:** up to recorded length
+👉 e.g. _“Why are people running?”_
 
 ---
 
-### **Forensic Recall**
+**Exploit Insight (Aug):**
 
-- **Effect:** Gain +2 on analysis rolls based on recorded data
-- **Load:** 1
-- **Action:** BA
-- **Duration:** 3 turns
-- **Notes:** Requires prior recording
+- next interaction gains:
+    - Tactical Edge
+    - OR +1 damage die (if applicable)
 
----
-
-## **Analytical Cognition Suite**
-
-_Science • analysis • cognition • mSpace 2_
-
-A neural enhancement system designed to process complex data, recognize patterns, and extract actionable insights in real time.
+→ **+1 Load**
 
 ---
 
-### **Pattern Recognition**
-
-- **Effect:** Gain +2 on all analysis and interpretation rolls
-- **Load:** 1
-- **Action:** BA
-- **Duration:** 5 turns
+**Role:** reasoning / decision advantage
 
 ---
 
-### **Rapid Hypothesis**
+## 🌡️ Environmental Science Suite
 
-- **Effect:** Reroll a failed Science or analysis roll
-- **Load:** 1
-- **Action:** R
-- **Duration:** instant
+**Cat:** Science | **Type:** Sensor / Field | **mSpace:** 2
 
----
+**Flavor:** You understand environments before they become dangerous.
 
-### **Data Correlation**
+**Field Readout (Passive):** detect:
 
-- **Effect:** Ask one additional question or gain deeper insight from a successful analysis
-- **Load:** 1
-- **Action:** BA
-- **Duration:** instant
+- radiation
+- magnetic fields
+- atmospheric composition
+- temperature gradients
 
 ---
 
----
+**Hazard Prediction:**  
+identify:
 
-## **Bioanalysis Module**
-
-_Science • biology • scan • mSpace 2_
-
-A compact bio-scanner capable of analyzing organisms, tissues, and biological systems in detail.
-
----
-
-### **Biological Scan**
-
-- **Effect:** Gain +2 on all rolls related to analyzing organisms or biological samples
-- **Load:** 1
-- **Action:** BA
-- **Duration:** 5 turns
+- unstable structures
+- environmental risks
+- system stress points
 
 ---
 
-### **Toxin Identification**
+**Deep Scan (Aug):**
 
-- **Effect:** Identify toxins, pathogens, or biological hazards instantly
-- **Load:** 1
-- **Action:** BA
-- **Duration:** instant
+- analyze area (~20 m)
 
----
+👉 reveals:
 
-### **Weakness Assessment**
+- hidden dangers
+- optimal paths
+- safe zones
 
-- **Effect:** Activate before an attack → on hit, deal +2 damage to biological targets
-- **Load:** 2
-- **Action:** BA
-- **Duration:** 1 turn
-- **Notes:** Only affects organic targets
-
+→ **+1 Load**
 
 ---
 
-## **Material Science Toolkit**
-
-_Science • materials • physics • mSpace 1_
-
-A sensor suite and database for analyzing materials, structures, and physical properties.
+**Role:** exploration / survival intel
 
 ---
 
-### **Material Scan**
+## 🧬 Bio-Chem Analyzer
 
-- **Effect:** Gain +2 on rolls to analyze materials or structures
-- **Load:** 1
-- **Action:** BA
-- **Duration:** 5 turns
+**Cat:** Science | **Type:** Bio / Sensor | **mSpace:** 2
 
----
+**Flavor:** Every substance has a function—you identify it instantly.
 
-### **Structural Insight**
+**Biological Insight (Passive):** Tactical Edge on **Biology**
 
-- **Effect:** Identify weakpoints in objects or structures
-- **Load:** 1
-- **Action:** BA
-- **Duration:** instant
+**Chemical Detection:** detect:
+
+- toxins
+- drugs
+- contaminants
 
 ---
 
-### **Integrity Estimate**
+**Rapid Analysis (Aug):**  
+determine:
 
-- **Effect:** Determine approximate durability or remaining integrity of an object
-- **Load:** 1
-- **Action:** BA
-- **Duration:** instant
+- effect of substance
+- biological weaknesses
+- compatibility (medicine, poison, etc.)
+
+→ **+1 Load**
+
+---
+
+**Role:** biology / chemistry utility
+
+---
+
+## 🛰️ Astrophysics Navigation Suite _(Science + Spacefaring)_
+
+**Cat:** Science + Spacefaring | **Type:** Sensor / Computational | **mSpace:** 3
+
+**Flavor:** Space is not empty—you read its structure.
+
+**Trajectory Calculation (Passive):** Tactical Edge on:
+
+- Piloting (long-range)
+- Navigation
+- orbital mechanics
+
+---
+
+**Anomaly Detection:**  
+detect:
+
+- gravitational irregularities
+- radiation spikes
+- space anomalies
+
+---
+
+**Optimal Pathing (Aug):**
+
+- calculate ideal trajectory or maneuver
+
+👉 gains:
+
+- Tactical Edge on next Piloting / Navigation check
+- OR ignore environmental complication
+
+→ **+1 Load**
+
+---
+
+**Predictive Motion Model:**
+
+- estimate:
+    - object trajectories
+    - intercept points
+    - collision risks

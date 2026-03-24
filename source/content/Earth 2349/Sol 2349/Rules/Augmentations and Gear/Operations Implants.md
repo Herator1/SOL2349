@@ -1,187 +1,68 @@
-## **Neural Intrusion Suite**
+## 🧠 Systems Interface Node
 
-_Operations • hacking • intrusion • mSpace 3_
+**Cat:** Operations | **Type:** Neural / Interface | **mSpace:** 2
 
-A direct neural interface designed for rapid system intrusion, bypassing conventional access protocols.
+**Flavor:** You become part of the system.
 
----
+**System Control:** Tactical Edge on **Systems**
 
-### **System Breach**
+**Remote Interface:** interact with systems within **~20 m** (LoS or access point)
 
-- **Effect:** Gain +2 on hacking or intrusion rolls
-- **Load:** 2
-- **Action:** BA
-- **Duration:** 3 turns
+**Fast Interface (Aug):** instant system interaction (no Action) → **+1 Load**
 
----
+**Extended Control (Aug):** remote control system (1 turn; doors, cams, mechanisms) → **+2 Load**
 
-### **Quick Override**
-
-- **Effect:** Activate before a hacking roll → roll with advantage
-- **Load:** 1
-- **Action:** BA
-- **Duration:** instant
+**Role:** systems operator
 
 ---
 
-### **Forced Access**
+## 💻 Intrusion Suite
 
-- **Effect:** Bypass a simple lock or security system without a roll
-- **Load:** 2
-- **Action:** A
-- **Duration:** instant
-- **Notes:** GM decides scope (no high-security systems)
+**Cat:** Operations | **Type:** Neural / Cyber | **mSpace:** 3
 
----
+**Flavor:** Every system has a way in.
 
----
+**Hacking Edge:** Tactical Edge on **Hacking**
 
-## **Signal Interference Node**
+**Quick Breach (Aug):** access/bypass system within **~10 m** → **+2 Load**
 
-_Operations • disruption • signal • mSpace 2_
+**Data Extraction (Aug):** instant data retrieval after access (no extra roll, no time delay) → **+1 Load**
 
-A system designed to interfere with communication, targeting systems, and digital signals in a localized area.
+**Role:** hacker
 
 ---
 
-### **Signal Jam**
+## 🛡️ Security Countermeasure Node
 
-- **Effect:** Target system suffers disadvantage on its next action
-- **Load:** 2
-- **Action:** A
-- **Duration:** 1 turn
-- **Range:** 10 m
+**Cat:** Operations | **Type:** Neural / Defensive | **mSpace:** 2
 
----
+**Flavor:** Intrusions expose themselves.
 
-### **Comms Disruption**
+**Secure Systems:** Tactical Edge on **Security**
 
-- **Effect:** Disable short-range communication in an area
-- **Load:** 1
-- **Action:** BA
-- **Duration:** 2 turns
-- **Range:** 10 m
+**Intrusion Detection:** detect hacking within **~20 m**
+
+**Counter Hack (Aug):** cancel/disrupt system action within **~10 m** → **+2 Load**
+
+**System Lockdown:** block access for **1 turn**
+
+**Role:** defender
 
 ---
 
-### **Target Scramble**
+## 🗡️ Covert Strike Module _(Operations + Combat)_
 
-- **Effect:** Systems targeting you suffer disadvantage
-- **Load:** 2
-- **Action:** BA
-- **Duration:** 2 turns
+**Cat:** Operations + Combat | **Type:** Concealed Weapon | **mSpace:** 3
 
----
+**Flavor:** Silent. Precise. Final.
 
----
+**Hidden Blade (Passive):** always available, cannot be disarmed  
+**Weapon:** 2d6, melee, **Silent, Concealed**
 
-## **Surveillance Interface**
+**Silent Kill:** attacks do not reveal position unless observed
 
-_Operations • surveillance • sensor • mSpace 2_
+**Ambush Strike:** vs unaware target → Tactical Edge + **+1 damage die**
 
-An integrated system for monitoring environments, tracking signals, and maintaining situational awareness.
+**Execution Window (Aug):** attack vs unaware target → **+2 damage dice** → **+2 Load**
 
----
-
-### **Active Scan**
-
-- **Effect:** Gain +2 on rolls to detect hidden systems or signals
-- **Load:** 1
-- **Action:** BA
-- **Duration:** 3 turns
-
----
-
-### **Signal Tracking**
-
-- **Effect:** Track a signal source or transmission origin
-- **Load:** 1
-- **Action:** BA
-- **Duration:** 5 turns
-
----
-
-### **Data Tap**
-
-- **Effect:** Passively intercept nearby communications
-- **Load:** 2
-- **Action:** BA
-- **Duration:** 3 turns
-
----
-
----
-
-## **Security Bypass Toolkit**
-
-_Operations • security • access • mSpace 2_
-
-A suite of digital and physical bypass tools designed to circumvent access restrictions and control systems.
-
----
-
-### **Access Spoof**
-
-- **Effect:** Temporarily impersonate authorized credentials
-- **Load:** 2
-- **Action:** BA
-- **Duration:** 2 turns
-
----
-
-### **Lockdown Override**
-
-- **Effect:** Disable a security system or door temporarily
-- **Load:** 2
-- **Action:** A
-- **Duration:** 1 turn
-- **Range:** 10 m
-
----
-
-### **Silent Entry**
-
-- **Effect:** Bypass a system without triggering alarms
-- **Load:** 1
-- **Action:** BA
-- **Duration:** instant
-
----
-
----
-
-## **Tactical Coordination Link**
-
-_Operations • coordination • network • mSpace 2_
-
-A networked communication system that enhances coordination and information flow within a team.
-
----
-
-### **Target Callout**
-
-- **Effect:** An ally gains advantage on their next roll against a target
-- **Load:** 1
-- **Action:** BA
-- **Duration:** 1 turn
-- **Range:** 20 m
-
----
-
-### **Shared Awareness**
-
-- **Effect:** Allies gain +1 on perception or awareness rolls
-- **Load:** 2
-- **Action:** BA
-- **Duration:** 3 turns
-- **Range:** 20 m
-
----
-
-### **Priority Sync**
-
-- **Effect:** One ally may immediately use a Reaction
-- **Load:** 2
-- **Action:** BA
-- **Duration:** instant
-- **Range:** 20 m
+**Role:** covert eliminator

@@ -1,180 +1,80 @@
-## **Flight Control Link**
+## 🚀 Pilot Interface Core
 
-_Spacefaring • piloting • neural • mSpace 3_
+**Cat:** Spacefaring | **Type:** Neural / Flight | **mSpace:** 3
 
-A neural interface that tightly couples pilot perception and control input, reducing latency and improving handling under extreme flight conditions.
+**Flavor:** The ship responds before you move.
 
----
+**Flight Sync:** Tactical Edge on **Piloting**
 
-### **Neural Piloting**
+**Precision Burn (Aug):**  
+ignore maneuver penalties / Complication for one maneuver → **+1 Load**
 
-- **Effect:** Gain +2 on all piloting rolls
-- **Load:** 2
-- **Action:** BA
-- **Duration:** 3 turns
+**Evasive Pattern (Aug):**  
+gain Tactical Edge on defensive piloting (evasion, avoidance) → **+2 Load**
 
----
-
-### **Situational Override**
-
-- **Effect:** Activate before a piloting roll → roll with advantage
-- **Load:** 1
-- **Action:** R
-- **Duration:** instant
+**Role:** pilot / maneuver specialist
 
 ---
 
-### **Edge Handling**
+## 🔫 Gunnery Link System
 
-- **Effect:** Ignore penalties from difficult maneuvers or unstable flight conditions
-- **Load:** 2
-- **Action:** BA
-- **Duration:** 2 turns
+**Cat:** Spacefaring | **Type:** Neural / Targeting | **mSpace:** 2
 
----
+**Flavor:** You don’t aim—you solve trajectories.
 
----
+**Targeting Sync:** Tactical Edge on **Gunnery**
 
-## **Zero-G Mobility Rig**
+**Lead Solution (Aug):**  
+ignore movement / range penalties for one attack → **+1 Load**
 
-_Spacefaring • EVA • zero-g • mSpace 2_
+**Focused Fire (Aug):**  
++2 to hit OR +1 damage die (choose) → **+2 Load**
 
-A combination of tether systems, magnetic anchors, and body stabilization controls enabling precise movement in zero gravity.
-
----
-
-### **Zero-G Control**
-
-- **Effect:** Ignore penalties from zero-g movement and orientation
-- **Load:** 1
-- **Action:** BA
-- **Duration:** 3 turns
+**Role:** ship weapons specialist
 
 ---
 
-### **Tether Launch**
+## 🧑‍🚀 EVA Mobility Suite
 
-- **Effect:** Deploy magnetic tether → move up to 10 m to a solid surface or anchor point
-- **Load:** 1
-- **Action:** BA
-- **Duration:** instant
+**Cat:** Spacefaring + Physical | **Type:** Thruster / Neural | **mSpace:** 2
 
----
+**Flavor:** In zero-G, you are never out of control.
 
-### **Magnetic Arrest**
+**Zero-G Control:** Tactical Edge on **EVA**
 
-- **Effect:** Instantly stop movement and anchor yourself to a surface
-- **Load:** 2
-- **Action:** R
-- **Duration:** instant
+**Micro-Thruster Burst (Aug):**  
+move 10 m in any direction, ignore drift → **+1 Load**
 
----
+**Stabilized Position:**  
+ignore penalties from rotation / drift
+
+**Role:** EVA / boarding / repair
 
 ---
 
-## **Ship Gunnery Interface**
+## 🔧 Ship Systems Overdrive _(Spacefaring + Engineering)_
 
-_Spacefaring • gunnery • targeting • mSpace 2
+**Cat:** Spacefaring + Engineering | **Type:** Neural / Systems | **mSpace:** 3
 
-A neural targeting interface enhancing coordination between operator perception and ship weapon systems.
+**Flavor:** You push systems beyond safe limits.
 
----
+**Systems Insight:** Tactical Edge on ship-related **Engineering / Systems**
 
-### **Targeting Sync**
+**System Boost (Aug):**  
+temporarily enhance one ship system (1 turn):
 
-- **Effect:** Gain +2 on ship weapon attack rolls (via gunnery skill)
-- **Load:** 2
-- **Action:** BA
-- **Duration:** 3 turns
+- engines → better maneuver
+- sensors → improved detection
+- weapons → improved accuracy
 
----
-
-### **Precision Solution**
-
-- **Effect:** Activate before a gunnery roll → roll with advantage
-- **Load:** 1
-- **Action:** BA
-- **Duration:** instant
+→ **+2 Load**
 
 ---
 
-### **Tracking Focus**
-
-- **Effect:** Ignore penalties from target movement or evasive maneuvers
-- **Load:** 2
-- **Action:** BA
-- **Duration:** 2 turns
+**Emergency Repair (Aug):**  
+stabilize damaged ship system or restore limited function → **+2 Load**
 
 ---
 
----
-
-## **Deep Space Navigation Core**
-
-_Spacefaring • navigation • sensor • mSpace 2_
-
-A navigation processor assisting with trajectory planning, spatial awareness, and long-range positioning.
-
----
-
-### **Trajectory Prediction**
-
-- **Effect:** Gain +2 on navigation and course plotting rolls
-- **Load:** 1
-- **Action:** BA
-- **Duration:** 5 turns
-
----
-
-### **Course Correction**
-
-- **Effect:** Reroll a failed navigation roll
-- **Load:** 1
-- **Action:** R
-- **Duration:** instant
-
----
-
-### **Spatial Awareness**
-
-- **Effect:** Gain advantage on rolls to detect hazards or anomalies
-- **Load:** 2
-- **Action:** BA
-- **Duration:** 2 turns
-
----
-
----
-
-## **Vacuum Adaptation Layer**
-
-_Spacefaring • EVA • vacuum • mSpace 2_
-
-An emergency stabilization system that allows limited operation in vacuum and compromised suit conditions.
-
----
-
-### **Emergency Seal**
-
-- **Effect:** Ignore vacuum exposure damage
-- **Load:** 2
-- **Action:** BA
-- **Duration:** 2 turns
-
----
-
-### **Oxygen Efficiency**
-
-- **Effect:** Extend remaining oxygen supply significantly
-- **Load:** 1
-- **Action:** BA
-- **Duration:** 5 turns
-
----
-
-### **Thermal Buffer**
-
-- **Effect:** Ignore environmental cold damage
-- **Load:** 1
-- **Action:** BA
-- **Duration:** 3 turns
+**Overdrive Risk:**  
+using both abilities in same turn → GM may apply system stress/failure

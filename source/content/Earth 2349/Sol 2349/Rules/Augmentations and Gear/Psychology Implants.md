@@ -1,146 +1,82 @@
-## **Empathy Enhancer**
+## 😈 Fear Induction Suite
 
-_Psychology • empathy • insight • mSpace 2_
+**Cat:** Psychology | **Type:** Neural / Hormonal | **mSpace:** 2
 
-A neural analysis system that interprets emotional states, micro-expressions, and behavioral cues.
+**Flavor:** You don’t threaten—you trigger instinctive fear.
 
----
+**Intimidation Edge (Passive):** Tactical Edge on **Intimidation**
 
-### **Emotional Read**
+**Fear Spike (Aug):** target within **~10 m** → suffers **Complication** on next action → **+1 Load**
 
-- **Effect:** Gain +2 on insight or empathy rolls
-- **Load:** 1
-- **Action:** BA
-- **Duration:** 3 turns
+**Panic Trigger (Aug):** target must disengage, take cover, or hesitate (GM choice) → **+2 Load**
 
----
-
-### **Lie Detection**
-
-- **Effect:** Activate before an insight roll → roll with advantage
-- **Load:** 1
-- **Action:** R
-- **Duration:** instant
+**Role:** intimidation / disruption
 
 ---
 
-### **Psychological Profile**
+## 🧘 Stress Regulation System
 
-- **Effect:** Identify one key trait, motive, or weakness of a target
-- **Load:** 2
-- **Action:** BA
-- **Duration:** instant
-- **Range:** M
+**Cat:** Psychology | **Type:** Bio / Neural | **mSpace:** 2
 
----
+**Flavor:** You stay calm when others break.
 
----
+**Mental Stability (Passive):** Tactical Edge on **Stress Control**
 
-## **Stress Regulation Core**
+**Stabilize (Aug):** reduce **2 Stress** (self or target in melee) → **+1 Load**  
+_Limit:_ 1× per Short Rest per target
 
-_Psychology • stress • control • mSpace 2_
+**Override Panic:** ignore effects of Stress for **1 turn** → **+2 Load**
 
-A system that stabilizes emotional responses and maintains performance under pressure.
+**Role:** stress management / resilience
 
 ---
 
-### **Stress Control**
+## 🧠 Empathic Insight Module
 
-- **Effect:** Reduce Stress by 2
-- **Load:** 1
-- **Action:** BA
-- **Duration:** instant
+**Cat:** Psychology | **Type:** Neural / Cognitive | **mSpace:** 2
 
----
+**Flavor:** You don’t read minds—you read everything else.
 
-### **Composure**
+**Insight Edge (Passive):** Tactical Edge on **Insight, Persuasion, Deception detection**
 
-- **Effect:** Ignore penalties from Stress for 1 turn
-- **Load:** 2
-- **Action:** BA
-- **Duration:** 1 turn
+**Emotional Read:** instantly assess:
+
+- emotional state
+- intent
+- pressure points
 
 ---
 
-### **Mental Reset**
+**Influence (Aug):**  
+target within **~10 m** → next social interaction gains **Tactical Edge** → **+1 Load**
 
-- **Effect:** Reroll a failed roll caused by stress or panic
-- **Load:** 2
-- **Action:** R
-- **Duration:** instant
+**Role:** social control / interrogation
 
 ---
 
----
+## 📡 Psychological Warfare Suite _(Psychology + Operations)_
 
-## **Intimidation Amplifier**
+**Cat:** Psychology + Operations | **Type:** Neural / Broadcast | **mSpace:** 3
 
-_Psychology • intimidation • dominance • mSpace 2_
+**Flavor:** You control the narrative—and the reaction.
 
-A system enhancing presence, threat signaling, and psychological pressure.
-
----
-
-### **Threat Projection**
-
-- **Effect:** Gain +2 on intimidation rolls
-- **Load:** 1
-- **Action:** BA
-- **Duration:** 3 turns
+**Broadcast Influence:** affect all targets within **~10 m (audio/visual range)**
 
 ---
 
-### **Fear Spike**
-
-- **Effect:** Target gains +2 Stress
-- **Load:** 2
-- **Action:** A
-- **Duration:** instant
-- **Range:** M
+**Disruption Field (Aug):**  
+targets suffer **Complication** on next action → **+2 Load**
 
 ---
 
-### **Dominance Break**
-
-- **Effect:** Target suffers disadvantage on their next action due to intimidation
-- **Load:** 2
-- **Action:** BA
-- **Duration:** 1 turn
-- **Range:** M
+**Coordinated Pressure (Aug):**  
+allies gain **Tactical Edge** vs affected targets (1 turn) → **+2 Load**
 
 ---
 
----
+**Narrative Control:**  
+gain Tactical Edge on:
 
-## **Cognitive Focus Engine**
-
-_Psychology • focus • cognition • mSpace 2_
-
-A system that enhances concentration, mental clarity, and resistance to distraction.
-
----
-
-### **Deep Focus**
-
-- **Effect:** Gain +2 on concentration-based rolls
-- **Load:** 1
-- **Action:** BA
-- **Duration:** 3 turns
-
----
-
-### **Distraction Filter**
-
-- **Effect:** Ignore penalties from distractions or interference
-- **Load:** 1
-- **Action:** BA
-- **Duration:** 2 turns
-
----
-
-### **Clarity Spike**
-
-- **Effect:** Activate before a roll → roll with advantage
-- **Load:** 2
-- **Action:** BA
-- **Duration:** instant
+- persuasion
+- deception
+- crowd influence

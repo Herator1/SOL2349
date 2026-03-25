@@ -14,7 +14,6 @@
 | Personnel           | ~8–12 million                                                 |
 | Motto               | _“Nothing moves without us.”_                                 |
 | Reputation          | Pro-worker internally, highly territorial externally          |
-
 ## 1. Overview
 
 The **Kaiten Logistics Collective (KLC)** is one of the largest interplanetary transport networks in the Solar System. Originally formed as a union of freighter crews during the early asteroid mining era, Kaiten gradually evolved into a massive cooperative controlling significant parts of the **Solar System’s cargo infrastructure**.

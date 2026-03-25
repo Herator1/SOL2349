@@ -16,7 +16,6 @@
 | Motto               | _“Managing Risk. Enabling Expansion.”_                  |
 | Reputation          | Polished, data-driven, quietly intrusive                |
 |                     |                                                         |
-
 ## 1. Overview
 
 **Solaris Financial Group (SFG)** is the largest financial and insurance provider in the Solar System. The corporation manages capital flows between megacorps, insures spacecraft and infrastructure, and provides loans for everything from asteroid mining operations to individual cargo vessels.

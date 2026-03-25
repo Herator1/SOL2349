@@ -18,6 +18,7 @@
 | Terraforming Status  | Conceptual planning phase                                    |
 | Largest Arcology     | Olympus Mons Research Arcology                               |
 | Political Status     | Independent planetary government                             |
+| Moons                | [[Phobos]], [[Deimos]]                                       |
 
 # Overview
 

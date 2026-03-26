@@ -1,6 +1,6 @@
 ## 🧬 Core Systems
 
-- [[Genetic Modifications]]
+- [[Earth 2349/Sol 2349/Rules/Augmentations and Gear/Genetic Modifications]]
 
 ## 🧠 Implant Categories
 

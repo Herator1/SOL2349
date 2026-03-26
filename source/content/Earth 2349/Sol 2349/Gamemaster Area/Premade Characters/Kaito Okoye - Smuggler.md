@@ -1,11 +1,11 @@
 # 🧭 Kaito Okoye 
 
+![[ChatGPT Image 26. März 2026, 23_02_18 1.png|450]]
 **Origin:** Venus  
 **Background:** Former smuggler from a wealthy Venusian family  
 **Role:** Leader, pilot, social control
 
 ---
-
 ## ⚙️ Core Stats
 
 - Guard: 0 / 9

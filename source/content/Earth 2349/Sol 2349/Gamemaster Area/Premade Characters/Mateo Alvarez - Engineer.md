@@ -1,11 +1,11 @@
 # 🔧 Mateo Álvarez — Engineer
 
+![[ChatGPT Image 26. März 2026, 23_07_34.png|450]]
 **Origin:** Asteroid Belt  
 **Background:** Miner family, spacer engineer  
 **Role:** Systems, repair, technical problem solving
 
 ---
-
 ## ⚙️ Core Stats
 
 - Guard: 0 / 9
@@ -25,7 +25,6 @@
 - Presence 1
 
 ---
-
 ## 🎯 Skills
 
 **Reflexes:** Firearms 1, Piloting 1, EVA 2  
@@ -34,7 +33,6 @@
 **Intellect:** Systems 2
 
 ---
-
 ## 🧩 Implants
 
 **Third Arm (Engineering, 3)**  
@@ -44,7 +42,6 @@
 → Enhanced survival in extreme environments
 
 ---
-
 ## 🧬 Genemods
 
 **Low-G Physiology (Physical)**  
@@ -56,7 +53,6 @@
 ⚠️ −1 sprint / heavy exertion
 
 ---
-
 ## 🔫 Equipment
 
 **Plasma Cutter** — 2d6 melee, load  
@@ -65,7 +61,6 @@
 **EVA Suit** — Armor 1, Guard 4
 
 ---
-
 ## 🎒 Items
 
 - Breach Charge (1A) — destroys structures (remote)

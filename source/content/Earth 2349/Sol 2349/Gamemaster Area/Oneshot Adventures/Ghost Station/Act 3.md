@@ -1,5 +1,7 @@
 # 🧭 Act 3 — Escalation
 
+By this point the players will have alreay committed to several decision that changes the outcome of the scenario - therefore the third act is presented in a sandbox formate.
+
 ## Scene Purpose
 
 - force decisions
@@ -64,18 +66,11 @@ Players may find it via:
 - metallic but unidentifiable
 - no obvious function
 
----
-
 ## Effects (Subtle!)
 
 - minor system desync
 - inconsistent sensor readings
 - slight perception drift
-
----
-
-👉 nothing dramatic  
-👉 but clearly “wrong”
 
 ---
 
@@ -87,14 +82,11 @@ Players may find it via:
 - does not fully understand it
 - considers it high priority
 
----
-
 ## Pirates (Old Guard)
 
 - know it caused problems
 - want it contained or removed
 
----
 
 ---
 
@@ -107,8 +99,6 @@ Players may find it via:
 - major engineering effort
 - multiple system fixes
 - time + resources
-
----
 
 ### Suggested Challenges
 
@@ -129,17 +119,12 @@ Players may find it via:
 - ship unstable
 - may fail during escape
 
----
-
 👉 requires:
 
 - strong engineering
 - time (→ increases tension)
 
 ---
-
----
-
 ## Option 2 — Pirate Freighter (Easier)
 
 ### Requirements
@@ -147,8 +132,6 @@ Players may find it via:
 - moderate repairs
 - power restart
 - navigation check
-
----
 
 ### Advantages
 
@@ -165,8 +148,6 @@ Players may find it via:
 
 ---
 
----
-
 ## Consequences
 
 **Success:**
@@ -180,7 +161,6 @@ Players may find it via:
 
 ---
 
----
 
 # ⚔️ Conflict Triggers
 
@@ -232,14 +212,11 @@ If players deceive:
 
 ---
 
----
-
 # 🧩 Additional Discoveries (Optional)
 
 Use these to enrich exploration.
 
 ---
-
 ## 1. Battle Logs
 
 - partial data from station systems
@@ -248,15 +225,12 @@ Use these to enrich exploration.
     - internal conflict
 
 ---
-
 ## 2. Destroyed Frigate Data
 
 - external scan or logs
 - shows:
     - heavy engagement
     - unexpected resistance
-
----
 
 ---
 
@@ -267,9 +241,6 @@ Use these to enrich exploration.
 - signs of desperate fighting
 
 ---
-
----
-
 ## 4. Life Support Hub
 
 - partially functional
@@ -279,8 +250,6 @@ Use these to enrich exploration.
 
 - leverage
 - bargaining power
-
----
 
 ---
 
@@ -296,48 +265,32 @@ Use these to enrich exploration.
 
 ---
 
----
-
 # 🧠 Player Options
-
-Players can:
-
----
 
 ## 🟢 Negotiate
 
 - broker truce
 - exchange resources
 
----
-
 ## 🔵 Choose a Side
 
 - support pirates
 - support security
-
----
 
 ## 🟡 Stay Independent
 
 - avoid both factions
 - focus on escape
 
----
-
 ## 🔴 Escalate
 
 - attack
 - destabilize situation
 
----
-
 ## ⚫ Exploit Chaos
 
 - take artifact
 - use distraction to escape
-
----
 
 ---
 
@@ -353,8 +306,6 @@ Eventually:
 
 ---
 
----
-
 # 🧠 GM Guidance
 
 ## Key Principle
@@ -366,15 +317,11 @@ Let:
 - players decide
 - consequences unfold
 
----
-
 ## Tone
 
 - pressure increases gradually
 - choices become harder
 - no clean solution
-
----
 
 ---
 
@@ -387,8 +334,6 @@ The artifact is:
 It is:
 
 👉 **a complication**
-
----
 
 ---
 

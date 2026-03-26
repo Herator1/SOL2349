@@ -1,5 +1,6 @@
 # 📡 Elias Varga — Comms / Operations
 
+![[ChatGPT Image 26. März 2026, 23_09_20.png|450]]
 **Origin:** Earth  
 **Background:** Corporate agent (Helios), embedded observer  
 **Role:** Sensors, hacking, communication, psychology
@@ -44,7 +45,6 @@
 → Enhanced social manipulation and analysis
 
 ---
-
 ## 🧬 Genemods
 
 **Enhanced Vision**  
@@ -56,7 +56,6 @@
 ⚠️ Stims −50% effectiveness
 
 ---
-
 ## 🔫 Equipment
 
 **Pistol** — 1d6, 30m, Safe
@@ -64,7 +63,6 @@
 **EVA Suit** — Armor 1, Guard 4
 
 ---
-
 ## 🎒 Items
 
 - Secure Comms
@@ -72,7 +70,6 @@
 - Multi Tool
 
 ---
-
 ## 🧭 Notes
 
 Information control specialist. Strong in hacking, reading people, and manipulation.

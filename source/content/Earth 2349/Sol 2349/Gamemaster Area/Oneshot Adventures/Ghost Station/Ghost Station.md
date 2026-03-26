@@ -1,4 +1,5 @@
 ## 🛰️ Ghost Station
+![[ChatGPT Image 26. März 2026, 21_57_01.png|650]]
 
 _Ghost Station_ is a **self-contained one-shot scenario** set in the harsh, industrial reality of _SOL 2349_. It places the players in a damaged vessel, cut off from support, and forced to seek refuge in a location that was never meant to be found.
 
@@ -12,9 +13,20 @@ The expected playtime is **3–5 hours**, depending on pacing, player decisions,
 
 There is no single correct outcome. Success is defined by what the players choose to prioritize — and what they are willing to risk to achieve it.
 
+[[Premade Characters]] - Crew of the Asterion
 [[Plot Overview]]
 [[Act 1]]
 [[Act 2]]
 [[Act 3]]
 [[Npcs]]
 [[Outcomes and Rewards]]
+
+### 🎧 Additional Atmosphere Track
+
+<iframe width="100%" height="420"   
+src="https://www.youtube.com/embed/B9en-_UFr6I"   
+frameborder="0"   
+allowfullscreen>  
+</iframe>
+
+_Supplementary ambient track for extended scenes and exploration._

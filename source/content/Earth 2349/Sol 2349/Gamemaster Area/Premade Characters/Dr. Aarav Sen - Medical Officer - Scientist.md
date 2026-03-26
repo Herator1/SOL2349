@@ -1,5 +1,6 @@
 # 🧪 Dr. Aarav Sen — Medical Officer / Scientist
 
+![[ChatGPT Image 26. März 2026, 23_05_31.png|450]]
 **Origin:** Mars  
 **Background:** Former xenology research lead (Shukra Biotech)  
 **Role:** Medicine, science, analysis

@@ -2,6 +2,12 @@
 title: Sol 2349 - Hard Sci-Fi Rpg
 ---
 ### SOL 2349 – A Hard Science Fiction Roleplaying Game
+<iframe width="100%" height="420"  
+src="https://www.youtube.com/embed/VDU0jHS2TBo"  
+frameborder="0"  
+allowfullscreen>  
+</iframe>
+
 **SOL 2349** is a tabletop roleplaying game set in a realistic vision of the Solar System three centuries in the future. Humanity has spread across planets, moons, and orbital habitats, but space remains a harsh and unforgiving frontier shaped by physics, economics, and human ambition.
 
 The game focuses on **hard science fiction**, emphasizing believable technology, realistic space travel, and a living interplanetary economy dominated by powerful megacorporations. There are no aliens, no superintelligent AI—only humans pushing the limits of survival and expansion in space.
@@ -41,6 +47,8 @@ With a setting spanning the entire [[Solar System]]—from the crowded orbital c
 # Technology of 2349
 - [[Energy and Drive Systems]]
 - [[Weapon Systems and Defenses]]
+- [[Cybernetic Implants]]
+- [[Gene Modifications]]
 
 # Gamemaster Area
 - [[Gamemaster Area]]

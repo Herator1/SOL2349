@@ -36,7 +36,7 @@ They are always active, cost **no Load**, and cannot be switched off.
 
 | Genemod              | Category   | Effect                                                | Drawback                                                  |
 | -------------------- | ---------- | ----------------------------------------------------- | --------------------------------------------------------- |
-| Low-G Physiology     | Physical   | Tactical Edge on movement in low/zero-G               | −2 on strength rolls in normal/high G                     |
+| Low-G Physiology     | Physical   | Tactical Edge on movement in low/zero-G               | Complication on physical checks in full gravity           |
 | Radiation Adaptation | Survival   | Ignore low-level radiation effects                    | −1 Health recovered per rest                              |
 | Oxygen Efficiency    | Survival   | EVA duration ×2                                       | Tactical Edge lost on high-exertion rolls                 |
 | Neural Acceleration  | Psychology | +1 to checks that are based on fast reaction          | +1 Stress critical failures                               |

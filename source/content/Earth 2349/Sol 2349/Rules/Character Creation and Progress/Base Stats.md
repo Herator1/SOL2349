@@ -1,129 +1,120 @@
-Base stats represent a character’s **core survivability and operational limits**.
+# 🧬 Base Stats
 
-Unlike attributes and skills, which define capability, base stats determine:
+Base Stats define a character’s **survivability and system limits**.  
+Unlike attributes and skills, they determine **how long you last, how much you can take, and how far you can push your systems**.
 
-- how much damage a character can withstand
-- how long they can remain effective under pressure
-- how far they can push their systems before failure
-
-These values are partly derived from attributes, but can also be improved directly.
+They are **derived from attributes and equipment**, but can also be improved directly.
 
 ---
+## 🛡️ Guard
 
-## 🛡️ **Guard**
+Represents **immediate survivability** (movement, reactions, positioning).  
+Damage is applied to Guard first.
 
-Guard represents a character’s **immediate survivability in combat**:
+**Base Formula:**
 
-- movement
-- positioning
-- reaction speed
-- situational awareness
+Guard = Reflexes + Fitness + Armor
 
-Guard is the **first layer of defense** and absorbs damage before Health.
+**Characteristics:**
 
----
+- dynamic (changes during combat)
+- restored through actions (e.g. Take Cover)
+- lost quickly under pressure
 
-### Key Characteristics
-
-- highly dynamic
-- changes constantly during combat
-- restored through actions (e.g. taking cover)
+👉 determines how long you avoid real damage
 
 ---
+## ❤️ Health
 
-### System Impact
+Represents **physical condition and endurance**.  
+Damage is applied to Health once Guard is depleted.
 
-- determines how long a character can **avoid real injury**
-- strongly influenced by **Reflexes and Fitness**
+**Base Formula:**
 
----
+Health = 8 + (2 × Fitness)
 
-## ❤️ **Health**
-
-Health represents a character’s **physical condition and resilience**.
-
-Once Guard is depleted, damage is applied to Health.
-
----
-
-### Key Characteristics
+**Characteristics:**
 
 - reflects actual injury
-- decreases under sustained damage
-- recovers through rest and treatment
+- recovers through rest or treatment
+
+👉 determines how long you stay functional
 
 ---
+## 🩸 Wounds
 
-### System Impact
+Represents **critical injuries**.
 
-- determines how long a character can **stay in the fight**
-- primarily influenced by **Fitness**
+**Trigger:**
 
----
+- Health drops below **0**
 
-## 🩸 **Wounds**
+**Base Value:**
 
-Wounds represent **serious physical trauma**.
+Wounds = 3 (default, can be increased)
 
-They occur when a character is pushed beyond their physical limits.
+**Effects:**
 
----
+- temporary incapacitation
+- cumulative penalties
 
-### Key Characteristics
-
-- triggered when Health drops below **0**
-- cause **temporary incapacitation**
-- apply cumulative penalties
+👉 defines when a character becomes **dying**
 
 ---
+## 🔥 Load
 
-### System Impact
+Represents **system strain from implants and abilities**.
 
-- define long-term survivability
-- determine when a character becomes **dying**
+**Base Formula:**
 
----
+Load = 5 + Intellect
 
-## 🔥 **Load**
+**Characteristics:**
 
-Load represents a character’s **system strain and operational stress**.
+- increases during use of implants
+- exceeding max → **Overload Roll**
+- does not block actions, but makes them risky
 
-It is generated primarily by:
-
-- implant use
-- advanced abilities
-- pushing systems beyond safe limits
+👉 core limiter for augmentation-heavy builds
 
 ---
+## 🧠 Stress
 
-### Key Characteristics
+Represents **mental pressure and stability**.
 
-- increases during combat
-- has a defined **maximum threshold**
-- exceeding the limit triggers **Overload**
+**Base Formula:**
 
----
+Stress = 5 + Presence
 
-### System Impact
+**Characteristics:**
 
-- limits how often powerful systems can be used
-- introduces **risk vs reward decisions**
-- directly interacts with the Action Economy
+- increases through danger, fear, overload
+- exceeding threshold triggers **Stress Reaction**
 
----
-
-👉 Load does **not prevent actions**  
-👉 it makes them **dangerous**
+👉 limits psychological endurance
 
 ---
+## 🧬 Mod Space
 
-## 🧬 **Mod Space**
+Represents **implant capacity**.
 
-Mod Space defines how many **implants and augmentations** a character can integrate.
+**Base Value:**
 
----
-### Key Characteristics
+Mod Space = 5 (default, can be increased)
 
-- limited resource
+**Characteristics:**
+
 - each implant consumes space
-- forces meaningful build decisions
+- hard limit for build design
+
+👉 defines long-term character configuration
+
+---
+# 🎯 Summary
+
+- **Reflexes + Fitness → Guard**
+- **Fitness → Health**
+- **Intellect → Load**
+- **Presence → Stress**
+- **Equipment → Guard (Armor)**
+- **Implants → Load + Mod Space pressure**

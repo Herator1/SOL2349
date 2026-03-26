@@ -8,6 +8,7 @@ Unlike the structured societies of Mars or the regulated environments of the Jov
 [[Ceres]]
 [[Eros]]
 [[Hygiea]]
-[[Kuiper Belt]]
 [[Pallas]]
 [[Vesta]]
+
+[[Kuiper Belt]]

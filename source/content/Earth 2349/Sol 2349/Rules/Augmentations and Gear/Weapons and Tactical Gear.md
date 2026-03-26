@@ -67,12 +67,12 @@ Fire modes determine how a weapon behaves in combat and interact directly with t
 
 ## Pistols & Sidearms
 
-|Weapon|Dmg|Range|Modes|Traits|
-|---|---|---|---|---|
-|Service Pistol|2d6|30 m|S, B|—|
-|Smart Pistol|2d6|30 m|S|Assisted|
-|Silenced Pistol|2d6|20 m|S|Silent|
-|Riot Sidearm|1d6|10 m|S|Non-lethal, Safe|
+| Weapon          | Dmg | Range | Modes | Traits           |
+| --------------- | --- | ----- | ----- | ---------------- |
+| Service Pistol  | 2d6 | 30 m  | S     | —                |
+| Smart Pistol    | 2d6 | 30 m  | S     | Assisted         |
+| Silenced Pistol | 2d6 | 20 m  | S     | Silent           |
+| Riot Sidearm    | 1d6 | 10 m  | S     | Non-lethal, Safe |
 
 ---
 

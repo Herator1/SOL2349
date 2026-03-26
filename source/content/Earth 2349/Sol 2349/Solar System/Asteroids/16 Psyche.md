@@ -1,3 +1,5 @@
+![[ChatGPT Image 26. März 2026, 10_43_11.png|450]]
+
 | Parameter        | Value                                                 |
 | ---------------- | ----------------------------------------------------- |
 | Population       | ~0.5 million                                          |
@@ -12,7 +14,6 @@
 | Strategic Role   | One of the largest metal sources in the Asteroid Belt |
 
 ---
-
 # Overview
 
 16 Psyche is one of the most economically valuable objects in the Asteroid Belt and among the largest known **metal-rich asteroids** in the solar system. Unlike most asteroids, which are composed primarily of rock or ice, Psyche consists largely of iron and nickel, making it an enormous natural deposit of industrial metals.
@@ -22,7 +23,6 @@ For this reason, Psyche became one of the earliest large-scale mining targets du
 Today the asteroid hosts extensive excavation networks, automated refineries, and industrial processing facilities. Vast mining pits cut deep into its metallic surface, while orbital platforms manage cargo transport and resource processing before shipment to manufacturing centers across the inner solar system.
 
 ---
-
 # Mining Operations
 
 Industrial activity on Psyche operates on a massive scale. Gigantic automated drills and cutting systems carve metal directly from the asteroid’s body, while smelting and processing facilities convert raw material into transportable ingots and structural alloys.

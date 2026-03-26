@@ -1,4 +1,3 @@
-# Ceres
 ![[Ceres.png|450]]
 
 | Category               | Information                                    |

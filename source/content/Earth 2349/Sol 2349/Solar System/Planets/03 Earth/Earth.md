@@ -24,7 +24,6 @@ Large parts of the northern hemisphere—particularly North America, Europe, Rus
 Over centuries, parts of the north recovered. But instead of rebuilding the old world, humanity chose a different path. Vast regions were deliberately **left to rewild**, turning former industrial and urban zones into controlled ecological reserves. These areas remain sparsely populated, quiet, and in some places still marked by the remnants of past destruction.
 
 ---
-
 # Megacities
 
 Modern Earth is defined by a handful of immense megacities, each functioning as a self-contained civilization. These urban giants dominate the southern hemisphere and host populations larger than entire planets elsewhere in the solar system.
@@ -43,29 +42,45 @@ Power in Nova São Paulo is not centralized. Instead, it is constantly negotiate
 - megacorporate interests
 - financial institutions
 - local power structures
-
-This creates a city that is incredibly dynamic—but also unstable. In Nova São Paulo, wealth is measured in kilometers—  the higher you live, the further you are from everything else.
+This creates a city that is incredibly dynamic—but also unstable. In Nova São Paulo, wealth is measured in kilometers —  the higher you live, the further you are from everything else.
 
 ### **Greater Lagos**
 
-Stretching along the West African coast, Greater Lagos is a vast, continuous urban region of ports, shipyards, markets, and dense residential zones. It is a city defined by **movement and improvisation**—goods, people, and information flow constantly through its layered infrastructure. Formal systems exist, but much of the city runs on informal networks, local knowledge, and rapid adaptation. Trade is everywhere, from massive container terminals to street-level economies, making Lagos one of the most dynamic and resilient places on Earth. But this flexibility comes at a cost.
+Stretching along the West African coast, Greater Lagos is a vast, continuous urban region of ports, shipyards, markets, and dense residential zones. It is the most **adaptable and resilient megacity on Earth**, built not on perfect systems, but on the ability to function without them. Infrastructure in Lagos is rarely uniform. Instead, it is layered, modified, and constantly evolving. Old systems are repurposed, off-world technology is adapted, and local solutions fill the gaps where formal structures fail. The result is a city that operates as a **patchwork of interconnected systems**, held together by experience, improvisation, and necessity.
 
-Large parts of the city operate in a **grey zone between regulation and reality**. Infrastructure is often overloaded, governance fragmented, and corporate control uneven. Smuggling, black markets, and shadow logistics are deeply embedded in daily life. Entire districts function outside formal oversight, while critical systems—power, water, data—are sometimes unstable or privately controlled. In Greater Lagos, opportunity is everywhere—  
-but so is risk.
+Trade is everywhere—from massive container ports to informal street-level economies—but the real backbone of the city lies in its **informal networks**. Information, services, and access flow through personal connections as much as through official channels. Greater Lagos has become the **repair and modification hub of the inner solar system**. Ships, systems, and technologies that cannot be serviced anywhere else are brought here—patched, rebuilt, and returned to operation through unconventional means.
+
+But this flexibility comes at a cost. Large parts of the city operate in a **grey zone between regulation and reality**. Infrastructure is often overloaded, governance fragmented, and corporate control uneven. Critical systems—power, water, data—are unstable or privately controlled, and reliability depends as much on people as on machines.
+
+In Greater Lagos, nothing is ever fully broken, but nothing is ever fully under control.
 
 ### **Mombasa Corridor**
 
-Running along the East African coastline into the Arabian Peninsula, the Mombasa Corridor is a **strategic trade artery** linking ocean, land, and orbital routes. Long, linear, and highly structured, it is shaped by infrastructure: ports, transport lines, and energy networks. Corporate influence is strong here, with several major logistics and resource companies maintaining tight control over key segments of the corridor.
+Running along the East African coastline into the Arabian Peninsula, the Mombasa Corridor is a **vast, decentralized trade zone** where ocean routes, land infrastructure, and orbital traffic converge. Unlike more structured megacities, the Corridor is not a single controlled entity but a continuous chain of ports, settlements, and transit hubs, loosely connected by trade and movement. The region thrives on **freedom and access**. Goods flow constantly, regulations are often flexible or selectively enforced, and entry barriers are low. This has created a society that is, in many ways, more **egalitarian** than other megacities—status is less defined by origin and more by capability, connections, and resources.
+
+But this openness comes with a darker reality: Governance is fragmented, and in many areas, **power is defined by strength and influence rather than law**. Criminal networks, private security forces, and local factions operate openly, often overlapping with legitimate trade systems. Organized crime is deeply embedded in the economy, particularly through strong connections with **Venusian syndicates**, facilitating smuggling, resource diversion, and illicit logistics.
+
+The Corridor is also home to a major external presence. A significant [[Archeron]] foothold exists within the Corridor, specializing in:
+
+- trauma response and rapid deployment logistics
+- security contracting
+- augmentation and recovery services
+
+This presence adds another layer of complexity, blurring the line between stabilization force and private military influence. The result is a region where, opportunity is high, barriers are low and and risk is constant. In the Mombasa Corridor, freedom is real - but so is the cost of it.
 
 ### **Delhi Prime**
 
-The largest continuous urban region on Earth, Delhi Prime is a **planet-scale megacity defined by density**. Billions live within its vast, layered infrastructure of old and new systems. It is a center of culture, manufacturing, and population-driven economy, where advanced technology coexists with immense human scale. Control is diffuse, with governments, corporations, and local systems overlapping in complex ways.
+The largest continuous urban region on Earth, Delhi Prime is a **planet-scale megacity defined by sheer density**. With a population exceeding that of entire worlds, it is by far the biggest urban environment in the solar system. Layers of historical infrastructure blend with modern systems, creating a city that has grown continuously rather than being designed from the ground up. Despite its immense scale, Delhi Prime is remarkably stable. A strong and deeply embedded **social support system** ensures that basic needs—food, shelter, medical care—are available to most of its population. This allows billions of people to live in relatively peaceful coexistence, even under extreme spatial constraints.
+
+But this stability comes with a trade-off. Social mobility is limited. Economic advancement is slow, and moving beyond one’s assigned layer of society is difficult. Generations often remain within the same districts, professions, and living conditions. For many, it is a place of community, culture, and continuity. But for just as many, it is something else: A place to leave - one day, if they can afford it.
 
 ### **New Sydney Arc**
 
-A highly developed Australasian megacity, New Sydney Arc is one of the most **stable and technologically advanced regions on Earth**. Clean, efficient, and closely integrated with off-world infrastructure, it serves as a major hub for space traffic and high-end industry. Strong corporate governance—often led by NovaChem and affiliated partners—ensures order, but at the cost of strict regulation and limited autonomy.
+A highly developed Australasian megacity, New Sydney Arc is one of the most **stable and technologically advanced regions on Earth**. Clean, efficient, and seamlessly integrated with off-world infrastructure, it serves as a major hub for space traffic, high-end manufacturing, and orbital logistics. The city operates with near-perfect precision. Transportation, energy systems, and public services are tightly coordinated, creating an environment where disruption is rare and daily life runs with remarkable predictability. Corporate governance—largely influenced by **NovaChem and its partners**—ensures long-term stability and technological leadership. But this level of control comes at a cost.
 
-These cities are not merely large—they are **planet-scale environments**, with internal economies, infrastructure layers, and social hierarchies that rival entire regions of space. For many citizens, life never extends beyond the boundaries of their megacity.
+New Sydney Arc is one of the most **monitored environments on Earth**. Surveillance systems are deeply embedded in the city’s infrastructure, from public spaces to private habitats. Data collection is constant, and behavior is subtly regulated through access systems, reputation metrics, and predictive security frameworks. Crime is low. Disorder is rare. But anonymity is almost nonexistent.
+
+For many residents, the trade-off is acceptable: safety, efficiency, and access to advanced technology. For others, the city feels less like a home—and more like a **perfectly managed system that never stops watching**.
 
 ---
 

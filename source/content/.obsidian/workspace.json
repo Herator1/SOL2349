@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Earth 2349/Sol 2349/Gamemaster Area/Oneshot Adventures/Ghost Station/Ghost Station.md",
+                "file": "Earth 2349/Sol 2349/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ghost Station"
+              "title": "index"
             }
           }
         ]
@@ -180,13 +180,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a997cf6c89a8f501",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
+    "Earth 2349/Sol 2349/Gamemaster Area/Oneshot Adventures/Ghost Station/Ghost Station.md",
     "Earth 2349/Sol 2349/Gamemaster Area/Oneshot Adventures/Ghost Station/Outcomes and Rewards.md",
     "Earth 2349/Sol 2349/Gamemaster Area/Oneshot Adventures/Ghost Station/Plot Overview.md",
     "Earth 2349/Sol 2349/Gamemaster Area/Oneshot Adventures/One-Shot Adventures.md",
     "Earth 2349/Sol 2349/Gamemaster Area/Oneshot Adventures/Ghost Station/Act 3.md",
-    "Earth 2349/Sol 2349/Gamemaster Area/Oneshot Adventures/Ghost Station/Ghost Station.md",
     "Earth 2349/Sol 2349/Gamemaster Area/Oneshot Adventures/Ghost Station/Npcs.md",
     "Earth 2349/Sol 2349/Gamemaster Area/Oneshot Adventures/Ghost Station/Act 2.md",
     "Earth 2349/Sol 2349/Gamemaster Area/Oneshot Adventures/Ghost Station/Act 1.md",
@@ -202,7 +202,7 @@
     "Earth 2349/Sol 2349/Gamemaster Area/Premade Characters",
     "Earth 2349/Sol 2349/Rules/Augmentations and Gear/Genetic Modifications.md",
     "Earth 2349/Sol 2349/Rules/Augmentations and Gear/Augmentations and Gear.md",
-    "Earth 2349/Sol 2349/01 Landing Page/index.md",
+    "Earth 2349/Sol 2349/index.md",
     "Earth 2349/Sol 2349/Gamemaster Area/Spoiler Area (GM Only).md",
     "Earth 2349/Sol 2349/Life in Space/Money in Space.md",
     "Earth 2349/Sol 2349/Life in Space/Living in Space.md",

@@ -11,277 +11,45 @@ Because of this, Genemods define identity as much as capability. They shape how 
 Unlike implants, Genemods cannot be activated on demand. They are always in effect.
 
 ---
-# 📊 Genemod Overview 
+# 🧬 **Genetic Modifications (Genemods)**
 
-| Genemod                        | Category   | Effect                                          | Drawback                                                |
-| ------------------------------ | ---------- | ----------------------------------------------- | ------------------------------------------------------- |
-| Low-Gravity Physiology         | Physical   | Advantage in low gravity movement               | Disadvantage on strength rolls in normal/high gravity   |
-| Radiation Adaptation           | Survival   | Reduced radiation effects                       | -1 HP recovered per rest                                |
-| Oxygen Efficiency Mutation     | Survival   | Oxygen consumption ×0.5                         | Disadvantage on high-exertion rolls                     |
-| Neural Acceleration Variant    | Psychology | +1 on reaction rolls                            | +1 Stress on critical failures                          |
-| Pain Suppression Adaptation    | Medicine   | Ignore first Wound effects                      | +1 Stress from environmental damage                     |
-| Emotional Dampening            | Psychology | Stress gain -1 (min. 1)                         | Disadvantage on persuasion/empathy                      |
-| Muscle Density Shift           | Physical   | +1 strength rolls                               | Disadvantage on endurance rolls                         |
-| Enhanced Visual Spectrum       | Science    | +2 visual perception                            | Disadvantage in bright environments                     |
-| Toxin Resistance Profile       | Medicine   | Advantage vs toxins                             | Stims -50% effectiveness                                |
-| Social Conditioning Variant    | Social     | +2 command rolls                                | Disadvantage on deception                               |
-| **Aggression Enhancer**        | Psychology | +2 intimidation, +1 melee damage                | +1 Stress when supressing aggressive behavior           |
-| **Sleep Reduction Variant**    | Survival   | Needs only 4h rest                              | -1 HP recovered per rest                                |
-| **Accelerated Healing Factor** | Medicine   | +3 HP recovered per rest, faster wound recovery | Increased vulnerability (+1 damage from hits in combat) |
-| **Enhanced Memory Encoding**   | Science    | Perfect recall of learned information           | Slower processing (disadvantage on rapid decisions)     |
-| **Night Vision Adaptation**    | Survival   | See clearly in darkness                         | Disadvantage in bright light                            |
-| **Infrared Perception**        | Science    | Detect heat signatures                          | Reduced detail vision (penalty on fine perception)      |
-| Radiation Spectrum Vision      | Science    | Detect radiation sources                        | Sensory overload in high-radiation areas                |
+Genemods are **permanent biological adaptations**.  
+They are always active, cost **no Load**, and cannot be switched off.
 
+👉 Each Genemod provides:
 
-# 🧬 Genemods (Detailed)
+- **one meaningful benefit**
+- **one clear drawback**
 
 ---
 
-## **Low-Gravity Physiology**
+## 📊 **Rules**
 
-_Physical • space adaptation_
-
-Bodies adapted to generations of low-gravity environments, prioritizing coordination and efficiency over raw strength.
-
-**Effect:**  
-→ Gain advantage on movement and coordination in low gravity
-
-**Drawback:**  
-→ Disadvantage on strength-based rolls in normal or high gravity
+- Max: **3 total**
+- At creation: **up to 2**
+- No stacking identical effects
+- Always active (no actions, no Load)
 
 ---
 
-## **Radiation Adaptation**
-
-_Survival • environment_
-
-Cells optimized for long-term radiation exposure, improving repair mechanisms at the cost of overall biological recovery.
-
-**Effect:**  
-→ Radiation effects are reduced significantly
-
-**Drawback:**  
-→ Recover **-1 HP per rest**
-
----
-
-## **Oxygen Efficiency Mutation**
-
-_Survival • metabolism_
-
-An optimized respiratory system designed for low-oxygen environments and extended EVA operations.
-
-**Effect:**  
-→ Oxygen consumption reduced by **factor 2**
-
-**Drawback:**  
-→ Disadvantage on high-exertion physical rolls
-
----
-
-## **Neural Acceleration Variant**
-
-_Psychology • cognition_
-
-Faster neural processing improves reaction speed, but increases instability under failure conditions.
-
-**Effect:**  
-→ Gain +1 on reaction-based rolls
-
-**Drawback:**  
-→ Gain +1 Stress on **critical failures**
-
----
-
-## **Pain Suppression Adaptation**
-
-_Medicine • resilience_
-
-Reduced pain response allows continued operation despite injury, but dulls critical warning signals.
-
-**Effect:**  
-→ Ignore the effects of the **first Wound**
-
-**Drawback:**  
-→ Gain **+1 Stress from environmental damage or hazards**
-
----
-
-## **Emotional Dampening**
-
-_Psychology • control_
-
-Emotional responses are suppressed to maintain stability in extreme situations, reducing both stress and social nuance.
-
-**Effect:**  
-→ Reduce Stress gain by 1 (minimum 1)
-
-**Drawback:**  
-→ Disadvantage on persuasion and empathy rolls
-
----
-
-## **Muscle Density Shift**
-
-_Physical • strength_
-
-Muscle structure optimized for strength output rather than long-term endurance.
-
-**Effect:**  
-→ Gain +1 on strength-based rolls
-
-**Drawback:**  
-→ Disadvantage on endurance-based rolls
-
----
-
-## **Enhanced Visual Spectrum**
-
-_Science • perception_
-
-Expanded visual range allows detection of subtle environmental details beyond normal human capability.
-
-**Effect:**  
-→ Gain +2 on visual perception rolls
-
-**Drawback:**  
-→ Disadvantage in bright or high-intensity light environments
-
----
-
-## **Toxin Resistance Profile**
-
-_Medicine • bio_
-
-A reinforced immune and detoxification system that rapidly neutralizes harmful substances.
-
-**Effect:**  
-→ Gain advantage on rolls against toxins and drugs
-
-**Drawback:**  
-→ Effects of beneficial substances (e.g. stims) reduced by **50%**
-
----
-
-## **Social Conditioning Variant**
-
-_Social • behavior_
-
-Genetic and behavioral conditioning optimized for structured environments and hierarchical systems.
-
-**Effect:**  
-→ Gain +2 on command and authority-based rolls
-
-**Drawback:**  
-→ Disadvantage on deception rolls
-
-## **Aggression Enhancer**
-
-_Psychology • aggression • combat behavior_
-
-A neurological modification amplifying aggressive impulses and lowering hesitation in high-pressure situations.
-
-**Effect:**  
-→ Gain +2 on intimidation rolls  
-→ Melee attacks deal +1 damage
-
-**Drawback:**  
-→ Gain +1 Stress when you supress your aggressive emotions
-
----
-
----
-
-## **Sleep Reduction Variant**
-
-_Survival • metabolism_
-
-A modified circadian rhythm allowing extended wake cycles with minimal recovery periods.
-
-**Effect:**  
-→ Only requires **4 hours of rest** instead of a full cycle
-
-**Drawback:**  
-→ Recover **-1 HP per rest**
-
----
-
----
-
-## **Accelerated Healing Factor**
-
-_Medicine • regeneration_
-
-A boosted cellular regeneration system enabling faster recovery from injury.
-
-**Effect:**  
-→ Recover **+3 HP per rest**  
-→ Wound recovery time reduced significantly
-
-**Drawback:**  
-→ Take **+1 damage from physical trauma sources**
-
----
-
----
-
-## **Enhanced Memory Encoding**
-
-_Science • cognition_
-
-A neural restructuring allowing perfect storage and recall of information.
-
-**Effect:**  
-→ Perfect recall of all experienced information
-
-**Drawback:**  
-→ Disadvantage on rapid decision-making rolls
-
----
-
----
-
-## **Night Vision Adaptation**
-
-_Survival • perception_
-
-Eyes adapted for low-light environments, common among outer system workers.
-
-**Effect:**  
-→ See clearly in darkness
-
-**Drawback:**  
-→ Disadvantage in bright light conditions
-
----
-
----
-
-## **Infrared Perception**
-
-_Science • sensor_
-
-Enhanced sensory system detecting thermal differences in the environment.
-
-**Effect:**  
-→ Detect heat signatures and living beings
-
-**Drawback:**  
-→ Disadvantage on fine visual detail perception
-
----
-
----
-
-## **Radiation Spectrum Vision**
-
-_Science • sensor_
-
-A rare adaptation allowing perception of radiation fields and energy anomalies.
-
-**Effect:**  
-→ Detect radiation sources and intensity
-
-**Drawback:**  
-→ Gain +1 Stress in high-radiation environments
+# 📦 **Genemod List 
+
+| Genemod              | Category   | Effect                                                | Drawback                                                  |
+| -------------------- | ---------- | ----------------------------------------------------- | --------------------------------------------------------- |
+| Low-G Physiology     | Physical   | Tactical Edge on movement in low/zero-G               | −2 on strength rolls in normal/high G                     |
+| Radiation Adaptation | Survival   | Ignore low-level radiation effects                    | −1 Health recovered per rest                              |
+| Oxygen Efficiency    | Survival   | EVA duration ×2                                       | Tactical Edge lost on high-exertion rolls                 |
+| Neural Acceleration  | Psychology | +1 to checks that are based on fast reaction          | +1 Stress critical failures                               |
+| Pain Suppression     | Medicine   | Ignore penalties of first Wound                       | -2 on any check for hazard awareness                      |
+| Emotional Dampening  | Psychology | Stress levels count as being one lower                | −2 on Persuasion & Insight                                |
+| Muscle Density       | Physical   | +2 on strength-based rolls                            | −2 on Endurance checks                                    |
+| Enhanced Vision      | Science    | Tactical Edge on visual perception                    | Complication in bright environments                       |
+| Toxin Resistance     | Medicine   | Tactical Edge vs toxins                               | Stims −50% effectiveness                                  |
+| Social Conditioning  | Social     | Tactical Edge on Command & authority                  | −2 on Deception                                           |
+| Aggression Enhancer  | Psychology | +2 Intimidation, +1 melee damage die (first hit/turn) | +1 Stress when disengaging / holding back                 |
+| Sleep Reduction      | Survival   | Short Rest requires no sleep / Long Rest = 4h         | −1 Health recovered per rest                              |
+| Accelerated Healing  | Medicine   | +2 Health per rest, faster Wound recovery             | +1 damage taken from physical hits                        |
+| Enhanced Memory      | Science    | Perfect recall, Tactical Edge on knowledge recall     | −2 on fast decision / reaction checks                     |
+| Night Vision         | Survival   | See in darkness, no penalties                         | Complication in bright light                              |
+| Infrared Perception  | Science    | Detect heat signatures                                | −2 on fine detail vision                                  |
+| Radiation Vision     | Science    | Detect radiation sources                              | Complication on perception check in high rad environments |

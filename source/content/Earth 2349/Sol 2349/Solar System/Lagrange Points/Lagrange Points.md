@@ -1,94 +1,93 @@
-## Overview
+**Lagrange points** are locations in space where the gravitational forces of two large bodies—such as a planet and the Sun—combine in such a way that an object can remain in a relatively stable position with minimal energy expenditure. In practical terms, they are **natural parking positions in space**. Because maintaining position at or near a Lagrange point requires very little fuel, these locations have become some of the most important sites for infrastructure throughout the solar system.
 
-**Lagrange points** are locations in space where the gravitational forces of two large bodies—such as a planet and the Sun—combine in such a way that an object can remain in a relatively stable position with minimal energy expenditure.
+Every major two-body system has five such points. The inner three—L1, L2, and L3—sit along the line between the two bodies and are only semi-stable, while L4 and L5 form more stable positions ahead of and behind an orbit. In practice, only some of these locations become major hubs. Where they do, they tend to support transfer traffic, staging infrastructure, communications, observation systems, or distributed industrial networks. Lagrange points are not glamorous places, but they are among the most strategically important in human space.
 
-In practical terms, they are **natural parking positions in space**.
-
-Because maintaining position at or near a Lagrange point requires very little fuel, these locations have become some of the most important sites for infrastructure throughout the solar system.
-
-## The Five Lagrange Points
-
-Every two-body system (e.g. Sun–Earth, Earth–Moon, Jupiter–Sun) has five such points:
-
-- **L1, L2, L3** → semi-stable points along the line between the two bodies
-- **L4, L5** → stable points forming triangular positions ahead of and behind the orbit
-
-# Earth–Moon System
-
+---
 ## Earth–Moon L1 — Inner Transfer Hub
 
-Located between Earth and Luna, L1 is one of the busiest points in the entire solar system. It functions as a **high-throughput transit hub**, handling continuous traffic between the planetary surface and orbital infrastructure.
+|Parameter|Value|
+|---|---|
+|Type|Transfer and traffic hub|
+|Location|Earth–Moon L1|
+|Primary Role|Cargo flow, docking, near-Earth transit|
+|Character|High-throughput, low-stay infrastructure|
+Located between Earth and Luna, **Earth–Moon L1** is one of the busiest transfer points in the solar system. It functions as a high-throughput checkpoint where ships, cargo, and passengers are sorted between Earth launch infrastructure, lunar industry, and the wider orbital economy. Unlike larger habitat stations, L1 is built around movement rather than permanence. Docking arms, cargo arrays, traffic control spines, and service modules dominate the region, while most crews remain only briefly before continuing onward.
 
-Large docking complexes, cargo transfer stations, and traffic control arrays dominate the region. Ships rarely stay long—L1 is built for movement, not habitation. Still, small service habitats and control stations support a permanent operational population.
-
-If Luna is the gateway to space, L1 is the **first checkpoint beyond it**.
+Its significance comes from pure throughput. If Luna is the gateway to space, then Earth–Moon L1 is the point where that gateway begins to organize itself into routes, schedules, and flows.
 
 ---
 
 ## Earth–Moon L2 — Deep Space Gateway
 
-On the far side of the Moon, L2 serves as a staging point for missions heading deeper into the solar system. Compared to L1, it is quieter but more strategic.
+|Parameter|Value|
+|---|---|
+|Type|Staging and departure node|
+|Location|Earth–Moon L2|
+|Primary Role|Deep-space assembly, shipyards, outbound transit|
+|Character|Strategic, quieter, industrial|
+On the far side of the Moon, **Earth–Moon L2** serves as one of the great departure points of human space. Compared to L1, it is less crowded and more strategic. This is where long-range missions assemble, where ships take on fuel and final components, and where industrial structures too large or too slow-moving for lower orbits can exist with relative stability.
 
-Large shipyards, fuel depots, and long-duration staging facilities are located here. Vessels departing for Mars, the Belt, or beyond often assemble at L2 before committing to long transfer burns.
-
-Because of its position, L2 also hosts **deep-space communication arrays** and observation platforms.
-
----
-
-# Sun–Earth System
-
-## Sun–Earth L1 — Solar Observation & Power
-
-Positioned between the Sun and Earth, this Lagrange point is ideal for constant solar monitoring. It hosts large-scale **solar observatories, radiation warning systems, and early detection arrays**. In addition, L1 is home to extensive **solar energy collection systems**, including mirror arrays and power transmission infrastructure that beams energy toward Earth orbit and nearby stations.
-
-The region is highly regulated due to its importance for planetary safety.
+L2 hosts long-duration staging habitats, deep-space communication arrays, and major ship support infrastructure. Many missions bound for Mars, the Belt, or the outer system pass through this point before committing to the long burn outward. In practical terms, Earth–Moon L2 is where near-Earth civilization begins to turn into interplanetary civilization.
 
 ---
+## Sun–Earth L1 — Solar Observation and Power
 
-## Sun–Earth L2 — Observation & Deep-Space Arrays
+|Parameter|Value|
+|---|---|
+|Type|Observation and energy infrastructure zone|
+|Location|Sun–Earth L1|
+|Primary Role|Solar monitoring, warning systems, power collection|
+|Character|Critical, regulated, technical|
+Positioned between Earth and the Sun, **Sun–Earth L1** is one of the most closely watched infrastructure zones in the inner system. Its location makes it ideal for constant solar observation, radiation warning, and early detection systems that protect both planetary and orbital infrastructure from solar events.
 
-Located on the far side of Earth relative to the Sun, L2 offers a stable, low-interference environment ideal for **deep-space observation**. Massive telescope arrays, sensor platforms, and long-range communication systems are stationed here. It is one of the most important scientific locations in the inner solar system.
-
-Unlike L1, L2 is relatively quiet, dominated by research infrastructure rather than traffic.
+In addition to observatories and sensor platforms, the region hosts parts of the inner system’s solar collection network: mirror arrays, energy relays, and transmission support structures that redirect power toward Earth orbit and nearby stations. Because of its importance to planetary safety and network stability, activity at L1 is tightly regulated. It is less a place of commerce than one of constant vigilance.
 
 ---
+## Sun–Earth L2 — Observation and Deep-Space Arrays
 
-# Trojan Regions (L4 / L5)
+|Parameter|Value|
+|---|---|
+|Type|Scientific and sensor platform zone|
+|Location|Sun–Earth L2|
+|Primary Role|Deep-space observation, long-range sensing|
+|Character|Quiet, scientific, low-interference|
 
+On the far side of Earth relative to the Sun, **Sun–Earth L2** provides one of the best low-interference observation positions in the inner solar system. Its distance from the densest traffic lanes and its stable geometry make it ideal for large telescope systems, deep-space sensor platforms, and long-range communication infrastructure.
+
+Unlike the industrial intensity of L1 or the throughput of cis-lunar hubs, Sun–Earth L2 is defined by stillness and precision. It is a place of arrays, calibration, and long-baseline observation—less visible in daily life, but essential to navigation, astronomy, and outer-system awareness.
+
+---
 ## Jupiter Trojans — Distributed Frontier Hubs
 
-The L4 and L5 regions of Jupiter host large clusters of asteroids known as Trojans. These regions have developed into **distributed micro-infrastructures** rather than centralized hubs.
+|Parameter|Value|
+|---|---|
+|Type|Distributed micro-infrastructure region|
+|Location|Jupiter L4 / L5|
+|Primary Role|Storage, low-profile operations, decentralized industry|
+|Character|Fragmented, hidden, hard to monitor|
 
-Small stations, mining outposts, and hidden installations are scattered across these clusters. Because of their stability and distance, Trojan regions are often used for:
+The **Jupiter Trojan regions** occupy the L4 and L5 zones of the Sun–Jupiter system and host vast clusters of asteroids spread across stable gravitational territory. Unlike the tightly integrated hubs of the inner system, the Trojans have developed into a scattered network of small stations, depots, storage sites, and low-visibility installations.
 
-- long-term storage
-- low-profile operations
-- decentralized industry
-
-They are difficult to monitor and even harder to control.
+These are frontier infrastructures rather than formal urban centers. Their stability makes them attractive for long-term storage, quiet manufacturing, and operations that benefit from distance and decentralization. At the same time, that same fragmentation makes them difficult to monitor and almost impossible to fully control. The Trojans are not empty—but they are rarely transparent.
 
 ---
-
 ## Neptune / Outer System Trojans — Minimal Presence
 
-Farther out in the solar system, Trojan regions exist but are only lightly utilized. Occasional research stations and navigation markers may be found, but large-scale infrastructure is rare.
+|Parameter|Value|
+|---|---|
+|Type|Sparse navigation and research region|
+|Location|Outer-system L4 / L5 zones|
+|Primary Role|Markers, research stations, minimal support|
+|Character|Remote, lightly used, non-central|
 
-These regions are simply too distant to justify significant development—at least for now.
+Farther out in the solar system, Trojan regions also exist around the major outer planets, but only in lightly developed form. In the current era, these locations support little more than occasional research platforms, navigation markers, or very small infrastructure clusters. The distances are simply too large and the strategic value too diffuse to justify major development.
+
+Their importance lies mostly in potential. They are stable places in unstable regions, and while they remain marginal today, they may one day become more relevant as human presence continues pushing outward.
 
 ---
-
 # Role in the Solar System
 
-Major Lagrange points form the **invisible backbone of interplanetary infrastructure**.
+Major orbital stations and Lagrange hubs together form the **invisible backbone of interplanetary civilization**. Planets and moons may dominate maps and political narratives, but it is stations, docks, relays, and transfer nodes that allow civilization to function across distance. They organize movement, stabilize logistics, connect trade networks, and hold together the fragile infrastructure on which life in space depends.
 
-They connect:
-
-- planets and moons
-- trade routes
-- communication networks
-- exploration corridors
-
-While planets are the visible centers of civilization, Lagrange points are where that civilization is **organized, routed, and maintained**.
-
-For many spacers, they are not destinations—  
-but the places everything passes through.
+For many spacers, worlds are destinations.  
+But stations are where everything actually works.

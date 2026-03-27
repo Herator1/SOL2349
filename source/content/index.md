@@ -19,7 +19,7 @@ With a setting spanning the entire [[Solar System]]—from the crowded orbital c
 - [[Planets]]
 - [[Major Stations and Docks]]
 - [[Lagrange Points]]
-- [[Asteroidbelt]]
+- [[Asteroid Belt]]
 
 # Factions
 - [[Megacorporations]]

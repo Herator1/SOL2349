@@ -1,4 +1,3 @@
-## Aphrodite Prime
 ![[Aphrodite prime.jpeg|450]]
 **Population:** ~95 million
 

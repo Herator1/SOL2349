@@ -15,7 +15,7 @@ This section provides an overview of the **major locations of the Solar System i
 [[Neptune]]
 [[Pluto]]
 
-# [[Asteroidbelt]]
+# [[Asteroid Belt]]
 [[Ceres]]
 [[16 Psyche]]
 [[Eros]]

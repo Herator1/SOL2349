@@ -37,6 +37,8 @@ With a setting spanning the entire [[Solar System]]—from the crowded orbital c
 - [[Living in Space]]
 - [[Advanced Medicine]]
 - [[Money in Space]]
+- [[Languages in 2349]]
+- [[The Spacer Code]]
 
 # Lore and History
 - [[Timeline of SOL 2349]]

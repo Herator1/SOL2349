@@ -5,7 +5,6 @@ In SOL 2349, a ship’s reactor is not just a power source — it is the central
 At the core are three dominant fusion approaches, each with distinct engineering philosophies.
 
 ---
-
 ### 🔬 Fusion Reactor Types
 
 **Deuterium–Tritium (D–T) Fusion** is the oldest and most widely understood configuration. Most D–T ship reactors use **magnetic confinement**, typically tokamak-like or linear pinch variants adapted for mobile systems. The advantage lies in relatively low ignition thresholds and high power density, which makes D–T systems attractive for older ships, industrial platforms, or operators prioritizing cost over longevity. The downside is severe neutron radiation. These neutrons penetrate shielding, degrade structural materials, and activate components over time, effectively turning parts of the reactor assembly into long-term radiation hazards. D–T reactors work — but they age everything around them.
@@ -15,7 +14,6 @@ At the core are three dominant fusion approaches, each with distinct engineering
 **Inertial Confinement Fusion (ICF)** takes a fundamentally different approach. Instead of maintaining a continuous plasma, ICF systems rely on **micro-pellets** of fusion fuel that are rapidly compressed and ignited using high-energy laser or particle beam arrays. What actually “ignites” the reaction is the **implosion of the pellet**, driven by precisely timed energy deposition that creates the necessary pressure and temperature conditions for fusion. Each pulse produces a burst of energy, and a sequence of these pulses generates thrust or electrical power. In practice, this creates a system that behaves more like a controlled series of detonations than a steady burn. The performance can be exceptional, but the mechanical complexity, timing requirements, and wear on ignition systems make ICF reactors demanding to maintain and difficult to scale reliably.
 
 ---
-
 ### ⚡ Energy Storage — Superconducting Magnetic Systems (SEMS)
 
 Beyond conventional batteries, advanced ships in SOL 2349 rely on **Superconducting Magnetic Energy Storage systems (SEMS)** — storing energy not chemically, but directly in the form of magnetic fields.
@@ -33,7 +31,6 @@ Because of this, SEMS units are heavily monitored and compartmentalized. They ar
 In combination with batteries and reactor systems, SEMS complete the ship’s energy ecosystem. Where batteries provide endurance and reactors provide generation, SEMS provide immediacy — the ability to react, stabilize, and survive in the narrow margins where high-energy systems operate.
 
 ---
-
 ### 🔗 System Integration
 
 These elements — fusion core, backup reactor, and storage systems — are not independent modules but part of a tightly coupled architecture.

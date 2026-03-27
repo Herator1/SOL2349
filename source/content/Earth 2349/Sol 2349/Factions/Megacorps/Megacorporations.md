@@ -11,3 +11,4 @@ Despite their immense power, megacorps are not monolithic entities. They differ 
 [[Archeron]] - arms manufacturing and private security
 [[Solaris]] - financial services and insurance
 [[NovaChem]] - chemistry and life support
+[[Nyx]] - IT and communication

@@ -55,7 +55,7 @@ The movement is particularly common among scientists, engineers, and long-term s
 
 Body Purity Movements encompass several related religious groups that oppose genetic modification, cybernetic implants, and radical biomedical technologies. Followers believe the human body should remain fundamentally unchanged despite the pressures of living in artificial environments.
 
-These communities are particularly critical of megacorporations involved in biotechnology and human enhancement, especially Shukra Biotechnologies. While most groups practice peaceful isolation, more radical factions actively campaign against technological modification.
+These communities are particularly critical of megacorporations involved in biotechnology and human enhancement, especially [[Shukra]] Biotechnologies. While most groups practice peaceful isolation, more radical factions actively campaign against technological modification.
 
 # AI Reverence Cults
 

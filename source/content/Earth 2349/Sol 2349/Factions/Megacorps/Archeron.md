@@ -15,8 +15,6 @@
 |Personnel|~4–6 million (security forces, engineers, contractors)|
 |Motto|_“Security through superiority.”_|
 |Reputation|Powerful, ruthless, politically entangled|
-
-
 ## 1. Overview
 
 **Acheron Defense Systems (ADS)** is the most prominent arms manufacturer and private security provider in the Solar System. While many megacorporations maintain internal security divisions, Acheron specializes entirely in the development and deployment of **military-grade technologies and contracted combat forces**.

@@ -1,131 +1,137 @@
 A# 🧬 **Attributes**
 
-Attributes represent a character’s **natural aptitude and core capabilities**.  
-They define how effectively a character can act under pressure, adapt to changing situations, and perform across different domains.
+AAttributes represent a character’s **natural aptitude and core capabilities**. They are broad baseline traits that define how effectively a character can perform under pressure, adapt to changing situations, and function across different domains.
 
-Each attribute supports **multiple skill categories**, allowing broad competence while still enabling specialization through skills.
+In most tests, an **Attribute** is combined with a [[Skills|Skill]] to determine the final bonus:
 
----
+**1d20 + Attribute + Skill**
 
-## ⚙️ **Role in the System**
+Attributes provide broad competence. Skills provide focused training and specialization.
+
+## Role in the System
 
 Attributes are used to:
 
-- modify **Action Tests**
-- influence **combat effectiveness and survivability**
-- determine how well a character performs under **time pressure and stress**
+- modify [[Core Resolution|Action Tests]]
+- shape performance under pressure
+- influence combat, survivability, and recovery
+- determine which characters are naturally better in certain situations even before training is considered
 
-👉 Attributes matter most when actions are taken under pressure—when timing, positioning, and risk become critical.
+Attributes matter most when actions are difficult, stressful, or time-sensitive.
 
----
+## Attribute Overview
 
-## ⚡ **Reflexes**
+_SOL 2349_ uses five core attributes:
 
-Reflexes measure **reaction speed, coordination in motion, and combat responsiveness**.
+- **Reflexes**
+- **Fitness**
+- **Coordination**
+- **Intellect**
+- **Presence**
 
-They determine how quickly and effectively a character can act in dynamic situations.
+Each attribute supports several skill areas and may also affect other systems such as [[Guard]], [[Health]], [[Mental Strain & Psychological Pressure]], or other derived values.
 
----
+## Reflexes
 
-### Used for:
+**Reflexes** measure reaction speed, coordination in motion, and responsiveness in fast-changing situations.
 
-- Combat (attacks, targeting, reaction speed)
-- Spacefaring (piloting, gunnery, EVA maneuvering)
+They are most important when acting quickly, tracking danger, or reacting under pressure.
 
----
+### Typically used for:
 
-### System Impact:
+- combat actions
+- targeting
+- reaction speed
+- piloting and vehicle control
+- EVA maneuvering
+- gunnery
+
+### System impact:
 
 - contributes to **Guard**
-- improves performance in **Reactive Actions**
-- critical for acting under pressure
+- improves performance in fast or reactive situations
+- supports actions where timing matters more than raw strength or technical precision
 
----
+## Fitness
 
-## 💪 **Fitness**
+**Fitness** represents physical condition, endurance, strength, and resilience.
 
-Fitness represents **physical condition, endurance, and resilience**.
+It determines how well a character performs under physical strain and how much punishment they can endure before breaking down.
 
-It determines how well a character withstands strain and continues functioning under extreme conditions.
+### Typically used for:
 
----
+- movement
+- climbing, lifting, and exertion
+- stamina and endurance
+- survival tasks
+- navigation in hostile environments
+- stealth where body control and endurance matter
 
-### Used for:
+### System impact:
 
-- Physical activity (movement, strength, stamina)
-- Survival (environmental resistance, navigation, stealth)
-
----
-
-### System Impact:
-
-- determines **Health**
+- determines or contributes to **Health**
 - contributes to **Guard**
-- improves resistance to environmental hazards
+- improves resistance to environmental stress and physical hardship
 
----
+## Coordination
 
-## 🎯 **Coordination**
+**Coordination** reflects precision, fine motor control, and careful technical execution.
 
-Coordination reflects **precision, fine motor control, and technical execution**.
+It governs a character’s ability to perform delicate, controlled, or highly accurate actions.
 
-It governs a character’s ability to manipulate systems and perform delicate actions under pressure.
+### Typically used for:
 
----
+- engineering
+- electronics
+- robotics
+- medical procedures
+- surgery and trauma care
+- precise equipment handling
 
-### Used for:
+### System impact:
 
-- Engineering (mechanics, electronics, robotics)
-- Medicine (surgery, trauma care, cybernetics)
+- improves technical and medical reliability
+- supports high-precision work under pressure
+- is important when control matters more than speed
 
----
+## Intellect
 
-### System Impact:
+**Intellect** represents analysis, technical understanding, reasoning, and problem-solving.
 
-- improves reliability of **technical and medical actions**
-- important for **equipment interaction under stress**
+It determines how well a character interprets information, understands systems, and anticipates consequences.
 
----
+### Typically used for:
 
-## 🧠 **Intellect**
+- science and research
+- diagnostics
+- system analysis
+- hacking
+- security systems
+- operations planning
 
-Intellect represents **analysis, technical understanding, and problem-solving**.
+### System impact:
 
-It determines how well a character can interpret systems, anticipate outcomes, and exploit opportunities.
+- supports complex technical and analytical tasks
+- improves interaction with advanced systems
+- is important for multi-step problem solving and informed decision-making
 
----
+## Presence
 
-### Used for:
+**Presence** reflects social ability, psychological control, composure, and influence.
 
-- Science (analysis, research, diagnostics)
-- Operations (hacking, system control, security)
+It governs how effectively a character affects other people and how well they maintain personal control under stress.
 
----
+### Typically used for:
 
-### System Impact:
+- persuasion
+- deception
+- leadership
+- intimidation
+- insight
+- psychological support and stabilization
 
-- improves efficiency in **complex or multi-step actions**
-- critical for interacting with **advanced systems**
+### System impact:
 
----
-
-## 🗣️ **Presence**
-
-Presence reflects **social ability, psychological control, and influence**.
-
-It governs how a character affects others—and how well they maintain composure under pressure.
-
----
-
-### Used for:
-
-- Social interaction (persuasion, deception, leadership)
-- Psychology (insight, stabilization, pressure)
-
----
-
-### System Impact:
-
-- improves **mental stability and recovery**
-- enables influence over other characters
-- supports **Psychological Support actions**
+- supports social influence and leadership
+- improves mental stability and recovery where applicable
+- is important for maintaining control in stressful interpersonal situations

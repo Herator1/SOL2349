@@ -1,66 +1,65 @@
-Characters in **SOL 2349** are defined by a combination of **attributes, skills, and controlled augmentation**. The system is built to represent **capable professionals operating under pressure**—individuals who are highly trained, but still vulnerable in a hostile environment.
+Characters in _SOL 2349_ are defined by a combination of **attributes, skills, and controlled augmentation**. The system is built to represent **capable professionals operating under pressure**: trained, effective, and adaptable, but still vulnerable in a hostile environment.
 
-At its core, character creation and progression use a **point-based system**. Players receive **Progress Points (PP)**, which can be freely invested to improve:
+At the core of both character creation and progression is a **point-based system**. Players invest **Progress Points (PP)** to improve:
 
-- **attributes** (natural capability)
-- **skills** (training and specialization)
-- **base stats** (survivability and system limits)
+- **attributes**, which define natural capability
+- **skills**, which reflect training and specialization
+- **base stats**, which determine survivability and system limits
 
-Costs increase with higher levels, encouraging meaningful specialization while still allowing for broad competence.
+Costs increase with higher levels, encouraging meaningful specialization without preventing broader competence.
 
-Attributes provide the foundation for all actions, while skills define **how that potential is applied**. Together, they determine how effectively a character can operate under time pressure, environmental stress, and tactical constraints.
+Attributes provide a character’s baseline potential. Skills determine how that potential is applied in practice. Together, they shape how well a character performs under time pressure, environmental stress, and tactical risk.
 
----
+## Augmentation & Specialization
 
-## 🧬 **Augmentation & Specialization**
+In addition to training, characters can enhance themselves through **implants** and **genetic modifications**.
 
-In addition to training, characters can enhance themselves through **implants and genetic modifications**.
+Implants are not broad passive upgrades. They are specialized systems tied to distinct operational domains, and each character may only combine **two implant categories**. This forces deliberate choices in how a character develops and prevents unfocused “everything builds.”
 
-Implants are not general upgrades—they are **specialized systems** tied to distinct operational domains. Each character can combine **only two implant categories**, forcing deliberate choices in how they develop.
+The result is a system that creates clear roles without formal classes, such as:
 
-This creates clear roles without rigid classes:
+- combat engineer
+- stealth operator
+- scientific analyst
+- social manipulator
 
-- a combat engineer
-- a stealth operator
-- a scientific analyst
-- a social manipulator
-
----
-
-## ⚙️ **Limits & Pressure**
+## Limits & Pressure
 
 Power in _SOL 2349_ is always constrained.
 
-- **Load** limits how often advanced systems can be used
+- **Load** limits how far implanted systems can be pushed
 - **Mod Space** limits how many implants can be installed
-- **Wounds** and **mental strain** define long-term consequences
+- **Wounds** and **mental strain** create lasting consequences
 
-Characters can push beyond their limits—but doing so introduces risk.
+Characters can exceed safe limits, but doing so always introduces risk.
 
----
-## 📈 **Progression**
+## Progression
 
-Progression follows the same system used at character creation.
+Progression follows the same point-based structure used during [[Character Creation]].
 
-- Characters earn **[[Progress Points]]** through play
-- These points are invested to improve existing capabilities or expand into new ones
+Characters earn **[[Progression & Advancement]]** through play and invest them to:
 
-Early improvements are accessible, while mastery requires significant investment.
+- deepen existing strengths
+- improve survivability or system capacity
+- expand into new skills or specializations
 
----
+Early improvements are relatively accessible, but mastery requires significant investment.
 
-## 🎯 **Design Philosophy**
+## Design Philosophy
 
-Character progression in _SOL 2349_ emphasizes:
+Character development in _SOL 2349_ is built around:
 
-- **flexibility without complexity**
-- **meaningful specialization**
-- **risk vs reward decision-making**
+- flexibility without rigid class structure
+- meaningful specialization
+- controlled growth under hard limits
+- risk-versus-reward decision-making
 
-There are no predefined classes—but every character build reflects a clear operational identity.
+Every build should reflect a clear operational identity, even without predefined classes.
 
-[[Attributes]]
-[[Base Stats]]
-[[Skills]]
-[[Progress Points]]
+## See also
+
+[[Attributes]]  
+[[Base Stats]]  
+[[Skills]]  
+[[Progression & Advancement]]  
 [[Character Creation]]

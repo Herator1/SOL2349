@@ -1,89 +1,81 @@
-The rules of _SOL 2349_ rely on only two types of dice: **d20** and **d6**. The **d20** is used for almost all action tests, while **d6** are primarily used for **damage, random tables, and other small effects**. 
+# Core Resolution
 
-## 🎲 **Action Tests**
+The rules of _SOL 2349_ use only two types of dice: **d20** and **d6**.
 
-When a character attempts an action with an uncertain outcome, the player rolls:
+- **d20** is used for almost all action tests
+- **d6** is mainly used for **damage, random tables, and other small effects**
 
-👉 **1d20 + Attribute + Skill**
+## Action Tests
 
-The result is compared to a **Difficulty (DC)** set by the Game Master.
+When a character attempts something with an uncertain outcome, roll:
+
+**1d20 + Attribute + Skill**
+
+Compare the result to a **Difficulty (DC)** set by the GM.
 
 - If the result **meets or exceeds the DC**, the action succeeds
-- Otherwise, it fails or succeeds with complications (GM discretion)
+- If it is lower, the action fails or succeeds with complications, depending on the situation and GM ruling
 
----
-## ⚙️ **When to Roll**
+## When to Roll
 
-Not every action requires a roll.
+Not every action requires a test.
 
-- Routine actions succeed automatically
-- Rolls are only made when:
-    - the outcome is uncertain
-    - there is meaningful risk
-    - the situation is under pressure (e.g. combat, hazards)
+Routine actions succeed automatically. Roll only when:
 
-👉 This keeps gameplay **fast and focused on decisions**, not dice.
+- the outcome is uncertain
+- failure would matter
+- the situation is dangerous, contested, or under pressure
 
----
+This keeps play focused on meaningful decisions rather than unnecessary dice rolls.
 
-## ⚖️ **Tactical Edge & Setback**
+## Tactical Edge and Setback
 
-Circumstances may provide an advantage or disadvantage:
+Circumstances can improve or worsen a roll:
 
-- **Tactical Edge** → roll **2d20**, keep the higher result
-- **Setback** → roll **2d20**, keep the lower result
+- **Tactical Edge:** roll **2d20** and keep the higher result
+- **Setback:** roll **2d20** and keep the lower result
 
-Only one of these applies at a time.
+A test can normally benefit from only one of these at a time. If both would apply, they cancel each other out.
 
----
-
-## 🔁 **Rerolls**
+## Rerolls
 
 Some abilities, equipment, or narrative advantages allow a **reroll**.
 
-- A reroll **completely replaces** the original result
-- The new result must be used, even if worse
-- A character can only **reroll once per test**
+- A reroll completely replaces the original result
+- The new result must be used, even if it is worse
+- A character can only reroll **once per test**
 
----
+If the original test used **Tactical Edge** or **Setback**, reroll the test under the same conditions unless a rule says otherwise.
 
-## 💥 **Critical Results**
+## Critical Results
 
-Two results on the d20 are always special:
+A natural d20 roll of **20** or **1** is always special.
 
-- **Natural 20 — Critical Success**  
-    The action succeeds automatically and produces an exceptional or advantageous outcome.
-- **Natural 1 — Critical Failure**  
-    The action fails automatically and creates a complication or negative consequence.
+- **Natural 20: Critical Success**  
+    The action succeeds automatically and produces an especially strong, efficient, or advantageous outcome.
+- **Natural 1: Critical Failure**  
+    The action fails automatically and creates a complication, setback, or negative consequence.
 
-The exact effects are determined by the Game Master.
+The exact effect depends on the situation and is determined by the GM.
 
+### Critical Hits in Combat
 
-## 💥 **Critical Success (Combat)**
+If an **attack roll** results in a natural 20, it is a critical success and also deals additional damage:
 
-When an attack roll results in a **natural 20**:
+**Double the number of damage dice rolled.**
 
-👉 **Double the number of damage dice rolled**
+- Double the dice, not flat modifiers
+- Roll all doubled dice normally
 
-- Modifiers are **not doubled**
-- Only the dice are doubled
+**Example:**  
+A weapon that normally deals **2d6** damage deals **4d6** on a critical hit.
 
----
+## Action Economy and Load
 
-### 🧪 Example:
+Action tests are usually performed as part of the [[Time & Actions]].
 
-- Weapon deals **2d6 damage**
-- Critical hit → **4d6 damage**
+- Most tests require **1 Action**
+- Repeated actions in the same round may become less efficient or more costly
+- High [[Load]] can make actions harder, riskier, or less sustainable
 
----
-
-## 🔗 **Interaction with Actions & Load**
-
-Action tests are always tied to the **Action Economy**.
-
-- Each test usually requires **1 Action**
-- Repeated actions in the same round may suffer penalties or increased cost
-- High **Load** can make actions more difficult or risky
-
-👉 This means that success is not only about the roll, but also about  
-**when and how often you choose to act**
+Success in _SOL 2349_ depends not only on the roll itself, but also on **when**, **how often**, and **under what strain** a character chooses to act.

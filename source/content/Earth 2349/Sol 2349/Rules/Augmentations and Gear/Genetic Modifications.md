@@ -1,55 +1,45 @@
-Genemods are permanent biological adaptations engineered to help humans survive and operate in the harsh environments of space. Unlike implants, they are not activated, do not consume Load, and cannot be switched off. They are always present—subtle, constant, and defining.
+Genemods are **permanent biological adaptations** engineered to help humans survive and function in the harsh environments of space. Unlike [[Implants]], they are always active, generate **no [[Load]]**, and cannot normally be switched off or removed.
 
-These modifications emerged out of necessity. Long-term exposure to low gravity, radiation, isolation, and extreme environments pushed human physiology beyond its natural limits. Over time, genetic optimization became standard practice in certain populations, especially among deep-space workers, station-born generations, and specialized crews.
+They are not conventional upgrades, but **biological trade-offs**. Every Genemod improves performance in one area while creating a meaningful drawback somewhere else. A body adapted for one environment, one stress pattern, or one operational role often becomes worse at something else.
 
-However, every adaptation comes at a cost.
+Genemods shape not only capability, but identity. They influence how a character moves, reacts, recovers, and copes with pressure.
 
-Genemods are not upgrades in the traditional sense. They represent trade-offs—shifts in biology that improve performance in one area while reducing capability in another. A body optimized for low gravity struggles under planetary conditions. A mind stabilized against stress may lose emotional nuance. Enhanced resistance often comes at the expense of sensitivity or efficiency elsewhere.
+## Rules
 
-Because of this, Genemods define identity as much as capability. They shape how a character moves, reacts, and survives—but also what they struggle with.
+- Maximum: **3 total**
+- At character creation: **up to 2**
+- Genemods are **always active**
+- Genemods require **no Actions**
+- Genemods generate **no Load**
+- Genemods do **not** use [[Mod Space]]
+- Identical Genemods do not stack
 
-Unlike implants, Genemods cannot be activated on demand. They are always in effect.
+## Genemod List
 
----
-# 🧬 **Genetic Modifications (Genemods)**
+|Genemod|Category|Effect|Drawback|
+|---|---|---|---|
+|**Low-G Physiology**|Physical|Gain **Tactical Edge** on movement-related checks in low gravity or zero-g|Suffer **Setback** on physical checks in full gravity|
+|**Radiation Adaptation**|Survival|Ignore minor ambient radiation effects|Recover **1 less Health** during each rest|
+|**Oxygen Efficiency**|Survival|Double safe EVA duration under normal exertion|Suffer **−2** on high-exertion physical checks|
+|**Neural Acceleration**|Psychology|Gain **+1** on reaction-based checks and initiative-related rulings|Gain **1 Mental Condition** when suffering a critical mental or overload-related shock, if applicable|
+|**Pain Suppression**|Medicine|Ignore penalties from the **first Wound**|Suffer **−2** on hazard awareness or injury-awareness checks|
+|**Emotional Dampening**|Psychology|Mental strain counts as **1 level lower** for penalty purposes|Suffer **−2** on **Persuasion** and **Insight**|
+|**Muscle Density**|Physical|Gain **+2** on strength-based physical checks|Suffer **−2** on **Endurance** checks|
+|**Enhanced Vision**|Science|Gain **Tactical Edge** on visual perception checks|Suffer **Setback** in extremely bright environments|
+|**Toxin Resistance**|Medicine|Gain **Tactical Edge** on checks or saves against toxins|Stims and similar combat drugs are only **half as effective**|
+|**Social Conditioning**|Social|Gain **Tactical Edge** on **Command** checks involving authority or discipline|Suffer **−2** on **Deception**|
+|**Aggression Enhancer**|Psychology|Gain **+2** on **Intimidation** and **+1 weapon damage die** on the first successful melee hit each turn|When forced to disengage, surrender initiative, or hold back under pressure, suffer **1 Mental Condition** if the GM judges the trigger significant|
+|**Sleep Reduction**|Survival|An **Extended Rest** only requires **4 hours** of sleep or downtime|Recover **1 less Health** during each rest|
+|**Accelerated Healing**|Medicine|Recover **+2 Health** during each rest and reduce medical recovery times where applicable|Take **+1 damage** from physical hits|
+|**Enhanced Memory**|Science|Perfect recall; gain **Tactical Edge** on knowledge recall and information retention checks|Suffer **−2** on fast decision-making or reaction-based checks|
+|**Night Vision**|Survival|Ignore vision penalties from darkness or very low light|Suffer **Setback** in bright light|
+|**Infrared Perception**|Science|Detect heat signatures and recent thermal traces|Suffer **−2** on checks requiring fine visual detail|
+|**Radiation Vision**|Science|Detect nearby radiation sources and irradiated objects|Suffer **Setback** on perception checks in high-radiation environments|
 
-Genemods are **permanent biological adaptations**.  
-They are always active, cost **no Load**, and cannot be switched off.
+## Design Note
 
-👉 Each Genemod provides:
+Genemods should remain **clear, passive, and double-edged**. They are strongest when they:
 
-- **one meaningful benefit**
-- **one clear drawback**
-
----
-
-## 📊 **Rules**
-
-- Max: **3 total**
-- At creation: **up to 2**
-- No stacking identical effects
-- Always active (no actions, no Load)
-
----
-
-# 📦 **Genemod List 
-
-| Genemod              | Category   | Effect                                                | Drawback                                                  |
-| -------------------- | ---------- | ----------------------------------------------------- | --------------------------------------------------------- |
-| Low-G Physiology     | Physical   | Tactical Edge on movement in low/zero-G               | Complication on physical checks in full gravity           |
-| Radiation Adaptation | Survival   | Ignore low-level radiation effects                    | −1 Health recovered per rest                              |
-| Oxygen Efficiency    | Survival   | EVA duration ×2                                       | Tactical Edge lost on high-exertion rolls                 |
-| Neural Acceleration  | Psychology | +1 to checks that are based on fast reaction          | +1 Stress critical failures                               |
-| Pain Suppression     | Medicine   | Ignore penalties of first Wound                       | -2 on any check for hazard awareness                      |
-| Emotional Dampening  | Psychology | Stress levels count as being one lower                | −2 on Persuasion & Insight                                |
-| Muscle Density       | Physical   | +2 on strength-based rolls                            | −2 on Endurance checks                                    |
-| Enhanced Vision      | Science    | Tactical Edge on visual perception                    | Complication in bright environments                       |
-| Toxin Resistance     | Medicine   | Tactical Edge vs toxins                               | Stims −50% effectiveness                                  |
-| Social Conditioning  | Social     | Tactical Edge on Command & authority                  | −2 on Deception                                           |
-| Aggression Enhancer  | Psychology | +2 Intimidation, +1 melee damage die (first hit/turn) | +1 Stress when disengaging / holding back                 |
-| Sleep Reduction      | Survival   | Short Rest requires no sleep / Long Rest = 4h         | −1 Health recovered per rest                              |
-| Accelerated Healing  | Medicine   | +2 Health per rest, faster Wound recovery             | +1 damage taken from physical hits                        |
-| Enhanced Memory      | Science    | Perfect recall, Tactical Edge on knowledge recall     | −2 on fast decision / reaction checks                     |
-| Night Vision         | Survival   | See in darkness, no penalties                         | Complication in bright light                              |
-| Infrared Perception  | Science    | Detect heat signatures                                | −2 on fine detail vision                                  |
-| Radiation Vision     | Science    | Detect radiation sources                              | Complication on perception check in high rad environments |
+- create a distinct biological profile
+- change how a character behaves in play
+- offer real advantages without becoming strictly better than implants

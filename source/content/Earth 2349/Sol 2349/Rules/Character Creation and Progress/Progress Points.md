@@ -1,33 +1,47 @@
-# 📈 **Progression & Advancement**
+**Progress Points (PP)** are the core resource used for **character creation** and **advancement** in _SOL 2349_.
 
-Characters in _SOL 2349_ improve through **Progress Points (PP)**.
-These represent experience gained through:
-- missions
-- problem-solving
-- meaningful decisions under pressure
+They represent training, experience, adaptation, and hard-earned improvement under pressure.
 
----
-Progress Points are used to improve:
-- **Skills**
-- **Attributes**
-- **Base Stats**
-- **Augmentation capacity**
+Characters spend PP to improve their abilities over time and to define their strengths during character creation.
 
----
+## What PP Are Used For
 
-## ⚙️ **Advancement**
-Improving a value costs a number of Progress Points equal to the **next level**.
-👉 **Cost = next level**
-This creates a progressive system:
+Progress Points can be spent to improve:
 
-- early improvements are cheap
-- higher levels require significant investment
+- [[Attributes]]
+- [[Skills]]
+- selected [[Base Stats]]
+- long-term specialization and system capacity, where allowed
 
----
+PP are used both:
 
-## 🎯 **Skill Advancement**
+- during [[Character Creation]]
+- and later during [[Progression & Advancement]]
 
-|Level|Total Cost|
+## Core Cost Rule
+
+Improving a value costs PP based on the **next level**.
+
+**Standard Cost:**  
+**Cost = next level**
+
+This means early improvements are cheap, while higher levels become increasingly expensive.
+
+### Example
+
+To raise a Skill:
+
+- from **0 to 1** costs **1 PP**
+- from **1 to 2** costs **2 PP**
+- from **2 to 3** costs **3 PP**
+
+Total cost from **0 to 3** is therefore **6 PP**.
+
+## Skill Costs
+
+Skills use the standard progression rule.
+
+|Skill Level|Total Cost|
 |---|---|
 |0 → 1|1|
 |0 → 2|3|
@@ -37,68 +51,68 @@ This creates a progressive system:
 |0 → 6|21|
 |0 → 7|28|
 
----
+## Attribute Costs
 
-## 🧠 **Attribute Advancement**
+Attributes improve more slowly than skills.
 
-Attributes follow the same progression, but cost:
+**Attribute Cost = 2 × next level**
 
-👉 **2 × next level**
+This makes broad natural capability more expensive than focused specialization.
 
----
+## Base Stat Costs
 
-## ⚙️ **Improving Base Stats**
+Some [[Base Stats]] can also be improved through PP.
 
-Base Stats can also be improved—but not all equally.
+As a baseline:
 
----
+- **Health** uses standard progression
+- **Maximum Load** uses double progression
+- **Maximum Wounds** uses double progression
+- **Mod Space** uses double progression
+- **Guard** cannot be purchased directly
 
-### ❤️ Health
+See [[Progression & Advancement]] and [[Base Stats]] for details.
 
-- improves durability
-- moderate cost (standard progression)
+## PP in Character Creation
 
----
+At character creation, each character receives:
 
-### 🔥 Load
+**50 PP**
 
-- increases system capacity, 2x cost
-- high-impact stat → GM may limit or increase cost
+These are used to build the character from the starting baseline.
 
----
+See [[Character Creation]].
 
-### 🩸 Wounds
+## PP During Play
 
-- increases survivability threshold, 2x cost
-- should be **expensive and rare**
+During play, characters earn additional PP through advancement.
 
----
+PP may be awarded for:
 
-### 🧬 Mod Space
+- missions completed
+- meaningful achievements
+- survival under pressure
+- problem-solving
+- major story progress
+- other GM-defined milestones
 
-- increases augmentation capacity 2x cost
-- directly affects build potential
-- should be **tightly controlled**
+The exact pace of PP gain is determined by the GM and the campaign style.
 
----
+## Design Role
 
-👉 Guard is not purchased directly  
-(it is derived dynamically)
+PP are meant to support:
 
----
+- flexible character building
+- meaningful specialization
+- steady long-term growth
+- hard trade-offs between breadth and depth
 
-## 🧬 **Implants & Progression**
+They are the main progression currency of the system.
 
-Implants are not improved through levels, but through:
+## Related Pages
 
-- unlocking new systems
-- expanding Mod Space
-- combining categories
-
----
-### Category Rule
-
-- Characters are limited to **2 implant categories**
-- This does **not change through progression**
-
----
+- [[Character Creation]]
+- [[Progression & Advancement]]
+- [[Attributes]]
+- [[Skills]]
+- [[Base Stats]]

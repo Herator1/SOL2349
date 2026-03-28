@@ -1,236 +1,188 @@
-I# 🔫 Weapons
+In _SOL 2349_, weapons are tools adapted to different operational environments: **pressurized habitats, spacecraft, industrial stations, and open vacuum**.
 
-In _SOL 2349_, weapons are tools adapted to different environments:
+Weapon choice is not only about damage. It is also about:
 
-- pressurized habitats
-- spacecraft
-- open vacuum
+- control
+- reliability
+- environmental safety
+- legality
+- tactical role
 
-Weapon choice is not only about damage, but about:
+In confined or fragile environments, even a missed shot can be dangerous. Many organizations therefore restrict weapon use or require **safe-rated** equipment designed to reduce structural risk.
 
-- **control**
-- **risk**
-- **environmental impact**
+## Core Weapon Rules
 
-In confined spaces, even small arms can be dangerous. Missed shots may cause collateral damage or structural failure. Many organizations therefore restrict weapon use or require **safe-rated equipment**.
+Weapons are primarily defined by:
 
----
-
-# ⚙️ Weapon Mechanics
-
-Weapons are defined by:
-
-- **Damage (d6-based)**
+- **Damage** (usually in d6)
 - **Range**
 - **Fire Modes**
 - **Traits**
 
-Combat effectiveness depends on:
+Combat performance still depends heavily on:
 
-- positioning
-- action economy
+- [[Combat|positioning]]
+- [[Time & Actions|action economy]]
+- [[Defense, Cover & Positioning|cover and exposure]]
 - fire mode selection
-- situational control
+- tactical timing
 
----
+## Fire Modes
 
-## 🔁 Fire Modes
+Some ranged weapons support multiple fire modes:
 
-Weapons may support:
+- **S** — Single Shot
+- **B** — Burst Fire
+- **FA** — Full Auto
 
-- **S** → Single Shot
-- **B** → Burst
-- **FA** → Full Auto
+These modes are explained in [[Fire Modes]].
 
-Fire modes determine how a weapon behaves in combat and interact directly with the action system.
-
----
-
-# 🧠 Weapon Traits
+## Weapon Traits
 
 |Trait|Effect|
 |---|---|
-|**AP X**|Reduces Armor by X|
-|**Safe**|Cannot cause structural damage or decompression|
-|**Non-lethal**|Does not deal Health damage, applies **Mental Condition +1** instead|
-|**Area**|Affects multiple targets|
-|**Energy**|Ignores certain physical limitations (GM discretion)|
-|**Assisted**|Ignores movement penalties or gains Edge vs moving targets|
-|**Silent**|No detectable sound signature|
-|**Spread**|Gains Edge at close range (≤10 m)|
-
----
-
-# 🔫 Weapon Overview
-
----
+|**AP X**|Reduce the target’s Armor contribution to Guard by **X** for this attack|
+|**Safe**|Designed to minimize structural penetration; cannot normally cause decompression or major structural breach|
+|**Non-lethal**|Still damages **Guard** normally, but if it would deal Health damage, it applies its listed non-lethal effect instead|
+|**Area**|Can affect multiple targets in a zone; see Area Attacks below|
+|**Energy**|Uses directed energy rather than conventional ballistic impact; may interact differently with some targets or hazards|
+|**Assisted**|Gains **Tactical Edge** or ignores movement-related penalties when tracking moving targets, as specified by the weapon|
+|**Silent**|Produces little or no conventional sound signature|
+|**Spread**|Gains **Tactical Edge** at close range, usually **10 m or less**|
+|**Suppression**|Can be used especially effectively with suppressive fire rules, if the mode or weapon allows|
 
 ## Pistols & Sidearms
 
-| Weapon          | Dmg | Range | Modes | Traits           |
-| --------------- | --- | ----- | ----- | ---------------- |
-| Service Pistol  | 2d6 | 30 m  | S     | —                |
-| Smart Pistol    | 2d6 | 30 m  | S     | Assisted         |
-| Silenced Pistol | 2d6 | 20 m  | S     | Silent           |
-| Riot Sidearm    | 1d6 | 10 m  | S     | Non-lethal, Safe |
-
----
+|Weapon|Dmg|Range|Modes|Traits|Cost|
+|---|---|---|---|---|---|
+|**Service Pistol**|2d6|30 m|S|—|0.1–0.2 SOL|
+|**Smart Pistol**|2d6|30 m|S|Assisted|0.3–0.5 SOL|
+|**Silenced Pistol**|2d6|20 m|S|Silent|0.3–0.4 SOL|
+|**Riot Sidearm**|1d6|10 m|S|Non-lethal, Safe|0.1–0.3 SOL|
 
 ## Rifles
 
-|Weapon|Dmg|Range|Modes|Traits|
-|---|---|---|---|---|
-|Assault Rifle|3d6|60 m|S, B, FA|—|
-|Compact Carbine|3d6|30 m|S, B|—|
-|Laser Rifle|3d6|60 m|S, B|Energy|
-|Marksman Rifle|3d6|120 m|S|—|
-
----
+|Weapon|Dmg|Range|Modes|Traits|Cost|
+|---|---|---|---|---|---|
+|**Assault Rifle**|3d6|60 m|S, B, FA|—|0.5–0.8 SOL|
+|**Compact Carbine**|3d6|30 m|S, B|—|0.4–0.6 SOL|
+|**Laser Rifle**|3d6|60 m|S, B|Energy|4–6 SOL|
+|**Marksman Rifle**|3d6|120 m|S|—|0.6–1.0 SOL|
 
 ## Precision Weapons
 
-|Weapon|Dmg|Range|Modes|Traits|
-|---|---|---|---|---|
-|Sniper Rifle|4d6|120–300 m|S|AP 1|
-|Rail Sniper|6d6|300 m|S|Ignore Armor|
-
----
+|Weapon|Dmg|Range|Modes|Traits|Cost|
+|---|---|---|---|---|---|
+|**Sniper Rifle**|4d6|120–300 m|S|AP 1|5–10 SOL|
+|**Rail Sniper**|6d6|300 m|S|AP 3|12–25 SOL|
 
 ## Heavy Weapons
 
-|Weapon|Dmg|Range|Modes|Traits|
-|---|---|---|---|---|
-|LMG|4d6|60–120 m|B, FA|Suppression, AP 1|
-|Grenade Launcher|4d6|60 m|S|Area|
-|Rocket Launcher|6d6|60–120 m|S|Area, AP 2|
-
----
+|Weapon|Dmg|Range|Modes|Traits|Cost|
+|---|---|---|---|---|---|
+|**LMG**|4d6|60–120 m|B, FA|Suppression, AP 1|1.2–2.0 SOL|
+|**Grenade Launcher**|4d6|60 m|S|Area|1.0–1.5 SOL|
+|**Rocket Launcher**|6d6|60–120 m|S|Area, AP 2|10–20 SOL|
 
 ## Close Combat & Boarding
 
-|Weapon|Dmg|Range|Modes|Traits|
-|---|---|---|---|---|
-|Boarding Shotgun|4d6|10 m|S|Spread, Safe|
-|Combat Knife|1d6|Melee|—|—|
-|Shock Baton|1d6|Melee|—|Non-lethal, Safe|
-|Monoblade|3d6|Melee|—|AP 1|
-
----
+|Weapon|Dmg|Range|Modes|Traits|Cost|
+|---|---|---|---|---|---|
+|**Boarding Shotgun**|4d6|10 m|S|Spread, Safe|0.4–0.7 SOL|
+|**Combat Knife**|1d6|Melee|—|—|0.02–0.05 SOL|
+|**Shock Baton**|1d6|Melee|—|Non-lethal, Safe|0.1–0.2 SOL|
+|**Monoblade**|3d6|Melee|—|AP 1|3–6 SOL|
 
 ## Industrial / Improvised
 
-|Weapon|Dmg|Range|Modes|Traits|
+|Weapon|Dmg|Range|Modes|Traits|Cost|
+|---|---|---|---|---|---|
+|**Plasma Cutter**|4d6|Melee|—|AP 2, Energy|0.5–1.0 SOL|
+|**Arc Welder**|3d6|Melee|—|Energy|0.2–0.5 SOL|
+|**Heavy Tool**|2d6|Melee|—|—|negligible|
+
+## Grenades and Tactical Charges
+
+|Item|Dmg|Range|Traits|Cost|
 |---|---|---|---|---|
-|Plasma Cutter|4d6|Melee|—|Ignore Armor|
-|Arc Welder|3d6|Melee|—|Energy|
-|Heavy Tool|2d6|Melee|—|—|
+|**Frag Grenade**|4d6|30 m|Area|0.1–0.2 SOL|
+|**Stun Grenade**|—|30 m|Area, Non-lethal|0.1–0.3 SOL|
+|**Smoke Grenade**|—|30 m|Area, Utility|0.05–0.1 SOL|
+|**Tear Gas Grenade**|—|30 m|Area, Non-lethal|0.1–0.2 SOL|
+|**Plasma Grenade**|5d6|30 m|Area, AP 1|2–5 SOL|
 
----
+## Area Attacks
 
-## Grenades
+Weapons or items with the **Area** trait affect multiple targets in a zone.
 
-|Grenade|Dmg|Range|Traits|
-|---|---|---|---|
-|Frag Grenade|4d6|30 m|Area|
-|Stun Grenade|—|30 m|Area, Non-lethal|
-|Smoke Grenade|—|30 m|Area|
-|Tear Gas|—|30 m|Area, Non-lethal|
-|Plasma Grenade|5d6|30 m|Area, AP 1|
+As a default rule:
 
----
+- target a defined area, usually around **5 m**
+- make one attack roll
+- compare that roll separately against each target’s DC
+- targets in **full cover** are unaffected
+- area attacks usually deal **−1 damage die**
 
-# ⚙️ Special Rules
+If a specific weapon or explosive says otherwise, follow its own rule.
 
----
+## Non-lethal Weapons
 
-## 💨 Area Attacks
+Non-lethal weapons are designed to disable, suppress, or incapacitate rather than cause lethal trauma.
 
-Area attacks:
+As a default:
 
-- affect multiple targets
-- targets in full cover are unaffected
-- deal **−1 damage die**
+- they damage **Guard** normally
+- when they would deal Health damage, they instead apply the weapon’s non-lethal effect
 
----
+Typical non-lethal effects may include:
 
-## 🧠 Non-lethal Effects
+- **+1 Mental Condition**
+- temporary incapacity
+- forced surrender or loss of control
+- loss of Actions on the next turn
 
-Non-lethal weapons:
+The exact effect should be listed by the weapon or grenade where relevant.
 
-- do not deal Health damage
-- instead apply **Mental Condition +1**
-- may stack up to maximum condition level
+## Environmental and Tactical Effects
 
----
+Some weapons and charges create conditions that matter beyond direct damage.
 
-## 🌫️ Environmental Effects
+Examples:
 
-Some weapons create lasting effects:
+- **Smoke** creates heavily obscured space and may impose **Setback**
+- **Tear Gas** can apply rising **Mental Conditions** while targets remain exposed
+- **EMP** may disable or disrupt electronics and implants, depending on shielding and target type
 
-- Smoke → applies **Complication** in the area
-- Tear Gas → applies **Mental Condition +1 per turn (max 3)**
-- EMP → disables systems or applies Complication
+If these effects are also listed under [[Consumables]], use the more specific entry.
 
----
+## Safe-Rated Weapons
 
-# 💰 Weapon Costs
+Weapons with the **Safe** trait are designed for use in sensitive environments such as spacecraft, stations, and pressurized facilities.
 
----
+They are intended to:
 
-## Pistols & Sidearms
+- reduce overpenetration
+- avoid structural breach
+- minimize decompression risk
 
-- Service Pistol → 0.1–0.2 SOL
-- Smart Pistol → 0.3–0.5 SOL
-- Silenced Pistol → 0.3–0.4 SOL
-- Riot Sidearm → 0.1–0.3 SOL
+This does not make them harmless. It means they are less likely to compromise the environment itself.
 
----
+## Weapon Availability
 
-## Rifles
+Weapon access depends heavily on location, faction, legality, and environment.
 
-- Assault Rifle → 0.5–0.8 SOL
-- Compact Carbine → 0.4–0.6 SOL
-- Laser Rifle → 4–6 SOL
-- Marksman Rifle → 0.6–1.0 SOL
+As a rough rule:
 
----
+- sidearms and common rifles are broadly available where legal
+- military precision and heavy weapons are restricted
+- advanced energy weapons are expensive and controlled
+- safe-rated security weapons are common in pressurized infrastructure
+- industrial tools may be easier to obtain than military weapons, but may still be dangerous
 
-## Precision Weapons
+## Related Pages
 
-- Sniper Rifle → 5–10 SOL
-- Rail Sniper → 12–25 SOL
-
----
-
-## Heavy Weapons
-
-- LMG → 1.2–2.0 SOL
-- Grenade Launcher → 1.0–1.5 SOL
-- Rocket Launcher → 10–20 SOL
-
----
-
-## Close Combat
-
-- Boarding Shotgun → 0.4–0.7 SOL
-- Combat Knife → 0.02–0.05 SOL
-- Shock Baton → 0.1–0.2 SOL
-- Monoblade → 3–6 SOL
-
----
-
-## Industrial
-
-- Plasma Cutter → 0.5–1.0 SOL
-- Arc Welder → 0.2–0.5 SOL
-- Heavy Tool → negligible
-
----
-
-## Grenades
-
-- Frag → 0.1–0.2 SOL
-- Stun → 0.1–0.3 SOL
-- Smoke → 0.05–0.1 SOL
-- Tear Gas → 0.1–0.2 SOL
-- Plasma → 2–5 SOL
+- [[Combat]]
+- [[Fire Modes]]
+- [[Consumables]]
+- [[Environmental Hazards]]
+- [[Defense, Cover & Positioning]]

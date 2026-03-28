@@ -1,112 +1,89 @@
-# 🔫 **Fire Modes**
+# Fire Modes
 
-Weapons can be used in different **fire modes**, chosen per attack.
+Many ranged weapons in _SOL 2349_ can be used in different **fire modes**, chosen separately for each attack.
 
-Each mode trades **precision, control, and resource cost** against each other.
+Each mode trades **precision, control, and ammunition pressure** against increased effect.
 
----
 ## Standard Fire Modes
 
 |Mode|Cost|Effect|
 |---|---|---|
-|**Single Shot**|1 Action|No modifier. Standard attack.|
-|**Burst Fire**|1 Action|Choose one: **+2 to hit** OR **+1d6 damage**|
+|**Single Shot**|1 Action|Standard attack with no modifier|
+|**Burst Fire**|1 Action|Choose either **+2 to hit** or **+1d6 damage**|
 |**Full Auto**|1 Action|See below|
----
-# 🔥 **Full Auto**
 
-Full auto represents **overwhelming fire volume**, not precision.
+## Full Auto
 
----
+Full auto represents **overwhelming fire volume**, not careful precision.
 
-## Requirements
+It is powerful, but difficult to control and rapidly depletes available ammunition.
 
-- Cannot be used while **Low Ammo** is active
+### Requirements
 
----
+- Full Auto cannot be used while **Low Ammo** is active
 
-## Core Effects
+### Core Effects
 
-- Apply **−2 to hit**
-- **Take Aim has no effect**
-- Automatically applies **Low Ammo**
+When using Full Auto:
 
----
-## Choose one mode:
+- apply **−2 to the attack roll**
+- **Take Aim** provides no benefit
+- the weapon immediately gains **Low Ammo** after the attack is resolved
 
----
+When declaring Full Auto, choose one of the following modes:
 
-### 🟥 A) **High Impact Fire**
+### High Impact Fire
 
-- On hit:  
-    → deal **+1 weapon damage die**
-- On critical:  
-    → **double total dice as normal (no stacking bonus)**
+Concentrated automatic fire against a single target.
 
-👉 Example:  
-2d6 → **3d6**  
-Crit → **6d6**
+- On a hit, add **+1 weapon damage die**
+- On a critical hit, double the total number of damage dice as normal
 
----
-👉 Wichtig:
+**Example:**  
+A weapon that normally deals **2d6** damage deals **3d6** with High Impact Fire.  
+On a critical hit, it deals **6d6**.
 
-- kein Auto-Crit mehr
-- bleibt stark, aber kontrollierbar
+### Suppressive Fire
 
----
-### 🟣 B) **Suppressive Fire**
+Suppressive fire is used to pin a target down and punish exposure rather than to maximize immediate damage.
 
-- Target suffers **Complication**
-- If the target:
-    - leaves cover
-    - or attacks
+- The target suffers **Setback** on attacks made before the start of your next turn
+- If the target **leaves cover** or **makes an attack** before the start of your next turn, you may spend **1 Action** to immediately make a follow-up attack against that target
 
-👉 attacker may spend **1 Action** to immediately attack again
+This follow-up attack:
 
-- This counts as a **Reactive Action**
-- Applies normal diminishing penalties
+- counts as a **Reactive Action**
+- requires line of sight and a valid shot at the moment of the trigger
+- suffers normal penalties for Reactive Attacks and diminishing returns
 
----
-👉 sauber in dein System integriert
+A target can only trigger one such follow-up attack from the same suppressive fire effect unless a rule says otherwise.
 
----
-### 🟦 C) **Area Fire**
+### Area Fire
 
-- Target a **5m area**
-- Make one attack roll
+Area fire saturates a small zone with automatic fire.
 
-Each target:
+- Target a **5 m area**
+- Make **one attack roll**
+- Compare that roll separately against each target’s DC
+- Targets in **full cover** are immune
+- Targets in the area gain **+2 DC** to represent dispersed fire and partial evasive movement
+- Damage is reduced by **−1 weapon damage die** against all targets hit  
+    (minimum **1 damage die**, unless the weapon says otherwise)
 
-- must beat the roll (or is hit)
-- or is attacked separately (GM choice)
+Area Fire is useful for threatening multiple targets, but does less focused damage than direct fire.
 
-Targets:
+## Low Ammo
 
-- gain **+2 DC from movement/cover abstraction**
-- full cover = immune
+**Low Ammo** represents reduced fire discipline, depleted magazines, heat buildup, or other ammunition-related strain after sustained fire.
 
-Damage:
-
-- **−1 damage die**
-
----
-👉 wichtig:
-
-- Multi-target = weniger Damage
-- kein Free DPS Boost
-
----
-# ⚙️ **Low Ammo**
-
-Triggered automatically by **Full Auto**
-
----
 ### Effect
 
-- **−2 to all attacks**
+While **Low Ammo** is active:
 
----
+- suffer **−2 to all attack rolls** with that weapon
+
 ### Recovery
 
-- **Reload (1 Action)**  
-    → removes Low Ammo
+**Reload** costs **1 Action** and removes **Low Ammo**.
+
+This does not necessarily represent a literal full magazine change every time. It may also reflect chambering, feed correction, cooling, or regaining firing control, depending on the weapon.

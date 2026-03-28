@@ -1,54 +1,93 @@
-# 🧬 **Character Creation**
+Character creation in _SOL 2349_ uses a **fully open point-buy system**.
 
-Character creation in _SOL 2349_ is based on a **fully open, point-based system**.
+All characters begin from the same baseline. Players then spend **Progress Points (PP)** to shape their character through attributes, skills, and other core options.
 
-Players begin from a neutral baseline and shape their character by investing **Progress Points** into attributes, skills, and core capabilities.
+There are no predefined classes. A character’s role emerges naturally from their **attributes, skills, implants, and other upgrades**.
 
-There are no predefined classes—but choices in **attributes, skills, and implants** will naturally define a character’s role.
+## Character Creation Overview
 
----
-## ⚙️ **Starting Values**
+Create a character in the following order:
 
-All characters begin with the same baseline:
+1. start from the baseline values
+2. spend **50 Progress Points**
+3. increase attributes, skills, and any allowed base stats
+4. choose implant categories
+5. select implants and genemods if available
+6. calculate final derived stats
+7. complete equipment and other finishing details
 
----
-### 🧠 **Attributes**
+## Starting Baseline
 
-All attributes start at **1**
+All characters begin with the same baseline.
 
----
-### 🎯 **Skills**
+### Attributes
 
-All skills start at **0**
+All attributes start at **1**.
 
----
-### ❤️ **Base Stats**
+### Skills
 
-|Stat|Base Value|
+All skills start at **0**.
+
+### Fixed Base Values
+
+|Stat|Starting Value|
 |---|---|
-|Guard|0 (derived)|
-|Health|8|
-|Load|5|
-|Wounds|3|
+|Maximum Wounds|3|
 |Mod Space|5|
 
----
-👉 Guard is calculated dynamically based on:
+### Derived Stats
 
-- attributes
-- positioning
-- equipment
+Some Base Stats are not fixed and must be calculated after attributes are finalized.
 
----
+Use the normal formulas from [[Base Stats]]:
 
-## 🧬 **Implant System (Core Identity)**
+- **Guard = Reflexes + Fitness + Armor**
+- **Health = 8 + (2 × Fitness)**
+- **Maximum Load = 5 + Intellect**
 
-Characters can integrate advanced augmentations—but only within strict limits.
+Because all attributes start at **1**, an unmodified starting character has at least:
 
----
-### ⚙️ **Categories**
+- **Health 10**
+- **Maximum Load 6**
 
-Implants are grouped into **10 categories**:
+Starting **Guard** depends on attributes and worn armor or equipment.
+
+## Progress Points
+
+At character creation, each player receives:
+
+**50 Progress Points**
+
+These may be spent on:
+
+- [[Attributes]]
+- [[Skills]]
+- any Base Stats that the progression rules explicitly allow to be improved directly
+- other character options, if permitted by the final advancement rules
+
+Use the standard PP cost progression from the relevant advancement chapter.
+
+## Attributes and Skills
+
+Attributes provide broad capability. Skills provide specialization.
+
+Because all attributes begin at **1** and all skills begin at **0**, characters are functional from the start but become distinct through focused investment.
+
+This means character identity is shaped less by fixed class features and more by:
+
+- what the character is naturally good at
+- what they are trained to do
+- how far they push augmentation
+
+## Implant Categories
+
+Implants are a major part of character identity.
+
+A full implant list can be found under [[Implants (Lists)]]. At character creation, a character may specialize in:
+
+**2 implant categories**
+
+### Available Categories
 
 - Combat
 - Spacefaring
@@ -61,145 +100,83 @@ Implants are grouped into **10 categories**:
 - Social
 - Psychology
 
----
+These categories represent neural specialization, training focus, and system compatibility.
 
-### 🔒 **Category Limit**
+A character may only use implants from categories they have selected, unless a rule says otherwise.
 
-A character may select:
+### Hybrid Implants
 
-👉 **only 2 implant categories**
+Some implants belong to **two categories**.
 
----
-
-This represents:
-
-- neural specialization
-- training focus
-- system compatibility
-
----
-
-### 🔀 **Hybrid Implants**
-
-Some implants combine **two categories**.
-
-👉 Example:
+Examples:
 
 - Combat + Engineering
 - Operations + Survival
 
----
+Hybrid implants follow these rules:
 
-Rules:
+- they count as **both categories**
+- they can only be used if the character has selected **both required categories**
+- they are often more flexible or more specialized than standard implants
 
-- Hybrid implants **count as both categories**
-- They can only be used if both categories are selected
-- They are typically **more powerful or flexible**
+Implant categories help prevent all-purpose “everything builds” without introducing rigid classes.
 
----
+## Mod Space
 
-### 🧠 **Design Impact**
+Each implant uses **Mod Space**.
 
-This system:
+**Starting Mod Space: 5**
 
-- prevents “everything builds”
-- forces specialization
-- creates clear archetypes
+This is a hard capacity limit unless another rule increases it.
 
-👉 without introducing classes
+Players must decide between:
 
----
+- a few powerful systems
+- or a larger number of lighter augmentations
 
-## 🔥 **Mod Space**
+## Genetic Modifications
 
-Each implant requires **Mod Space**.
+Characters may also have **genetic modifications**.
 
-- Base value: **5**
-- Can be increased through progression
-
----
-
-👉 Players must choose:
-
-- fewer powerful systems
-- or more lightweight options
-
----
-
-## 🧬 **Genetic Modifications**
-
-Characters may have **genetic modifications (genemods)**.
-
-- Maximum total: **3**
-- At character creation: **up to 2**
-
----
+- maximum total: **3**
+- at character creation: **up to 2**
 
 Genemods:
 
-- provide **passive effects**
-- often include **trade-offs**
-- cannot be removed
+- provide passive effects
+- often come with trade-offs
+- do not depend on implant category selection
+- cannot normally be removed
 
----
+Unless another chapter says otherwise, genemods are separate from implants and do **not** use Mod Space.
 
-👉 Genemods are **not restricted by implant categories**
+## Final Character Identity
 
----
+A finished character is defined by:
 
-## 💰 **Progress Points**
+- broad natural aptitude through attributes
+- training through skills
+- survivability and limits through base stats
+- specialization through implant categories
+- long-term augmentation choices through implants and genemods
 
-At character creation, players receive:
+This naturally produces recognizable roles such as:
 
-👉 **50 Progress Points**
+- pilot
+- engineer
+- field medic
+- security operative
+- analyst
+- agent  
+    without requiring formal classes.
 
----
+## Designer Note
 
-These can be allocated to:
-
-- Attributes
-- Skills
-- Base Stats
-
----
-
-Costs follow the standard progression system.
-
----
-
-## 🎯 **Result**
-
-The result is a character defined by:
-
-- core attributes
-- specialized skills
-- chosen implant categories
-- limited augmentation capacity
-
----
-
-There are no fixed roles—but characters will naturally develop into:
-
-- pilots
-- engineers
-- agents
-- combat specialists
-
----
-
-## ⚠️ **Current State**
-
-Character creation is still in an **early design phase**.
-
-The system is not yet fully balanced with:
+Character creation is still one of the areas most likely to need later balance passes, especially in relation to:
 
 - equipment
 - implants
-- augmentation scaling
+- genemod scaling
+- progression costs
 
----
-
-Starter packages (backgrounds, professions, origins) may be added later to provide:
-
-- faster onboarding
-- structured entry points
+Optional starter packages such as backgrounds, professions, or origins may later be added to speed up onboarding without replacing the open point-buy system.

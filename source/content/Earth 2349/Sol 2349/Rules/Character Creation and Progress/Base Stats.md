@@ -1,120 +1,100 @@
-# 🧬 Base Stats
+# Base Stats
 
-Base Stats define a character’s **survivability and system limits**.  
-Unlike attributes and skills, they determine **how long you last, how much you can take, and how far you can push your systems**.
+Base Stats define a character’s **survivability, system limits, and build capacity**. Unlike [[Attributes]] and [[Skills]], they determine **how long you last, how much punishment you can absorb, and how far you can push your systems**.
 
-They are **derived from attributes and equipment**, but can also be improved directly.
+Most Base Stats are derived from attributes, equipment, or fixed character values. Some may later be improved through gear, implants, or advancement.
 
----
-## 🛡️ Guard
+## Guard
 
-Represents **immediate survivability** (movement, reactions, positioning).  
-Damage is applied to Guard first.
+**Guard** represents a character’s immediate combat buffer: mobility, reactions, resilience under pressure, and protective equipment all working together to prevent real injury.
 
-**Base Formula:**
+Damage is applied to **Guard first**.
 
-Guard = Reflexes + Fitness + Armor
+**Formula:**  
+**Guard = Reflexes + Fitness + Armor**
 
-**Characteristics:**
+### Characteristics
 
-- dynamic (changes during combat)
-- restored through actions (e.g. Take Cover)
-- lost quickly under pressure
+- dynamic during combat
+- depleted before Health
+- may be restored through actions or effects
+- lost quickly under sustained pressure
 
-👉 determines how long you avoid real damage
+Guard determines how long a character can avoid taking real bodily harm.
 
----
-## ❤️ Health
+## Health
 
-Represents **physical condition and endurance**.  
-Damage is applied to Health once Guard is depleted.
+**Health** represents physical condition, endurance, and the ability to keep functioning after injury.
 
-**Base Formula:**
+Damage is applied to **Health** once Guard is depleted.
 
-Health = 8 + (2 × Fitness)
+**Formula:**  
+**Health = 8 + (2 × Fitness)**
 
-**Characteristics:**
+### Characteristics
 
 - reflects actual injury
+- more stable than Guard
 - recovers through rest or treatment
 
-👉 determines how long you stay functional
+Health determines how long a character can remain functional once combat control breaks down.
 
----
-## 🩸 Wounds
+## Wounds
 
-Represents **critical injuries**.
+**Wounds** represent critical trauma and lasting injury.
 
-**Trigger:**
+A character suffers a Wound when their **Health drops below 0**.
 
-- Health drops below **0**
+**Base Value:**  
+**Maximum Wounds = 3**
 
-**Base Value:**
+### Characteristics
 
-Wounds = 3 (default, can be increased)
+- each Wound causes penalties and temporary collapse
+- Wounds accumulate over time
+- reaching maximum Wounds causes the character to enter the **Dying** state
 
-**Effects:**
+Wounds define how close a character is to total incapacitation and death.
 
-- temporary incapacitation
-- cumulative penalties
+## Load
 
-👉 defines when a character becomes **dying**
+**Load** measures the strain placed on the body and implanted systems by augmentation use.
 
----
-## 🔥 Load
+In play, current Load rises and falls. The value below defines a character’s **maximum safe Load**.
 
-Represents **system strain from implants and abilities**.
+**Formula:**  
+**Maximum Load = 5 + Intellect**
 
-**Base Formula:**
+### Characteristics
 
-Load = 5 + Intellect
+- implant use increases current Load
+- exceeding maximum Load triggers an [[Implants & Load|Overload]] check
+- Load does not prevent action by itself, but makes further use increasingly risky
 
-**Characteristics:**
+Maximum Load is the core limiter for implant-heavy characters.
 
-- increases during use of implants
-- exceeding max → **Overload Roll**
-- does not block actions, but makes them risky
+## Mod Space
 
-👉 core limiter for augmentation-heavy builds
+**Mod Space** represents long-term implant capacity.
 
----
-## 🧠 Stress
+Each implant consumes part of this capacity.
 
-Represents **mental pressure and stability**.
+**Base Value:**  
+**Mod Space = 5**
 
-**Base Formula:**
+### Characteristics
 
-Stress = 5 + Presence
+- each implant uses Mod Space
+- this is a hard limit unless another rule increases it
+- it shapes long-term build choices rather than round-to-round combat decisions
 
-**Characteristics:**
+Mod Space defines how extensively a character can be augmented.
 
-- increases through danger, fear, overload
-- exceeding threshold triggers **Stress Reaction**
+# Summary
 
-👉 limits psychological endurance
-
----
-## 🧬 Mod Space
-
-Represents **implant capacity**.
-
-**Base Value:**
-
-Mod Space = 5 (default, can be increased)
-
-**Characteristics:**
-
-- each implant consumes space
-- hard limit for build design
-
-👉 defines long-term character configuration
-
----
-# 🎯 Summary
-
-- **Reflexes + Fitness → Guard**
+- **Reflexes + Fitness + Armor → Guard**
 - **Fitness → Health**
-- **Intellect → Load**
-- **Presence → Stress**
-- **Equipment → Guard (Armor)**
-- **Implants → Load + Mod Space pressure**
+- **Intellect → Maximum Load**
+- **Maximum Wounds = 3**
+- **Mod Space = 5**
+- **Implants create pressure through Load and Mod Space**

@@ -1,48 +1,48 @@
-Skills represent a character’s **training and applied expertise**.  
-They define how effectively a character can perform specific actions under pressure.
+Skills represent a character’s **training and applied expertise**. They define how effectively a character can perform specific tasks when success is uncertain and pressure matters.
 
----
-## ⚙️ **Skill Tests**
+Attributes provide broad capability. Skills determine how that capability is applied in practice.
 
-The total bonus for any test is: 👉 **Attribute + Skill**
+## Skill Tests
 
-- Attributes provide **broad capability**
-- Skills represent **focused training**
-Both are equally important.
+For most action tests, the total roll is:
 
----
-## 🧠 **When Skills Matter**
+**1d20 + Attribute + Skill**
 
-Skills are most relevant when:
+The **Attribute** reflects natural aptitude.  
+The **Skill** reflects training, experience, and specialization.
+
+Both matter. A talented amateur and a trained specialist may perform very differently under pressure.
+
+## When Skills Matter
+
+Skills matter most when:
 
 - actions are performed under pressure
-- timing and precision matter
-- failure has meaningful consequences
+- timing, precision, or control matter
+- failure would have meaningful consequences
 
-👉 Routine actions succeed without a roll.
+Routine actions usually succeed without a roll.
 
----
-## ⚖️ **Interaction with the System**
+## Interaction with the System
 
-Skills interact directly with:
-- **Action Economy** (multiple actions reduce effectiveness)
-- **Tactical Edge / Complication** (situational modifiers)
-- **Load & Mental Conditions** (performance under strain)
+Skills interact directly with other core systems, including:
 
-👉 A highly skilled character is not always effective—  
-**conditions and decisions matter just as much.**
+- [[Time & Actions|Action Economy]]
+- [[Tactical Edge and Setback]]
+- [[Implants & Load|Load]]
+- [[Mental Strain & Psychological Pressure|Mental Conditions]]
 
----
-## 🧩 **Skill Structure**
+A highly skilled character is still affected by bad positioning, stress, repeated actions, or system strain. Skill improves performance, but it does not override circumstance.
 
-Each attribute governs **two categories**, with **three skills each**:
-👉 Total: **30 skills**
+## Skill Structure
 
----
-# ⚡ **Reflexes**
+Each attribute governs **two skill categories**, and each category contains **three skills**.
 
----
-## 🔫 Combat
+This creates a total of **30 skills**.
+
+# Reflexes
+
+## Combat
 
 |Skill|Description|Example Uses|
 |---|---|---|
@@ -50,130 +50,118 @@ Each attribute governs **two categories**, with **three skills each**:
 |**Firearms**|Use of ranged weapons|Pistols, rifles, aimed fire|
 |**Ordnance**|Heavy and explosive weapons|Grenades, breaching charges|
 
----
-## 🚀 Spacefaring
+## Spacefaring
 
 |Skill|Description|Example Uses|
 |---|---|---|
 |**Piloting**|Manual control of vehicles|Docking, evasive maneuvers|
 |**Gunnery**|Operation of ship weapons|Targeting, tracking|
-|**EVA**|Movement in vacuum|Zero-G maneuvering, external repair|
+|**EVA**|Movement in vacuum|Zero-g maneuvering, external repair|
 
----
+# Fitness
 
-# 💪 **Fitness**
-
----
-## 🏃 Physical
+## Physical
 
 |Skill|Description|Example Uses|
 |---|---|---|
 |**Low-G Movement**|Movement in altered gravity|Station combat, EVA transitions|
-|**Athletics**|General physical ability|Climbing, sprinting|
-|**Endurance**|Sustained effort|Fatigue resistance, holding position|
+|**Athletics**|General physical capability|Climbing, sprinting, jumping|
+|**Endurance**|Sustained effort and resistance to fatigue|Long exertion, holding position|
 
----
-## 🌌 Survival
-
-|Skill|Description|Example Uses|
-|---|---|---|
-|**Stealth**|Avoid detection|Silent movement, evasion|
-|**Perception**|Detect threats|Spotting enemies, anomalies|
-|**Navigation**|Orientation|Pathfinding, route planning|
-
----
-# 🎯 **Coordination**
-
----
-## ⚙️ Engineering
+## Survival
 
 |Skill|Description|Example Uses|
 |---|---|---|
-|**Mechanics**|Mechanical systems|Repairs, structural fixes|
-|**Electronics**|Circuits and devices|Sensors, signal systems|
-|**Robotics**|Drones and automation|Remote control, deployment|
+|**Stealth**|Avoid detection through careful movement and control|Silent movement, evasion|
+|**Perception**|Detect threats, details, or irregularities|Spotting enemies, noticing anomalies|
+|**Navigation**|Orientation and route finding|Pathfinding, course planning|
 
----
+# Coordination
 
-## 🏥 Medicine
-
-|Skill|Description|Example Uses|
-|---|---|---|
-|**Trauma**|Emergency care|Stabilization, first aid|
-|**Surgery**|Advanced procedures|Internal repair|
-|**Cybernetics**|Implant systems|Installation, maintenance|
-
----
-
-# 🧠 **Intellect**
-
----
-
-## 🔬 Science
+## Engineering
 
 |Skill|Description|Example Uses|
 |---|---|---|
-|**Physics**|Energy and systems|Reactors, propulsion|
-|**Biology**|Living systems|Physiology, alien life|
-|**Analysis**|Data interpretation|Sensors, anomalies|
+|**Mechanics**|Mechanical systems and physical repair|Structural fixes, machinery repair|
+|**Electronics**|Circuits, devices, and signal systems|Sensors, wiring, diagnostics|
+|**Robotics**|Drones and automated systems|Remote control, deployment, maintenance|
 
----
-
-## 🖥️ Operations
+## Medicine
 
 |Skill|Description|Example Uses|
 |---|---|---|
-|**Systems**|Complex system control|Infrastructure, ship ops|
-|**Hacking**|Intrusion|Bypassing security|
-|**Security**|Defensive systems|Countermeasures, lockdown|
+|**Trauma**|Emergency medical care|Stabilization, first aid|
+|**Surgery**|Advanced invasive procedures|Internal repair, major intervention|
+|**Cybernetics**|Implant systems and interface work|Installation, calibration, maintenance|
 
----
+# Intellect
 
-# 🗣️ **Presence**
-
----
-
-## 🤝 Social
+## Science
 
 |Skill|Description|Example Uses|
 |---|---|---|
-|**Persuasion**|Convincing others|Negotiation|
-|**Command**|Coordinating others|Tactical orders|
-|**Deception**|Misleading others|Bluffing|
+|**Physics**|Energy, motion, and technical systems|Reactors, propulsion, field effects|
+|**Biology**|Living systems and physiology|Diagnosis, tissue response, xenobiology|
+|**Analysis**|Interpretation of data and anomalies|Sensor review, pattern recognition|
 
----
-
-## 🧠 Psychology
+## Operations
 
 |Skill|Description|Example Uses|
 |---|---|---|
-|**Intimidation**|Applying pressure|Threats, coercion|
-|**Stress Control**|Maintaining focus|Resisting mental strain|
-|**Insight**|Reading others|Detecting intent|
+|**Systems**|Control of complex infrastructure|Ship operations, network control|
+|**Hacking**|Intrusion and bypass|Accessing protected systems|
+|**Security**|Defensive control and countermeasures|Lockdowns, intrusion prevention|
 
----
+# Presence
 
-## 🔗 **Psychology & Mental System**
+## Social
 
-Psychology skills interact directly with **Mental Conditions**:
+|Skill|Description|Example Uses|
+|---|---|---|
+|**Persuasion**|Convincing others through argument or rapport|Negotiation, diplomacy|
+|**Command**|Coordinating and directing others|Tactical orders, leadership|
+|**Deception**|Misleading or manipulating others|Bluffing, false claims|
 
-- **Stress Control** → resist or reduce mental penalties
-- **Insight** → detect instability or weakness
-- **Intimidation** → apply psychological pressure
+## Psychology
 
----
+|Skill|Description|Example Uses|
+|---|---|---|
+|**Intimidation**|Applying pressure through fear or force of presence|Threats, coercion|
+|**Stress Control**|Maintaining control under mental strain|Resisting panic, staying focused|
+|**Insight**|Reading emotional state, intent, or instability|Detecting lies, assessing weakness|
 
-👉 Psychological pressure is a **valid combat tool**, not just roleplay
+## Psychology and Mental Pressure
 
----
+Psychology-related skills interact directly with [[Mental Strain & Psychological Pressure]].
 
-# 🎯 **Summary**
+Examples:
 
-Skills define **what a character can do in practice**, while attributes define their underlying capability.
+- **Stress Control** may help resist or recover from mental strain
+- **Insight** may reveal instability, deception, or emotional weakness
+- **Intimidation** may be used to apply pressure in social or combat situations
 
-Together, they determine performance—but success also depends on:
+Psychological pressure is a valid tool in _SOL 2349_, not just a narrative flourish.
+
+## Flexible Attribute Use
+
+Skills are usually tied to their normal governing attribute. However, if a character approaches a task in an unusual but reasonable way, the GM may allow a different Attribute to pair with the same Skill.
+
+For example:
+
+- **Coordination + Mechanics** for hands-on repair
+- **Intellect + Mechanics** for diagnosing the underlying system problem
+- **Presence + Command** for leadership under stress
+- **Intellect + Command** for procedural coordination in a technical operation
+
+This should be the exception, not the default, but it helps the system remain flexible.
+
+# Summary
+
+Skills define **what a character can actually do**, while attributes define their broader natural capability.
+
+Together, they shape performance—but success also depends on:
 
 - positioning
 - timing
-- resource management
-- and risk
+- available resources
+- pressure and risk

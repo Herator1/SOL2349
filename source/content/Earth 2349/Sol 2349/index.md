@@ -48,6 +48,7 @@ With a setting spanning the entire [[Solar System]]—from the crowded orbital c
 - [[Rumors and Secrets (minor Spoilers)]]
 
 # Technology of 2349
+- [[Basic Technological Concepts of Sol 2349]]
 - [[Energy and Drive Systems]]
 - [[Weapon Systems and Defenses]]
 - [[Cybernetic Implants]]

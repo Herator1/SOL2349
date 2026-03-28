@@ -1,266 +1,232 @@
-## 🛡️ **Survivability: Guard, Health & Wounds**
-
 Combat in _SOL 2349_ is built around three layers of survivability:
 
-👉 **Guard → Health → Wounds**
+**Guard → Health → Wounds**
 
-These layers represent the difference between:
+These layers represent the difference between avoiding the worst of an attack, absorbing real injury, and suffering lasting trauma.
 
-- avoiding damage
-- absorbing it
-- and suffering lasting consequences
+## Guard
 
----
-## ⚡ **Guard**
+**Guard** represents a character’s ability to avoid taking the full force of harm in the moment.
 
-Guard represents a character’s ability to **avoid or deflect harm in the moment**:
+This includes:
 
 - movement and positioning
 - reaction speed
-- use of cover
-- situational awareness
+- partial deflection
+- situational control
+- near misses and glancing impacts
 
-Incoming damage is always applied to **Guard first**.
+Damage is always applied to **Guard first** unless a rule explicitly says otherwise.
 
-As long as Guard remains, attacks are considered:
+As long as a character still has Guard, successful attacks usually represent:
 
 - near misses
 - glancing hits
-- partially deflected impacts
+- partial impacts
+- loss of control under pressure
 
----
-### Key Characteristics
+### Key Rules
 
-- Guard is **temporary and highly dynamic**
-- It changes constantly during combat
-- It does **not reduce damage**, it **absorbs it**
+- Guard is **temporary and dynamic**
+- Guard does **not reduce damage**; it absorbs it
+- Guard is lost first, before Health
+- Guard reflects **combat control**, not physical toughness
 
-👉 Guard reflects **control of the situation**, not durability
+Guard is separate from attack difficulty.  
+A target may be hard to hit because of [[Defense, Cover & Positioning]], and still lose Guard if an attack connects.
 
----
-## ❤️ **Health**
+## Health
 
-Once Guard is depleted, damage is applied to **Health**.
+Once Guard is depleted, further damage is applied to **Health**.
 
 Health represents:
 
 - physical condition
-- minor injuries
-- bleeding and fatigue
+- pain and fatigue
+- minor to serious injuries
+- blood loss and physical degradation
 
-Losing Health means a character is **actually getting hurt**.
+Losing Health means the character is actually being hurt.
 
----
-### Key Characteristics
+### Key Rules
 
 - Health is more stable than Guard
-- Damage to Health is **dangerous and cumulative**
-- Combat becomes significantly more lethal once Guard is gone
+- Health damage is cumulative
+- Once Guard is gone, combat becomes much more dangerous
 
----
-## 🩸 **Wounds**
+## Wounds
 
-If a character’s Health drops below **0**, they suffer a **Wound**.
+If damage reduces a character’s Health **below 0**, they suffer **1 Wound**.
 
 Wounds represent:
 
 - critical trauma
-- severe injuries
-- system shock
+- severe injury
+- shock
+- systemic breakdown
 
----
+After taking a Wound, the character’s Health is reset to **0** unless another rule says otherwise.
+
+This allows damage tracking to continue cleanly if the character suffers further injury.
+
 ### Immediate Effect
 
-When a Wound is taken:
+When a character takes a Wound, they are **incapacitated until the end of their next turn**.
 
-- the character is **incapacitated for 1 turn**
-- (knocked down, disoriented, overwhelmed)
+This represents being knocked down, stunned, disoriented, or temporarily overwhelmed.
 
----
 ### Ongoing Effect
 
-After recovery:
+After that, the character can act again, but suffers:
 
-- the character can act again
-- but suffers **−1 to all rolls per Wound**
+**−1 to all rolls per Wound**
 
-👉 Wounds stack and represent escalating impairment
+These penalties stack.
 
----
 ### Additional Wounds
 
-If Health drops below 0 again:
+If the character’s Health is reduced below 0 again later, they suffer another Wound and their Health is again reset to **0**.
 
-- another Wound is inflicted
+## Maximum Wounds and Dying
 
-At maximum Wounds:
+Each character has a maximum number of Wounds they can sustain.
 
-- the character becomes **incapacitated**
+When a character reaches their **maximum Wounds**, they collapse and enter the **Dying** state.
 
----
-## ☠️ **Dying**
+A dying character:
 
-When a character reaches their maximum number of Wounds:
+- is incapacitated
+- cannot act
+- cannot take Actions or Reactive Actions
+- will die unless stabilized in time
 
-- they are **dying**
+The character survives for a limited number of turns, usually equal to their **maximum Wounds**, unless a rule, injury, or hazard says otherwise.
 
----
-### Dying State
+## Stabilization
 
-- the character cannot act
-- they have a limited number of turns remaining  
-    (typically equal to their max Wounds)
+An ally may attempt to stabilize a dying character.
 
----
-### Stabilization
+Successful stabilization prevents immediate death, but does not remove Wounds unless a rule says so. A stabilized character usually remains incapacitated until they receive further treatment or the situation changes.
 
-Allies may attempt to:
+If the character is not stabilized before their remaining turns run out, they die.
+
+## Direct Wounds
+
+Some hazards bypass Guard and Health and inflict **Wounds directly**.
+
+Examples may include:
+
+- explosive decompression
+- severe radiation events
+- catastrophic falls or impacts
+- major industrial trauma
+- other extreme hazards specifically described by the GM or the effect
+
+Direct Wounds should be reserved for genuinely severe threats, not used casually.
+
+This reinforces a core principle of _SOL 2349_:  
+**the environment is often more dangerous than combat.**
+
+# Recovery & Regeneration
+
+Each survivability layer recovers differently.
+
+## Guard Recovery
+
+Guard fully restores **after combat** or once the character has clearly regained control of the situation, at GM discretion.
+
+Guard does **not** normally recover automatically during combat, but some actions, abilities, or effects may restore it.
+
+Guard recovery represents regaining composure, position, and tactical control.
+
+## Health Recovery
+
+Health recovers through rest, treatment, and medical support.
+
+### Short Rest (10–15 minutes)
+
+A character may recover:
+
+**1d6 Health**
+
+Requirements:
+
+- relative safety
+- low activity
+- enough time for breath, first aid, or basic stabilization
+
+A Short Rest cannot simply be repeated over and over without interruption. It only provides recovery again if meaningful time, renewed activity, or new pressure occurred in between.
+
+### Extended Rest (6–8 hours)
+
+A character recovers **all Health** with:
+
+- a safe environment
+- proper sleep or downtime
+- no major interruption
+
+### Poor or Interrupted Rest
+
+If rest is unsafe, stressful, noisy, or repeatedly interrupted, recovery may be reduced or prevented entirely at GM discretion.
+
+## Medical Treatment
+
+Medical tools, implants, and dedicated abilities can improve recovery.
+
+Typical effects may include:
+
+- immediate Health restoration
+- improved recovery during rest
+- stabilization of dying characters
+- temporary mitigation of Wound penalties
+- accelerated treatment in proper facilities
+
+More advanced systems such as nanomedical implants, autodocs, or surgical facilities may restore Health much faster than ordinary first aid.
+
+## Healing During Combat
+
+Healing during combat is possible, but limited.
+
+It usually requires:
+
+- **1 Action** or more
+- appropriate tools, implants, or abilities
+- a valid opportunity to use them
+
+In-combat healing normally restores **Guard or Health**, not Wounds, unless a specific rule says otherwise.
+
+## Wound Recovery
+
+Wounds do **not** heal through normal rest alone.
+
+They require:
+
+- medical treatment
+- extended recovery time
+- advanced medical systems
+- or proper clinical facilities
+
+Field treatment may:
 
 - stabilize the character
-- prevent death
-
-If stabilization fails within the time limit:
-
-👉 the character dies
-
----
-## 🌌 **Direct Wounds**
-
-Some hazards bypass Guard and Health entirely:
-
-- decompression
-- radiation exposure
-- heavy impacts
-- industrial accidents
-
-These inflict **Wounds directly**.
-
----
-👉 This reinforces that:  
-**the environment is often more dangerous than combat**
-
----
-# 🔁 **Regeneration & Recovery**
-
-Each layer recovers differently.
-
----
-## ⚡ Guard Recovery
-
-- Fully restores after combat
-- Does **not recover automatically during combat**
-- Can be restored through actions (e.g. taking cover)
-
-👉 Guard reflects **regaining control**
-
----
-## ❤️ **Health Recovery**
-
-Health recovers through **rest and treatment**, depending on time and conditions.
-
----
-
-### 🕒 **Short Rest (10–15 minutes)**
-
-- Recover **1d6 Health**
-- Requires:
-    - relative safety
-    - minimal activity
-
-👉 Represents:
-
-- catching breath
-- basic first aid
-- stabilizing minor injuries
-
----
-
-### ⚠️ **Limitations**
-
-- Short Rests **cannot be taken consecutively**
-- A character must:
-    - return to active play
-    - or face meaningful pressure or activity
-
-before taking another Short Rest
-
----
-
-👉 This prevents repeated recovery without risk or consequence
-
----
-
-### 🛌 **Extended Rest (6–8 hours)**
-
-- Recover **all Health**
-- Requires:
-    - safe environment
-    - proper rest (sleep or downtime)
-
----
-
-### ⚠️ **Interrupted or Unsafe Rest**
-
-If rest conditions are poor (e.g. danger, stress, noise):
-
-- Recovery may be:
-    - reduced (**1d6 or less**)
-    - or prevented entirely
-
-(GM discretion)
-
----
-
-### 🧬 **Medical Treatment**
-
-Medical tools or abilities can improve recovery:
-
-- First Aid → immediate recovery (e.g. **+1d6**)
-- Advanced systems (nanomedical, autodoc) → faster or full recovery
-
----
-
-### ⚔️ **Healing During Combat**
-
-Healing in combat is:
-
-- possible
-- but limited and resource-dependent
-
-Typically requires:
-
-- an Action
-- specialized tools or implants
----
-## 🩸 Wound Recovery
-
-- Wounds do **not heal naturally**
-- Require medical treatment
-
-Field care can:
-
-- stabilize
+- allow them to keep functioning
 - reduce penalties temporarily
 
-Full recovery requires:
+But full Wound recovery usually requires significant care.
 
-- advanced medical systems
-- or proper facilities
+Untreated Wounds should create meaningful long-term consequences.
 
----
-👉 Untreated Wounds create **long-term consequences**
+## Combat Interaction
 
----
-# 🔗 **Interaction with Combat & Actions**
+Survivability in _SOL 2349_ is shaped heavily by player decisions.
 
-Survivability is strongly tied to **player decisions**:
+- **Guard** is preserved through positioning, timing, and defensive action
+- **Health** is lost when control breaks down
+- **Wounds** occur when pressure exceeds what the body can absorb
 
-- Guard is maintained through **positioning and actions**
-- Health is lost when control breaks down
-- Wounds occur when pressure exceeds limits
-
-👉 Survival depends less on stats and more on:
+Survival depends not only on raw durability, but on:
 
 - timing
 - positioning
-- resource management
+- resource use
+- risk management

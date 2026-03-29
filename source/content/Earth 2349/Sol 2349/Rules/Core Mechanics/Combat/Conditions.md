@@ -20,21 +20,6 @@ If multiple conditions affect the same character, apply all relevant effects unl
 
 ## Physical Conditions
 
-## Crouched
-
-A crouched character presents a smaller target and is harder to hit at range.
-
-**Effect:**
-
-- **+1 DC vs ranged attacks**
-
-**Duration:**
-
-- until the character changes position
-
-**Notes:**  
-Changing to or from crouched is usually part of movement, but may cost **1 Action** in restricted or unstable situations.
-
 ## Prone
 
 A prone character is low to the ground or pressed against a surface.
@@ -91,7 +76,7 @@ A dying character has reached their **maximum Wounds** and is at immediate risk 
 - until stabilized, dead, or otherwise saved by a specific effect
 
 **Notes:**  
-A dying character usually survives for a limited number of turns equal to their **maximum Wounds**, unless another rule says otherwise. See [[Medicine & Stabilization]] and [[Survivability: Guard, Health & Wounds]].
+A dying character usually survives for a limited number of turns equal to their **maximum Wounds**, unless another rule says otherwise. See [[Medicine & Stabilization]] and [[Survivability - Guard, Health & Wounds]].
 
 ## Restrained
 
@@ -100,16 +85,15 @@ A restrained character has their movement significantly limited by physical forc
 **Effect:**
 
 - movement is reduced or impossible
-- may be unable to [[Evade]]
-- may suffer **Setback** on physical actions
-- may be easier to hit or control, depending on the cause
+- cannot usually Evade
+- suffers **Setback** on physical actions
 
 **Duration:**
 
 - until freed
 
 **Notes:**  
-The exact effect depends on the source. A loose tether and pinned limbs are both restraint, but not equally severe.
+The exact form of restraint may vary. A pinned character and a loosely tethered one are not equally restricted, but both count as restrained.
 
 ## Unstabilized
 
@@ -121,7 +105,7 @@ This condition is most common in **microgravity** and **zero-g**.
 
 - may suffer **Setback** on precision-based and physical actions
 - counts as moving for targeting purposes where relevant
-- may be unable to [[Evade]] effectively
+- may be unable to Evade effectively
 - may require a test to stop, turn, or regain control
 
 **Duration:**
@@ -231,7 +215,10 @@ A specific implant becomes unusable.
 
 **Common cause:**
 
-- severe [[Implants & Load|Overload]] result
+- severe overload or implant failure
+
+**Notes:**  
+See [[Load]].
 
 ## System Shutdown
 
@@ -249,28 +236,12 @@ Implant systems stop responding temporarily.
 
 - overload or critical system failure
 
-## Suppressed
-
-A suppressed character is under active threat from incoming fire and is penalized if they expose themselves carelessly.
-
-**Effect:**
-
-- usually suffers **Setback** on attacks while suppression is active
-- may trigger a follow-up attack if they leave cover or attack, depending on the suppression effect
-
-**Duration:**
-
-- usually until the start of the attacker’s next turn, unless another rule says otherwise
-
-**Notes:**  
-Suppressed is only used if your table wants suppressive fire to create a tracked state. Otherwise, resolve it directly from the fire mode effect and do not track it as a separate condition.
-
 ## Condition Duration
 
 Most conditions last in one of the following ways:
 
 - **until position changes**  
-    such as Crouched or Prone
+    such as Prone
 - **until the end of the next turn**  
     such as temporary incapacity after a Wound
 - **until removed by action or recovery**  
@@ -278,7 +249,7 @@ Most conditions last in one of the following ways:
 - **until the end of the encounter**  
     such as some implant failures
 - **until the cause ends**  
-    such as suppression, unstable gravity, or environmental exposure
+    such as unstable gravity or environmental exposure
 
 If a rule does not specify a duration, the GM should assign the shortest duration that makes sense.
 
@@ -309,11 +280,10 @@ If two different conditions affect the same kind of action:
 
 |Condition|Main Effect|Typical Duration|
 |---|---|---|
-|**Crouched**|+1 DC vs ranged attacks|until position changes|
 |**Prone**|+2 DC vs ranged, −2 DC vs melee|until position changes|
 |**Incapacitated**|cannot act|depends on cause|
 |**Dying**|incapacitated, dies if not stabilized|until stabilized or death|
-|**Restrained**|movement limited, possible Setback|until freed|
+|**Restrained**|movement limited, Setback on physical actions|until freed|
 |**Unstabilized**|poor control in microgravity/zero-g|until stabilized|
 |**Unsettled**|−1 concentration actions|until recovered|
 |**Shaken**|−2 concentration actions|until recovered|
@@ -322,7 +292,6 @@ If two different conditions affect the same kind of action:
 |**Low Ammo**|−2 attacks with that weapon|until Reload|
 |**Implant Lock**|one implant unusable|usually encounter|
 |**System Shutdown**|cannot activate implants|usually short duration|
-|**Suppressed**|pressure from incoming fire|usually short duration|
 
 ## Related Pages
 
@@ -330,6 +299,6 @@ If two different conditions affect the same kind of action:
 - [[Movement]]
 - [[Environmental Hazards]]
 - [[Mental Strain & Psychological Pressure]]
-- [[Survivability: Guard, Health & Wounds]]
-- [[Implants & Load]]
+- [[Survivability - Guard, Health & Wounds]]
+- [[Load]]
 - [[Fire Modes]]

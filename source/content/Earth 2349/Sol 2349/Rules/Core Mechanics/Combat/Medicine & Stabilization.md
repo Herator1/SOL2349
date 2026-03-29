@@ -1,4 +1,4 @@
-Medicine in _SOL 2349_ is practical, pressured, and often improvised. In a hostile environment, medical care is rarely about perfect treatment. It is about **keeping someone alive, restoring function, and buying time** until proper care becomes possible.
+MMedicine in _SOL 2349_ is practical, pressured, and often improvised. In a hostile environment, medical care is rarely about perfect treatment. It is about **keeping someone alive, restoring function, and buying time** until proper care becomes possible.
 
 Medical action ranges from emergency stabilization in the middle of combat to long-term treatment in safe facilities. Characters may rely on **skills, tools, consumables, implants, and automated systems**, but every method has limits.
 
@@ -9,9 +9,9 @@ This page covers the core medical rules. Specific equipment, stims, and medical 
 Medical treatment in _SOL 2349_ usually falls into four categories:
 
 - **Stabilization** — prevent death
-- **Field Treatment** — restore function under pressure
-- **Recovery Support** — improve healing during rest
-- **Long-Term Care** — treat Wounds and serious trauma properly
+- **First Aid** — restore limited function under pressure
+- **Wound Care** — manage serious trauma
+- **Long-Term Care** — properly treat major injuries and lasting damage
 
 Medicine is powerful, but never free. Most quick solutions cost time, supplies, system strain, or create side effects.
 
@@ -23,11 +23,7 @@ Medical situations most commonly use:
 - **[[Skills#Surgery|Surgery]]** for invasive care and major treatment
 - **[[Skills#Cybernetics|Cybernetics]]** for implant-related medicine and neural/system interface problems
 
-Other skills may matter situationally, such as:
-
-- **Endurance** for resisting treatment under pain or strain
-- **Psychology / Stress Control** for calming or supporting a patient
-- **Systems** or **Electronics** when medical devices malfunction or need improvised control
+Other skills may matter in unusual situations, but these three are the medical core.
 
 ## Stabilization
 
@@ -37,214 +33,150 @@ Stabilization prevents immediate death, but does not remove Wounds by itself.
 
 ### Stabilize
 
-**Cost:** usually **1 Action**  
-**Test:** typically **Coordination + Trauma**  
-**Difficulty:** set by the GM based on conditions, usually **Standard to Hard**
+**Cost:** **1 Action**  
+**Test:** usually **Coordination + Trauma**  
+**Difficulty:** usually **Standard to Hard**, depending on conditions
 
-A successful stabilization:
+On success:
 
-- stops the death countdown
-- keeps the patient alive
-- usually leaves the patient **incapacitated**
-- does not remove existing Wounds unless a rule says otherwise
+- the patient stops dying
+- remains alive
+- is usually still **incapacitated**
+- does not lose existing Wounds
 
-A failed attempt:
+On failure:
 
-- does not stabilize the patient
-- may waste time, supplies, or worsen the situation at GM discretion
+- the patient is not stabilized
+- time is lost
+- the GM may worsen the situation if conditions are especially bad
 
-### Typical Modifiers
+## First Aid
 
-Stabilization becomes harder if:
-
-- the patient is under fire
-- the area is unstable or hazardous
-- the medic lacks proper tools
-- the patient is in vacuum, fire, toxic atmosphere, or zero-g chaos
-- the patient has multiple Wounds or severe trauma
-
-Stabilization becomes easier if:
-
-- the medic has proper medical gear
-- the patient is in a safe and controlled environment
-- advanced systems or implants assist the treatment
-- another character provides valid support
-
-## Field Treatment
-
-Field treatment is short-term care given under pressure or during a brief lull. It can restore function, but does not replace real recovery.
-
-Field treatment usually restores **Health**, reduces immediate penalties, or prepares a character to survive until later care.
+First Aid is short-term treatment under pressure. It restores limited function, but does not replace proper medical care.
 
 ### First Aid
 
-**Cost:** usually **1 Action** in combat, or a few minutes outside combat  
+**Cost:** usually **1 Action** in combat, or a short treatment interval outside combat  
 **Test:** usually **Coordination + Trauma**
 
-On success, first aid may:
+On success:
 
-- restore a small amount of **Health**
-- stop bleeding or visible deterioration
-- reduce immediate consequences of injury
-- improve the quality of the next rest or later treatment
+- restore **1d6 Health**
+- stabilize minor visible injury
+- reduce immediate deterioration
+- prepare the patient for later treatment
 
-The exact amount restored depends on gear, tools, and situation.  
-As a default baseline:
+### Limits
 
-- **basic first aid:** restore **1d6 Health**
-- a character normally cannot benefit from basic first aid repeatedly without meaningful new injury, time passing, or better treatment
-
-### Limits of Field Treatment
-
-Field treatment normally:
+First Aid:
 
 - does **not** remove Wounds
-- does **not** fully reset a badly injured character
 - does **not** replace stabilization for a dying patient
-- may be reduced or impossible in severe hazards
+- does **not** fully reset a badly injured character
 
-Field medicine keeps people operational. It does not make serious trauma disappear.
+As a default, a character can normally benefit from **First Aid only once per encounter**, unless the GM rules that the situation has significantly changed.
 
-## Wounds and Medical Care
+This keeps medicine valuable without turning combat into repeated heal loops.
 
-Wounds represent major trauma and require more than basic first aid.
+## Wound Care
+
+Wounds represent major trauma and require more than First Aid.
 
 ### Immediate Wound Care
 
-A recently wounded character may receive emergency treatment to:
+A wounded character may receive emergency care to:
 
 - stabilize their condition
 - reduce immediate risk
-- temporarily lessen penalties
-- prepare for transport or later surgery
+- prepare for transport
+- keep them functional long enough to survive
 
 This usually requires:
 
 - **Coordination + Trauma**
-- proper medical tools
-- at least brief access to the patient
+- access to the patient
+- proper medical tools or at least improvised support
 
-This care does not remove the Wound itself, but may help the character continue functioning or avoid worsening outcomes.
+This care does **not** remove the Wound itself.
 
 ### Long-Term Wound Treatment
 
-Removing or fully healing Wounds usually requires:
+Removing or properly healing Wounds usually requires:
 
-- extended recovery time
-- major medical intervention
+- time
+- surgery or advanced treatment
 - a clinic, autodoc, or equivalent facility
-- **Surgery**, **Cybernetics**, or advanced treatment systems where appropriate
+- **Surgery**, **Cybernetics**, or advanced medical systems where appropriate
 
-Wounds should be treated as significant injuries, not short-term hit point loss.
+Wounds should remain significant. They are not short-term damage.
 
-## Medical Treatment During Combat
+## Medicine in Combat
 
-Medical care in combat is possible, but difficult.
-
-Typical constraints:
-
-- it costs **Actions**
-- it requires physical access to the patient
-- it may require one hand, both hands, or dedicated equipment
-- incoming fire, movement, and environmental instability may impose **Setback**
-- complex treatment is usually impossible under direct pressure
+Medical care in combat is possible, but limited.
 
 As a rule of thumb:
 
 - **stabilization** is possible in combat
-- **basic first aid** is possible in combat
-- **surgery** is usually not
-- advanced medical implants may bypass some of these limits, but generate other costs such as [[Load]]
+- **First Aid** is possible in combat
+- **major treatment** is usually not
+- advanced medical implants may bypass some limits, but create other costs such as [[Load]]
 
-## Consumables
+Combat medicine should keep characters alive, not fully repair them.
 
-Medical consumables are fast, practical, and limited. They are one of the main ways to deliver treatment under pressure.
+## Medical Tools, Consumables, and Stims
 
-Consumables may include:
+Medical treatment often depends on proper gear.
 
-- trauma packs
+This may include:
+
+- trauma kits
+- first aid kits
+- med scanners
 - clotting agents
 - emergency sealants
-- pain suppressants
-- stimulant injectors
+- stimulants
 - anti-radiation drugs
-- oxygen boosters
 - sedatives
 
-A consumable usually:
-
-- has a clear immediate effect
-- is single-use
-- may require **1 Action**
-- may need no test, or may improve a treatment test rather than replace it
-
-Specific consumables should be detailed under [[Consumables]], but their medical use should follow the rules on this page.
-
-## Stims
-
-**Stims** are a special category of medical or quasi-medical consumables. They are designed to keep a character functional in the short term, often by suppressing pain, boosting focus, or forcing the body beyond normal safe limits.
-
-Stims are intentionally strong, but they should always come with drawbacks.
-
-### What Stims Can Do
-
-A stim may:
-
-- restore a small amount of **Health**
-- ignore penalties temporarily
-- remove fatigue or hesitation for a short time
-- improve reaction speed, focus, or aggression
-- keep a wounded character active longer than they should be
-
-### Common Drawbacks
-
-A stim may also cause:
-
-- later **Health loss**
-- increased **Mental Conditions**
-- added [[Load]] or biological strain
-- worsening crash after the effect ends
-- reduced perception, judgment, or fine control
-- addiction or long-term dependency risk, if that matters in the campaign
+These items are detailed under [[Consumables]], but their use follows the medical rules on this page.
 
 ### General Stim Rule
 
-A stim should never be pure upside.  
-If a stim provides immediate combat effectiveness, it should usually create:
+Stims are short-term emergency tools. They may keep a character active, suppress penalties, or improve immediate performance, but they should always come with a drawback such as:
 
-- a later penalty
-- a recovery cost
-- a mental or physiological consequence
-- or some meaningful risk if used repeatedly
+- later Health loss
+- added [[Load]]
+- increased Mental Conditions
+- impaired control after the effect ends
+
+A stim should never be pure upside.
 
 ## Medical Implants and Systems
 
-Some implants provide medical capability. These may include:
+Some implants provide medical capability, such as:
 
-- trauma response systems
-- nanomedical repair
-- coma induction
-- pain suppression
 - emergency stabilization
+- pain suppression
 - vital monitoring
+- trauma response
+- nanomedical support
 - autodoc integration
 
 Medical implants differ from ordinary treatment because they can:
 
 - work immediately
 - function during combat
-- bypass normal treatment delays
+- reduce treatment delay
 - operate without another medic
 
 But they are constrained by:
 
 - [[Load]]
 - activation timing
-- implant availability
-- category access
+- implant access
 - overload risk
 
-A medical implant should usually improve or replace one medical step, not invalidate the whole injury system.
+A medical implant should improve or replace **one medical step**, not invalidate the whole injury system.
 
 ## Long-Term Care
 
@@ -257,84 +189,48 @@ Long-term care may involve:
 - wound observation
 - cybernetic recalibration
 - anti-radiation treatment
-- psychological recovery support
-- controlled rest under supervision
+- supervised recovery
+- psychological support
 
-Long-term care is where characters recover from:
+This is where characters recover from:
 
 - Wounds
 - major trauma
-- severe implant feedback
 - hazardous exposure
+- severe implant feedback
 - repeated stim abuse
 
-This is usually resolved over downtime rather than combat rounds.
+Long-term care is usually resolved through downtime, not combat rounds.
 
 ## Recovery Support
 
-Medical care can improve recovery during rests.
+Medical care can improve recovery during [[Rest & Recovery]], but it does not replace it.
 
-### Short Rest Support
+In general:
 
-During a **Short Rest**, medical treatment may:
+- short-term support may improve Health recovery
+- proper treatment may improve Extended Rest outcomes
+- Wounds still require real care, not just rest
 
-- improve Health recovery
-- reduce pain or immediate instability
-- support mental decompression where appropriate
-- prepare a patient for transport or further treatment
+## Assistance and Poor Conditions
 
-### Extended Rest Support
+Medicine becomes harder when:
 
-During an **Extended Rest**, proper care may:
+- the patient is under fire
+- the area is unstable or hazardous
+- the medic lacks tools
+- visibility is poor
+- the environment is contaminated or unsafe
+- treatment is improvised
 
-- improve the quality of healing
-- restore additional Health
-- reduce or remove penalties temporarily
-- accelerate Wound recovery if advanced care is available
+It becomes easier when:
 
-This should connect directly to [[Rest & Recovery]] once that page exists.
+- the medic has proper equipment
+- the patient is in a safe environment
+- another character provides useful assistance
+- advanced systems support the procedure
 
-## Assistance and Team Treatment
-
-Medicine often benefits from support.
-
-A second character may assist by:
-
-- holding the patient
-- providing light, tools, or sterile access
-- monitoring vitals
-- calming the patient
-- managing environmental hazards
-- operating equipment
-
-Assistance should usually:
-
-- grant **Tactical Edge**
-- or reduce difficulty modestly
-- but not replace the primary medic’s test
-
-Only one character should usually make the main medical roll unless a specific system says otherwise.
-
-## Improvised Medicine
-
-Not all treatment happens in proper conditions.
-
-Improvised care may be attempted with:
-
-- bad tools
-- low visibility
-- unstable gravity
-- insufficient sterile conditions
-- pressure, fear, or incoming danger
-
-Improvised treatment is possible, but the GM should apply:
-
-- higher DC
-- **Setback**
-- worse recovery outcomes
-- risk of complication
-
-This is especially important in hard-SF play: environment matters, and good medicine is easier with the right equipment.
+Useful assistance should usually grant **Tactical Edge** or a modest difficulty reduction, but should not replace the primary medic’s roll.
 
 ## GM Guidance
 
@@ -348,7 +244,7 @@ Good medical rules should allow characters to:
 - fear serious trauma even when they can still function
 
 Avoid turning medical treatment into unlimited healing.  
-The point is to create **decision-making, triage, and consequences**, not a free reset button.
+The point is to create **triage, consequences, and hard decisions**, not a free reset button.
 
 ## Example: Stabilizing a Dying Character
 
@@ -364,18 +260,16 @@ On success:
 - remains incapacitated
 - can be moved or treated later
 
-## Example: Combat Stim
+## Example: First Aid Under Pressure
 
-A wounded security operative injects a stim during combat.
+A character has taken Health damage but no new Wound.
 
-The stim allows them to ignore their current Wound penalty until the end of the encounter.
+A teammate uses **First Aid** in combat.
 
-After the encounter ends:
+On success:
 
-- they suffer **1 Mental Condition**
-- and lose **1d6 Health** unless treated properly
-
-The stim kept them active, but it did not heal them.
+- the patient restores **1d6 Health**
+- but cannot normally benefit from First Aid again in the same encounter unless the situation changes significantly
 
 ## Example: Long-Term Treatment
 
@@ -393,8 +287,8 @@ The character survives and recovers, but not instantly.
 
 - [[Combat]]
 - [[Conditions]]
-- [[Survivability: Guard, Health & Wounds]]
+- [[Survivability - Guard, Health & Wounds]]
 - [[Consumables]]
-- [[Implants & Load]]
+- [[Load]]
 - [[Mental Strain & Psychological Pressure]]
 - [[Rest & Recovery]]

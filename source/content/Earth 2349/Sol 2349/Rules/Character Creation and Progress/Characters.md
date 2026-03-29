@@ -1,3 +1,5 @@
+# Characters
+
 Characters in _SOL 2349_ are defined by a combination of **attributes, skills, and controlled augmentation**. The system is built to represent **capable professionals operating under pressure**: trained, effective, and adaptable, but still vulnerable in a hostile environment.
 
 At the core of both character creation and progression is a **point-based system**. Players invest **Progress Points (PP)** to improve:
@@ -12,7 +14,7 @@ Attributes provide a character’s baseline potential. Skills determine how that
 
 ## Augmentation & Specialization
 
-In addition to training, characters can enhance themselves through **implants** and **genetic modifications**.
+In addition to training, characters can enhance themselves through [[Implant Overview|implants]] and [[Genetic Modifications|genetic modifications]].
 
 Implants are not broad passive upgrades. They are specialized systems tied to distinct operational domains, and each character may only combine **two implant categories**. This forces deliberate choices in how a character develops and prevents unfocused “everything builds.”
 
@@ -37,7 +39,7 @@ Characters can exceed safe limits, but doing so always introduces risk.
 
 Progression follows the same point-based structure used during [[Character Creation]].
 
-Characters earn **[[Progression & Advancement]]** through play and invest them to:
+Characters earn [[Progress Points]] through play and invest them to:
 
 - deepen existing strengths
 - improve survivability or system capacity
@@ -58,8 +60,8 @@ Every build should reflect a clear operational identity, even without predefined
 
 ## See also
 
-[[Attributes]]  
-[[Base Stats]]  
-[[Skills]]  
-[[Progression & Advancement]]  
-[[Character Creation]]
+- [[Attributes]]
+- [[Base Stats]]
+- [[Skills]]
+- [[Progression & Advancement]]
+- [[Character Creation]]

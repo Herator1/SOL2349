@@ -109,10 +109,9 @@ The GM decides whether an action counts as a utility action. If it requires prec
 
 **Take Aim** is a standard action.
 
-- Cost: **1 Action**
+- - **1 Action**
+- gain **Tactical Edge** on your next ranged attack this round
 - Effect: Gain **+2 to your next attack**
-- Additional Effect: Improve your critical range by 1 for that attack  
-    (for example, from **20** to **19–20**)
 
 The bonus applies only to the next qualifying attack and is lost if not used before the end of the round, unless another rule says otherwise.
 

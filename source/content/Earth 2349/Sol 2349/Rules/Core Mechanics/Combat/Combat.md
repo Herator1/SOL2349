@@ -1,6 +1,6 @@
 Combat in _SOL 2349_ is fast, dangerous, and strongly shaped by **positioning, timing, cover, and resource pressure**. Characters are capable, but not invulnerable. A good angle, a well-timed reaction, or a single mistake can decide an engagement very quickly.
 
-At its core, combat is built around the same systems that govern the rest of the game: **Action Tests**, the **Action Economy**, **Guard, Health, and Wounds**, and the constant trade-off between speed, control, and risk.
+At its core, combat is built around the same systems that govern the rest of the game: the [[Dice System]], [[Time & Actions]], [[Survivability - Guard, Health & Wounds]], and the constant trade-off between speed, control, and risk.
 
 This page explains the overall flow of combat. More detailed rules are covered in the linked subpages.
 
@@ -34,7 +34,7 @@ Unused Actions may be held for later in the round and spent as **Reactive Action
 
 A character can never use more than **5 Actions in one round** unless a rule explicitly says otherwise.
 
-For the full timing rules, see [[Time & Actions]] and later [[Initiative & Turn Order]].
+For the full timing rules, see [[Time & Actions]] and [[Initiative & Turn Order]].
 
 ## Core Combat Principles
 
@@ -44,7 +44,7 @@ Combat in _SOL 2349_ is shaped by a few core principles:
 Characters avoid being hit through [[Defense, Cover & Positioning]], movement, angles, and timely reactions.
 
 **Successful hits do not always mean real injury.**  
-Damage is applied to [[Guard]] first, then [[Health]], and only then causes [[Wounds]].
+Damage is applied to Guard first, then Health, and only then causes Wounds. See [[Survivability - Guard, Health & Wounds]].
 
 **Repeated actions become less efficient.**  
 Making multiple attacks, repeated movement, or repeated implant use in the same round creates penalties or rising cost.
@@ -91,7 +91,7 @@ Then apply all relevant modifiers, such as:
 - stance
 - target movement
 - angle of attack
-- reactive defense such as [[Evade]]
+- reactive defense such as Evade
 - environmental conditions
 - other situational effects
 
@@ -101,7 +101,7 @@ For full details, see [[Defense, Cover & Positioning]].
 
 If the defender has an unused Action and a valid trigger, they may declare a defensive **Reactive Action** before the attack roll is made.
 
-The most common example is [[Evade]].
+The most common example is Evade.
 
 Reactive defense must be declared:
 
@@ -128,7 +128,7 @@ Common combat modifiers may include:
 A natural **20** is a critical success.  
 A natural **1** is a critical failure.
 
-For general resolution rules, see [[Core Resolution]].
+For general resolution rules, see [[Dice System]].
 
 ### Step 6: Roll Damage
 
@@ -158,7 +158,7 @@ If Health is reduced below 0, the character suffers **1 Wound**, is temporarily 
 
 When a character reaches their maximum Wounds, they enter the **Dying** state.
 
-For full details, see [[Survivability: Guard, Health & Wounds]].
+For full details, see [[Survivability - Guard, Health & Wounds]].
 
 ## Reactive Actions in Combat
 
@@ -166,7 +166,7 @@ Combat allows characters to hold Actions and spend them later in the round in re
 
 Common Reactive Actions include:
 
-- [[Evade]]
+- Evade
 - reactive attacks
 - activating an implant
 - firing on a target that leaves cover
@@ -193,7 +193,7 @@ Important factors include:
 - a better angle can reduce or negate cover
 - full cover prevents direct attacks entirely
 
-These rules are covered in [[Defense, Cover & Positioning]] and should later also connect to [[Movement]].
+These rules are covered in [[Defense, Cover & Positioning]] and [[Movement]].
 
 ## Fire Modes and Weapon Use
 
@@ -205,7 +205,7 @@ Ranged weapons may offer different fire modes such as:
 
 These trade precision, damage, control, and ammunition pressure against one another.
 
-Special rules such as **Low Ammo**, **Suppressive Fire**, and **Area Fire** are covered under [[Fire Modes]] and later [[Weapons and Tactical Gear]].
+Special rules such as **Low Ammo**, **Suppressive Fire**, and **Area Fire** are covered under [[Fire Modes]] and [[Weapons and Tactical Gear]].
 
 ## Damage, Injury, and Survival
 
@@ -216,7 +216,7 @@ Combat becomes increasingly dangerous as a character loses control of the situat
 - if Health drops below 0, the character suffers a **Wound**
 - repeated Wounds eventually lead to **Dying**
 
-This means many attacks that “hit” may still represent glancing impacts, suppressed positioning, shock, or near misses that wear down combat readiness before causing real bodily injury.
+This means many attacks that “hit” may still represent glancing impacts, shock, or near misses that wear down combat readiness before causing real bodily injury.
 
 ## Implants and Combat
 
@@ -231,7 +231,7 @@ But every activation creates **Load**, and overuse risks **Overload**.
 
 Implants do not replace tactical judgment. They allow brief moments of advantage at increasing physiological and system cost.
 
-See [[Implants & Load]] and later [[Earth 2349/Sol 2349/Rules/Augmentations and Gear/Implant Overview]].
+See [[Load]] and [[Implant Overview]].
 
 ## Mental Pressure in Combat
 
@@ -257,14 +257,19 @@ Combat ends when one side:
 
 Once combat ends, characters may begin recovering, stabilizing allies, regrouping, and reassessing the situation.
 
-This should connect later to [[Rest & Recovery]] and [[Medicine & Stabilization]].
+This connects directly to [[Rest & Recovery]] and [[Medicine & Stabilization]].
 
 ## Related Pages
 
-- [[Core Resolution]]
+- [[Dice System]]
 - [[Time & Actions]]
+- [[Initiative & Turn Order]]
 - [[Defense, Cover & Positioning]]
-- [[Survivability: Guard, Health & Wounds]]
+- [[Movement]]
+- [[Survivability - Guard, Health & Wounds]]
 - [[Fire Modes]]
-- [[Implants & Load]]
+- [[Load]]
+- [[Implant Overview]]
 - [[Mental Strain & Psychological Pressure]]
+- [[Rest & Recovery]]
+- [[Medicine & Stabilization]]

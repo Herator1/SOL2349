@@ -23,14 +23,14 @@ These are **total test bonuses**, usually combining **Attribute + Skill**, befor
 
 ## Difficulty Benchmarks
 
-|Difficulty|DC|Example|
-|---|---|---|
-|Routine|8|Basic repair under calm conditions|
-|Standard|10|Typical professional task|
-|Challenging|13|Difficult maneuver, complex system|
-|Hard|16|Emergency repair, hazardous situation|
-|Extreme|19|Success requires strong skill or good conditions|
-|Near Impossible|22+|Experimental, desperate, or borderline impossible task|
+| Difficulty      | DC  | Example                                                |
+| --------------- | --- | ------------------------------------------------------ |
+| Routine         | 8   | Basic repair under calm conditions                     |
+| Standard        | 10  | Typical professional task                              |
+| Challenging     | 13  | Difficult maneuver, complex system                     |
+| Hard            | 16  | Emergency repair, hazardous situation                  |
+| Extreme         | 19  | Success requires strong skill or good conditions       |
+| Near Impossible | 22+ | Experimental, desperate, or borderline impossible task |
 
 These values are guidelines, not absolutes. The GM should choose a DC that reflects both the task itself and the conditions under which it is attempted.
 

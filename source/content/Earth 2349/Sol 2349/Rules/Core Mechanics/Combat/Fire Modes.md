@@ -1,22 +1,20 @@
-# Fire Modes
-
 Many ranged weapons in _SOL 2349_ can be used in different **fire modes**, chosen separately for each attack.
 
-Each mode trades **precision, control, and ammunition pressure** against increased effect.
+Each mode trades **precision, control, and ammunition pressure** against greater effect.
 
 ## Standard Fire Modes
 
 |Mode|Cost|Effect|
 |---|---|---|
 |**Single Shot**|1 Action|Standard attack with no modifier|
-|**Burst Fire**|1 Action|Choose either **+2 to hit** or **+1d6 damage**|
+|**Burst Fire**|1 Action|On a hit, add **+1d6 damage**|
 |**Full Auto**|1 Action|See below|
 
 ## Full Auto
 
 Full auto represents **overwhelming fire volume**, not careful precision.
 
-It is powerful, but difficult to control and rapidly depletes available ammunition.
+It is powerful, difficult to control, and rapidly pushes the weapon into **Low Ammo**.
 
 ### Requirements
 
@@ -27,28 +25,22 @@ It is powerful, but difficult to control and rapidly depletes available ammuniti
 When using Full Auto:
 
 - apply **−2 to the attack roll**
-- **Take Aim** provides no benefit
-- the weapon immediately gains **Low Ammo** after the attack is resolved
+- the weapon gains **Low Ammo** after the attack resolves
 
 When declaring Full Auto, choose one of the following modes:
 
-### High Impact Fire
-
-Concentrated automatic fire against a single target.
-
-- On a hit, add **+1 weapon damage die**
-- On a critical hit, double the total number of damage dice as normal
-
-**Example:**  
-A weapon that normally deals **2d6** damage deals **3d6** with High Impact Fire.  
-On a critical hit, it deals **6d6**.
-
 ### Suppressive Fire
 
-Suppressive fire is used to pin a target down and punish exposure rather than to maximize immediate damage.
+Suppressive fire is used to control space and punish exposure rather than maximize immediate damage.
 
-- The target suffers **Setback** on attacks made before the start of your next turn
-- If the target **leaves cover** or **makes an attack** before the start of your next turn, you may spend **1 Action** to immediately make a follow-up attack against that target
+Choose one visible target.
+
+Until the start of your next turn, if that target:
+
+- **attacks**
+- or **leaves cover**
+
+you may spend **1 Action** to make an immediate follow-up attack against that target.
 
 This follow-up attack:
 
@@ -66,7 +58,6 @@ Area fire saturates a small zone with automatic fire.
 - Make **one attack roll**
 - Compare that roll separately against each target’s DC
 - Targets in **full cover** are immune
-- Targets in the area gain **+2 DC** to represent dispersed fire and partial evasive movement
 - Damage is reduced by **−1 weapon damage die** against all targets hit  
     (minimum **1 damage die**, unless the weapon says otherwise)
 

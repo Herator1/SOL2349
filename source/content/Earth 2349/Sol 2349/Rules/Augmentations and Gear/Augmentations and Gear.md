@@ -9,11 +9,11 @@ Implants are the core augmentation system of _SOL 2349_. They are **active syste
 Their use is limited by two key mechanics:
 
 - **[[Load]]** limits how far systems can be pushed in the short term
-- **[[Mod Space]]** limits how many implants a character can install overall
+- **Mod Space** limits how many implants a character can install overall
 
 Implants are tied to distinct operational categories, and each character can only access **two categories**, forcing meaningful specialization.
 
-For details, see [[Earth 2349/Sol 2349/Rules/Augmentations and Gear/Implant Overview]].
+For details, see [[Implant Overview]].
 
 ## Genetic Modifications
 
@@ -21,7 +21,7 @@ Genetic modifications are **passive, permanent adaptations**. Unlike implants, t
 
 They represent long-term adaptation rather than active system use.
 
-For details, see [[Earth 2349/Sol 2349/Rules/Augmentations and Gear/Genetic Modifications]].
+For details, see [[Genetic Modifications]].
 
 ## Equipment
 
@@ -51,13 +51,13 @@ Augmentations and gear are meant to create **clear technological identities** wi
 
 Technology creates opportunity. Judgment determines survival.
 
-## Core Systems
+## Implants & Genetic Modifications
 
-- [[Earth 2349/Sol 2349/Rules/Augmentations and Gear/Genetic Modifications]]
+- [[Implant Overview]]
+- [[Genetic Modifications]]
 
 ## Implant Categories
 
-- [[Earth 2349/Sol 2349/Rules/Augmentations and Gear/Implant Overview]]
 - [[Combat Implants]]
 - [[Physical Implants]]
 - [[Spacefaring Implants]]

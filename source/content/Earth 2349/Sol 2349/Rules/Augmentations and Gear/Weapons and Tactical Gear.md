@@ -43,13 +43,13 @@ These modes are explained in [[Fire Modes]].
 |---|---|
 |**AP X**|Reduce the target’s Armor contribution to Guard by **X** for this attack|
 |**Safe**|Designed to minimize structural penetration; cannot normally cause decompression or major structural breach|
-|**Non-lethal**|Still damages **Guard** normally, but if it would deal Health damage, it applies its listed non-lethal effect instead|
+|**Non-lethal**|Still damages **Guard** normally, but if it would deal **Health** damage, it applies its listed non-lethal effect instead|
 |**Area**|Can affect multiple targets in a zone; see Area Attacks below|
 |**Energy**|Uses directed energy rather than conventional ballistic impact; may interact differently with some targets or hazards|
 |**Assisted**|Gains **Tactical Edge** or ignores movement-related penalties when tracking moving targets, as specified by the weapon|
 |**Silent**|Produces little or no conventional sound signature|
 |**Spread**|Gains **Tactical Edge** at close range, usually **10 m or less**|
-|**Suppression**|Can be used especially effectively with suppressive fire rules, if the mode or weapon allows|
+|**Suppression**|Particularly effective when used with suppressive fire, if the weapon or mode allows|
 
 ## Pistols & Sidearms
 
@@ -74,7 +74,7 @@ These modes are explained in [[Fire Modes]].
 |Weapon|Dmg|Range|Modes|Traits|Cost|
 |---|---|---|---|---|---|
 |**Sniper Rifle**|4d6|120–300 m|S|AP 1|5–10 SOL|
-|**Rail Sniper**|6d6|300 m|S|AP 3|12–25 SOL|
+|**Rail Sniper**|5d6|300 m|S|AP 2|12–25 SOL|
 
 ## Heavy Weapons
 
@@ -86,6 +86,8 @@ These modes are explained in [[Fire Modes]].
 
 ## Close Combat & Boarding
 
+Melee weapons use the normal combat rules, but operate at close range and are more strongly affected by positioning, exposure, and access to the target.
+
 |Weapon|Dmg|Range|Modes|Traits|Cost|
 |---|---|---|---|---|---|
 |**Boarding Shotgun**|4d6|10 m|S|Spread, Safe|0.4–0.7 SOL|
@@ -95,10 +97,12 @@ These modes are explained in [[Fire Modes]].
 
 ## Industrial / Improvised
 
+Industrial tools are dangerous improvised weapons, but they are not optimized for combat.
+
 |Weapon|Dmg|Range|Modes|Traits|Cost|
 |---|---|---|---|---|---|
-|**Plasma Cutter**|4d6|Melee|—|AP 2, Energy|0.5–1.0 SOL|
-|**Arc Welder**|3d6|Melee|—|Energy|0.2–0.5 SOL|
+|**Plasma Cutter**|3d6|Melee|—|AP 1, Energy|0.5–1.0 SOL|
+|**Arc Welder**|2d6|Melee|—|Energy|0.2–0.5 SOL|
 |**Heavy Tool**|2d6|Melee|—|—|negligible|
 
 ## Grenades and Tactical Charges
@@ -107,7 +111,7 @@ These modes are explained in [[Fire Modes]].
 |---|---|---|---|---|
 |**Frag Grenade**|4d6|30 m|Area|0.1–0.2 SOL|
 |**Stun Grenade**|—|30 m|Area, Non-lethal|0.1–0.3 SOL|
-|**Smoke Grenade**|—|30 m|Area, Utility|0.05–0.1 SOL|
+|**Smoke Grenade**|—|30 m|Area|0.05–0.1 SOL|
 |**Tear Gas Grenade**|—|30 m|Area, Non-lethal|0.1–0.2 SOL|
 |**Plasma Grenade**|5d6|30 m|Area, AP 1|2–5 SOL|
 
@@ -132,16 +136,9 @@ Non-lethal weapons are designed to disable, suppress, or incapacitate rather tha
 As a default:
 
 - they damage **Guard** normally
-- when they would deal Health damage, they instead apply the weapon’s non-lethal effect
+- if they would deal **Health** damage, the target instead gains **+1 Mental Condition**
 
-Typical non-lethal effects may include:
-
-- **+1 Mental Condition**
-- temporary incapacity
-- forced surrender or loss of control
-- loss of Actions on the next turn
-
-The exact effect should be listed by the weapon or grenade where relevant.
+Only specific weapons or grenades should deviate from this default.
 
 ## Environmental and Tactical Effects
 

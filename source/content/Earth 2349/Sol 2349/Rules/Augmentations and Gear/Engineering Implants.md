@@ -1,79 +1,234 @@
-## 🦾 Engineering Frame (Third Arm Rig)
+# 🦾 Engineering Frame (Third Arm Rig)
 
-**Cat:** Engineering  | **Type:** Mechanical | **mSpace:** 3
+**Cat:** Engineering  
+**Type:** Mechanical  
+**mSpace:** 3
 
-**Flavor:** You are one with the tool.
+A mounted auxiliary arm with integrated engineering hardware, built for fieldwork under pressure.
 
-**Integrated Tool Arm (Passive):** Multi-Tool, Power Tool, Plasma Cutter always available; no draw needed; independent use.
+### Integrated Tool Arm
 
-**Tool Acceleration (Aug):** +1 additional Engineering/Tool action (turn or reactive) → **+2 Load**
+**Type:** Passive
 
-**Plasma Cutter Override:** Melee attack, +1 damage die, ignore Armor → **+1 Load**
+You have a functional third utility arm mounted to your body.
+
+It can:
+
+- hold or manipulate tools
+- operate panels or controls
+- perform simple engineering handling without occupying one of your main hands
+- count as always having access to an integrated **Multi-Tool**
+
+This does not grant extra full actions by itself, but it allows engineering work in situations where normal two-handed operation would be difficult or impossible.
+
+### Tool Override
+
+**Type:** Active  
+**Cost:** 1 Action  
+**Load:** +1
+
+Immediately perform one engineering interaction using the integrated arm:
+
+- cut
+- drill
+- force open
+- seal
+- brace
+- manipulate a panel or housing
+
+This action may be performed even if both of your main hands are occupied, as long as the arm can physically reach the target.
+
+### Plasma Cutter Override
+
+**Type:** Active  
+**Cost:** 1 Action  
+**Load:** +1
+
+Activate the integrated cutter as a weapon or breaching tool.
+
+If used as a weapon, make **1 melee attack** using the Plasma Cutter profile from [[Weapons and Tactical Gear]].
 
 **Role:** Field engineer / breacher
 
----
 
-## 🤖 Neural Drone Interface
+# 🤖 Neural Drone Interface
 
-**Cat:** Engineering | **Type:** Neural | **mSpace:** 3
+**Cat:** Engineering  
+**Type:** Neural  
+**mSpace:** 3
 
-**Flavor:** Your mind extends into machines.
+A neural command interface that extends the operator’s awareness and control into linked drones.
 
-**Multi-Node Control:** Control up to 2 drones
+### Multi-Node Link
 
-**Dual Command:** 1 Action → both drones act (1 action each) → **+1 Load**
+**Type:** Passive
 
-**Augmented Command:** Command 1 drone without Action → **+1 Load**
+You may maintain active link access to up to **2 drones** at the same time.
 
-**Precision Control:** Drone actions gain Tactical Edge
+You may switch direct control between linked drones without additional setup.
+
+### Augmented Command
+
+**Type:** Augmented  
+**Load:** +1  
+**Limit:** 1× per round
+
+Command **1 linked drone** to perform **1 meaningful action** without spending one of your normal Actions.
+
+This does not allow the drone to activate this effect again and does not give the drone a separate turn economy.
+
+### Precision Control
+
+**Type:** Active  
+**Cost:** 1 Action  
+**Load:** +1
+
+Choose one linked drone.  
+Its **next action** gains **Tactical Edge**.
 
 **Role:** Drone controller
 
----
 
-## 🔧 Omni-Spectral Engineering Suite
+# 🔧 Omni-Spectral Engineering Suite
 
-**Cat:** Engineering + Science | **Type:** Sensor | **mSpace:** 2
+**Cat:** Engineering + Science  
+**Type:** Sensor  
+**mSpace:** 2
 
-**Flavor:** You understand systems instantly.
+A multispectrum analysis package that reveals hidden system states, material stress, and environmental signatures.
 
-**Spectral Vision:** IR, UV, radiation (gamma), low-light
+### Spectral Vision
 
-**Structural Analysis:** Tactical Edge on Engineering rolls involving materials, structure, weakpoints
+**Type:** Passive
 
-**Weakpoint Identification (Active):** Next interaction → Edge OR +1 damage die → **+1 Load**
+You can perceive in multiple enhanced bands, including:
+
+- low-light
+- infrared
+- ultraviolet
+- radiation signatures where relevant
+
+This does not replace normal sight, but adds additional engineering and hazard-relevant information.
+
+### Structural Analysis
+
+**Type:** Active  
+**Cost:** 1 Action  
+**Load:** +1
+
+Analyze a visible structure, machine, device, or damaged system.
+
+On your **next relevant interaction** with that target, gain **Tactical Edge**.
+
+Typical uses include:
+
+- identifying a weak access point
+- spotting hidden damage
+- locating stress fractures
+- detecting energy leakage
+- choosing the safest or fastest intervention point
+
+### Hazard Readout
+
+**Type:** Passive
+
+You automatically notice obvious engineering-relevant hazard signatures when they are within line of sight or sensor range, such as:
+
+- heat stress
+- radiation leaks
+- unstable power states
+- structural fracture patterns
 
 **Role:** Systems expert
 
 ---
 
-## 💣 Demolition & Breach Suite
+# 💣 Demolition & Breach Suite
 
-**Cat:** Engineering + Combat | **Type:** Breach | **mSpace:** 3
+**Cat:** Engineering + Combat  
+**Type:** Breach  
+**mSpace:** 3
 
-**Flavor:** You remove obstacles.
+A controlled breaching implant package built for entry, access denial, and forced opening under pressure.
 
-**Controlled Breach:** Destroy/open target (≈2m × 2m); doors, light walls, cover; not bulkheads/reinforced → **+1 Load**
+### Controlled Breach
 
-**Shock Entry (Aug):** After breach: move 5 m OR melee OR close-range ranged (e.g. shotgun); no extra Action → **+2 Load** (no extra load for combining with breach)
+**Type:** Active  
+**Cost:** 1 Action  
+**Load:** +2
 
-**Deployable Shield:** +4 Guard, counts as Take Cover, persists while moving, 1 turn → **+2 Load**
+Open or destroy a light barrier within reach, such as:
+
+- a door
+- hatch
+- access panel
+- light wall section
+- improvised cover
+
+This does not breach bulkheads, hardened military barriers, or major reinforced structures unless a rule says otherwise.
+
+### Shock Entry
+
+**Type:** Augmented  
+**Trigger:** immediately after using **Controlled Breach**  
+**Load:** +1
+
+Immediately do one of the following:
+
+- move up to **5 m**
+- make **1 melee attack**
+- make **1 close-range ranged attack**
+
+### Breach Shielding
+
+**Type:** Passive
+
+When using **Controlled Breach**, gain **+2 Guard** until the start of your next turn.
 
 **Role:** Breacher
 
+
 ---
 
-## ⚡ System Disruption Node
+# ⚡ System Disruption Node
 
-**Cat:** Engineering + Operations | **Type:** Neural | **mSpace:** 3
+**Cat:** Engineering + Operations  
+**Type:** Neural  
+**mSpace:** 3
 
-**Flavor:** You break systems.
+A close-range disruption implant designed to break, jam, or destabilize active systems.
 
-**System Overload:** Target system/drone/implant, range 10 m → disabled 1 turn OR Complication → **+2 Load**
+### System Overload
 
-**Feedback Pulse:** 10 m, 2d6 damage (machines only) → **+2 Load**
+**Type:** Active  
+**Cost:** 1 Action  
+**Range:** 10 m  
+**Load:** +2
 
-**Control Break:** 10 m, cancel control/active system; disabled 2 turns → **+2 Load**
+Target one visible system, drone, powered device, or active implant user.
+
+Choose one:
+
+- the target suffers **Setback** on its next relevant action
+- or the target is **disabled until the start of your next turn**, if it is light, exposed, or poorly shielded
+
+### Feedback Pulse
+
+**Type:** Active  
+**Cost:** 1 Action  
+**Range:** 10 m  
+**Load:** +2
+
+Target one visible machine or drone.  
+It takes **2d6 damage**.
+
+### Control Break
+
+**Type:** Reactive  
+**Trigger:** a linked or active system within **10 m** is being controlled, activated, or overridden  
+**Load:** +2
+
+Interrupt the control attempt.  
+The target system cannot be actively controlled again until the start of the next turn unless a rule says otherwise.
 
 **Role:** Tech disruptor

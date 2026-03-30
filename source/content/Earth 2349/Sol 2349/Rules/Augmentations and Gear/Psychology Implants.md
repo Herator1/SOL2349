@@ -1,14 +1,36 @@
 ## 😈 Fear Induction Suite
 
-**Cat:** Psychology | **Type:** Neural / Hormonal | **mSpace:** 2
+**Cat:** Psychology  
+**Type:** Neural / Hormonal  
+**mSpace:** 2
 
-**Flavor:** You don’t threaten—you trigger instinctive fear.
+A targeted intimidation system built to trigger instinctive fear, hesitation, and loss of nerve.
 
-**Intimidation Edge (Passive):** Tactical Edge on **Intimidation**
+### Fear Spike
+**Type:** Augmented  
+**Range:** 10 m  
+**Load:** +1
 
-**Fear Spike (Aug):** target within **~10 m** → suffers **Complication** on next action → **+1 Load**
+Choose one visible target within range.
 
-**Panic Trigger (Aug):** target must disengage, take cover, or hesitate (GM choice) → **+2 Load**
+That target suffers **Setback** on its next action.
+
+### Panic Trigger
+**Type:** Active  
+**Cost:** 1 Action  
+**Range:** 10 m  
+**Load:** +2
+
+Choose one visible target within range.
+
+If the target is already under pressure, isolated, wounded, or mentally strained, apply **+1 Mental Condition**.
+
+This cannot raise a target beyond **Breaking Point** by itself.
+
+### Predator Presence
+**Type:** Passive
+
+Gain **Tactical Edge** on **Intimidation** and other direct fear-based social pressure.
 
 **Role:** intimidation / disruption
 
@@ -16,67 +38,110 @@
 
 ## 🧘 Stress Regulation System
 
-**Cat:** Psychology | **Type:** Bio / Neural | **mSpace:** 2
+**Cat:** Psychology  
+**Type:** Bio / Neural  
+**mSpace:** 2
 
-**Flavor:** You stay calm when others break.
+A regulation implant built to maintain composure, suppress panic, and recover faster from mental overload.
 
-**Mental Stability (Passive):** Tactical Edge on **Stress Control**
+### Mental Stability
+**Type:** Passive
 
-**Stabilize (Aug):** reduce **2 Stress** (self or target in melee) → **+1 Load**  
-_Limit:_ 1× per Short Rest per target
+Gain **Tactical Edge** on **Stress Control** and other rolls made to resist mental collapse, panic, or overload-related breakdown.
 
-**Override Panic:** ignore effects of Stress for **1 turn** → **+2 Load**
+### Stabilize Mind
+**Type:** Active  
+**Cost:** 1 Action  
+**Range:** touch  
+**Load:** +1  
+**Limit:** 1× per target per Short Rest
 
-**Role:** stress management / resilience
+Reduce the target’s **Mental Condition by 1 level**.
+
+### Override Panic
+**Type:** Augmented  
+**Load:** +2
+
+Ignore penalties from your current **Mental Condition** until the start of your next turn.
+
+This does not remove the condition itself.
+
+**Role:** mental resilience / recovery
 
 ---
 
 ## 🧠 Empathic Insight Module
 
-**Cat:** Psychology | **Type:** Neural / Cognitive | **mSpace:** 2
+**Cat:** Psychology  
+**Type:** Neural / Cognitive  
+**mSpace:** 2
 
-**Flavor:** You don’t read minds—you read everything else.
+A perception and behavioral analysis implant built to read emotional states, pressure points, and hidden instability.
 
-**Insight Edge (Passive):** Tactical Edge on **Insight, Persuasion, Deception detection**
+### Emotional Read
+**Type:** Passive
 
-**Emotional Read:** instantly assess:
-
+You can quickly assess:
 - emotional state
-- intent
-- pressure points
+- likely intent
+- visible instability
+- likely pressure points
+
+This does not reveal thoughts, but it gives the user clear behavioral insight when enough cues are present.
+
+### Insight Focus
+**Type:** Passive
+
+Gain **Tactical Edge** on **Insight** and on reading deception, instability, or emotional weakness.
+
+### Influence Window
+**Type:** Active  
+**Cost:** 1 Action  
+**Range:** 10 m  
+**Load:** +1
+
+Choose one visible target within range.
+
+Your **next social interaction** against that target gains **Tactical Edge**.
+
+**Role:** interrogation / social control
 
 ---
 
-**Influence (Aug):**  
-target within **~10 m** → next social interaction gains **Tactical Edge** → **+1 Load**
+## 📡 Psychological Warfare Suite *(Psychology + Operations)*
 
-**Role:** social control / interrogation
+**Cat:** Psychology + Operations  
+**Type:** Neural / Broadcast  
+**mSpace:** 3
 
----
+A psychological broadcast system built to spread pressure, confusion, and coordinated emotional disruption across a small group.
 
-## 📡 Psychological Warfare Suite _(Psychology + Operations)_
+### Disruption Field
+**Type:** Active  
+**Cost:** 1 Action  
+**Range:** 10 m  
+**Load:** +2
 
-**Cat:** Psychology + Operations | **Type:** Neural / Broadcast | **mSpace:** 3
+Choose all targets in a small visible zone within range.
 
-**Flavor:** You control the narrative—and the reaction.
+Affected targets suffer **Setback** on their next action.
 
-**Broadcast Influence:** affect all targets within **~10 m (audio/visual range)**
+### Coordinated Pressure
+**Type:** Active  
+**Cost:** 1 Action  
+**Range:** 10 m  
+**Load:** +2
 
----
+Choose one visible target or a small visible group within range.
 
-**Disruption Field (Aug):**  
-targets suffer **Complication** on next action → **+2 Load**
+Until the start of your next turn, the **first ally** to act against each affected target gains **Tactical Edge**.
 
----
+### Narrative Control
+**Type:** Passive
 
-**Coordinated Pressure (Aug):**  
-allies gain **Tactical Edge** vs affected targets (1 turn) → **+2 Load**
+Gain **Tactical Edge** on:
+- persuasion under pressure
+- deception in unstable situations
+- crowd influence where fear, uncertainty, or confusion are already present
 
----
-
-**Narrative Control:**  
-gain Tactical Edge on:
-
-- persuasion
-- deception
-- crowd influence
+**Role:** pressure / control / group disruption

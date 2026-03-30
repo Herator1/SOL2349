@@ -31,16 +31,14 @@ When declaring Full Auto, choose one of the following modes:
 
 ### Suppressive Fire
 
-Suppressive fire is used to control space and punish exposure rather than maximize immediate damage.
+Suppressive fire is used to pin a target down and punish exposure rather than maximize immediate damage.
 
 Choose one visible target.
 
-Until the start of your next turn, if that target:
+Until the start of your next turn:
 
-- **attacks**
-- or **leaves cover**
-
-you may spend **1 Action** to make an immediate follow-up attack against that target.
+- the target suffers **Setback** on attacks
+- if the target **leaves cover**, you may spend **1 Action** to make an immediate follow-up attack against that target
 
 This follow-up attack:
 

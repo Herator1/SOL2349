@@ -1,31 +1,41 @@
 ## 📊 Analysis Engine
 
-**Cat:** Science | **Type:** Neural / Cognitive | **mSpace:** 2
+**Cat:** Science  
+**Type:** Neural / Cognitive  
+**mSpace:** 2
 
-**Flavor:** You don’t observe patterns—you explain them.
+A cognitive analysis implant built to detect patterns, infer hidden causes, and produce useful conclusions under pressure.
 
-**Pattern Recognition (Passive):** Tactical Edge on **Analysis**
+### Causal Insight
+**Type:** Passive
 
-**Causal Insight:**
+When enough information is present, you can quickly infer:
+- likely causes behind behavior
+- hidden relationships
+- underlying system logic
+- probable next developments
 
-- determine:
-    - causes behind behavior
-    - hidden relationships
-    - underlying mechanisms
+This does not reveal perfect truth, but it gives strong, actionable conclusions where others would only see fragments.
 
-👉 e.g. _“Why are people running?”_
+### Exploit Insight
+**Type:** Active  
+**Cost:** 1 Action  
+**Load:** +1
 
----
+Analyze one visible target, process, or situation.
 
-**Exploit Insight (Aug):**
+Your **next relevant action** against that target or situation gains **Tactical Edge**.
 
-- next interaction gains:
-    - Tactical Edge
-    - OR +1 damage die (if applicable)
+Typical uses include:
+- identifying a weak point
+- choosing the right approach
+- exploiting a pattern
+- spotting the best timing window
 
-→ **+1 Load**
+### Pattern Focus
+**Type:** Passive
 
----
+Gain **Tactical Edge** on **Analysis**.
 
 **Role:** reasoning / decision advantage
 
@@ -33,41 +43,45 @@
 
 ## 🌡️ Environmental Science Suite
 
-**Cat:** Science | **Type:** Sensor / Field | **mSpace:** 2
+**Cat:** Science  
+**Type:** Sensor / Field  
+**mSpace:** 2
 
-**Flavor:** You understand environments before they become dangerous.
+A field analysis package built to read environments, predict hazards, and reveal safe operating paths.
 
-**Field Readout (Passive):** detect:
+### Field Readout
+**Type:** Passive
 
+You can detect and interpret key environmental signatures, including:
 - radiation
-- magnetic fields
+- magnetic field irregularities
 - atmospheric composition
 - temperature gradients
+- pressure instability
 
----
+### Hazard Prediction
+**Type:** Passive
 
-**Hazard Prediction:**  
-identify:
-
+You automatically notice obvious environmental danger patterns, such as:
 - unstable structures
-- environmental risks
-- system stress points
+- dangerous pressure zones
+- energy leakage
+- thermal stress
+- unsafe routes
 
----
+### Deep Scan
+**Type:** Active  
+**Cost:** 1 Action  
+**Load:** +1
 
-**Deep Scan (Aug):**
+Analyze an area within **20 m**.
 
-- analyze area (~20 m)
-
-👉 reveals:
-
-- hidden dangers
-- optimal paths
-- safe zones
-
-→ **+1 Load**
-
----
+The GM should reveal one or more of the following:
+- hidden danger
+- safest route
+- safest position
+- most stable access point
+- environmental weak point
 
 **Role:** exploration / survival intel
 
@@ -75,74 +89,82 @@ identify:
 
 ## 🧬 Bio-Chem Analyzer
 
-**Cat:** Science | **Type:** Bio / Sensor | **mSpace:** 2
+**Cat:** Science  
+**Type:** Bio / Sensor  
+**mSpace:** 2
 
-**Flavor:** Every substance has a function—you identify it instantly.
+A rapid biochemical analysis implant built to identify substances, biological responses, and physiological risks in real time.
 
-**Biological Insight (Passive):** Tactical Edge on **Biology**
+### Chemical Detection
+**Type:** Passive
 
-**Chemical Detection:** detect:
-
+You can detect and distinguish:
 - toxins
 - drugs
 - contaminants
+- unusual biological residues
+- incompatible or dangerous compounds
 
----
+### Rapid Analysis
+**Type:** Active  
+**Cost:** 1 Action  
+**Load:** +1
 
-**Rapid Analysis (Aug):**  
-determine:
+Analyze one visible sample, substance, patient, or contaminated object.
 
-- effect of substance
-- biological weaknesses
-- compatibility (medicine, poison, etc.)
+You may determine one useful answer immediately, such as:
+- what the substance does
+- whether it is toxic
+- whether it is medically useful
+- whether it is safe to handle
+- whether a target shows biochemical weakness or contamination
 
-→ **+1 Load**
+### Biological Insight
+**Type:** Passive
 
----
+Gain **Tactical Edge** on **Biology**.
 
 **Role:** biology / chemistry utility
 
 ---
 
-## 🛰️ Astrophysics Navigation Suite _(Science + Spacefaring)_
+## 🛰️ Astrophysics Navigation Suite *(Science + Spacefaring)*
 
-**Cat:** Science + Spacefaring | **Type:** Sensor / Computational | **mSpace:** 3
+**Cat:** Science + Spacefaring  
+**Type:** Sensor / Computational  
+**mSpace:** 3
 
-**Flavor:** Space is not empty—you read its structure.
+A navigation and orbital analysis implant built to predict motion, detect anomalies, and calculate optimal paths in space.
 
-**Trajectory Calculation (Passive):** Tactical Edge on:
+### Predictive Motion Model
+**Type:** Passive
 
-- Piloting (long-range)
-- Navigation
-- orbital mechanics
+You can accurately estimate:
+- object trajectories
+- intercept points
+- collision risks
+- drift behavior
+- orbital motion under changing conditions
 
----
+### Anomaly Detection
+**Type:** Passive
 
-**Anomaly Detection:**  
-detect:
-
+You can detect and interpret:
 - gravitational irregularities
 - radiation spikes
-- space anomalies
+- unusual orbital behavior
+- navigation hazards
+- unstable approach geometry
 
----
+### Optimal Pathing
+**Type:** Active  
+**Cost:** 1 Action  
+**Load:** +1
 
-**Optimal Pathing (Aug):**
+Calculate an ideal trajectory, approach vector, or maneuver.
 
-- calculate ideal trajectory or maneuver
+Your **next Piloting or Navigation action** gains one of the following:
+- **Tactical Edge**
+- ignore one environmental movement or navigation penalty
 
-👉 gains:
-
-- Tactical Edge on next Piloting / Navigation check
-- OR ignore environmental complication
-
-→ **+1 Load**
-
----
-
-**Predictive Motion Model:**
-
-- estimate:
-    - object trajectories
-    - intercept points
-    - collision risks
+**Role:** navigation / orbital prediction

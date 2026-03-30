@@ -12,7 +12,7 @@ Attributes provide broad competence. Skills provide focused training and special
 
 Attributes are used to:
 
-- modify [[Core Resolution|Action Tests]]
+- modify the [[Dice System]]
 - shape performance under pressure
 - influence combat, survivability, and recovery
 - determine which characters are naturally better in certain situations even before training is considered
@@ -29,7 +29,7 @@ _SOL 2349_ uses five core attributes:
 - **Intellect**
 - **Presence**
 
-Each attribute supports several skill areas and may also affect other systems such as [[Guard]], [[Health]], [[Mental Strain & Psychological Pressure]], or other derived values.
+Each attribute supports several skill areas and may also affect other systems such as [[Survivability - Guard, Health & Wounds]], [[Mental Strain & Psychological Pressure]], or other derived values.
 
 ## Reflexes
 

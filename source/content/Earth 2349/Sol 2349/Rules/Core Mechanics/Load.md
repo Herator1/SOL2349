@@ -25,9 +25,7 @@ Each character has a **Maximum Load**.
 **Formula:**  
 **Maximum Load = 5 + Intellect**
 
-This value represents the character’s safe operating capacity under normal conditions.
-
-Current Load is tracked separately and rises during play.
+This represents the character’s safe operating capacity under normal conditions.
 
 See [[Base Stats]].
 
@@ -42,32 +40,23 @@ Current Load:
 - may rise quickly during combat
 - resets during proper recovery
 
-Track Current Load and Maximum Load separately.
-
-Example:
-
-- Maximum Load: **7**
-- Current Load: **4**
-
-The character is operating safely, but has little room left before overload risk begins.
+Track **Current Load** and **Maximum Load** separately.
 
 ## What Causes Load
 
 The most common causes of Load are:
 
-- activating **[[Implants]]**
+- activating **[[Implant Overview|implants]]**
 - repeated implant or ability use in the same round
-- certain **stims**
+- certain **[[Consumables|stims]]**
 - special abilities or overdrive effects
 - other rules that explicitly generate Load
 
-Load should only increase when a rule clearly says it does.
+Load only increases when a rule clearly says it does.
 
 ## Repeated Use and Load Scaling
 
 Repeated use of implants and similar systems in the same round increases Load further.
-
-Use the normal repeated-action scaling:
 
 |Use in the Same Round|Additional Load|
 |---|---|
@@ -79,25 +68,21 @@ Use the normal repeated-action scaling:
 
 This additional Load is applied on top of the normal Load cost of the ability.
 
-Example:  
-A character uses an implant that normally costs **1 Load**.
+### Example
+
+A character uses an implant that normally costs **1 Load**:
 
 - first use: **1 Load**
-- second use in the same round: **2 Load**
-- third use in the same round: **3 Load**
+- second use: **2 Load**
+- third use: **3 Load**
 
-## Safe Load vs Overload
+## Overload
 
 As long as **Current Load ≤ Maximum Load**, the character suffers no automatic overload effect.
 
 If an action pushes **Current Load above Maximum Load**, the character must immediately check for **Overload** after the action resolves.
 
 The action still happens.
-
-This is important:
-
-- Load does not cancel the triggering action
-- it makes the consequence come afterward
 
 ## Overload Trigger
 
@@ -116,11 +101,23 @@ Then roll:
 
 **1d6 + Overload Value**
 
-Apply the result from the normal [[Implants & Load|Overload table]].
+Apply the result immediately:
 
-## What Load Does in Play
+|Result|Effect|
+|---|---|
+|**1–3**|**Minor Glitch** – your next Action suffers **Setback**|
+|**4–5**|**System Lag** – lose **1 available Action on your next turn**|
+|**6–7**|**Neural Stress** – gain **+1 Mental Condition**|
+|**8–9**|**Motor Disruption** – physical actions suffer **Setback** until the end of your next turn|
+|**10–11**|**Targeting Glitch** – attacks suffer **Setback** until the end of your next turn|
+|**12–13**|**Neural Burn** – take **1d6 Health damage**|
+|**14–15**|**System Shock** – gain **+1 Mental Condition** and you cannot activate implants on your next turn|
+|**16–17**|**Implant Lock** – the triggering implant cannot be used again this encounter|
+|**18–19**|**Critical Feedback** – suffer **1 Wound**|
+|**20+**|**Cascade Failure** – suffer **1 Wound** and lose all Actions on your next turn|
+## Load in Play
 
-Load creates pressure without becoming a simple “mana bar.”
+Load creates pressure without becoming a simple resource pool.
 
 It forces choices like:
 
@@ -129,91 +126,21 @@ It forces choices like:
 - stay controlled or push for one decisive turn
 - keep acting aggressively or preserve stability
 
-This makes Load one of the main drivers of tactical restraint and burst performance.
-
-## Load and Implants
-
-Implants are the main source of Load.
-
-Implants may:
-
-- cost Load to activate
-- generate extra Load when repeated
-- create overload risk when pushed too hard
-- become unreliable under extreme strain
-
-See [[Implants & Load]] and [[Earth 2349/Sol 2349/Rules/Augmentations and Gear/Implant Overview]].
-
-## Load and Stims
-
-Some **[[Consumables|stims]]** also generate Load.
-
-This represents biological and neurological stress rather than implant activation alone.
-
-A stim that generates Load follows the same basic logic:
-
-- apply the Load when the effect says so
-- if this pushes Current Load above Maximum Load, check Overload normally
-
-This means Load is not purely “implant strain,” but a broader measure of high-performance system stress.
+Load should feel like a temptation, not a prohibition.
 
 ## Load and Recovery
 
 Current Load is usually a **short-term pressure value**, not a long-term resource.
 
-### Short Rest
+During a valid [[Rest & Recovery|Short Rest]]:
 
-During a valid **[[Rest & Recovery|Short Rest]]**, reduce Current Load to **0**.
+- reduce Current Load to **0**
 
-### Extended Rest
+During a valid [[Rest & Recovery|Extended Rest]]:
 
-During a valid **[[Rest & Recovery|Extended Rest]]**, reduce Current Load to **0**.
+- reduce Current Load to **0**
 
-This reflects:
-
-- cooldown
-- neural recovery
-- metabolic reset
-- implant recalibration
-- returning to safe operating state
-
-If the GM wants unusually harsh conditions, they may reduce this recovery, but the normal baseline is a full reset.
-
-## Load During Combat
-
-Load matters most in combat and other high-pressure scenes.
-
-A character with rising Load may still:
-
-- act normally
-- attack
-- move
-- react
-- activate more systems
-
-But every additional push risks:
-
-- action penalties
-- shutdown
-- implant lock
-- Health damage
-- Wounds
-- complete cascade failure
-
-Load should feel like a temptation, not a prohibition.
-
-## Load and Character Identity
-
-Characters with high Intellect can usually support higher Maximum Load, making them better at sustained system use.
-
-This does **not** automatically make them stronger in every situation. It makes them more capable of:
-
-- running advanced systems
-- chaining implants safely
-- managing high-tech builds
-- tolerating enhancement pressure
-
-Load is therefore both a balancing mechanic and a build identity mechanic.
+Unless another rule says otherwise, proper rest fully resets current Load.
 
 ## Example: Safe Use
 
@@ -245,18 +172,6 @@ The action resolves. Then they check Overload.
 
 They roll **1d6 + 2** and apply the result.
 
-## Example: Repeated Implant Use
-
-A character uses the same implant three times in one round. The implant normally costs **1 Load** each time.
-
-- first use: **1 Load**
-- second use: **1 + 1 = 2 Load**
-- third use: **1 + 2 = 3 Load**
-
-Total Load generated this round: **6**
-
-Even a moderate implant can become dangerous if spammed.
-
 ## Summary
 
 - **Maximum Load = 5 + Intellect**
@@ -271,7 +186,7 @@ Even a moderate implant can become dangerous if spammed.
 ## Related Pages
 
 - [[Base Stats]]
-- [[Implants & Load]]
+- [[Implant Overview]]
 - [[Rest & Recovery]]
 - [[Consumables]]
 - [[Character Creation]]

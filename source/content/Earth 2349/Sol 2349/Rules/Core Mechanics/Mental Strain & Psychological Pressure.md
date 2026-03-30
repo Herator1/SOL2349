@@ -1,6 +1,6 @@
 Life in space places constant psychological pressure on the human mind.
 
-Isolation, confined environments, traumatic events, and sustained danger can push even experienced operators beyond their limits.
+Isolation, confinement, trauma, and sustained danger can push even experienced operators beyond their limits.
 
 In _SOL 2349_, mental stress is not tracked as a point pool, but as a series of **Mental Conditions**.
 
@@ -19,17 +19,17 @@ Unless a rule says otherwise, gaining mental strain increases the current Mental
 
 If a character is already at **Level 4**, further mental strain has no additional tracked effect unless a specific rule says otherwise.
 
-## What Counts as a Concentration-Based Action
+## Concentration-Based Actions
 
-Concentration-based actions are tasks that require composure, focus, or careful control.
+Concentration-based actions are tasks that require focus, composure, or careful control.
 
 Typical examples include:
 
 - technical work
 - medical treatment
-- implant use requiring precision
 - careful aiming
-- hacking, analysis, or system interaction
+- hacking or system interaction
+- precision implant use
 
 The GM decides whether a specific action counts as concentration-based.
 
@@ -42,10 +42,10 @@ Mental Conditions may be caused by:
 - decompression or environmental shock
 - psychological attacks
 - witnessing trauma
-- extended confinement, panic, or helplessness
+- helplessness, panic, or prolonged confinement
 - other intense mental pressure
 
-Most effects increase Mental Condition by **1 level**. Particularly severe events may increase it by more if the GM or a specific rule calls for it.
+Most effects increase Mental Condition by **1 level**. Particularly severe events may increase it by more if a rule or the GM calls for it.
 
 ## Breaking Point
 
@@ -56,73 +56,71 @@ The character temporarily loses control, and the GM determines the immediate rea
 Possible reactions include:
 
 - panic movement
-- freezing in place
-- withdrawal or shutdown
+- freezing
+- withdrawal
 - irrational or self-defeating action
 
-After the Breaking Point effect resolves, reduce the character’s Mental Condition by **1 level**, usually to **Strained**.
+After the effect resolves, reduce the character’s Mental Condition by **1 level**, usually to **Strained**.
 
-A Breaking Point should represent a short collapse under pressure, not permanent loss of agency.
+Breaking Point is a short collapse under pressure, not permanent loss of agency.
 
 ## Interaction with Load
 
-Load and mental strain are closely linked.
+[[Load]] and mental strain are closely linked.
 
-- high [[Load]] can contribute to Mental Conditions
-- some [[Overload]] effects may trigger mental strain directly
-- sustained pressure from implants, danger, and exhaustion can push a character toward Breaking Point
-
-Mental strain is one of the main long-term risks of repeatedly pushing beyond safe operating limits.
+- pushing systems too hard can contribute to Mental Conditions
+- some **Overload** effects directly increase mental strain
+- repeated pressure, danger, and exhaustion can push a character toward **Breaking Point**
 
 ## Recovery
 
-Mental strain recovers gradually and usually requires **time, safety, or support**.
+Mental Conditions usually recover through **time, safety, and support**.
 
-Mental Conditions do **not** normally recover:
+They do **not** normally recover:
 
 - during combat
 - under active threat
 - while exposed to ongoing stress
-- while the character is still under immediate psychological pressure
+- while the source of pressure is still present
 
-## Short Rest (10–15 minutes)
+### Short Rest
 
-During a Short Rest, reduce Mental Condition by **1 level**.
+During a valid **Short Rest**, reduce Mental Condition by **1 level**.
 
-Requirements:
+This requires:
 
 - relative safety
 - no immediate threat
-- enough time to decompress, regroup, and regain control
+- enough time to regroup and decompress
 
-As with Health recovery, a Short Rest cannot simply be repeated over and over for free recovery. It only provides recovery again if meaningful time, renewed activity, or new pressure occurred in between.
+A Short Rest cannot be repeated over and over for free recovery. It only provides recovery again if meaningful time, renewed activity, or new pressure occurred in between.
 
-## Psychological Support
+### Psychological Support
 
-Psychological support can be provided during a **Short Rest**.
+During a **Short Rest**, one character trained in **Psychology** may support one ally.
 
-- One character trained in **Psychology** may assist one ally
-- Make a standard action test, usually using an appropriate Attribute + **Psychology**, against a DC set by the GM
-- On a success, the ally reduces Mental Condition by **1 additional level**
+Make a normal test using an appropriate Attribute + **Psychology** against a DC set by the GM.
 
-This may represent:
+On a success, the ally reduces Mental Condition by **1 additional level**.
 
-- guided breathing
-- grounding techniques
-- reassurance
-- cognitive stabilization
-- restoring focus under pressure
+A character normally cannot benefit from psychological support more than once during the same rest period unless a rule says otherwise.
 
-A character usually cannot benefit from psychological support more than once during the same rest period unless a rule says otherwise.
+### Extended Rest
 
-## Extended Rest (6–8 hours)
+During a valid **Extended Rest**, remove **all Mental Conditions**.
 
-During an Extended Rest, remove **all Mental Conditions**.
-
-Requirements:
+This requires:
 
 - a safe environment
 - proper rest
-- enough time for real psychological recovery
+- enough time for real recovery
 
 If rest is poor, interrupted, or still stressful, the GM may reduce or prevent recovery.
+
+## Related Pages
+
+- [[Conditions]]
+- [[Load]]
+- [[Rest & Recovery]]
+- [[Combat]]
+- [[Environmental Hazards]]

@@ -468,7 +468,7 @@ This turns a technical scene into a survival problem.
 
 - [[Combat]]
 - [[Movement]]
-- [[Survivability: Guard, Health & Wounds]]
+- [[Survivability - Guard, Health & Wounds]]
 - [[Mental Strain & Psychological Pressure]]
 - [[Skills]]
 - [[Defense, Cover & Positioning]]

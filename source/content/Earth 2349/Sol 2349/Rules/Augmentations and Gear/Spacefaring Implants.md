@@ -1,80 +1,173 @@
 ## 🚀 Pilot Interface Core
 
-**Cat:** Spacefaring | **Type:** Neural / Flight | **mSpace:** 3
+**Cat:** Spacefaring  
+**Type:** Neural / Flight  
+**mSpace:** 3
 
-**Flavor:** The ship responds before you move.
+A direct flight-link implant that turns piloting into instinctive motion under pressure.
 
-**Flight Sync:** Tactical Edge on **Piloting**
+### Flight Sync
+**Type:** Passive
 
-**Precision Burn (Aug):**  
-ignore maneuver penalties / Complication for one maneuver → **+1 Load**
+Gain **Tactical Edge** on **Piloting** during:
+- evasive maneuvering
+- docking under pressure
+- unstable approach
+- hazardous flight conditions
 
-**Evasive Pattern (Aug):**  
-gain Tactical Edge on defensive piloting (evasion, avoidance) → **+2 Load**
+### Precision Burn
+**Type:** Active  
+**Cost:** 1 Action  
+**Load:** +1
 
-**Role:** pilot / maneuver specialist
+Perform one maneuver without suffering one ordinary movement, handling, or environmental piloting penalty.
+
+Typical uses include:
+- sharp course correction
+- hazardous docking
+- obstacle threading
+- last-second vector correction
+
+### Evasive Pattern
+**Type:** Reactive  
+**Trigger:** your vehicle is targeted, intercepted, or forced into a dangerous maneuver  
+**Load:** +2
+
+Immediately reposition your vehicle within the current engagement or flight scene.
+
+Choose one:
+- negate one ordinary collision, interception, or forced-position consequence
+- or force one attacker to lose **Tactical Edge** or one ordinary targeting advantage against you
+
+This does not cancel a successful hit automatically, but it can disrupt the tactical setup that made it possible.
+
 
 ---
 
 ## 🔫 Gunnery Link System
 
-**Cat:** Spacefaring | **Type:** Neural / Targeting | **mSpace:** 2
+**Cat:** Spacefaring  
+**Type:** Neural / Targeting  
+**mSpace:** 2
 
-**Flavor:** You don’t aim—you solve trajectories.
+A firing solution implant built for trajectory prediction, intercept timing, and controlled weapons tracking.
 
-**Targeting Sync:** Tactical Edge on **Gunnery**
+### Targeting Sync
+**Type:** Passive
 
-**Lead Solution (Aug):**  
-ignore movement / range penalties for one attack → **+1 Load**
+Gain **Tactical Edge** on **Gunnery** when:
+- tracking moving targets
+- leading targets
+- firing at long range
+- using point-defense or interception fire
+- controlling mounted or remote weapons
 
-**Focused Fire (Aug):**  
-+2 to hit OR +1 damage die (choose) → **+2 Load**
+### Lead Solution
+**Type:** Active  
+**Cost:** 1 Action  
+**Load:** +1
 
-**Role:** ship weapons specialist
+Your next **Gunnery** attack ignores one ordinary range, motion, or tracking penalty.
+
+### Intercept Window
+**Type:** Reactive  
+**Trigger:** a target enters a firing lane, crosses a tracked zone, or attempts to disengage from your weapon arc  
+**Load:** +2
+
+Make **1 immediate Gunnery attack** with **Tactical Edge**.
+
+This may be used with:
+- ship weapons
+- point-defense systems
+- remote mounts
+- defensive turret emplacements
+
+**Role:** ship weapons specialist / interceptor
+
 
 ---
 
 ## 🧑‍🚀 EVA Mobility Suite
 
-**Cat:** Spacefaring + Physical | **Type:** Thruster / Neural | **mSpace:** 2
+**Cat:** Spacefaring + Physical  
+**Type:** Thruster / Neural  
+**mSpace:** 2
 
-**Flavor:** In zero-G, you are never out of control.
+A zero-g movement implant built for controlled EVA motion, boarding approach, and stable work in vacuum.
 
-**Zero-G Control:** Tactical Edge on **EVA**
+### Zero-G Control
+**Type:** Passive
 
-**Micro-Thruster Burst (Aug):**  
-move 10 m in any direction, ignore drift → **+1 Load**
+Gain **Tactical Edge** on **EVA** and on actions that depend on keeping stable position in:
+- zero-g
+- microgravity
+- hull work
+- external boarding
+- drifting environments
 
-**Stabilized Position:**  
-ignore penalties from rotation / drift
+### Micro-Thruster Burst
+**Type:** Active  
+**Cost:** 1 Action  
+**Load:** +1
+
+Move up to **10 m** in any direction in zero-g or EVA conditions.
+
+This movement:
+- ignores ordinary drift penalties
+- may include braking, repositioning, or lateral adjustment
+- can be used to reach handholds, hull access points, or boarding angles
+
+### Stabilized Position
+**Type:** Reactive  
+**Trigger:** you would drift, spin, lose alignment, or be forced out of position in EVA or zero-g  
+**Load:** +1
+
+Immediately regain stable orientation and hold position.
+
+Your next EVA-related action gains **Tactical Edge**.
 
 **Role:** EVA / boarding / repair
 
----
-
-## 🔧 Ship Systems Overdrive _(Spacefaring + Engineering)_
-
-**Cat:** Spacefaring + Engineering | **Type:** Neural / Systems | **mSpace:** 3
-
-**Flavor:** You push systems beyond safe limits.
-
-**Systems Insight:** Tactical Edge on ship-related **Engineering / Systems**
-
-**System Boost (Aug):**  
-temporarily enhance one ship system (1 turn):
-
-- engines → better maneuver
-- sensors → improved detection
-- weapons → improved accuracy
-
-→ **+2 Load**
 
 ---
 
-**Emergency Repair (Aug):**  
-stabilize damaged ship system or restore limited function → **+2 Load**
+## 🔧 Ship Systems Overdrive *(Spacefaring + Engineering)*
 
----
+**Cat:** Spacefaring + Engineering  
+**Type:** Neural / Systems  
+**mSpace:** 3
 
-**Overdrive Risk:**  
-using both abilities in same turn → GM may apply system stress/failure
+A systems overdrive implant built to push ship functions beyond safe limits in critical moments.
+
+### Systems Insight
+**Type:** Passive
+
+Gain **Tactical Edge** on ship-related **Systems** or **Engineering** actions involving:
+- engines
+- sensors
+- weapons
+- power routing
+- damage control
+
+### System Boost
+**Type:** Active  
+**Cost:** 1 Action  
+**Load:** +2
+
+Push one ship system for one immediate benefit.
+
+Choose one:
+- **Engines** — one maneuver gains **Tactical Edge**
+- **Sensors** — one detection or targeting action gains **Tactical Edge**
+- **Weapons** — one ship weapon attack gains **Tactical Edge**
+
+### Emergency Repair
+**Type:** Active  
+**Cost:** 1 Action  
+**Load:** +2
+
+Stabilize one damaged ship system or restore limited function long enough for immediate use.
+
+This does not fully repair the system, but it can keep it operational for a critical action or short interval.
+
+**Role:** ship systems specialist / damage control

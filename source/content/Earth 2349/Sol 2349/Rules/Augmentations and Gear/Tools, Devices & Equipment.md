@@ -62,7 +62,7 @@ These tags describe what a tool is primarily used for.
 |**Repair Kit**|Basic field repair capability|Engineering|Limited but portable|
 |**Engineering Toolkit**|Full repair and maintenance support|Engineering|Required for complex repairs|
 |**Power Tool**|Heavy mechanical work|Industrial|Cutting, drilling, forced access|
-|**Plasma Cutter**|Cuts through metal and heavy material|Industrial, Energy|Can also serve as an improvised weapon|
+|**Plasma Cutter**|Cuts through metal and heavy material|Industrial|Can also serve as an improvised weapon|
 |**Arc Welder**|Fuses, seals, or damages material|Industrial|Useful for repair or sabotage|
 |**Signal Beacon**|Marks location or target|Utility|Tracking and coordination|
 |**Portable Light**|Illuminates an area|Utility|Removes ordinary darkness penalties|
@@ -84,33 +84,12 @@ Typical examples:
 Without the proper tool:
 
 - the action may be impossible
-- or suffer **Setback**
-- or become slower, riskier, or less effective
+- may suffer **Setback**
+- or may become slower, riskier, or less effective
 
 The GM decides which of these applies based on the situation.
 
-## Tool Quality and Impact
-
-Tools vary in capability.
-
-A simple tool may only:
-
-- make a task barely possible
-- remove an otherwise impossible restriction
-
-A better tool may:
-
-- reduce DC
-- grant **Tactical Edge**
-- work faster
-- operate in worse conditions
-- improve precision or safety
-
-As a rule, better tools should improve reliability more often than raw power.
-
 ## Field Tools vs Full Kits
-
-A useful distinction is:
 
 **Field tools** are portable and fast, but limited.  
 **Full kits** are more capable, but bulkier and slower to use well.
@@ -124,17 +103,17 @@ Examples:
 
 This keeps tools practical without turning every carried item into a complete workshop.
 
-## Industrial Tools as Weapons
+## Improvised Weapon Use
 
 Some industrial tools can be used as improvised weapons.
 
 If used this way:
 
 - use an appropriate combat-relevant Attribute and Skill, as the GM judges
-- apply the item’s listed traits if it already has a weapon profile elsewhere
+- apply the item’s listed weapon profile if it has one elsewhere
 - otherwise treat it as an improvised close-range weapon with limited combat efficiency
 
-Industrial tools should be dangerous, but they should not automatically outperform purpose-built weapons.
+Industrial tools should be dangerous, but should not outperform purpose-built weapons.
 
 ## EVA Dependency
 
@@ -150,7 +129,7 @@ Without proper EVA gear, a character may suffer:
 
 For full vacuum and exposure rules, see [[Environmental Hazards]] and [[Movement]].
 
-## Relationship to Other Equipment
+## Related Equipment
 
 This page covers **reusable tools and devices**.
 

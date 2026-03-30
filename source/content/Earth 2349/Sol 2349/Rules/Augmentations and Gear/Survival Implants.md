@@ -1,47 +1,126 @@
 ## 🧬 Adaptive Life Support
 
-**Cat:** Survival | **Type:** Bio / Regulatory | **mSpace:** 3
+**Cat:** Survival  
+**Type:** Bio / Regulatory  
+**mSpace:** 3
 
-**Flavor:** You stabilize where others fail.
+A survival regulation implant built to keep the body functioning through exposure, deprivation, and environmental shock.
 
-**Emergency Regeneration (Aug):** 2d6 Health, only <50% HP on self, 1× per Short Rest → **+2 Load**
+### Environmental Shielding
+**Type:** Active  
+**Cost:** 1 Action  
+**Load:** +1
 
-**Environmental Shielding:** ignore heat/cold, toxins, basic radiation (3 turns) → **+1 Load**
+Until the start of your next turn, ignore one ordinary environmental penalty caused by:
+- heat
+- cold
+- toxic exposure
+- low oxygen
+- background radiation
 
-**Vacuum Tolerance:** survive vacuum 2 turns, slow movement, no radiation protection; emergency only (no EVA replacement)
+This does not protect against catastrophic exposure, direct vacuum damage, or extreme high-intensity hazards by itself.
 
-**Role:** survivability
+### Vacuum Tolerance
+**Type:** Reactive  
+**Trigger:** you are suddenly exposed to vacuum or severe atmospheric loss  
+**Load:** +2
+
+Remain functional for **2 turns** without immediately suffering the full normal consequences of vacuum exposure.
+
+During this time:
+- movement is limited
+- speech and precise action may be restricted
+- this does not replace proper EVA gear
+
+### Survival Recovery
+**Type:** Passive
+
+During a valid **Short Rest**, recover **+1 additional Health** if the rest takes place in a hostile, exposed, or resource-poor environment.
+
+**Role:** survivability / environmental endurance
+
 
 ---
 
-## 👻 Active Camouflage System
+## 👻 Active Camouflage System *(Survival + Operations)*
 
-**Cat:** Survival + Operations | **Type:** Optical / Field | **mSpace:** 3
+**Cat:** Survival + Operations  
+**Type:** Optical / Field  
+**mSpace:** 3
 
-**Flavor:** You stop being perceived.
+A concealment system built for stealth movement, visual disruption, and short windows of near-impossible tracking.
 
-**Active Camouflage (Aug):** concealed; enemies suffer Complication; gain Tactical Edge on stealth & reposition (2 turns) → **+2 Load**
+### Active Camouflage
+**Type:** Active  
+**Cost:** 1 Action  
+**Load:** +2
 
-**Active Noise Suppression:** suppress movement/gear noise; detection requires LoS or sensors
+Until the start of your next turn:
+- attempts to visually detect you suffer **Setback**
+- you gain **Tactical Edge** on stealth and repositioning
+- ordinary movement does not automatically reveal you if cover, darkness, or visual clutter exists
 
-**Ghost Movement:** movement does not immediately break concealment
+This does not defeat direct contact, dedicated sensors, or environments with nowhere to hide.
 
-**Ambush Window:** breaking stealth → next attack gains Tactical Edge
+### Noise Suppression
+**Type:** Passive
+
+Your ordinary movement and carried gear produce minimal sound unless:
+- you move recklessly
+- the environment amplifies noise
+- another rule says otherwise
+
+### Ambush Window
+**Type:** Augmented  
+**Load:** +1
+
+When you break concealment, your **next attack or hostile action** gains **Tactical Edge**.
 
 **Role:** stealth / positioning
+
 
 ---
 
 ## 🧭 Recon & Awareness Suite
 
-**Cat:** Survival | **Type:** Neural / Sensor | **mSpace:** 2
+**Cat:** Survival  
+**Type:** Neural / Sensor  
+**mSpace:** 2
 
-**Flavor:** You always know what’s around you.
+A reconnaissance and awareness implant built to detect threats early, maintain orientation, and prevent surprise.
 
-**Enhanced Perception:** Tactical Edge on perception, detection, navigation
+### Threat Sense
+**Type:** Passive
 
-**Navigation Assist:** cannot get lost; know direction & relative position (not in deep space)
+Gain **Tactical Edge** on:
+- Perception
+- detection of hidden movement
+- tracking nearby danger
+- route awareness under pressure
 
-**Threat Scan (Active):** scan ~20–30 m → detect hidden enemies, movement, anomalies; negates full concealment → **+1 Load**
+### Navigation Assist
+**Type:** Passive
+
+You always know:
+- your current facing
+- your recent route
+- your relative position to known reference points
+
+This does not function in deep space without valid navigation reference data.
+
+### Threat Scan
+**Type:** Active  
+**Cost:** 1 Action  
+**Range:** 20 m  
+**Load:** +1
+
+Scan the nearby area for:
+- hidden movement
+- concealed enemies
+- unusual activity
+- environmental anomalies
+- likely ambush points
+
+The GM should reveal one or more meaningful threats or suspicious points of interest within range.
 
 **Role:** intel / exploration

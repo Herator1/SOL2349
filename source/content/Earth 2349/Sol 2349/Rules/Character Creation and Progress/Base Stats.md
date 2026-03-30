@@ -68,7 +68,7 @@ In play, current Load rises and falls. The value below defines a character’s *
 ### Characteristics
 
 - implant use increases current Load
-- exceeding maximum Load triggers an [[Implants & Load|Overload]] check
+- exceeding maximum Load triggers an Overload check (see [[Load]])
 - Load does not prevent action by itself, but makes further use increasingly risky
 
 Maximum Load is the core limiter for implant-heavy characters.

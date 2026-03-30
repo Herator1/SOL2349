@@ -83,7 +83,7 @@ This means character identity is shaped less by fixed class features and more by
 
 Implants are a major part of character identity.
 
-A full implant list can be found under [[Implants (Lists)]]. At character creation, a character may specialize in:
+A full implant list can be found under [[Implant Overview]]. At character creation, a character may specialize in:
 
 **2 implant categories**
 

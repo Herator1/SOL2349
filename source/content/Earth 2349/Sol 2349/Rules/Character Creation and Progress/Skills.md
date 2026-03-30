@@ -28,8 +28,8 @@ Routine actions usually succeed without a roll.
 Skills interact directly with other core systems, including:
 
 - [[Time & Actions|Action Economy]]
-- [[Tactical Edge and Setback]]
-- [[Implants & Load|Load]]
+- Tactical Edge and Setback
+- [[Load]]
 - [[Mental Strain & Psychological Pressure|Mental Conditions]]
 
 A highly skilled character is still affected by bad positioning, stress, repeated actions, or system strain. Skill improves performance, but it does not override circumstance.
@@ -56,7 +56,7 @@ This creates a total of **30 skills**.
 |---|---|---|
 |**Piloting**|Manual control of vehicles|Docking, evasive maneuvers|
 |**Gunnery**|Operation of ship weapons|Targeting, tracking|
-|**EVA**|Movement in vacuum|Zero-g maneuvering, external repair|
+|**EVA**|Movement and control in vacuum using suit systems and external mobility tools|Zero-g maneuvering, external repair|
 
 # Fitness
 
@@ -64,7 +64,7 @@ This creates a total of **30 skills**.
 
 |Skill|Description|Example Uses|
 |---|---|---|
-|**Low-G Movement**|Movement in altered gravity|Station combat, EVA transitions|
+|**Low-G Movement**|Body control and movement in altered gravity|Station combat, low-g traversal, EVA transitions|
 |**Athletics**|General physical capability|Climbing, sprinting, jumping|
 |**Endurance**|Sustained effort and resistance to fatigue|Long exertion, holding position|
 
@@ -98,11 +98,11 @@ This creates a total of **30 skills**.
 
 ## Science
 
-|Skill|Description|Example Uses|
-|---|---|---|
-|**Physics**|Energy, motion, and technical systems|Reactors, propulsion, field effects|
-|**Biology**|Living systems and physiology|Diagnosis, tissue response, xenobiology|
-|**Analysis**|Interpretation of data and anomalies|Sensor review, pattern recognition|
+| Skill        | Description                           | Example Uses                                          |
+| ------------ | ------------------------------------- | ----------------------------------------------------- |
+| **Physics**  | Energy, motion, and technical systems | Reactors, propulsion, field effects                   |
+| **Biology**  | Living systems and physiology         | Diagnosis, tissue response, microbiology, xenobiology |
+| **Analysis** | Interpretation of data and anomalies  | Sensor review, pattern recognition                    |
 
 ## Operations
 
@@ -149,7 +149,7 @@ Skills are usually tied to their normal governing attribute. However, if a chara
 For example:
 
 - **Coordination + Mechanics** for hands-on repair
-- **Intellect + Mechanics** for diagnosing the underlying system problem
+- **Intellect + Mechanics** for diagnosing an underlying system problem
 - **Presence + Command** for leadership under stress
 - **Intellect + Command** for procedural coordination in a technical operation
 

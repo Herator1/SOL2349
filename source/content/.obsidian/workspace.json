@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Earth 2349/Sol 2349/Rules/Augmentations and Gear/Implant Overview.md",
+                "file": "Earth 2349/Sol 2349/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Implant Overview"
+              "title": "index"
             }
           }
         ]
@@ -182,6 +182,17 @@
   },
   "active": "062ae075d43983ba",
   "lastOpenFiles": [
+    "Earth 2349/Sol 2349/Rules/Space Combat/Range Bands.md",
+    "Earth 2349/Sol 2349/Rules/Space Combat/Point Defense.md",
+    "Earth 2349/Sol 2349/Rules/Space Combat/Example Engagement.md",
+    "Earth 2349/Sol 2349/Rules/Space Combat/Engagement Types.md",
+    "Earth 2349/Sol 2349/Rules/Space Combat/Dice and Combat Resolution.md",
+    "Earth 2349/Sol 2349/Rules/Space Combat/Narrative Mode.md",
+    "Earth 2349/Sol 2349/Rules/Space Combat/Ship Statistics.md",
+    "Earth 2349/Sol 2349/Rules/Space Combat/Ship Types.md",
+    "Earth 2349/Sol 2349/Rules/Space Combat/Space Combat.md",
+    "Earth 2349/Sol 2349/Rules/Space Combat/Crew Actions and Combat Rounds.md",
+    "Earth 2349/Sol 2349/Rules/Augmentations and Gear/Implant Overview.md",
     "Earth 2349/Sol 2349/Rules/Augmentations and Gear/Genetic Modifications.md",
     "Earth 2349/Sol 2349/Rules/Augmentations and Gear/Weapons and Tactical Gear.md",
     "Earth 2349/Sol 2349/Rules/Augmentations and Gear/Tools, Devices & Equipment.md",
@@ -194,20 +205,9 @@
     "Earth 2349/Sol 2349/Rules/Augmentations and Gear/Combat Implants.md",
     "Earth 2349/Sol 2349/Rules/Augmentations and Gear/Operations Implants.md",
     "Earth 2349/Sol 2349/Rules/Augmentations and Gear/Medicine Implants.md",
-    "Earth 2349/Sol 2349/Rules/Augmentations and Gear/Implant Overview.md",
     "Earth 2349/Sol 2349/Rules/Augmentations and Gear/Engineering Implants.md",
     "Earth 2349/Sol 2349/Rules/Augmentations and Gear/Augmentations and Gear.md",
     "Earth 2349/Sol 2349/Rules/Augmentations and Gear/Consumables.md",
-    "Earth 2349/Sol 2349/Rules/Augmentations and Gear/Drones and Robotics.md",
-    "Earth 2349/Sol 2349/Rules/Character Creation and Progress/Character Creation.md",
-    "Earth 2349/Sol 2349/Rules/Character Creation and Progress/Base Stats.md",
-    "Earth 2349/Sol 2349/Rules/Character Creation and Progress/Attributes.md",
-    "Earth 2349/Sol 2349/Rules/Core Mechanics/Rest & Recovery.md",
-    "Earth 2349/Sol 2349/Rules/Core Mechanics/Mental Strain & Psychological Pressure.md",
-    "Earth 2349/Sol 2349/Rules/Core Mechanics/Load.md",
-    "Earth 2349/Sol 2349/Rules/Core Mechanics/Difficulty Checks.md",
-    "Earth 2349/Sol 2349/Rules/Core Mechanics/Dice System.md",
-    "Earth 2349/Sol 2349/Rules/Core Mechanics/Core Mechanics.md",
     "Earth 2349/Sol 2349/Rules/Core Mechanics/Implants",
     "Earth 2349/Sol 2349/00 Assets/Mars.png",
     "Earth 2349/Sol 2349/Rules/Core Mechanics/Combat",

@@ -1,193 +1,154 @@
-Engagement Types describe **how a space combat encounter begins**.  
-They determine the initial **range band**, possible **advantages**, and which crew actions may occur before weapons are fired.
+Engagement Types describe **how a space combat encounter begins**.
 
-Not every encounter immediately begins in active combat. In many cases ships first detect each other, maneuver, or attempt to avoid confrontation.
+They determine:
+- the initial **Range Band**
+- which side begins with positional or tactical advantage
+- whether ships have time to scan, maneuver, or react before weapons are resolved
 
-Engagement Types are therefore used to transition from **Narrative Mode** into **Narrative Space Combat**.
+Not every encounter begins with immediate open fire. In many cases, ships first detect each other, close distance, attempt to flee, or try to force a better engagement geometry.
 
----
+Engagement Types are used to establish the **starting conditions** of a space combat scene.
 
-# Engagement Type Overview
+## Engagement Type Overview
 
-|Engagement Type|Typical Situation|Starting Range|
+| Engagement Type | Typical Situation | Starting Range |
 |---|---|---|
-|Frontal Engagement|Two ships approach each other directly|Long|
-|Chase|One ship attempts to escape while the other pursues|Long|
-|Interception|One ship attempts to intercept another on a known trajectory|Long|
-|Ambush|One ship attacks from concealment|Medium|
-|Missile Strike|Long-range missile attack before ships close distance|Extreme|
-|Boarding Engagement|Ships intentionally close distance for boarding|Close|
+| **Frontal Engagement** | Two ships approach each other directly | Long |
+| **Chase** | One ship flees while another pursues | Long |
+| **Interception** | One ship attempts to cut off another on a known path | Long |
+| **Ambush** | One ship attacks from concealment or positional advantage | Medium |
+| **Missile Strike** | Combat begins with long-range guided weapons already in play | Extreme |
+| **Boarding Engagement** | Ships intentionally close for disabling or boarding action | Close |
 
----
+## Frontal Engagement
 
-# Frontal Engagement
+Both ships detect each other and approach on roughly opposing vectors.
 
-Both ships detect each other and approach on roughly opposing trajectories.
+This is the most common form of open-space engagement.
 
-This is the **most common combat situation** in open space.
+**Starting Conditions:**
+- **Starting Range:** Long
+- both sides are aware of each other
+- both sides may take normal opening Crew Actions
 
-|   |   |
-|---|---|
-|Parameter|Effect|
-|Starting Range|Long|
-|Detection|Both ships automatically detect each other|
-|First Action|Both sides may perform sensor or maneuver actions|
+**Typical Features:**
+- missile combat may begin immediately
+- both crews may try to control range
+- sensor, pilot, and command actions are often important in the first round
 
-Implications:
+## Chase
 
-- Missile combat typically begins immediately.
-    
-- Both ships may attempt to control range.
-    
+One ship attempts to escape while another attempts to pursue.
 
----
+**Starting Conditions:**
+- **Starting Range:** Long
+- one ship begins as the **pursuer**
+- the other begins as the **escaping ship**
 
-# Chase
+**Typical Features:**
+- Pilot actions become especially important
+- the escaping ship usually tries to increase range or break contact
+- the pursuing ship tries to reduce range or hold the target inside effective weapon bands
+- crews may prioritize engines, sensors, and interdiction over direct damage early on
 
-One ship attempts to **escape**, while another attempts to pursue and intercept.
+Range shifts in a Chase are often the defining feature of the scene.
 
-|   |   |
-|---|---|
-|Parameter|Effect|
-|Starting Range|Long|
-|Range Direction|Determined by pilot actions|
-|Initiative|Pursuing ship usually acts first|
+## Interception
 
-Implications:
+One ship deliberately attempts to intercept another vessel traveling on a known route or predictable vector.
 
-- Pilot actions become very important.
-    
-- The fleeing ship attempts to increase range.
-    
-- The pursuing ship attempts to reduce range.
-    
-
-Range changes may occur every round depending on pilot rolls.
-
----
-
-# Interception
-
-One ship deliberately attempts to intercept another vessel that is traveling on a known trajectory.
-
-This often occurs near:
-
-- planets
-    
+This commonly occurs near:
 - stations
-    
 - trade routes
-    
+- orbital approaches
+- patrol zones
 
-|   |   |
-|---|---|
-|Parameter|Effect|
-|Starting Range|Long|
-|Initiative|Intercepting ship acts first|
-|Sensors|Target ship may detect interception attempt|
+**Starting Conditions:**
+- **Starting Range:** Long
+- the intercepting ship begins with positional intent
+- the target may already suspect or detect the interception, depending on the situation
 
-Implications:
+**Typical Features:**
+- the interceptor may gain the first strong targeting or maneuver opportunity
+- the target may try to evade, negotiate, or break away
+- sensors, piloting, and command decisions matter before heavy fire is exchanged
 
-- Interceptor often gains first targeting opportunity.
-    
-- Target may attempt to escape or evade.
-    
+## Ambush
 
----
+One ship attacks from concealment, cover, or a strong positional advantage.
 
-# Ambush
+This may happen:
+- near asteroids
+- in debris fields
+- in planetary shadow
+- near stations, wrecks, or cluttered infrastructure
 
-One ship attacks from concealment.
+**Starting Conditions:**
+- **Starting Range:** Medium
+- the ambushing ship begins with the advantage
+- the target may get a chance to detect danger, depending on prior warning and sensor conditions
 
-This may occur:
+**Typical Features:**
+- the ambusher often gets the first effective attack window
+- the target may begin the encounter at a defensive disadvantage
+- early sensor and command actions may be limited or rushed
 
-- near asteroid fields
-    
-- in debris clouds
-    
-- near planetary shadow
-    
+Ambushes are dangerous because they compress the time available for reaction.
 
-|   |   |
-|---|---|
-|Parameter|Effect|
-|Starting Range|Medium|
-|Initiative|Ambushing ship acts first|
-|Sensors|Target may attempt detection before attack|
+## Missile Strike
 
-Implications:
-
-- Ambusher usually launches the first weapon strike.
-    
-- Target ship may not perform defensive crew actions before the first attack.
-    
-
----
-
-# Missile Strike
-
-A ship launches **long-range missiles or torpedoes** before closing distance.
+Combat begins with guided weapons already in play before ships significantly close distance.
 
 This may occur during:
+- long-range interception
+- patrol enforcement
+- strategic harassment
+- surprise attack
 
-- patrol interception
-    
-- strategic missile attack
-    
-- surprise strike
-    
+**Starting Conditions:**
+- **Starting Range:** Extreme
+- one side has already committed long-range guided weapons
+- the defending ship may have only limited time to respond
 
-|   |   |
-|---|---|
-|Parameter|Effect|
-|Starting Range|Extreme|
-|Weapons|Torpedoes and long-range missiles|
-|Detection|Target may detect missiles before impact|
+**Typical Features:**
+- the first meaningful actions are often sensor, point-defense, engineering, and maneuver actions
+- direct-fire weapons may not matter yet
+- the opening tension comes from interception, evasion, and system readiness rather than immediate hull damage
 
-Implications:
+## Boarding Engagement
 
-- Combat may begin with incoming missiles already in flight.
-    
-- The defending ship may have limited time to respond.
-    
+Ships intentionally close to very short range in order to disable, grapple, breach, or board.
 
----
+**Starting Conditions:**
+- **Starting Range:** Close
+- both ships are already in a dangerous proximity window
+- direct-fire weapons, sudden maneuver, and damage control become critical immediately
 
-# Boarding Engagement
+**Typical Features:**
+- close-range direct fire becomes extremely dangerous
+- defensive positioning matters more than long-range missile setup
+- the likely objective is disabling, breaching, or capturing rather than total destruction
 
-Ships intentionally close to extremely short range in order to board the target vessel.
+Boarding Engagements are often short, violent, and politically risky.
 
-|   |   |
-|---|---|
-|Parameter|Effect|
-|Starting Range|Close|
-|Weapons|Direct fire weapons dominate|
-|Objective|Disable or capture target|
+## Choosing an Engagement Type
 
-Implications:
+The GM chooses the Engagement Type based on the fiction.
 
-- Railguns and lasers become very dangerous.
-    
-- Combat may quickly disable one of the ships.
-    
-- Boarding operations may begin if the target is crippled.
-    
-
----
-
-# Engagement Type Selection
-
-The Game Master selects the engagement type based on the situation in the story.
-
-Factors that influence engagement type include:
-
-- sensor detection
-    
-- ship speed
-    
-- terrain
-    
+Important factors include:
+- who detected whom first
+- relative vector and speed
+- surrounding terrain or clutter
 - tactical intent
-    
+- whether one side wants to escape, disable, ambush, or board
 
-Engagement type determines the **starting conditions** for the space combat encounter.
+The Engagement Type does not determine the whole battle. It only establishes the **starting shape** of the encounter.
+
+## Related Pages
+
+- [[Space Combat]]
+- [[Crew Actions and Combat Rounds]]
+- [[Range Bands]]
+- [[Point Defense]]
+- [[Weapons]]
+- [[Example Engagement]]

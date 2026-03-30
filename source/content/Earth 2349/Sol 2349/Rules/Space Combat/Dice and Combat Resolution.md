@@ -1,267 +1,228 @@
-This chapter explains how dice rolls are used to resolve actions during **Narrative Space Combat**.
+This chapter explains how dice rolls are used to resolve actions during **space combat**.
 
-The system uses a small number of roll types to keep combat fast and easy to run at the table.
+The system uses a small number of roll types to keep combat fast, readable, and easy to run at the table.
 
+## Core Dice Mechanic
 
-# Core Dice Mechanic
+Most crew actions use the normal core mechanic:
 
-All rolls use the same basic formula.
-
-```
-d20 + Attribute + Skill
-```
+**1d20 + Attribute + Skill**
 
 The result is compared against either:
-
 - a **Difficulty**
-    
-- a target's **Defense**
-    
-- a weapon's **Threat value**
-    
+- a target ship’s defensive value
+- an incoming weapon’s **Threat**
 
----
+## Types of Rolls
 
-# Types of Rolls
+Three main roll types are used during space combat.
 
-Three roll types are used during space combat.
-
-|Roll Type|Used For|Compared Against|
+| Roll Type | Used For | Compared Against |
 |---|---|---|
-|Skill Roll|Crew actions|Difficulty|
-|Attack Roll|Direct fire weapons|Target Defense|
-|Defense Roll|Point Defense|Missile Threat|
+| **Crew Action Roll** | Piloting, sensors, engineering, command, support actions | Difficulty |
+| **Direct Fire Attack Roll** | Railguns, lasers, and other direct-fire weapons | Target ship defense |
+| **Point Defense Roll** | Intercepting missiles, torpedoes, and incoming guided threats | Weapon Threat |
 
----
-
-# Difficulty Values
+## Difficulty Values
 
 Crew actions use a difficulty set by the GM.
 
-|   |   |
-|---|---|
-|Difficulty|Target|
-|Easy|10|
-|Standard|12|
-|Hard|15|
-|Very Hard|18|
+| Difficulty | DC |
+|---|---:|
+| **Easy** | 10 |
+| **Standard** | 12 |
+| **Hard** | 15 |
+| **Very Hard** | 18 |
 
-These difficulties apply to actions such as:
-
+These difficulties commonly apply to:
 - maneuvering
-    
+- sensor actions
 - electronic warfare
-    
-- engineering boosts
-    
-- system scans
-    
+- engineering support
+- command and coordination
+- emergency system control
 
----
+## Crew Action Rolls
 
-# Direct Fire Weapons
+Most station actions use the normal core roll:
 
-Direct fire weapons include **railguns** and **laser arrays**.
+**1d20 + Attribute + Skill**
 
-To resolve a direct fire attack, the gunner makes an attack roll.
+Examples:
+- **Pilot:** Reflexes + Piloting
+- **Sensors:** Intellect + Systems
+- **Gunnery:** Reflexes + Gunnery
+- **Engineering:** Coordination + Mechanics
+- **Command:** Presence + Command
 
-```
-d20 + Gunnery + Armament
-```
+A successful Crew Action creates its listed effect.
 
-The result is compared against the target ship's **Defense**.
+A **Critical Success** improves the result or grants an additional advantage.  
+A **Critical Failure** causes the action to fail and may create a setback, complication, or system problem.
 
-|   |   |
+## Direct Fire Weapons
+
+Direct-fire weapons include systems such as:
+- railguns
+- laser arrays
+- beam lances
+- other line-of-fire ship weapons
+
+To resolve a direct-fire attack, make a normal attack roll using:
+
+**1d20 + Attribute + Skill**
+
+In most cases, this means:
+
+**1d20 + Reflexes + Gunnery**
+
+The result is compared against the target ship’s relevant defensive value.
+
+| Result | Outcome |
 |---|---|
-|Result|Outcome|
-|Attack ≥ Defense|Hit|
-|Critical Success|Hit + bonus damage|
-|Critical Failure|Attack fails and weapon suffers a malfunction|
+| **Attack meets or exceeds Defense** | Hit |
+| **Critical Success** | Hit with improved effect |
+| **Critical Failure** | Miss, malfunction, or temporary firing problem |
 
-Damage is applied immediately.
+Damage is applied immediately if the attack hits.
 
----
-
-# Guided Weapons
+## Guided Weapons
 
 Guided weapons include:
-
-- torpedoes
-    
 - missiles
-    
-- light missiles
-    
+- torpedoes
+- other tracked or seeking munitions
 
-These weapons **do not require an attack roll**.
+These weapons usually do **not** require a direct attack roll at the moment of impact.
 
-Instead they generate an incoming threat that must be intercepted.
+Instead, they create an incoming **Threat** that must be intercepted, evaded, or endured.
 
-Each missile has a **Threat value**.
+Each guided weapon has a **Threat value**.
 
-Example:
+Crew Actions may improve or reduce that Threat indirectly by:
+- improving targeting
+- disrupting tracking
+- degrading enemy lock quality
+- improving interception timing
 
-Missile Threat = **12**
+## Point Defense Resolution
 
-Sensors may increase this value through **Target Lock** actions.
+Incoming guided weapons are intercepted using **Point Defense**.
 
-Example:
-
-Threat 12 + Target Lock (+2) = **Threat 14**
-
----
-
-# Point Defense Resolution
-
-Incoming missiles are intercepted using **Point Defense rolls**.
+A Point Defense roll is made using the ship’s point-defense capability, modified by crew support where relevant.
 
 Roll:
 
-```
-d20 + Defense + modifiers
-```
+**1d20 + Point Defense**
 
-The result is compared against the missile's **Threat value**.
+Compare the result against the incoming weapon’s **Threat**.
 
-|   |   |
+| Result | Outcome |
 |---|---|
-|Result|Outcome|
-|Roll ≥ Threat|Missile intercepted|
-|Roll < Threat|Interception fails|
+| **Roll meets or exceeds Threat** | The incoming weapon is intercepted |
+| **Roll is below Threat** | Interception fails |
 
-If all interception attempts fail, the missile's impact is determined using the **best failed roll**.
+If no interception succeeds, the weapon’s hit quality is determined using the **best failed Point Defense roll**.
 
-|   |   |
+| Best Failed Roll | Result |
 |---|---|
-|Best Failed Roll|Result|
-|Greater than half Threat|Near Hit|
-|Equal or below half Threat|Direct Hit|
+| **More than half the Threat** | Near Hit |
+| **Half the Threat or less** | Direct Hit |
 
----
+## Damage Resolution
 
-# Damage Resolution
+Damage depends on the weapon and hit quality.
 
-Damage depends on the weapon's warhead.
+As a default:
+- **Direct Hit** → full damage
+- **Near Hit** → half damage, or reduced effect if the weapon says otherwise
 
-Example:
+Damage is applied to the target ship according to its normal ship durability rules.
 
-|   |   |
-|---|---|
-|Result|Damage|
-|Direct Hit|Full damage|
-|Near Hit|Half damage|
+If a ship is reduced to **0 Hull Integrity**, it becomes **combat ineffective**.
 
-Damage reduces the ship's **Hull Integrity**.
+This does not always mean immediate total destruction. A crippled ship may still be drifting, venting atmosphere, or vulnerable to boarding.
 
-When Hull Integrity reaches **0**, the ship becomes **combat ineffective**.
+## Multiple Weapons
 
----
+A ship may fire multiple weapon systems during the same round if:
+- the systems are ready
+- range allows it
+- the crew can support it
+- no rule prevents it
 
-# Multiple Weapons
+Each weapon system is resolved separately.
 
-Ships may fire multiple weapons during a round.
+Guided weapons create separate incoming threats unless the weapon entry says otherwise.
 
-Each weapon system is resolved **separately**.
+## Combat Sequence
 
-For example:
+A typical combat round proceeds in this order:
 
-A frigate with:
+1. **Crew Actions**
+2. **Direct Fire and Guided Weapons are declared and resolved**
+3. **Point Defense is resolved against incoming guided threats**
+4. **Damage is applied**
+5. **Complications, system effects, and ship status are updated**
 
-- 2 missile racks
-    
-- 1 railgun
-    
+This keeps the focus on crew coordination first, then weapon resolution.
 
-may fire all three systems in the same round if range allows.
+## Temporary Effects
 
-Missiles are resolved individually, including Point Defense interception.
+Crew Actions may temporarily improve or hinder ship performance.
 
----
+Typical temporary effects include:
+- **Tactical Edge** on a weapon attack
+- **Setback** on an incoming lock or missile
+- improved firing alignment
+- improved maneuver positioning
+- restored system function
+- temporary system access or lockout
 
-# Combat Sequence
+As a general rule:
+- short-term effects usually last **until the end of the current round**
+- or until the **next relevant action** is resolved
 
-A typical combat round proceeds in the following order.
+Avoid stacking too many small bonuses. Use the strongest relevant effect when multiple similar benefits apply.
 
-1. Crew Actions
-    
-2. Weapons Fired
-    
-3. Point Defense Resolution
-    
-4. Damage Applied
-    
-
-Crew actions may modify attacks or defenses during the round.
-
----
-
-# Modifiers
-
-Crew actions may temporarily modify ship performance.
-
-Typical modifiers include:
-
-|   |   |
-|---|---|
-|Modifier|Effect|
-|Target Lock|+2 Threat|
-|Evasive Maneuver|+2 Defense|
-|Engineering Boost|+1 Armament|
-|Electronic Countermeasures|−2 enemy Threat|
-
-Modifiers usually last **one combat round**.
-
----
-
-# Stacking Bonuses
-
-Multiple bonuses may apply during a round.
-
-To prevent excessive stacking, a ship can receive a maximum of:
-
-**+4 total bonus from crew actions** per round.
-
-Additional bonuses have no effect.
-
----
-
-# Critical Results
+## Critical Results
 
 Critical results occur on natural die rolls.
 
-|   |   |
+| Roll | Result |
 |---|---|
-|Roll|Result|
-|Natural 20|Critical Success|
-|Natural 1|Critical Failure|
+| **Natural 20** | Critical Success |
+| **Natural 1** | Critical Failure |
 
-Critical results override normal success or failure.
+Critical results override normal success or failure where appropriate.
 
----
+## Simultaneous Action
 
-# Simultaneous Actions
+Space combat does not use a strict personal initiative order in the same way as close combat.
 
-Narrative Space Combat does **not use initiative order**.
+Instead, the round is treated as a short burst of overlapping shipboard activity:
+- crew members act during the round through their stations
+- support actions shape weapon performance and defense
+- attacks and intercepts are then resolved in sequence
 
-All crew actions occur during the round before weapons are resolved.
+This reflects the fact that space combat is highly coordinated and system-driven rather than a simple sequence of isolated turns.
 
-This represents the simultaneous and chaotic nature of space combat.
-
-Weapons are then fired and resolved in sequence.
-
----
-
-# End of Combat
+## End of Combat
 
 Space combat usually ends when:
-
 - one ship is disabled
-    
-- a ship disengages
-    
-- a ship surrenders
-    
-- the objective of the encounter is completed
-    
+- one ship disengages
+- one crew surrenders
+- one side achieves its objective
+- the tactical situation changes enough that structured combat is no longer needed
 
-Destruction of a disabled ship is considered a serious escalation in most parts of the Solar System.
+The deliberate destruction of a disabled ship is a serious escalation in most parts of the Solar System.
+
+## Related Pages
+
+- [[Space Combat]]
+- [[Crew Actions and Combat Rounds]]
+- [[Ship Statistics]]
+- [[Range Bands]]
+- [[Point Defense]]
+- [[Weapons]]

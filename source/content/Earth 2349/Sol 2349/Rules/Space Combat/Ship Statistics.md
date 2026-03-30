@@ -1,307 +1,265 @@
-In Narrative Space Combat, a ship is treated as a single entity with a small set of statistics. These values represent the ship’s overall performance rather than individual subsystems.
+In space combat, a ship is treated as a single combat entity with a small set of core statistics. These values represent the vessel’s overall performance rather than every subsystem in technical detail.
 
-Crew actions temporarily modify these statistics during combat. The crew therefore determines how effectively the ship performs in a given situation.
+Crew actions temporarily improve, protect, or stabilize these values during combat. The ship therefore performs well only if its crew keeps it operating effectively under pressure.
 
-Ships typically use the following statistics.
-
-# Core Ship Statistics
+## Core Ship Statistics
 
 ## Thrust
 
-**Thrust** represents the ship’s maneuverability and acceleration.
+**Thrust** represents the ship’s acceleration, maneuverability, and ability to change position under combat conditions.
 
-It determines how well the vessel can change position, evade attacks, and control engagement distance.
-
-Thrust influences:
-
-- Pilot maneuver actions
-    
-- Evasion against enemy fire
-    
-- Attempts to change range bands
-    
-- Alignment for forward-mounted weapons (such as railguns)
-    
+It influences:
+- changing **Range Bands**
+- evasive maneuvering
+- alignment for forward-facing weapons
+- pursuit, withdrawal, and interception positioning
 
 Typical values:
 
-|Ship Type|Thrust|
-|---|---|
-|Freighter|1|
-|Patrol Boat|3|
-|Corvette|3|
-|Frigate|2|
-|Cruiser|1|
+| Ship Type | Thrust |
+|---|---:|
+| Freighter | 1 |
+| Patrol Boat | 3 |
+| Corvette | 3 |
+| Frigate | 2 |
+| Cruiser | 1 |
+Higher **Thrust** means the ship is better at controlling distance and angle.
 
-Example uses:
-
-- Pilot rolls may add the ship’s **Thrust** to evasion attempts.
-    
-- A successful maneuver may grant a **temporary defense bonus**.
-    
-
+---
 ## Sensors
 
-**Sensors** represent the quality of the ship’s detection, tracking, and targeting systems.
+**Sensors** represent the ship’s ability to detect, identify, track, and interpret targets or environmental conditions.
 
-This includes radar, lidar, passive scanning, and electronic warfare support.
-
-Sensors influence:
-
-- Target Lock attempts
-    
-- Detection of hidden or ambushing ships
-    
-- Electronic warfare actions
-    
-- Improving missile Threat values
-    
+They influence:
+- target locks
+- hidden ship detection
+- electronic warfare
+- scan actions
+- missile and guided-weapon support
 
 Typical values:
 
-|   |   |
-|---|---|
-|Ship Type|Sensors|
-|Civilian ship|1|
-|Patrol vessel|2|
-|Military ship|3|
+| Ship Type | Sensors |
+|---|---:|
+| Civilian Ship | 1 |
+| Patrol Vessel | 2 |
+| Military Ship | 3 |
+Higher **Sensors** make it easier to control information and create firing opportunities.
 
-Example uses:
-
-- Sensor operator rolls use **Sensors** as a modifier.
-    
-- A successful Target Lock can increase missile Threat values.
-    
-
-
-## Armament
-
-**Armament** represents the quality and effectiveness of the ship’s weapon systems.
-
-This statistic applies primarily to **direct fire weapons**, such as railguns or laser arrays.
-
-Armament influences:
-
-- Attack rolls for railguns
-    
-- Attack rolls for laser weapons
-    
-- damage potential of some weapon systems
-    
-
-Typical values:
-
-|   |   |
-|---|---|
-|Ship Type|Armament|
-|Civilian|0–1|
-|Light military|2|
-|Warship|3–4|
-
-Example uses:
-
-Attack roll example:
-
-```
-d20 + Gunner Skill + Armament
-```
-
-This roll is compared against the target’s Defense value.
-
-Guided weapons such as missiles do **not use Armament for attack rolls**, since they automatically track their targets.
-
+---
 
 ## Defense
 
-**Defense** represents the ship’s overall ability to avoid or intercept incoming attacks.
+**Defense** represents how hard the ship is to hit with direct fire.
 
-This includes:
+It includes:
+- evasive profile
+- flight handling under pressure
+- thermal and radar discipline
+- target complexity
+- onboard defensive positioning
 
-- armor
-    
-- electronic countermeasures
-    
-- defensive systems
-    
-- general survivability
-    
+Direct-fire attacks target:
 
-Defense influences:
-
-- Point Defense rolls against missiles
-    
-- difficulty of hitting the ship with direct fire weapons
-    
+**Base DC 10 + Defense**
 
 Typical values:
 
-|   |   |
-|---|---|
-|Ship Type|Defense|
-|Freighter|1|
-|Corvette|2|
-|Frigate|3|
-|Cruiser|4|
+| Ship Type | Defense |
+|---|---:|
+| Freighter | 1 |
+| Corvette | 2 |
+| Frigate | 3 |
+| Cruiser | 4 |
 
-Example use:
+A ship with **Defense 3** is therefore attacked at **DC 13** before other effects apply.
 
-Point Defense roll:
 
-```
-d20 + Defense + bonuses
-```
+---
 
-This roll is compared against the incoming weapon’s Threat value.
+## Point Defense
 
+**Point Defense** represents the ship’s ability to intercept incoming missiles, torpedoes, drones, and similar guided threats.
+
+It includes:
+- defensive guns
+- interceptor systems
+- tracking logic
+- close-in defensive coverage
+
+Point Defense is used for **interception rolls**.
+
+Typical values:
+
+| Ship Type | Point Defense |
+|---|---:|
+| Civilian Ship | 0–1 |
+| Patrol Vessel | 2 |
+| Warship | 3–4 |
+
+A Point Defense roll is usually:
+
+**1d20 + Point Defense**
+
+Crew actions may improve this further.
+
+
+---
 
 ## Systems
 
-**Systems** represents the reliability and efficiency of the ship’s internal systems.
+**Systems** represents the reliability, flexibility, and recoverability of the ship’s internal systems.
 
-This includes:
-
+It includes:
+- power routing
 - reactor stability
-    
-- power management
-    
-- computer systems
-    
+- internal control systems
 - damage control
-    
+- engineering resilience
 
-Systems influences:
-
-- Engineering actions
-    
-- repairing combat complications
-    
-- boosting ship systems during combat
-    
+Systems influence:
+- engineering support
+- system recovery
+- emergency rerouting
+- keeping damaged functions online
 
 Typical values:
 
-|   |   |
-|---|---|
-|Ship Type|Systems|
-|Civilian ship|1|
-|Military ship|2–3|
+| Ship Type | Systems |
+|---|---:|
+| Civilian Ship | 1 |
+| Military Ship | 2–3 |
 
-Example use:
+Higher **Systems** make a ship easier to stabilize and harder to fully cripple.
 
-Engineering roll:
 
-```
-d20 + Systems + Engineer Skill
-```
-
-Successful engineering actions may restore functionality or grant temporary bonuses.
-
+---
 
 ## Hull Integrity
 
-**Hull Integrity** represents the structural condition of the ship.
+**Hull Integrity** represents the structural condition and remaining combat viability of the ship.
 
-This value decreases as the ship takes damage.
+This value is reduced by incoming damage.
 
-When Hull Integrity reaches **0**, the ship becomes **combat ineffective**.
+When **Hull Integrity** reaches **0**, the ship becomes **combat ineffective**.
 
 Typical values:
 
-|   |   |
-|---|---|
-|Ship Type|Hull Integrity|
-|Patrol Boat|10|
-|Corvette|14|
-|Frigate|18|
-|Cruiser|24|
-|Battleship|30+|
+| Ship Type | Hull Integrity |
+|---|---:|
+| Patrol Boat | 10 |
+| Corvette | 14 |
+| Frigate | 18 |
+| Cruiser | 24 |
+| Battleship | 30+ |
+A ship at **0 Hull Integrity** is no longer combat-capable, but may still be:
+- drifting
+- venting
+- powerless
+- boardable
+- salvageable
 
-Damage from weapons reduces this value directly.
+This does not always mean immediate total destruction.
 
+---
 
-# Temporary Modifiers
+## Weapon Systems
 
-[[Crew Actions and Combat Rounds]]- Crew actions may temporarily modify ship statistics.
+Weapons are not a universal ship statistic.  
+Each ship carries specific weapon systems with their own profiles, such as:
+- railguns
+- laser arrays
+- missile racks
+- torpedo tubes
+- point-defense batteries
 
-Examples:
+This keeps ship combat simpler and avoids a second “attack stat” layered on top of crew skill.
 
-Pilot Maneuver  
-+2 Defense for the round
+See [[Weapons]].
 
-Sensor Target Lock  
-+2 Threat for missiles
+---
 
-Engineering Power Boost  
-+1 Armament for the next attack
+## Temporary Effects
 
-These bonuses usually last **one combat round**.
+[[Crew Actions and Combat Rounds]] may temporarily improve or hinder ship performance.
 
+Typical examples:
+- improved position for direct fire
+- better target lock
+- degraded incoming missile tracking
+- temporary system restoration
+- stronger point-defense response
+- reduced enemy firing advantage
 
-# Example Ship
+As a rule:
+- short-term effects usually last until the **end of the round**
+- or until the **next relevant action** is resolved
+
+Use the strongest relevant effect rather than stacking too many small bonuses.
+
+---
+
+## Example Ship
 
 ## Warhound-Class Frigate
 
-The Warhound is a small military escort vessel used for patrol and convoy protection.
+The **Warhound** is a small military escort vessel used for patrol and convoy protection.
 
-It is heavily armed for its size and relies on missile strikes and point defense systems.
-
+It is heavily armed for its size and relies on missiles, point defense, and disciplined crew coordination.
 
 ### Ship Statistics
 
-Warhound-Class Frigate
+| Statistic | Value |
+|---|---:|
+| **Thrust** | 2 |
+| **Sensors** | 3 |
+| **Defense** | 3 |
+| **Point Defense** | 3 |
+| **Systems** | 2 |
+| **Hull Integrity** | 18 |
 
-|   |   |
-|---|---|
-|Statistic|Value|
-|Thrust|2|
-|Sensors|3|
-|Armament|3|
-|Defense|3|
-|Systems|2|
-|Hull Integrity|18|
+**Hardpoints:** 4
 
-Hardpoints: **4**
-
-Typical weapon loadout:
-
+Typical loadout:
 - 2 Missile Racks
-    
 - 1 Railgun
-    
-- 1 Gatling Point Defense System
-    
+- 1 Gatling Point-Defense System
 
+### Example Direct-Fire Target Number
 
-### Example Missile Attack
+A Warhound-Class Frigate has **Defense 3**.
 
-The Warhound launches a missile salvo.
+A direct-fire attack against it targets:
 
-Each missile has:
+**Base DC 10 + 3 = DC 13**
 
-Threat: **12**
+before other effects such as evasive maneuvering or sensor support.
 
-Sensor operator achieves a successful Target Lock.
+### Example Missile Interception
 
-New Threat:
+A hostile missile salvo creates an incoming **Threat 14**.
 
-```
-12 + 2 = 14
-```
+The Warhound attempts interception with:
 
-Four missiles are launched.
+**1d20 + Point Defense**
 
-The defending ship must attempt **Point Defense rolls** against each incoming missile.
+Its **Point Defense** is **3**, so the roll is:
 
+**1d20 + 3**
 
-# Ship Statistics Summary
+Crew actions may improve this further.
 
-|   |   |
+---
+
+## Ship Statistics Summary
+
+| Stat | Used For |
 |---|---|
-|Stat|Used For|
-|Thrust|maneuver and evasion|
-|Sensors|targeting and electronic warfare|
-|Armament|direct weapon attacks|
-|Defense|point defense and survivability|
-|Systems|engineering and system management|
-|Hull Integrity|structural damage capacity|
-These statistics allow ships to participate in space combat while keeping the Narrative system fast and easy to use.
+| **Thrust** | maneuvering, range control, pursuit, evasion setup |
+| **Sensors** | lock, scan, detection, electronic warfare |
+| **Defense** | direct-fire target difficulty |
+| **Point Defense** | intercepting guided weapons |
+| **Systems** | engineering, recovery, system support |
+| **Hull Integrity** | structural damage capacity |
+
+These statistics keep space combat readable while preserving the core feel of crew-driven ship combat.

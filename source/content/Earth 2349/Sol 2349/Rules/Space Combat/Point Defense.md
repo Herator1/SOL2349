@@ -1,292 +1,192 @@
-Point Defense systems (PD) protect a ship from incoming guided weapons such as **torpedoes, missiles, and light missiles**. These systems use rapid-fire cannons, interceptor rockets, or defensive lasers to destroy incoming threats before they reach the hull.
+Point Defense systems (**PD**) protect a ship from incoming guided weapons such as **torpedoes, missiles, and light missiles**.
 
-In Narrative Space Combat, Point Defense is an **active defense system**. When missiles are launched, the defending ship attempts to intercept them using its available PD systems.
+These systems may use:
+- rapid-fire cannons
+- defensive lasers
+- interceptor rockets
+- or similar close-in defensive weapons
 
-# Point Defense Systems
+In space combat, Point Defense is an **active defensive capability** used to stop incoming guided threats before they hit the hull.
 
-Each Point Defense weapon occupies one **Hardpoint** on the ship.
+## Point Defense Systems
 
-Typical PD systems include:
+Each Point Defense system occupies one **Hardpoint** on the ship.
 
-- **Gatling PD Cannons** (rapid kinetic interceptors)
-    
-- **Defensive Laser Arrays**
-    
-- **Interceptor Pod Launchers**
-    
+Different PD systems may exist in the setting, but in play they follow the same basic rules unless a specific weapon says otherwise.
 
-Different PD types may exist in the setting, but they all follow the same basic rules in Narrative Combat.
+A ship’s **Point Defense** rating represents the quality of its defensive interception systems.
 
-# Maximum Shots per Round
+## Intercept Attempts
 
-Each PD system can fire a limited number of times per combat round.
+Each installed Point Defense system may normally attempt **one interception per round**.
 
-Example:
+This means:
+- one PD system = one intercept attempt
+- multiple PD systems = multiple intercept attempts
+- once a PD system has attempted an interception this round, it cannot do so again until the next round
 
-**Gatling Point Defense System**
+This keeps missile defense fast and avoids excessive tracking.
 
-Maximum: **4 shots per round**
+## Resolving Incoming Guided Weapons
 
-Each additional shot suffers a cumulative penalty due to tracking difficulty, heat buildup, and target saturation.
+Guided weapons are resolved one at a time.
 
-|Shot Number|Modifier|
+For each incoming missile or torpedo:
+
+1. one available Point Defense system may attempt interception
+2. if that attempt fails, another available PD system may try
+3. continue until:
+   - the missile is intercepted
+   - or no unused PD systems remain
+
+If all attempts fail, determine whether the result is a **Near Hit** or **Direct Hit** using the best failed roll.
+
+## Point Defense Roll
+
+To intercept an incoming guided weapon, roll:
+
+**1d20 + Point Defense**
+
+Crew actions may improve this through:
+- sensor support
+- engineering support
+- maneuver setup
+- command coordination
+- weapon-specific effects
+
+Compare the result against the incoming weapon’s **Threat**.
+
+## Interception Results
+
+| Result | Outcome |
 |---|---|
-|1|0|
-|2|−4|
-|3|−8|
-|4|−12|
+| **Roll meets or exceeds Threat** | **Intercept** — the missile is destroyed |
+| **Best failed roll is more than half the Threat** | **Near Hit** — reduced damage |
+| **Best failed roll is half the Threat or less** | **Direct Hit** — full damage |
 
-Once a PD system has used all of its shots, it cannot fire again until the next round.
+## Example 1 – Single Missile Interception
 
-# Intercepting Missiles
+A hostile missile has **Threat 12**.
 
-Missiles are resolved **one at a time**.
-
-For each incoming missile:
-
-1. A Point Defense system may attempt an interception roll.
-    
-2. If the attempt fails, another PD system may attempt to intercept.
-    
-3. Continue until:
-    
-    - the missile is destroyed, or
-        
-    - all available PD systems have fired.
-        
-
-Each PD system tracks its own number of shots used during the round.
-
-# Point Defense Roll
-
-To intercept a missile, roll:
-
-```
-d20 + Defense + situational bonuses
-```
-
-Situational bonuses may include:
-
-- Pilot maneuver actions
-    
-- Sensor support
-    
-- engineering assistance
-    
-
-The final result is compared to the missile's **Threat Value**.
-
-
-# Interception Results
-
-### Intercept
-
-If the roll **equals or exceeds the Threat Value**, the missile is destroyed.
-
-No damage is applied.
-
-### Near Hit
-
-If all interception attempts fail, but the **best failed roll is greater than half the Threat**, the missile detonates near the ship.
-
-The ship takes **reduced damage**.
-
-### Direct Hit
-
-If the best failed roll is **equal to or less than half the Threat**, the missile strikes the ship directly.
-
-The ship takes **full damage**.
-
----
-
-# Example 1 – Single Missile Interception
-
-A frigate launches a missile with:
-
-Threat: **12**
-
-The defending corvette attempts interception.
-
-Defense: **3**
+The defending ship has **Point Defense 3**.
 
 The player rolls:
 
-```
-d20 = 9
-9 + 3 = 12
-```
+**1d20 = 9**  
+**9 + 3 = 12**
 
 Result:
 
-12 ≥ 12 → **Intercept**
+**12 ≥ 12** → **Intercept**
 
-The missile is destroyed before reaching the ship.
+The missile is destroyed.
 
----
+## Example 2 – Failed Interception (Near Hit)
 
-# Example 2 – Failed Interception (Near Hit)
+A hostile missile has **Threat 14**.
 
-Threat: **14**
+The defending ship rolls:
 
-Point Defense roll:
+**1d20 = 9**  
+**9 + 3 = 12**
 
-```
-d20 = 9
-9 + 3 = 12
-```
-
-12 is less than the Threat value, so the interception fails.
+The interception fails.
 
 Half the Threat is **7**.
 
-12 > 7 → **Near Hit**
+**12 > 7** → **Near Hit**
 
-The missile detonates close to the ship.
+The missile detonates close to the ship and deals reduced damage.
 
-Damage is applied using the weapon's **Near Hit damage value**.
+## Example 3 – Direct Hit
 
----
+A hostile missile has **Threat 14**.
 
-# Example 3 – Direct Hit
+The defending ship rolls:
 
-Threat: **14**
+**1d20 = 3**  
+**3 + 3 = 6**
 
-Point Defense roll:
+Half the Threat is **7**.
 
-```
-d20 = 3
-3 + 3 = 6
-```
+**6 ≤ 7** → **Direct Hit**
 
-6 ≤ 7 (half the Threat)
+The missile strikes the ship and deals full damage.
 
-Result:
-
-**Direct Hit**
-
-The missile impacts the hull and deals full damage.
-
----
-
-# Example 4 – Multiple Point Defense Systems
+## Example 4 – Multiple Point Defense Systems
 
 A ship has:
+- **2 Point Defense systems**
+- **Point Defense 4**
 
-- **2 Gatling PD systems**
-    
-- each can fire **4 times per round**
-    
-
-Four missiles are incoming.
-
-Missile Threat: **14**
-
-Defense bonus: **+4**
-
----
+Four missiles are incoming, each with **Threat 14**.
 
 ### Missile 1
+PD System A attempts interception:
 
-PD System A fires:
+**1d20 = 10**  
+**10 + 4 = 14**
 
-```
-d20 = 10
-10 + 4 = 14
-```
-
-Intercept successful.
-
-Missile destroyed.
-
----
+**Intercept**
 
 ### Missile 2
+PD System B attempts interception:
 
-PD System A fires again (second shot, −4 penalty):
+**1d20 = 8**  
+**8 + 4 = 12**
 
-```
-d20 = 11
-11 + 4 − 4 = 11
-```
+Fails.
 
-Miss.
+Half the Threat is **7**.
 
-PD System B fires:
-
-```
-d20 = 12
-12 + 4 = 16
-```
-
-Intercept successful.
-
----
+**12 > 7** → **Near Hit**
 
 ### Missile 3
+No unused PD systems remain.
 
-PD System A fires (third shot, −8 penalty):
-
-```
-d20 = 14
-14 + 4 − 8 = 10
-```
-
-Miss.
-
-PD System B fires (second shot, −4 penalty):
-
-```
-d20 = 8
-8 + 4 − 4 = 8
-```
-
-Miss.
-
-Best failed roll: **10**
-
-10 > 7 → **Near Hit**
-
-Reduced damage is applied.
-
----
+The missile automatically gets through unless another rule, support action, or special defense applies.
 
 ### Missile 4
+No unused PD systems remain.
 
-PD System A fires (fourth shot, −12 penalty):
+The missile also gets through.
 
-```
-d20 = 7
-7 + 4 − 12 = −1
-```
+This is why multiple incoming missiles are dangerous even against well-defended ships.
 
-Miss.
+## Point Defense and Crew Support
 
-PD System B fires (third shot, −8 penalty):
+Point Defense becomes more effective when the crew supports it.
 
-```
-d20 = 5
-5 + 4 − 8 = 1
-```
+Common support includes:
+- sensor-assisted tracking
+- engineering stabilization
+- command coordination
+- pilot positioning that reduces missile advantage
 
-Miss.
+These effects usually improve the interception roll through **Tactical Edge**, removal of one penalty, or another clear temporary benefit.
 
-Best failed roll: **1**
+## Saturation and Overload
 
-1 ≤ 7 → **Direct Hit**
+Large guided salvos are dangerous because they can overwhelm available Point Defense systems.
 
-Full damage is applied.
+A ship with too few PD mounts may stop the first missile or two, but still be vulnerable to later impacts in the same round.
 
----
+This is one of the main reasons missile-heavy combat remains threatening even against military ships.
 
-# Tactical Notes
+## Design Principle
 
-Point Defense is most effective when:
+Point Defense should feel:
+- fast
+- important
+- limited
+- and vulnerable to saturation
 
-- multiple PD systems are installed
-    
-- crew support actions improve Defense
-    
-- missile salvos are intercepted early
-    
+It should not become a separate minigame of tracking dozens of individual shots.
 
-Large missile salvos can overwhelm Point Defense by forcing multiple interception attempts in a single round.
+## Related Pages
+
+- [[Ship Statistics]]
+- [[Dice and Combat Resolution]]
+- [[Weapons]]
+- [[Crew Actions and Combat Rounds]]
+- [[Range Bands]]

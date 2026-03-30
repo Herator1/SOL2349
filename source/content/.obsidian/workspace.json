@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Earth 2349/Sol 2349/index.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
@@ -182,15 +182,22 @@
   },
   "active": "062ae075d43983ba",
   "lastOpenFiles": [
+    "Earth 2349/Sol 2349/index.md",
+    "index.md",
+    "Earth 2349/Sol 2349/Rules/Travelling/Travelling in Space.md",
+    "Earth 2349/Sol 2349/Rules/Space Combat/Weapons.md",
+    "Earth 2349/Sol 2349/Rules/Space Combat/Ship Types.md",
+    "Earth 2349/Sol 2349/Rules/Space Combat/Ship Statistics.md",
     "Earth 2349/Sol 2349/Rules/Space Combat/Range Bands.md",
     "Earth 2349/Sol 2349/Rules/Space Combat/Point Defense.md",
     "Earth 2349/Sol 2349/Rules/Space Combat/Example Engagement.md",
-    "Earth 2349/Sol 2349/Rules/Space Combat/Engagement Types.md",
     "Earth 2349/Sol 2349/Rules/Space Combat/Dice and Combat Resolution.md",
-    "Earth 2349/Sol 2349/Rules/Space Combat/Narrative Mode.md",
-    "Earth 2349/Sol 2349/Rules/Space Combat/Ship Statistics.md",
-    "Earth 2349/Sol 2349/Rules/Space Combat/Ship Types.md",
+    "Earth 2349/Sol 2349/Rules/Space Combat/Engagement Types.md",
     "Earth 2349/Sol 2349/Rules/Space Combat/Space Combat.md",
+    "Earth 2349/Sol 2349/Todo.md",
+    "Unbenannt.base",
+    "Earth 2349/Sol 2349/Rules/Core Mechanics/Core Mechanics.md",
+    "Earth 2349/Sol 2349/Rules/Space Combat/Narrative Mode.md",
     "Earth 2349/Sol 2349/Rules/Space Combat/Crew Actions and Combat Rounds.md",
     "Earth 2349/Sol 2349/Rules/Augmentations and Gear/Implant Overview.md",
     "Earth 2349/Sol 2349/Rules/Augmentations and Gear/Genetic Modifications.md",
@@ -202,12 +209,6 @@
     "Earth 2349/Sol 2349/Rules/Augmentations and Gear/Science Implants.md",
     "Earth 2349/Sol 2349/Rules/Augmentations and Gear/Psychology Implants.md",
     "Earth 2349/Sol 2349/Rules/Augmentations and Gear/Physical Implants.md",
-    "Earth 2349/Sol 2349/Rules/Augmentations and Gear/Combat Implants.md",
-    "Earth 2349/Sol 2349/Rules/Augmentations and Gear/Operations Implants.md",
-    "Earth 2349/Sol 2349/Rules/Augmentations and Gear/Medicine Implants.md",
-    "Earth 2349/Sol 2349/Rules/Augmentations and Gear/Engineering Implants.md",
-    "Earth 2349/Sol 2349/Rules/Augmentations and Gear/Augmentations and Gear.md",
-    "Earth 2349/Sol 2349/Rules/Augmentations and Gear/Consumables.md",
     "Earth 2349/Sol 2349/Rules/Core Mechanics/Implants",
     "Earth 2349/Sol 2349/00 Assets/Mars.png",
     "Earth 2349/Sol 2349/Rules/Core Mechanics/Combat",
@@ -226,7 +227,6 @@
     "Earth 2349/Sol 2349/Gamemaster Area/Oneshot Adventures/Cloudfall on Venus",
     "Earth 2349/Sol 2349/Technology/Cybernetics",
     "Earth 2349/Sol 2349/Gamemaster Area/Oneshot Adventures/Ghost Station",
-    "Earth 2349/Sol 2349/Gamemaster Area/Oneshot Adventures",
-    "Earth 2349/Sol 2349/Gamemaster Area/Premade Characters"
+    "Earth 2349/Sol 2349/Gamemaster Area/Oneshot Adventures"
   ]
 }

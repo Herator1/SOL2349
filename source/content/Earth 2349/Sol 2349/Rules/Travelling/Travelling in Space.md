@@ -1,97 +1,141 @@
-## 🎮 Gameplay Implications — Travel, Cost & Risk
+# Travel in Space
 
-All the physics and engineering ultimately collapse into a few things that matter at the table: **time, money, and how far you’re willing to push your ship**. Players don’t need to solve orbital mechanics — but every decision about travel will have visible consequences in all three.
+Travel in **SOL 2349** is defined by three things that matter directly in play:
 
----
+- **time**
+- **cost**
+- **how hard you push the ship**
 
-### ⏱️ Travel Times in Practice
+Players do not need to calculate trajectories or solve orbital mechanics. But every travel decision has consequences in those three areas.
 
-Even with fusion torch drives, space never becomes “fast.” What changes is how much you’re willing to spend to make it less slow. In the **inner system**, a well-funded crew can push for fast transfers and reach destinations like Mars or Venus in under two weeks, sometimes even closer to a week with aggressive burn profiles. Most traffic, however, runs more conservatively, stretching these journeys into **two to four weeks**. If you optimize for efficiency — using assists, lower thrust, or waiting for better windows — the same trip can easily take **one to three months**.
+Fast travel exists, but it is expensive and stressful. Cheap travel exists, but it takes time. Distance always matters.
 
-Once you move out toward the **asteroid belt**, everything stretches. Fast runs are still possible, but now measured in **weeks instead of days**, while standard operations take **one to three months**, and economy routes drift toward **half a year**. By the time you reach the **outer system**, the scale becomes unavoidable. Even with powerful drives, you are looking at **months of travel**. Efficient routes can take most of a year, and sometimes longer if timing or alignment is poor.
+## Travel Time in Practice
 
-What matters for gameplay is not exact numbers, but the feeling:
+Even with fusion torch drives, space never becomes truly fast. Travel is always measured in **days, weeks, or months**, depending on distance, thrust, and how aggressively a ship flies.
 
-- fast travel exists, but it’s expensive and stressful
-    
-- cheap travel exists, but it costs time and flexibility
-    
-- distance is always relevant
-    
+As a rough rule:
 
----
+### Inner System
+Travel between places such as **Earth, Luna, Mars, and Venus** usually takes:
 
-### 💰 Cost of Fuel & Operations (SOL)
+- **fast transfer:** about **1–2 weeks**
+- **standard transfer:** about **2–4 weeks**
+- **economy transfer:** about **1–3 months**
 
-Fuel is where the abstract idea of delta-v becomes painfully concrete. It is one of the largest recurring expenses in the system, and it scales quickly once you start pushing for speed. For context, a typical person earns somewhere between **1 and 15 SOL per year**, while a large freighter might be worth around **900 SOL**. Against that backdrop, even routine refueling becomes a serious financial consideration.
+### Asteroid Belt
+Travel involving the **belt** usually takes:
 
-A small shuttle might complete a trip for **1–3 SOL**, which is already a meaningful cost for individuals. Mid-sized ships — transports, light freighters, or well-equipped crew vessels — usually fall somewhere between **5 and 20 SOL per journey**, depending on how aggressively they fly. For large freighters, things escalate quickly. A standard run can cost **50 to well over 100 SOL**, and if speed becomes a priority, that number climbs sharply. Military-style high-energy burns or emergency transfers can push a single mission into the **200–300 SOL range or beyond**.
+- **fast transfer:** about **2–6 weeks**
+- **standard transfer:** about **1–3 months**
+- **economy transfer:** about **3–6 months**
 
-And that’s just fuel.
+### Outer System
+Travel to the **outer planets and moons** usually takes:
 
-Location matters as much as distance. Fuel is cheaper near production zones — for example in the Jovian system — and significantly more expensive in high-demand hubs like Mars or Venus. A poorly planned route can multiply costs without changing distance at all.
+- **fast transfer:** about **2–5 months**
+- **standard transfer:** about **4–9 months**
+- **economy transfer:** about **6–12+ months**
 
-> In practice, crews don’t just plan routes — they plan where they can afford to burn.
+These are intentionally broad estimates. Exact travel time depends on route, alignment, available thrust, traffic, and how much fuel the crew is willing to spend.
 
----
+## Travel Cost
 
-### 🚀 Acceleration & Pushing Limits
+Fuel and ship operations are major expenses. Travel is rarely cheap, especially for independent crews.
 
-Ships are not designed to go “as fast as possible,” but to operate within a narrow envelope of safety. Most civilian vessels cruise comfortably at around **0.05 to 0.2 g**, which allows for manageable heat, structural stress, and fuel consumption. Fusion torch drives are capable of more — up to around **0.5 g sustained** in well-built ships — but this is already considered demanding.
+For context:
+- a typical person earns about **1–15 SOL per year**
+- even modest interplanetary travel is therefore economically meaningful
+- location matters, because fuel is cheaper near production zones and more expensive in high-demand hubs
 
-Short bursts beyond that are possible, especially for military craft. The best ships can briefly push toward **1 to 1.5 g**, but only under tightly controlled conditions. These are not normal operations — they are deliberate overdrive. And overdrive has consequences.
+### Rough Cost by Ship Size
 
-Higher acceleration increases:
+**Small shuttle or courier:**  
+about **1–3 SOL** per trip
 
-- structural stress across the entire hull
-- thermal load on reactors and radiators
-- instability in magnetic containment
-- long-term material fatigue
+**Crew ship, transport, or light freighter:**  
+about **5–20 SOL** per trip
 
-For civilian ships, even pushing toward **0.2 g for extended periods** can already be considered aggressive flying. Military vessels tolerate more, but they pay for it in maintenance and lifespan.
+**Large freighter or heavily loaded vessel:**  
+about **50–100+ SOL** per trip
 
-> High acceleration is not a default setting — it’s a risk decision.
+If speed becomes a priority, cost rises sharply.
 
----
+Aggressive burns, rushed departures, bad routing, or flying without economic efficiency can push a trip far above its normal cost.
 
-### ⚠️ Wear, Damage & Hidden Costs
+## Acceleration and Flight Profiles
 
-The real cost of travel is not just fuel, but what it does to the ship over time. Every burn contributes to wear. Under normal conditions, this is manageable — components degrade slowly, maintenance cycles are predictable, and systems remain stable. But once a crew starts pushing performance, the curve changes.
+Ships are not designed to fly at maximum thrust all the time.
 
-Reactors age faster. Magnetic systems drift out of optimal alignment. Radiators suffer from repeated thermal stress. Structural elements accumulate fatigue that cannot simply be repaired in the field.
+Typical civilian travel usually happens around:
 
-A ship that is frequently pushed will:
+- **0.05–0.2 g** for efficient or routine flight
+- **0.2–0.3 g** for aggressive civilian or high-priority travel
 
-- require more maintenance
-- become less reliable
-- develop quirks, limitations, or failure risks
+Sustained thrust above that becomes increasingly expensive and stressful.
 
-In extreme cases, it may never fully recover its original performance envelope. From a gameplay perspective, this creates a long-term consequence system. You can go faster now — but you are spending future safety and reliability to do it.
+Military ships may briefly push much harder, but this is not normal travel. It creates:
+- more wear
+- higher thermal load
+- more maintenance demand
+- greater system instability risk
 
----
+High acceleration is a **risk decision**, not a default operating mode.
 
-### 🧭 What This Means at the Table
+## Wear and Hidden Costs
 
-All of this translates into meaningful choices for players.
+The cost of travel is not just fuel.
 
-You are constantly balancing:
+Every hard burn adds wear:
+- reactors age faster
+- alignment drifts
+- radiators suffer repeated heat stress
+- structural fatigue accumulates
+- maintenance becomes more frequent
 
-- speed vs. cost
-- efficiency vs. flexibility
-- performance vs. long-term survival of your ship
+A ship that is pushed too often becomes:
+- less reliable
+- more expensive to maintain
+- more likely to develop quirks, failures, or system limitations
 
-A fast burn might save weeks, but cost a fortune and push your systems toward failure. A slow route might be safe and cheap, but leave you vulnerable to delays, missed opportunities, or events during transit.
+This means fast travel has a long-term price, even if nothing goes wrong immediately.
 
-Space is not just a backdrop — it becomes part of the gameplay. Long journeys create room for encounters, technical issues, and narrative tension.
+## Travel Choices at the Table
 
----
+Travel should create meaningful decisions.
 
-### 🎯 Quick Reference (Rule of Thumb)
+The crew is usually balancing:
+- **speed vs cost**
+- **efficiency vs flexibility**
+- **performance vs long-term ship reliability**
 
-If you need a fast estimate during play:
+A fast transfer may save weeks, but cost more and stress the ship.  
+A slow route may be cheap and safe, but leaves more time for delays, encounters, breakdowns, or missed opportunities.
 
-- Inner system: ~2–4 weeks, ~1–15 SOL
-- Asteroid belt: ~1–3 months, ~10–50 SOL
-- Outer system: ~3–9 months, ~20–200+ SOL
+Long journeys are not empty space. They create room for:
+- technical problems
+- social tension
+- maintenance scenes
+- intercepts
+- smuggling inspections
+- distress calls
+- encounters in transit
 
-You can always go faster. But you will pay for it — in money, in wear, or eventually in something breaking at the worst possible moment.
+## Quick Reference
+
+Use this when you need a fast estimate at the table.
+
+| Region | Fast | Standard | Economy | Typical Cost |
+|---|---|---|---|---|
+| **Inner System** | 1–2 weeks | 2–4 weeks | 1–3 months | 1–15 SOL |
+| **Asteroid Belt** | 2–6 weeks | 1–3 months | 3–6 months | 10–50 SOL |
+| **Outer System** | 2–5 months | 4–9 months | 6–12+ months | 20–200+ SOL |
+
+## Rule of Thumb
+
+You can almost always go faster.
+
+But if you do, you usually pay in at least one of three ways:
+- **money**
+- **wear**
+- **risk**

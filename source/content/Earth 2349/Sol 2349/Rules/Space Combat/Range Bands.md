@@ -1,126 +1,120 @@
-Space combat in **SOL 2349** is resolved using four range bands. These represent the approximate distance between opposing ships and determine which weapons can be used effectively.
+Space combat in **SOL 2349** uses four **Range Bands**. These represent the approximate distance between opposing ships and determine which weapons and tactics are effective.
 
 Range usually changes gradually as ships maneuver during combat.
 
-# Range Bands Overview
+The listed distances are broad references, not precise simulation measurements. What matters most is **which systems can engage effectively at the current band**.
 
-|Range Band|Distance|Typical Combat Style|
+## Range Band Overview
+
+| Range Band | Approximate Distance | Typical Combat Style |
 |---|---|---|
-|Extreme|5,000 – 20,000 km|Long-range missile and torpedo strikes|
-|Long|500 – 5,000 km|Missile exchanges|
-|Medium|50 – 500 km|Mixed combat|
-|Close|0 – 50 km|Direct fire combat|
+| **Extreme** | 5,000 – 20,000 km | Long-range missile or torpedo engagement, detection, interception |
+| **Long** | 500 – 5,000 km | Missile combat, approach, pursuit, sensor warfare |
+| **Medium** | 50 – 500 km | Mixed engagement, maneuver pressure, guided and direct fire overlap |
+| **Close** | 0 – 50 km | Direct fire, rapid interception, disabling fire, boarding approach |
 
+## Weapon Effectiveness by Range
 
-# Weapon Effectiveness by Range
+Different weapon systems are designed for different engagement distances.
 
-Different weapons are designed to operate at specific ranges. Attacks outside their optimal range suffer penalties or cannot be used.
-
-|   |   |   |   |   |
+| Weapon System | Extreme | Long | Medium | Close |
 |---|---|---|---|---|
-|Weapon System|Extreme|Long|Medium|Close|
-|Torpedo|✓|✓|−2|✗|
-|Missile|✗|✓|✓|−2|
-|Light Missile|✗|✗|✓|✓|
-|Railgun|✗|−4|✓|+1|
-|Laser Array|✗|−2|✓|+1|
-|Point Defense|✗|✗|✗|✓|
+| **Torpedo** | Optimal | Effective | Limited | Not effective |
+| **Missile** | Not effective | Optimal | Effective | Limited |
+| **Light Missile** | Not effective | Not effective | Effective | Optimal |
+| **Railgun** | Not effective | Limited | Effective | Optimal |
+| **Laser Array** | Not effective | Limited | Effective | Optimal |
+| **Point Defense** | Not effective | Not effective | Limited | Optimal |
 
-Explanation:
+### Meaning of Effectiveness
 
-✓ = normal effectiveness  
-−2 / −4 = penalty to attack roll or PD difficulty  
-+1 = bonus due to short engagement distance  
-✗ = weapon cannot be used effectively
+- **Optimal** — weapon performs normally
+- **Effective** — weapon performs well enough without major penalty
+- **Limited** — weapon may still be used, but usually suffers **Setback**, reduced effect, or a similar limitation
+- **Not effective** — weapon cannot normally be used at this range
 
-Guided weapons (missiles and torpedoes) are resolved through **Threat values and Point Defense**, so penalties usually reduce the effective Threat or improve interception chances.
+The exact penalty for **Limited** use depends on the weapon or GM ruling, but should stay simple.
 
-# Changing Range
+## Changing Range
 
-Ships can attempt to change the current range band by maneuvering.
+Ships may attempt to change the current Range Band through maneuvering.
 
-A successful maneuver usually changes the distance **by one range band per round**.
+As a baseline:
+- a successful maneuver changes range by **1 Range Band**
+- range changes are usually gradual
+- major shifts usually require multiple rounds
 
 Examples:
+- **Long → Medium**
+- **Medium → Close**
+- **Medium → Long**
 
-- Long → Medium
-    
-- Medium → Close
-    
-- Medium → Long
-    
+## Maneuvering for Range
 
-Multiple successful maneuvers across several rounds may be required to significantly change distance.
+Changing range is usually handled through a **Pilot Crew Action**.
 
-# Maneuver Attempt
+Use the normal core roll:
 
-The **Pilot** makes a maneuver roll to change range.
+**1d20 + Attribute + Skill**
 
-Example roll:
+In most cases:
 
-```
-d20 + Pilot Skill + Ship Thrust
-```
+**1d20 + Reflexes + Piloting**
 
-The GM sets a **difficulty** depending on the situation.
+The GM sets the difficulty based on:
+- relative ship performance
+- surrounding terrain or clutter
+- enemy maneuvering
+- damage, stress, or unstable conditions
 
-Typical factors include:
+A successful maneuver usually shifts the engagement by **one Range Band** if the fiction allows it.
 
-- relative ship speeds
-    
-- obstacles or terrain (asteroids, debris)
-    
-- enemy counter-maneuvers
-    
+## Opposed Range Control
 
-# Opposed Maneuvers
+If both ships are actively trying to control distance, the GM may resolve the attempt as an opposed or contested maneuver situation.
 
-If the opposing ship actively tries to control range, both pilots may roll.
+This determines whether:
+- range closes
+- range opens
+- or the current band remains unchanged
 
-Example:
+The exact resolution should stay simple. In most cases, the ship with the stronger maneuver result controls the shift.
 
-```
-Pilot + Thrust
-vs
-Enemy Pilot + Thrust
-```
+## Tactical Implications
 
-Results determine whether:
+### Extreme Range
+- long-range torpedoes and missile threats dominate
+- detection, tracking, and point-defense readiness matter
+- direct fire is usually irrelevant
 
-- the range decreases
-    
-- the range increases
-    
-- distance remains unchanged
-    
+### Long Range
+- missile combat and interception become central
+- range control and pursuit matter
+- direct-fire opportunities are still limited
 
-# Tactical Implications
+### Medium Range
+- most major combat systems become relevant
+- maneuvering and timing matter more
+- mixed combat is common
 
-Range strongly affects combat tactics:
+### Close Range
+- direct-fire weapons become decisive
+- defensive mistakes are punished quickly
+- disabling fire, breaching pressure, or boarding setup may begin
 
-**Extreme Range**
+## Design Principle
 
-- long-range torpedo strikes
-    
-- sensor warfare
-    
-- little direct combat
-    
+Range Bands exist to structure combat decisions, not to simulate exact battlefield geometry.
 
-**Long Range**
+What matters is:
+- what weapons can engage
+- what crew roles become important
+- whether ships are closing, escaping, or forcing a decisive exchange
 
-- missile exchanges dominate
-    
+## Related Pages
 
-**Medium Range**
-
-- most weapons become viable
-    
-- maneuvering becomes important
-    
-
-**Close Range**
-
-- railguns and lasers are extremely dangerous
-    
-- combat often ends quickly
+- [[Space Combat]]
+- [[Crew Actions and Combat Rounds]]
+- [[Dice and Combat Resolution]]
+- [[Engagement Types]]
+- [[Weapons]]

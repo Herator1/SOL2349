@@ -72,5 +72,3 @@ If you are new to the setting or the game, start with:
 
 - [[Gamemaster Area]]
 - [[Premade Characters]]
-
-## Wichtigste Hinweise

@@ -1,59 +1,51 @@
-This example demonstrates how **Narrative Space Combat** is resolved step by step.
+# Example Engagement
+
+This example demonstrates how space combat is resolved step by step.
 
 Two ships encounter each other in open space and engage at **Long Range**.
 
 Ships involved:
 
-**Aegis-class Corvette**
+## Aegis-class Corvette
 
-|Stat|Value|
-|---|---|
-|Thrust|3|
-|Sensors|2|
-|Armament|2|
-|Defense|2|
-|Systems|2|
-|Hull|14|
+| Stat | Value |
+|---|---:|
+| **Thrust** | 3 |
+| **Sensors** | 2 |
+| **Defense** | 2 |
+| **Point Defense** | 1 |
+| **Systems** | 2 |
+| **Hull Integrity** | 14 |
 
-Hardpoints:
-
-- Missile Rack (2 missiles per salvo)
-    
-- Railgun
-    
-- Point Defense System
-    
+**Hardpoints:**
+- 1 Missile Rack
+- 1 Railgun
+- 1 Point Defense System
 
 ---
 
-**Warhound-class Frigate**
+## Warhound-class Frigate
 
-|   |   |
-|---|---|
-|Stat|Value|
-|Thrust|2|
-|Sensors|3|
-|Armament|3|
-|Defense|3|
-|Systems|2|
-|Hull|18|
+| Stat | Value |
+|---|---:|
+| **Thrust** | 2 |
+| **Sensors** | 3 |
+| **Defense** | 3 |
+| **Point Defense** | 1 |
+| **Systems** | 2 |
+| **Hull Integrity** | 18 |
 
-Hardpoints:
-
-- 2 Missile Racks (4 missiles per salvo)
-    
-- Railgun
-    
-- Point Defense System
-    
+**Hardpoints:**
+- 2 Missile Racks
+- 1 Railgun
+- 1 Point Defense System
 
 ---
 
 # Initial Conditions
 
-Engagement Type: **Frontal Engagement**
-
-Starting Range: **Long**
+**Engagement Type:** Frontal Engagement  
+**Starting Range:** Long
 
 Both ships detect each other and prepare for combat.
 
@@ -61,65 +53,39 @@ Both ships detect each other and prepare for combat.
 
 # Round 1 – Long Range
 
-At Long Range, missile weapons dominate.
+At **Long Range**, missile weapons dominate.
 
-Railguns are ineffective.
-
----
+Railguns are not yet effective.
 
 ## Crew Actions
 
 ### Corvette
 
-**Sensors – Target Lock**
-
-Roll:
-
-```
-d20 + Systems
-```
-
+**Sensors – Target Lock**  
 Roll: **13**
 
-Success → **+2 Threat to missiles**
+Success → the Corvette’s next missile salvo gains **Tactical Edge**
 
----
-
-**Pilot – Evasive Maneuver**
-
-Roll:
-
-```
-d20 + Piloting
-```
-
+**Pilot – Evasive Maneuver**  
 Roll: **12**
 
-Success → **+2 Defense**
-
-Corvette Defense becomes **4** this round.
+Success → the Corvette gains a defensive positioning benefit this round
 
 ---
 
 ### Frigate
 
-**Sensors – Target Lock**
-
+**Sensors – Target Lock**  
 Roll: **15**
 
-Success → **+2 Threat**
+Success → one frigate missile salvo gains **Tactical Edge**
 
----
-
-**Pilot – Change Range**
-
-The frigate attempts to close distance.
-
+**Pilot – Change Range**  
 Roll: **14**
 
-Success → Range will change **after the round**.
+Success → the frigate will close range after this round
 
-Long → Medium
+**Long → Medium**
 
 ---
 
@@ -127,177 +93,83 @@ Long → Medium
 
 ### Corvette Fires
 
-Missile rack launches **2 missiles**
+The Corvette launches **1 missile salvo** from its missile rack.
 
 Base Threat: **12**
 
-Target Lock bonus: **+2**
-
-Final Threat: **14**
-
-Two missiles incoming.
+With successful Target Lock, the salvo attacks with improved guidance.
 
 ---
 
 ### Frigate Point Defense
 
-Defense: **3**
+The frigate has **1 Point Defense system**, so it gets **1 intercept attempt** this round.
 
-PD rolls:
+Roll:
 
-Missile 1
+**1d20 = 9**  
+**9 + Point Defense 1 = 10**
 
-```
-d20 = 9
-9 + 3 = 12
-```
+The interception fails.
 
-12 < 14 → Miss
+The missile salvo gets through.
 
-12 > 7 (half threat)
-
-Result → **Near Hit**
+Because the roll is still more than half of the incoming threat, the result is a **Near Hit**.
 
 Damage:
 
-```
-1d6 = 4
-```
+**1d6 = 4**
 
-Frigate Hull:
+Frigate Hull Integrity:
 
-18 → **14**
-
----
-
-Missile 2
-
-```
-d20 = 16
-16 + 3 = 19
-```
-
-Intercept
-
-Missile destroyed.
+**18 → 14**
 
 ---
 
 ### Frigate Fires
 
-Two missile racks fire **4 missiles**
+The frigate launches **2 missile salvos**, one from each missile rack.
 
-Base Threat: **12**
+One salvo benefits from the earlier **Target Lock**.
 
-Target Lock: **+2**
-
-Final Threat: **14**
-
-Four missiles incoming.
+This creates:
+- **Salvo A** — improved attack
+- **Salvo B** — normal attack
 
 ---
 
 ### Corvette Point Defense
 
-Defense: **4** (evasive maneuver active)
+The Corvette has **1 Point Defense system**, so it gets **1 intercept attempt** this round.
 
-PD system: 4 shots
+It chooses to intercept **Salvo A**, the more dangerous incoming attack.
 
----
+Roll:
 
-Missile 1
+**1d20 = 15**  
+**15 + Point Defense 1 = 16**
 
-```
-d20 = 15
-15 + 4 = 19
-```
+**Intercept**
 
-Intercept
+Salvo A is destroyed.
 
----
+Salvo B gets through uncontested because the Corvette has no remaining unused PD system this round.
 
-Missile 2
-
-Second shot (−4 penalty)
-
-```
-d20 = 12
-12 + 4 − 4 = 12
-```
-
-Miss
-
-12 > 7
-
-Result → **Near Hit**
+Result: **Direct Hit**
 
 Damage:
 
-```
-1d6 = 2
-```
+**2d6 = 7**
 
-Hull:
+Corvette Hull Integrity:
 
-14 → **12**
-
----
-
-Missile 3
-
-Third shot (−8 penalty)
-
-```
-d20 = 11
-11 + 4 − 8 = 7
-```
-
-7 ≤ 7
-
-Result → **Direct Hit**
-
-Damage:
-
-```
-2d6 = 7
-```
-
-Hull:
-
-12 → **5**
-
----
-
-Missile 4
-
-Fourth shot (−12 penalty)
-
-```
-d20 = 13
-13 + 4 − 12 = 5
-```
-
-Direct Hit
-
-Damage:
-
-```
-2d6 = 6
-```
-
-Hull:
-
-5 → **0**
-
-The Corvette is **combat ineffective**.
-
-However, this example continues for demonstration.
+**14 → 7**
 
 ---
 
 # Range Change
 
-The frigate successfully closed distance.
+The frigate successfully closes distance.
 
 Range becomes:
 
@@ -307,152 +179,119 @@ Range becomes:
 
 # Round 2 – Medium Range
 
-At Medium Range:
-
+At **Medium Range**:
 - missiles remain effective
-    
 - railguns become viable
-    
-
----
 
 ## Crew Actions
 
 ### Corvette
 
-Engineering attempts emergency stabilization.
-
-Roll:
-
-```
-d20 + Mechanics
-```
-
+**Engineering – Emergency Stabilization**  
 Roll: **14**
 
-Success
+Success → the Corvette removes one immediate system problem and remains operational
 
-The ship remains operational but heavily damaged.
+**Gunnery – Fire Railgun setup**  
+The gunner prepares a direct-fire attack
 
 ---
 
 ### Frigate
 
-Pilot performs **Evasive Maneuver**
-
+**Pilot – Evasive Maneuver**  
 Roll: **13**
 
-Success
+Success → the frigate gains a defensive flying advantage this round
 
-Defense becomes **5** this round.
-
----
-
-Sensors attempt **Target Lock**
-
+**Sensors – Scan Weakness**  
 Roll: **11**
 
-Success
-
-+2 Threat again.
+Success → the frigate reveals a useful opening for its next relevant attack
 
 ---
 
 # Weapons Phase
 
-### Corvette
-
-Railgun becomes available.
+### Corvette Fires Railgun
 
 Attack roll:
 
-```
-d20 + Gunnery + Armament
-```
+**1d20 + Reflexes + Gunnery**
 
-Roll:
+Roll result: **15**
 
-```
-13 + 2 = 15
-```
+The frigate’s defense is overcome.
 
-Frigate Defense: **5**
-
-Hit.
+**Hit**
 
 Damage:
 
-```
-3d6 = 9
-```
+**3d6 = 9**
 
-Frigate Hull:
+Frigate Hull Integrity:
 
-14 → **5**
+**14 → 5**
 
 ---
 
-### Frigate
+### Frigate Fires
 
-Missile racks fire again.
+The frigate again launches **2 missile salvos**.
 
-4 missiles incoming.
+The Corvette still has only **1 Point Defense system**, so it may intercept only **1** of them.
 
-Threat: **14**
+### Corvette Point Defense
 
-The Corvette has **no remaining PD shots** this round.
+Intercept attempt against the first salvo:
 
-All missiles strike.
+**1d20 = 8**  
+**8 + Point Defense 1 = 9**
+
+Fail.
+
+The salvo gets through as a **Near Hit**.
 
 Damage:
 
-Missile 1
+**1d6 = 3**
 
-```
-2d6 = 6
-```
+Corvette Hull Integrity:
 
-Missile 2
+**7 → 4**
 
-```
-2d6 = 5
-```
+The second salvo is not intercepted.
 
-Missile 3
+It strikes as a **Direct Hit**.
 
-```
-2d6 = 7
-```
+Damage:
 
-Missile 4
+**2d6 = 6**
 
-```
-2d6 = 4
-```
+Corvette Hull Integrity:
 
-The Corvette is completely destroyed.
+**4 → 0**
+
+The Corvette becomes **combat ineffective**.
 
 ---
 
 # Combat Result
 
-The frigate wins the engagement.
+The frigate wins the engagement, but suffers heavy damage.
 
-However it suffered significant damage and may require repairs.
+It remains operational, though badly compromised.
 
 ---
 
 # Lessons from the Example
 
-This example demonstrates several key aspects of Narrative Space Combat:
+This example demonstrates several key features of space combat:
 
-- missile salvos are extremely dangerous
-    
-- point defense can mitigate but not always stop incoming threats
-    
-- closing to Medium Range allows direct fire weapons
-    
-- multiple weapon systems can fire in a single round
-    
+- guided weapons are extremely dangerous
+- Point Defense is valuable, but limited
+- missile saturation matters even with only a few launch systems
+- Medium Range makes direct-fire weapons relevant
+- small warship engagements can end very quickly
 
-Combat between small warships can escalate and conclude very quickly.
+Space combat in _SOL 2349_ is not about huge missile spreadsheets. It is about a few decisive threats, limited defensive capacity, and crew actions that determine whether the ship survives long enough to matter.

@@ -27,29 +27,29 @@ Earth is still the symbolic center of humanity. But in practical terms, it is no
 
 ---
 
-# Megacities
+# [[Earth Megacities]]
 
 Modern Earth is defined by a handful of immense megacities, many of them concentrated in the southern hemisphere or along climate-resilient coastal corridors. These urban giants dominate population, governance, finance, trade, and cultural production. Most function less like conventional cities and more like **semi-autonomous civilizational zones** with their own infrastructure layers, social hierarchies, and regional power systems.
 
 Among the most influential are:
 
-### **Nova São Paulo**
+### [[Nova São Paulo]]
 
 A vast South American arcology complex and the **financial engine of Earth**, closely tied to the power of the **Solaris Financial Group**. It is defined by vertical inequality, corporate wealth concentration, financial markets, and dense lower-layer dependency systems.
 
-### **Greater Lagos**
+### [[Greater Lagos]]
 
 A sprawling West African coastal megacity built on resilience, improvisation, and constant adaptation. It is one of Earth’s most important **repair, modification, and retrofit hubs**, where formal infrastructure and informal systems are deeply intertwined.
 
-### **Mombasa Corridor**
+### [[Mombasa Corridor]]
 
 A decentralized East African–Arabian trade zone where maritime traffic, land routes, and orbital logistics converge. It is known for flexible access, fragmented governance, strong criminal penetration, and a major **[[Archeron]]** presence tied to security, recovery, and rapid-response services.
 
-### **Delhi Prime**
+### [[Delhi Prime]]
 
 The largest continuous urban zone on Earth and one of the biggest population concentrations in the Solar System. It is defined by immense density, social continuity, layered infrastructure, and a comparatively robust baseline welfare structure that preserves stability at enormous scale.
 
-### **New Sydney Arc**
+### [[New Sydney Arc]]
 
 A highly advanced Australasian megacity and one of the most stable urban regions on Earth. It serves as a major hub for orbital traffic, high-end manufacturing, and tightly integrated corporate infrastructure, but is also known for pervasive surveillance and low personal anonymity.
 
@@ -57,7 +57,7 @@ Together, these and other megacities define the practical reality of life on Ear
 
 ---
 
-# Rewilded North
+# [[Rewilded North]]
 
 The northern hemisphere stands in sharp contrast to Earth’s dense urban south. After the devastation of the AI War and subsequent nuclear and radiological exchanges, large parts of the north were abandoned for decades. Radiation zones, collapsed infrastructure, disrupted climate systems, and depopulation made large-scale resettlement impossible.
 
@@ -65,9 +65,10 @@ As conditions gradually stabilized, many of these regions were not fully repopul
 
 In some places, the old world remains visible beneath vegetation and regrowth. In others, human presence has become minimal enough that entire landscapes feel almost post-human.
 
+
 ---
 
-# Underwater Cities
+# [[Underwater Cities]]
 
 As sea levels rose and coastal pressures intensified, humanity expanded not only across the land but also into the oceans. This led to the development of **semi-submerged and fully underwater cities**, some of the most unusual habitats on Earth.
 
@@ -82,10 +83,9 @@ Today, underwater cities serve as:
 They remain niche compared to the megacities, but represent one of the most distinctive settlement forms on Earth.
 
 ---
-
 # Economy
 
-Despite its population and symbolic weight, Earth is **not the undisputed economic leader of the Solar System**. Compared with Mars, Venus, Mercury, or parts of the Belt, its infrastructure is often older, more uneven, and less optimized for cutting-edge industrial expansion.
+Despite its population and symbolic weight, Earth is **not the undisputed economic leader of the Solar System**. Compared with [[Mars]], [[Venus]], [[Mercury]], or parts of the [[Asteroid Belt]], its infrastructure is often older, more uneven, and less optimized for cutting-edge industrial expansion.
 
 Earth remains enormously important in services, governance, administration, finance, education, media, legacy manufacturing, and population-scale labor systems. But many of the most advanced industrial sectors, medical systems, cybernetic technologies, and frontier opportunities now lie off-world.
 

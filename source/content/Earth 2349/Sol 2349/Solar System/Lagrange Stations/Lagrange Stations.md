@@ -6,7 +6,7 @@ In practical terms, Lagrange stations are where **movement becomes organized**.
 
 ---
 
-## Copernicus Lagrange Complex
+## [[Copernicus Lagrange Complex]]
 
 | Parameter | Value |
 |---|---|
@@ -24,7 +24,7 @@ It is where interplanetary ambition becomes hardware.
 
 ---
 
-## Gateway Meridian
+## [[Gateway Meridian]]
 
 | Parameter | Value |
 |---|---|

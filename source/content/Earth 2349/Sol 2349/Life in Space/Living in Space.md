@@ -1,62 +1,51 @@
-## Living in Space
+# Living in Space
 
-Human habitation beyond Earth is shaped primarily by **engineering constraints rather than architectural tradition**. Space habitats must balance structural mass, radiation shielding, life-support systems, and energy efficiency, making living space one of the most expensive resources in the Solar System.
+Human life beyond Earth is shaped less by architectural tradition than by **engineering necessity**. In space, every cubic meter must be pressurized, heated or cooled, monitored, maintained, and protected from radiation, vacuum, fire, contamination, and structural failure. For that reason, habitable volume remains one of the most expensive resources in the Solar System.
 
-In many orbital environments, especially in low gravity or microgravity habitats, living space is often measured in **cubic meters rather than square meters**. Vertical space becomes usable volume, and interior architecture tends to prioritize modularity and function over comfort.
+This has consequences that are visible in nearly every artificial environment. Outside a small number of prestigious settlements, space habitats are not designed around spaciousness, ornament, or historical ideas of domestic comfort. They are designed around **efficiency, reliability, and controlled livability**. Rooms are compact, infrastructure is deeply integrated into the built environment, and private living space is usually smaller than most pre-space societies would have considered normal.
 
-Although a small number of large settlements—particularly on Mars, Venus orbital habitats, and major corporate stations—feature spacious residential districts, most people living in space occupy **compact, highly optimized living units**. Even members of the upper economic classes often live in apartments that would be considered small by 21st-century standards.
+In many habitats, especially those operating in low gravity or microgravity, living conditions are understood in terms of **volume rather than floor area**. Walls, ceilings, and vertical surfaces remain usable parts of the habitat. Storage is built into structure. Furniture is often foldable, retractable, or multifunctional. Interior design tends to prioritize modularity, service access, and psychological stability over luxury.
 
-For the majority of spacers, privacy is limited and living arrangements are frequently shared. Communal kitchens, hygiene facilities, and recreation areas are common in many habitats, reflecting both economic necessity and the social realities of life in confined environments.
+Even so, life in space is not uniformly harsh. The largest settlements on [[Mars]], the cloud cities of [[Venus]], major orbital hubs, and some high-end corporate habitats offer residential districts that are stable, comfortable, and in some cases quietly affluent. But these remain the exception. For most people living beyond Earth, domestic life is shaped by constraints that never fully disappear: limited personal space, shared infrastructure, recycled air and water, and the constant awareness that habitability is an active process rather than a natural condition.
 
-# Residential Tiers
+For that reason, privacy is often unevenly distributed. Wealthier residents may have self-contained apartments with dedicated hygiene space, controlled noise isolation, and limited private amenities. Technical professionals and long-term station workers often occupy compact but functional units. In more industrial environments such as Belt habitats, mining stations, freight spines, and dock complexes, shared accommodation remains common. Communal kitchens, shared hygiene blocks, rotating shift housing, and limited personal storage are normal features of daily life.
 
-## 1. Luxury Habitats
+This does not make space habitation uniformly miserable. Most mature habitats understand that morale, privacy, and routine matter. Even highly constrained environments usually provide some combination of social space, recreation, exercise areas, food service, and quiet zones. But these are never free. Every comfort in space is supported by structural mass, energy expenditure, maintenance labor, and political-economic decisions about who deserves room to breathe.
 
-|Category|Information|
-|---|---|
-|Typical Residents|Corporate executives, high-level researchers, wealthy investors|
-|Location|Large orbital stations, Mars cities, Venus cloud habitats|
-|Living Space|80–200+ m³ per person|
-|Features|Private apartments, artificial gardens, large viewing windows|
+As a result, living in space is defined by a constant balance between **technical constraint and human adaptation**. Habitats must be efficient enough to function, but humane enough to retain the people who keep them alive.
 
-Luxury housing exists primarily in the largest and most economically powerful settlements. These residences may include spacious apartments, private hydroponic gardens, panoramic observation decks, and controlled artificial environments that simulate Earth-like living conditions.
+For a more detailed look at daily life inside orbital settlements, including housing, commerce, food, privacy, and social space, see [[Life on a Space Station]].
 
-Such accommodations remain extremely rare and are typically located in major hubs such as corporate headquarters stations or wealthy planetary cities.
+---
 
-## 2. Standard Habitat Units
+# Life on a Space Station
 
-|Category|Information|
-|---|---|
-|Typical Residents|Professionals, technicians, mid-level corporate employees|
-|Location|Most stations and planetary settlements|
-|Living Space|30–80 m³ per person|
-|Features|Modular apartments, shared infrastructure|
+Life on a space station is rarely as dramatic as outsiders imagine. Most of the time, it is not defined by catastrophe or frontier heroism, but by routines carried out inside an engineered environment that must remain stable at all times. People wake, eat, commute, work, shop, rest, and socialize much as they do anywhere else — but all of it happens inside a structure where air, water, gravity, temperature, and safety are artificial achievements rather than background conditions.
 
-Standard residential units represent the most common living arrangement across the Solar System. These compact but functional apartments typically consist of modular living spaces designed to maximize usable volume.
+That basic fact shapes everything.
 
-Residents usually have access to shared amenities such as communal kitchens, exercise areas, and recreation spaces. Furniture is often foldable or integrated into the structure of the living module.
+In large, mature stations, everyday life is often more normal than visitors expect. Corridors become streets. Transfer nodes become plazas. Commercial strips form around traffic flow, work shifts, and transport access. People develop favorite cafés, regular food stalls, bars they return to after work, and familiar routes between residential sections and industrial or administrative districts. The environment is compact and controlled, but not necessarily bleak. A functioning station has to be livable, not merely survivable.
 
-## 3. Shared Habitat Blocks
+The exact feel of daily life depends heavily on gravity. In habitats built around rotational sections, many residential districts operate at something close to partial gravity rather than a full Earth standard. In SOL 2349, this is often around **0.5 g**, which offers a workable compromise between structural cost, long-term health, and day-to-day comfort. At that level, most ordinary activities remain familiar. People walk normally, carry goods, sit in bars, cook, queue, clean, and commute in ways that still feel recognizably human. The differences are real, but subtle: movement is lighter, falls are less punishing, ceilings can be higher for the same structural cost, and interior architecture tends to feel slightly more open than its physical mass would suggest.
 
-|Category|Information|
-|---|---|
-|Typical Residents|Industrial workers, freighter crews, miners|
-|Location|Industrial stations, Belt habitats|
-|Living Space|10–30 m³ per person|
-|Features|Shared sleeping areas, communal facilities|
+Closer to the station’s static spine, or in smaller and more utilitarian installations, conditions may shift toward microgravity or very low gravity. That changes daily life more dramatically. Shops use clips, straps, nets, and containment surfaces. Drinks come in sealed containers or magnetic cups rather than open glasses. Food is designed to avoid crumbs, loose particles, and free-floating liquids. Seating becomes anchoring. Walls and ceilings become usable surfaces rather than boundaries. A low-g service corridor, dockside market, or spine bar feels physically different from life in a rotating residential ring, even within the same station.
 
-In industrial habitats and mining settlements, living quarters are often shared by multiple occupants. These facilities are designed primarily for efficiency and rapid crew rotation rather than long-term comfort.
+Housing reflects the same logic. Truly luxurious accommodation exists, but it is uncommon outside prestige corporate stations, executive districts, or high-value research environments. Most residents live in compact but functional apartments or shared residential modules. For a skilled technician, administrator, nurse, or systems specialist, a private unit may be small by planetary standards but still comfortable enough for long-term life: sleeping space, integrated storage, hygiene access, a compact galley or kitchenette, and enough privacy to sustain routine. For industrial workers, transient contractors, freight crews, and lower-tier station labor, living conditions are often denser. Shared blocks, rotating occupancy, capsule bunks, and limited personal storage remain common, especially near dock sectors and heavy work zones.
 
-Residents typically share sleeping areas, hygiene facilities, and common rooms. Personal storage space is minimal, and privacy is limited.
+What matters most is usually not size in the abstract, but quality of systems. Noise insulation, reliable climate control, clean air, dependable sanitation, and the ability to close a door matter more than decorative space. A small, quiet, well-maintained module is often considered better housing than a larger but noisy and poorly serviced one.
 
-## 4. Capsule Housing
+Food culture on stations is more varied than stereotype suggests. Large stations typically support several parallel systems at once. Communal dining and worksite canteens remain important, especially for industrial labor and routine shift work. At the same time, food corridors, takeaway counters, compact restaurants, and localized market clusters emerge wherever population density supports them. Street food in the planetary sense is rare, but station equivalents are common: hand-held meals, wrapped hot food, dense bowls, sealed drinks, portable snacks, and prepared dishes optimized for confined environments. In better residential districts, home cooking is common as well, though kitchens are usually compact and ingredients are often partially processed, packaged, or standardized for storage and waste control.
 
-|Category|Information|
-|---|---|
-|Typical Residents|Low-income workers, temporary labor, transient crews|
-|Location|Dock districts, industrial habitats|
-|Living Space|3–10 m³ per person|
-|Features|Personal sleeping capsules, shared communal space|
-Capsule housing provides the most minimal form of private living space. Each resident is assigned a small enclosed compartment used primarily for sleeping and personal storage.
+Packaging is highly optimized. In space, packaging is not merely about branding or convenience, but about containment, shelf stability, stacking efficiency, traceability, and recyclability. Food containers are often modular, resealable, compact, and designed for easy material recovery. In low-gravity environments they may also include grip surfaces, anchor points, or semi-rigid geometries that make them easier to handle. Waste is not casually tolerated in enclosed systems. Even ordinary domestic packaging reflects that.
 
-These capsules offer limited privacy but allow large numbers of workers to be housed within densely packed station environments. For many transient workers in the transport and mining industries, capsule housing represents the most affordable form of accommodation available in space.
+Commerce on a station is similarly practical. Shops are rarely large by planetary standards, but they are dense, efficient, and shaped by local demand. A residential commercial strip may include food counters, maintenance kiosks, clothing outlets, pharmacy access, tool rental, repair services, small bars, communications booths, and convenience retail. In more industrial districts, the mix shifts toward work supplies, sealed consumables, cheap prepared meals, spare electronics, pressure garments, and contract services. In major hubs, these spaces can become lively and socially important, even if they never resemble open-air urban markets on a planet.
+
+Bars deserve special mention because they often serve as one of the main social stabilizers in station life. In partial gravity districts, a bar may look surprisingly familiar: counter seating, booths, dim light, acoustic shielding, low music, tired workers at the end of a shift. In low-g or spine-adjacent sectors, bars feel different. Movement is more fluid, furniture is more anchored, and the physical experience of socializing changes with the environment. But the role remains the same. Bars are not luxuries. They are part of how enclosed communities remain psychologically functional.
+
+Movement through the station is structured by scale and gravity. On smaller stations, most people walk. On larger habitats, tram lines, internal transit loops, cargo-separated pedestrian routes, and elevator or transfer systems between the rotating sections and the static spine become part of daily routine. Commuting is usually less about long distance than about controlled access and environmental transition. A worker may travel only a few kilometers in absolute terms, but cross multiple technical and social boundaries in doing so: residential ring to transfer hub, transfer hub to spine, spine to dock works, or residential sector to fabrication block.
+
+Ownership is also different from most planetary norms. On many stations, especially corporate or semi-corporate ones, people own relatively little of the physical environment around them. Living space is often leased. Infrastructure is centrally maintained. Appliances, furniture, and utility access may be standardized rather than individually owned. What residents accumulate instead are portable possessions: clothing, personal electronics, tools, keepsakes, work certifications, customized gear, and objects that can move with them if contracts change or relocation becomes necessary.
+
+All of this creates a form of life that is constrained, but not necessarily bleak. Space stations in SOL 2349 are not utopian environments, but neither are they uniformly grim. People live there because jobs are real, systems are stable enough, communities exist, and everyday life, though compressed and engineered, remains recognizably human. They build routines. They form neighborhoods. They complain about management, poor ventilation, cramped transit, and recycled food. They go to work, meet friends, buy takeaway, watch traffic through shielded viewports, and return to small but functional homes.
+
+That is what makes a station feel real. Not that it escapes the limits of living in space, but that people have learned how to live meaningfully within them.

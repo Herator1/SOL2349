@@ -45,6 +45,7 @@ With a setting spanning the entire [[Solar System]]—from the crowded orbital i
 ## Life in Space  
   
 - [[Living in Space]]  
+- [[From a Rock to a Habitat]]
 - [[Food]]  
 - [[Money in Space]]  
 - [[Advanced Medicine]]  
@@ -55,8 +56,7 @@ With a setting spanning the entire [[Solar System]]—from the crowded orbital i
   
 - [[Timeline of SOL 2349]]  
 - [[Interplanetary Law]]  
-- [[Rumors and Secrets (minor Spoilers)]]  
-  
+
 ## Technology of 2349  
   
 - [[Basic Technological Concepts of Sol 2349]]  
@@ -64,6 +64,7 @@ With a setting spanning the entire [[Solar System]]—from the crowded orbital i
 - [[Weapon Systems and Defenses]]  
 - [[Implant Overview]]  
 - [[Genetic Modifications]]  
+- [[Space Mining and Refining]]
   
 ## Gamemaster Area  
   

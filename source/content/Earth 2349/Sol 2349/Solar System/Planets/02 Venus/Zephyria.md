@@ -1,0 +1,11 @@
+**Population:** ~12 million
+
+Zephyria is one of the most controlled and research-oriented cities on [[Venus]], specializing in atmospheric science, climate engineering, high-altitude materials testing, and environmental systems. Compared with the industrial scale of [[Ishtar Gate]] or the political density of [[Aphrodite Prime]], Zephyria feels quieter, narrower in purpose, and far more deliberately managed.
+
+The city was built around scientific infrastructure rather than trade or heavy manufacturing. Its core sectors are dominated by laboratories, testing towers, instrument platforms, environmental simulation chambers, and technical campuses studying the behavior of Venus’s atmosphere and the materials required to survive within it. Many of the systems that make Venusian cloud cities possible—corrosion-resistant materials, atmospheric filtration methods, pressure-shell membranes, buoyancy management models, and long-duration environmental controls—were refined in places like Zephyria.
+
+This gives the city a distinctive urban character. Zephyria is cleaner, calmer, and more spatially ordered than most major Venusian settlements. Transit corridors are tightly controlled, research zones are heavily compartmentalized, and much of the city’s visible infrastructure is designed for measurement, calibration, and controlled experimentation rather than constant freight movement. Even its residential sectors are shaped by institutional life: researchers, engineers, technical staff, administrators, and long-term project personnel form the bulk of the population.
+
+That does not make Zephyria politically neutral. Like all major Venusian cities, it remains deeply embedded in the corporate framework that funds and directs its work. Access is regulated, data control is sensitive, and much of its scientific output has direct industrial or strategic value. The city’s calm surface often hides intense competition over patents, environmental systems, technical standards, and the future of Venusian atmospheric infrastructure.
+
+Zephyria is therefore one of the clearest examples of Venus at its most disciplined: not a city of freight or executive spectacle, but a city built to understand the hostile world around it well enough to keep civilization suspended within it.

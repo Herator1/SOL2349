@@ -18,87 +18,64 @@
 
 # Overview
 
-Eros is one of the oldest continuously inhabited asteroids in the Belt—and one of the least controlled. Originally established as a small mining and transfer outpost, it expanded over decades without a unified plan. What began as infrastructure gradually turned into settlement, and settlement into a dense, self-sustaining environment.
+**[[Eros]]** is one of the oldest continuously inhabited asteroids in the [[Asteroid Belt]]—and one of the least controlled. Originally established as a modest mining and transfer outpost, it expanded over decades without any coherent master plan. Infrastructure became settlement, settlement became habitat, and habitat became a dense, improvised urban environment sustained by repair, adaptation, and sheer persistence.
 
 Today, Eros is not a station built on a rock. It is a **city carved into one**.
 
-Its interior has been hollowed out and repurposed layer by layer. Tunnels, caverns, and pressurized habitats extend deep into the asteroid, forming a vertically stacked, interconnected environment where space is limited and constantly reused. New structures are built into old ones, systems overlap, and nothing is ever fully finished.
+Its interior has been hollowed out and repurposed layer by layer. Tunnels, pressure caverns, retrofit habitats, utility shafts, market levels, and transport corridors extend deep into the asteroid, forming a vertically stacked environment where nothing is truly finished and almost everything has been modified more than once.
 
 ---
 
 # Structure
 
-Unlike purpose-built habitats, Eros follows no clean design logic. Its internal layout is irregular, shaped by decades of expansion, improvisation, and necessity.
+Unlike purpose-built habitats, Eros follows no clean design logic. Its internal layout reflects decades of expansion under pressure, with old mining tunnels still visible beneath later habitation layers and industrial corridors running directly beside residential sectors, market warrens, or patched-over infrastructure spaces.
 
-Some sections are:
+Some areas remain narrow, metallic, and unmistakably industrial. Others have been widened into open habitation caverns or converted into dense stacked neighborhoods. Artificial gravity exists only in selected spin sections, many of them improvised or retrofitted long after the original structure was built. Large parts of Eros remain in microgravity, producing abrupt shifts in movement, architecture, and daily life across very short distances.
 
-- narrow industrial tunnels still bearing signs of early mining operations
-- large open caverns converted into habitation zones
-- dense residential layers stacked above infrastructure corridors
-
-Spin gravity exists only in certain areas, often improvised or retrofitted. Large parts of Eros remain in microgravity, leading to a constant mix of environments within short distances. Navigation is difficult, especially for outsiders. Local knowledge is often more valuable than maps.
+This makes navigation difficult, especially for outsiders. On Eros, local knowledge is often more valuable than maps.
 
 ---
 
 # Economy
 
-Eros is not an industrial powerhouse like Psyche, nor a structured trade hub like Ceres. Its economy is built on **adaptation and reuse**. Most economic activity revolves around:
+Eros is not a heavy industrial giant like [[16 Psyche]], nor a regulated commercial center like [[Ceres]]. Its economy is built on **repair, reuse, modification, and survival through technical adaptation**. It specializes in keeping systems operational long after they were meant to be retired.
 
-- repair and refurbishment of equipment
-- recycling and material recovery
-- modification and retrofitting of existing systems
+Much of its economic activity revolves around refurbishment, salvage, recycling, part recovery, system retrofitting, and low-end manufacturing based on old hardware and repurposed designs. Equipment arriving on Eros often leaves in altered form—patched, modified, cannibalized, rebuilt, or made functional again through methods that would not pass inspection in more regulated systems.
 
-Much of the technology in circulation is outdated, repurposed, or heavily modified. Eros specializes in keeping things running long after they were meant to be replaced. Informal markets play a major role. Grey logistics, parallel supply chains, and black market trade are deeply integrated into everyday economic life. On Eros, legality is often secondary to functionality.
+Grey logistics, informal supply chains, black-market brokerage, and unlicensed technical work are deeply integrated into everyday economic life. On Eros, legality is often secondary to whether something works.
 
 ---
 
 # Governance
 
-No single authority fully controls Eros. Instead, power is distributed across a shifting network of:
+No single authority fully controls Eros. Power is distributed across a shifting landscape of local administrations, worker collectives, transport syndicates, surviving corporate enclaves, private security groups, and neighborhood-level technical authorities. Different sectors operate under different norms, and the level of enforcement varies sharply from one section to the next.
 
-- local administrations
-- corporate remnants
-- worker collectives
-- private security forces
-
-Control is highly localized. Different sectors operate under different rules, and enforcement varies widely. Attempts to centralize governance have repeatedly failed, as the complexity and density of the station make unified control impractical. Eros exists in a state of **managed instability**—never fully chaotic, but never fully ordered.
+Attempts to centralize rule have repeatedly failed. Eros is too dense, too layered, and too socially fragmented to be governed cleanly from above. Instead, it exists in a state of **managed instability**—never fully ordered, never fully chaotic, and held together by overlapping interests that all depend on the habitat continuing to function.
 
 ---
 
 # Infrastructure
 
-Infrastructure on Eros is functional, but rarely reliable. Core systems such as:
+Infrastructure on Eros is functional, but rarely elegant. Core systems such as air circulation, water recycling, power distribution, structural sealing, and data routing operate under constant strain. Most have been repaired, expanded, bypassed, or redundantly patched so many times that no single diagram fully matches reality anymore.
 
-- air circulation
-- water recycling
-- power distribution
+Small failures are common. Entire sections may temporarily lose pressure, power, lighting, or network connectivity until local crews improvise repairs. Yet despite its apparent fragility, Eros is remarkably resilient. Its systems endure not because they are well designed, but because generations of residents learned how to keep them alive.
 
-are under constant strain. Many have been repaired, expanded, or bypassed multiple times over decades. Redundancy exists, but not always by design—often as a result of overlapping systems and improvised solutions.
-
-Small failures are common. Entire sections may temporarily lose pressure, power, or connectivity before local crews restore functionality. Despite this, Eros is remarkably resilient. Its systems are not elegant, but they endure.
+This gives Eros a distinctive technological character: worn, improvised, and uneven—but stubbornly survivable.
 
 ---
+
 # Society
 
-Life on Eros is dense, practical, and highly adaptive. The population consists of:
+Life on Eros is dense, practical, and highly adaptive. Its population includes technicians, traders, transport workers, salvage crews, independent operators, grey-market brokers, and large numbers of people whose families have simply been there too long to imagine living anywhere else.
 
-- technicians
-- traders
-- transport workers
-- independent operators
-- and those who simply never left
+Social structures tend to form around location, profession, necessity, and access rather than around clear formal hierarchy. Communities are often local, technical, and situational. People trust sectors, crews, and repair networks more than institutions.
 
-Social structures are fluid. Communities form around location, profession, or necessity rather than formal hierarchy. Transhuman modifications are common, but often informal or improvised. Unlike the controlled environments of Mars or Ganymede, enhancements on Eros tend to be:
-
-- functional
-- affordable
-- sometimes unstable
-
-This creates a society that is diverse, resilient, and occasionally unpredictable.
+Transhuman modifications are common, but they are often informal, affordable, and highly functional rather than medically pristine. Compared with the controlled augmentation cultures of [[Mars]] or [[Ganymede]], enhancements on Eros tend to be rougher, cheaper, and occasionally unstable. That gives the habitat a social atmosphere that is inventive, resilient, and at times deeply unpredictable.
 
 ---
 
 # Role in the Belt
 
-Eros occupies a unique position within the Asteroid Belt. It is not the most powerful. It is not the most efficient. But it is one of the most **alive**.
-Where Ceres represents structure and diplomacy, and Psyche represents industry, Eros represents something else: A system that was never fully designed and yet continues to function.
+Eros occupies a unique position within the [[Asteroid Belt]]. It is not the most powerful settlement, and certainly not the most orderly. But it is one of the most **alive**.
+
+Where [[Ceres]] represents diplomacy and structured exchange, and [[16 Psyche]] represents industrial extraction, Eros represents something else: a habitat built out of necessity, compromise, salvage, and local knowledge. It is a place where systems fail, get patched, and keep running anyway.

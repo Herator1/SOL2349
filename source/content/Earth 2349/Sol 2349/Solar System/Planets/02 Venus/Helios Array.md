@@ -1,0 +1,13 @@
+**Population:** ~18 million
+
+Helios Array is one of the most important **energy generation and atmospheric processing cities** on [[Venus]] and the primary Venusian power base of **[[Helios]]**. Less politically visible than [[Aphrodite Prime]] and less industrially massive than [[Ishtar Gate]], it occupies a critical position in the planetary system by supplying power, processed gases, and chemical feedstocks to nearby industrial platforms and manufacturing corridors.
+
+The city is built around atmospheric conversion infrastructure, power-routing systems, solar capture architecture, and large-scale processing facilities that transform Venus’s chemically rich atmosphere into usable industrial inputs. Much of the surrounding urban fabric exists to support these functions: maintenance sectors, technical housing, control spines, storage platforms, and transit links arranged around continuous energy and process management.
+
+Unlike many other major Venusian settlements, Helios Array is shaped very directly by a single corporate logic. **[[Helios]]** does not merely influence the city—it defines it. The corporation controls the core energy platforms, atmospheric processing systems, transmission architecture, and much of the administrative and technical oversight that keeps the city operational. As a result, Helios Array feels more coherent, more disciplined, and more openly corporate than most other Venusian urban environments.
+
+It also has a reputation for being cleaner, more controlled, and more technically rigid than the larger cloud metropolises. The atmosphere here is less overtly political and less visibly criminal than in the great capitals and port hubs, but that does not make it neutral. Its importance to Venusian energy-intensive industry makes it strategically sensitive, heavily monitored, and deeply bound to the interests of the corporation that owns its core functions.
+
+Socially, Helios Array is dominated by engineers, systems operators, process specialists, infrastructure crews, and technical administrators. Life here is shaped by maintenance cycles, conversion efficiency, network stability, and the constant demand to keep atmospheric processing running without interruption. It is not a glamorous city, but it is one of the places that allows the rest of Venus to function.
+
+If [[Aphrodite Prime]] governs, [[Ishtar Gate]] builds, and [[Eos Haven]] moves, then Helios Array powers the system that makes all three possible.

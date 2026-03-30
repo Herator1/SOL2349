@@ -14,41 +14,46 @@
 | Major Industries                 | Helium-3 extraction, research, outer system logistics |
 | Political Status                 | Jovian League                                         |
 | Strategic Role                   | Gateway to the outer solar system                     |
+
 # Overview
 
-Jupiter itself is not inhabited. Its immense gravity, crushing atmospheric pressure, and intense radiation environment make permanent habitation impossible with current technology. Instead, human presence in the Jovian system is concentrated on its **many moons**, which collectively host one of the most developed regions of the outer solar system.
+Jupiter itself is not inhabited. Its immense gravity, crushing atmospheric pressure, and extreme radiation environment make permanent habitation impossible with current technology. Human presence in the Jovian system is therefore concentrated on its **moons, orbital habitats, and specialized industrial infrastructure**, which together form one of the most important regions of the outer solar system.
 
-Jupiter’s massive gravitational field dominates a vast region of space, capturing hundreds of natural satellites and shaping the structure of the outer solar system. Its magnetosphere is the largest planetary magnetic field in the system, extending millions of kilometers into space and producing extreme radiation belts that make operations near the planet itself highly hazardous.
+Jupiter’s enormous mass dominates a vast gravitational sphere of influence and shapes movement, logistics, and settlement patterns throughout the surrounding system. Its magnetosphere is the largest planetary magnetic field in the Solar System, extending millions of kilometers into space and generating radiation belts so intense that operations near the inner orbital zones remain highly dangerous.
 
-Despite these dangers, Jupiter remains strategically important. The system serves as a major hub for **outer system exploration, resource extraction, and scientific research**. Several orbital stations operate within safer radiation zones, while the larger moons provide locations for permanent settlements and industrial infrastructure.
+Despite these hazards, the Jovian system is strategically indispensable. It serves as a major center for **outer-system exploration, scientific research, resource extraction, and long-range logistics**. Spacecraft heading toward Saturn, Uranus, Neptune, the [[Kuiper Belt]], or more distant destinations often refuel, resupply, or reconfigure within Jovian-controlled infrastructure.
 
-The Jovian system also plays a key role in deep-space logistics. Spacecraft traveling toward Saturn, Uranus, Neptune, or the Kuiper Belt often refuel or resupply at Jovian stations. Helium-3 extraction from the upper atmosphere of Jupiter is conducted by specialized automated platforms, though this activity remains dangerous and technically challenging.
+Jupiter also supports specialized **helium-3 extraction** in its upper atmosphere through heavily automated industrial platforms, though such operations remain technically difficult, hazardous, and expensive. In practical terms, however, the true significance of Jupiter lies not in the planet itself, but in the network of settlements and orbital systems built around its major moons.
 
-Most human settlements in the Jovian system are located on the four large **Galilean moons**, each of which has developed its own distinct environment, economy, and culture.
+Most permanent human habitation is located on the four large **Galilean moons**, each of which has developed a distinct role within the wider Jovian system.
 
+---
 
 # Major Jovian Moons
 
 ### [[Europa]]
 
-A world-spanning ocean hidden beneath a thick ice crust. Europa hosts several research bases studying its subsurface ocean and the microbial life discovered within it.
+A world-spanning ocean lies hidden beneath Europa’s thick ice crust. The moon hosts research bases, subsurface access facilities, and controlled scientific settlements focused on oceanography, extremophile biology, and the confirmed extraterrestrial microbial life found in its subsurface sea.
 
-### Ganymede
+### [[Ganymede]]
 
-The largest moon in the solar system and the most heavily populated body in the Jovian system. Its natural magnetic field and relatively stable environment make it a major hub for Jovian settlements.
+The largest moon in the Solar System and the most populous body in the Jovian system. Its natural magnetic field, comparatively stable environment, and large-scale settlement infrastructure make it the political, demographic, and logistical center of Jovian civilization.
 
-### Callisto
+### [[Callisto]]
 
-A distant and relatively low-radiation moon used for large orbital shipyards, logistics hubs, and outer system staging areas.
+A distant, heavily developed outer moon used for large shipyards, logistics hubs, storage complexes, and staging infrastructure. Its relative distance from Jupiter’s worst radiation belts makes it one of the safest large-scale industrial sites in the outer Jovian system.
 
-### Io
+### [[Io]]
 
-The most volcanically active body in the solar system. Permanent habitation is limited, but Io hosts several automated mining and research facilities studying extreme geological processes.
+The most volcanically active body in the Solar System. Permanent habitation is limited, but Io hosts automated mining systems, hazardous-environment research sites, and industrial operations focused on extreme geology and high-risk extraction.
 
 ---
 
-# Role in the Solar System
+# Political and Strategic Role
 
-The Jovian system represents the **outer frontier of major human civilization**. It lies far from Earth’s political influence but remains technologically advanced and economically important. Its moons provide critical staging points for exploration deeper into the solar system and beyond.
+The Jovian system is one of the major power centers beyond the inner solar system. Organized under the **Jovian League**, it combines scientific prestige, industrial capacity, and strategic depth at a scale unmatched by most other outer-system regions.
 
-Many scientists consider the Jovian moons among the most promising locations for the long-term expansion of human civilization outside the inner solar system.
+Its moons and orbital facilities provide essential staging points for exploration and commerce farther outward, while also serving as a buffer between the inner-system powers and the deep outer frontier. Control over Jovian logistics, research, and fuel infrastructure has consequences far beyond the system itself.
+
+Jupiter is therefore not important because people live on the planet.  
+It is important because the system built around it anchors humanity’s presence in the outer solar system.

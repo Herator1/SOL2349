@@ -1,13 +1,9 @@
-![[Ganymede Assembly Station.png|450]]
-
-## Ganymede Assembly Station
-
-|Parameter|Value|
-|---|---|
-|Type|Diplomatic and administrative orbital hub|
-|Location|Ganymede Orbit|
-|Primary Role|Jovian League governance, diplomacy, intermoon coordination|
-|Controlled By|Jovian League|
+| Parameter     | Value                                                       |
+| ------------- | ----------------------------------------------------------- |
+| Type          | Diplomatic and administrative orbital hub                   |
+| Location      | Ganymede Orbit                                              |
+| Primary Role  | Jovian League governance, diplomacy, intermoon coordination |
+| Controlled By | Jovian League                                               |
 
 The **Ganymede Assembly Station** is the principal orbital institution of the **Jovian League** and the seat of its **Diplomatic Assembly**. Located above [[Ganymede]], it functions as the political and administrative heart of the League, hosting delegates, committees, technical councils, and coordination bodies representing the major Jovian and Saturnian member worlds.
 

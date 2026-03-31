@@ -34,8 +34,7 @@ The location of the Nexus is central to its identity. **Mercury solar orbit** of
   
 The station’s environment is harsh, but that harshness is offset by the fact that energy is abundant and strategically routed. For Nyx, this is the ideal trade-off. Computation at this level requires more than hardware—it requires a surrounding system able to feed, cool, protect, and connect that hardware continuously.  
   
-Mercury powers furnaces and industrial grids.  
-The Nyx Relay Nexus turns part of that same energy abundance into information dominance.  
+Mercury powers furnaces and industrial grids. The Nyx Relay Nexus turns part of that same energy abundance into information dominance.  
   
 ---  
   

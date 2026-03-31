@@ -96,5 +96,4 @@ Aurora Finance Hub is one of the major places where the Solar Economy becomes se
 
 If Venus is the industrial engine of the inner system, then Aurora is one of the places where that engine is continuously mortgaged, insured, and kept investable.
 
-It is not where things are made.  
-It is where the right to keep making them is priced.
+It is not where things are made. It is where the right to keep making them is priced.

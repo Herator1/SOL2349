@@ -20,10 +20,10 @@
 
 
 ---
-1. Venusian Cities  
-2. Earth Megacities  
-3. Underwater Cities  
-4. Mars Settlements / Named Urban Nodes  
-5. Luna Key Locations  
-6. Titan Settlements  
-7. Belt District Depth (Ceres / Eros / Vesta)
+
+1. Earth Megacities  
+2. Underwater Cities  
+3. Mars Settlements / Named Urban Nodes  
+4. Luna Key Locations  
+5. Titan Settlements  
+6. Belt District Depth (Ceres / Eros / Vesta)

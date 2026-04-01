@@ -1,0 +1,11 @@
+## 2060–2150 — [[The Reshaping of Earth]]
+
+In the long aftermath of **[[The AI War]]** and **[[Postwar Reconstruction]]**, Earth did not simply recover. It was reshaped. Population, capital, infrastructure, and political attention shifted steadily away from the most devastated northern regions and toward the more viable south, resilient coastal belts, and recoverable equatorial corridors. This was the era in which the foundations of the later world seen on **[[Earth]]** were laid.
+
+The old northern core of industrial civilization never fully regained its former position. Some regions were stabilized and partially rebuilt, but many others remained too damaged, too contaminated, too expensive, or too politically difficult to restore at scale. Over time, emergency withdrawal hardened into long-term policy. This produced the early form of what would later become the **[[Rewilded North]]**: a vast and uneven geography of low-density settlement, exclusion zones, restored ecosystems, research regions, abandoned infrastructure, and buried historical scars.
+
+At the same time, the more recoverable south became the demographic and economic center of the postwar age. Existing urban regions expanded, new corridors intensified, and the first structural foundations of the great southern megacity systems were laid. The world of **[[Earth Megacities]]** did not appear all at once, but this was the period in which its population flows, logistical concentration, and political weight first took lasting shape.
+
+This era also transformed Earth’s relationship to water and coastlines. As climate pressure, sea-level change, coastal adaptation, and engineering capacity converged, humanity increasingly expanded into semi-submerged, offshore, and eventually subsea environments. What began as protective and logistical adaptation gradually developed into the first generation of specialized marine settlements, laying the groundwork for the later **[[Underwater Cities]]**.
+
+The reshaping of Earth was therefore not a single process but several unfolding at once: southern concentration, northern withdrawal, coastal adaptation, and the rise of new urban and infrastructural forms. By the end of this era, the old planetary order had not been restored. It had been replaced by the geographic logic that still defines Earth in **2349**.

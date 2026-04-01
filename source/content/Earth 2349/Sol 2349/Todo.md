@@ -21,9 +21,25 @@
 
 ---
 
-1. Earth Megacities  
-2. Underwater Cities  
-3. Mars Settlements / Named Urban Nodes  
-4. Luna Key Locations  
-5. Titan Settlements  
-6. Belt District Depth (Ceres / Eros / Vesta)
+**Phase 1**
+
+- [[Important Political Factions]]
+- [[Worker Unions]]
+- [[Money in Space]]
+- [[Food]]
+
+**Phase 2**
+
+- [[NGOs]]
+- [[The Spacer Code]]
+- [[Advanced Medicine]]
+- [[Cults and Religions]]
+
+**Phase 3**
+
+- Ausbau von spezifischen Unterfraktionen je Region
+- Earthside factions
+- Mars institutions
+- Venus labor/syndicate/corporate intermediaries
+- Belt polities
+- Jovian League internal politics

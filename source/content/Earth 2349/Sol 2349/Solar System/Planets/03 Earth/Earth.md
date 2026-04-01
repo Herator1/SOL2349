@@ -1,17 +1,17 @@
 ![[Pasted image 20260325093207.png|450]]
 
-|Parameter|Value|
-|---|---|
-|Population|~11–13 billion|
-|Surface Gravity|1.00 g|
-|Average Temperature|~15 °C (regional extremes increasing)|
-|Atmosphere|Breathable (stabilized post-climate crisis)|
-|Major Industries|Services, governance, culture, legacy industry|
-|Key Role|Political and demographic center of humanity|
-|Major Settlements|Global megacities (primarily southern hemisphere)|
-|Special Environments|Underwater cities, rewilded zones|
-|Political Status|Fragmented global governance + megacorporate influence|
-|Strategic Role|Core population base of the solar system|
+| Parameter            | Value                                                  |
+| -------------------- | ------------------------------------------------------ |
+| Population           | ~11–13 billion                                         |
+| Surface Gravity      | 1.00 g                                                 |
+| Average Temperature  | ~15 °C (regional extremes increasing)                  |
+| Atmosphere           | Breathable (stabilized post-climate crisis)            |
+| Major Industries     | Services, governance, culture, legacy industry         |
+| Key Role             | Political and demographic center of humanity           |
+| Major Settlements    | Global megacities (primarily southern hemisphere)      |
+| Special Environments | Underwater cities, rewilded zones                      |
+| Political Status     | Fragmented global governance + megacorporate influence |
+| Strategic Role       | Core population base of the solar system               |
 
 ---
 
@@ -27,33 +27,44 @@ Earth is still the symbolic center of humanity. But in practical terms, it is no
 
 ---
 
+# Earth and Near-Earth Space
+
+Earth cannot be understood in isolation from the infrastructure above it. In 2349, the home world is tightly bound to a near-Earth sphere of orbital stations, transfer hubs, corporate headquarters, and lunar industry that extends its practical geography far beyond the atmosphere.
+
+Above Earth orbit sit some of the most important administrative and corporate nodes in human civilization, including **[[Helios Prime]]**, while the Earth–Moon corridor is organized through strategic transfer infrastructure such as **[[Gateway Meridian]]** and the heavy-construction staging environment of the **[[Copernicus Lagrange Complex]]**. Just beyond, **[[Luna]]** functions as Earth’s closest industrial and logistical extension, and sites such as the **[[Tycho Industrial Complex]]** tie the home world directly into large-scale orbital and interplanetary movement.
+
+For many people, Earth is still home.  
+For many careers, however, the next step begins in cis-lunar space.
+
+---
+
 # [[Earth Megacities]]
 
-Modern Earth is defined by a handful of immense megacities, many of them concentrated in the southern hemisphere or along climate-resilient coastal corridors. These urban giants dominate population, governance, finance, trade, and cultural production. Most function less like conventional cities and more like **semi-autonomous civilizational zones** with their own infrastructure layers, social hierarchies, and regional power systems.
+Modern Earth is defined by a handful of immense megacities, many of them concentrated in the southern hemisphere or along climate-resilient coastal corridors. These urban giants dominate population, governance, finance, trade, culture, and access to orbital civilization. Most function less like conventional cities and more like **semi-autonomous civilizational zones** with their own infrastructure layers, social hierarchies, and regional power systems.
 
 Among the most influential are:
 
-### [[Nova São Paulo]]
+### [[Delhi Prime]]
 
-A vast South American arcology complex and the **financial engine of Earth**, closely tied to the power of the **Solaris Financial Group**. It is defined by vertical inequality, corporate wealth concentration, financial markets, and dense lower-layer dependency systems.
+The largest continuous urban zone on Earth and one of the biggest population concentrations in the Solar System. It is defined by immense density, social continuity, managed environmental systems, and constrained upward mobility. It is also a major center of high-tech manufacturing and the historical birthplace of **[[Shukra]]**.
 
 ### [[Greater Lagos]]
 
-A sprawling West African coastal megacity built on resilience, improvisation, and constant adaptation. It is one of Earth’s most important **repair, modification, and retrofit hubs**, where formal infrastructure and informal systems are deeply intertwined.
+A vast hybrid water-land megacity of adaptation, repair culture, trade, and constant reinvention. Greater Lagos is one of Earth’s most alive and resilient urban regions, deeply tied to orbital labor recruitment, coastal logistics, and the agricultural interior.
 
 ### [[Mombasa Corridor]]
 
-A decentralized East African–Arabian trade zone where maritime traffic, land routes, and orbital logistics converge. It is known for flexible access, fragmented governance, strong criminal penetration, and a major **[[Archeron]]** presence tied to security, recovery, and rapid-response services.
+A decentralized East African–Arabian trade civilization where maritime traffic, land routes, and orbital logistics converge. It is known for flexible access, fragmented governance, cultural vitality, strong commercial networks, and the Earthside headquarters presence of **[[Kaiten]]**, with only a limited **[[Archeron]]** footprint in selected security-sensitive districts.
 
-### [[Delhi Prime]]
+### [[Nova São Paulo]]
 
-The largest continuous urban zone on Earth and one of the biggest population concentrations in the Solar System. It is defined by immense density, social continuity, layered infrastructure, and a comparatively robust baseline welfare structure that preserves stability at enormous scale.
+A vast South American coastal financial civilization and the **financial engine of Earth**, closely tied to the power of **[[Solaris]]**. It is defined by extreme vertical inequality, upper financial districts, a dense undercity, and the clearest urban expression of capital power on the planet.
 
 ### [[New Sydney Arc]]
 
-A highly advanced Australasian megacity and one of the most stable urban regions on Earth. It serves as a major hub for orbital traffic, high-end manufacturing, and tightly integrated corporate infrastructure, but is also known for pervasive surveillance and low personal anonymity.
+The smallest of the great megacities, but the wealthiest per capita and one of the least free. Clean, stable, highly advanced, and deeply surveilled, it combines extreme prosperity with exclusionary politics, conservative social order, and quiet authoritarian control.
 
-Together, these and other megacities define the practical reality of life on Earth in 2349: crowded, stratified, hyper-connected, and politically fragmented.
+Together, these and other megacities define the practical reality of life on Earth in 2349: crowded, stratified, hyper-connected, and politically fragmented. Entire campaigns can unfold within a single one of them.
 
 ---
 
@@ -65,31 +76,27 @@ As conditions gradually stabilized, many of these regions were not fully repopul
 
 In some places, the old world remains visible beneath vegetation and regrowth. In others, human presence has become minimal enough that entire landscapes feel almost post-human.
 
+The Rewilded North is one of Earth’s great alternative frontiers: a region of ruins, exclusion zones, ecological recovery, and forbidden AI-war relic sites.
 
 ---
 
 # [[Underwater Cities]]
 
-As sea levels rose and coastal pressures intensified, humanity expanded not only across the land but also into the oceans. This led to the development of **semi-submerged and fully underwater cities**, some of the most unusual habitats on Earth.
+As sea levels rose and coastal pressures intensified, humanity expanded not only across the land but also into the oceans. This led to the development of **semi-submerged and underwater habitats**, some of the most unusual environments on Earth.
 
-These environments range from shallow-water arcologies to deep-sea research and habitation complexes. Many began as climate adaptation projects or specialist infrastructure sites, but over time they developed into enduring settlement forms with their own cultures and economic roles.
+These are not major population centers on the scale of the megacities. Instead, they serve as specialized infrastructures: research sites, offshore industrial systems, marine food-production zones, secure facilities, and deep-ocean habitats that in some ways resemble space stations more than ordinary cities.
 
-Today, underwater cities serve as:
-- research hubs
-- secure infrastructure zones
-- specialized industrial sites
-- discreet locations for sensitive operations
-
-They remain niche compared to the megacities, but represent one of the most distinctive settlement forms on Earth.
+They remain niche compared with surface civilization, but they offer one of Earth’s most distinctive secondary frontiers.
 
 ---
+
 # Economy
 
 Despite its population and symbolic weight, Earth is **not the undisputed economic leader of the Solar System**. Compared with [[Mars]], [[Venus]], [[Mercury]], or parts of the [[Asteroid Belt]], its infrastructure is often older, more uneven, and less optimized for cutting-edge industrial expansion.
 
-Earth remains enormously important in services, governance, administration, finance, education, media, legacy manufacturing, and population-scale labor systems. But many of the most advanced industrial sectors, medical systems, cybernetic technologies, and frontier opportunities now lie off-world.
+Earth remains enormously important in services, governance, administration, finance, education, media, legacy manufacturing, and population-scale labor systems. It also remains tightly coupled to the near-Earth and lunar economy, which gives it continuing influence even where off-world industry has overtaken it in dynamism.
 
-This imbalance has helped drive continuous **migration into space**. For many people, Earth is still home. But for others—especially technical specialists, ambitious workers, and those seeking social mobility—the future lies elsewhere.
+This imbalance has helped drive continuous **migration into space**. For many people, Earth is still home. But for others—especially technical specialists, ambitious workers, and those seeking social mobility—the future lies elsewhere, often beginning with [[Luna]] or the cis-lunar corridor.
 
 ---
 

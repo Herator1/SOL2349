@@ -1,4 +1,4 @@
-
+![[ChatGPT Image 1. Apr. 2026, 09_47_03.png|450]]
 
 **Population:** ~700 million–1.1 billion
 

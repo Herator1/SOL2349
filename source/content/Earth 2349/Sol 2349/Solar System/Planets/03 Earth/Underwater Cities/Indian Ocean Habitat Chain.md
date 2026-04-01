@@ -1,0 +1,12 @@
+The **Indian Ocean Habitat Chain** is the largest and most economically integrated underwater habitat network on [[Earth]]. It is not a single city, but a long-linked system of **coastal hybrid arcologies, subsea industrial sites, marine food-production zones, extraction platforms, logistics habitats, and transport nodes** stretching across key parts of the Indian Ocean basin and connecting major maritime corridors all the way toward Southeast Asia and the approaches to the South China Sea.
+
+Its importance lies in three things above all: **scale, food production, and connective infrastructure**.
+
+More than any other underwater region, the Habitat Chain is tied directly to the mass-civilizational logic of [[Delhi Prime]]. It supports the food, materials, transport, and technical systems of one of the largest human population zones on Earth. Underwater agriculture is especially important here, with extensive marine cultivation, protein production, algae systems, and controlled aquatic food infrastructure operating at a scale unmatched in most other subsea environments. Alongside this runs seabed extraction, mineral recovery, cable systems, offshore industry, and high-volume maritime logistics.
+
+This makes the Chain the closest thing Earth has to a true **large-scale subsea economic belt**. Even so, it is still not a world of giant underwater population centers. Most people connected to it do not live permanently in deep subsea habitats. Instead, they move through a system of coastal-linked stations, offshore work environments, shelf-depth settlements, and rotating industrial or technical postings.
+
+The Habitat Chain also plays a major transport role. It helps connect the Indian Ocean trade world to wider maritime and orbital systems, forming part of a long infrastructural arc running eastward toward Southeast Asian waters and, more loosely, toward the high-end and far more isolated research environments of the **[[Pacific Research Trenches]]**.
+
+If the Atlantic systems are coastal-industrial and the Pacific trenches are abyssal frontier science, then the Indian Ocean Habitat Chain is something else:  
+the most **systemic and large-scale underwater working network on Earth**.

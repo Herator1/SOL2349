@@ -5,7 +5,7 @@
 | Full Name           | NovaChem Industries                                                                                          |
 | Abbreviation        | NCI                                                                                                          |
 | Founded             | ~2185                                                                                                        |
-| Headquarters        | [[Earth 2349/Sol 2349/Solar System/Tycho Industrial Complex]], [[Luna]]                                                                       |
+| Headquarters        | [[Earth 2349/Sol 2349/Solar System/Tycho Industrial Complex]], [[Luna]]                                      |
 | Industry            | Chemical systems, industrial compounds, synthetic materials, habitat life-support chemistry, pharmaceuticals |
 | Structure           | Industrial conglomerate                                                                                      |
 | Governing Body      | Corporate Directorate                                                                                        |

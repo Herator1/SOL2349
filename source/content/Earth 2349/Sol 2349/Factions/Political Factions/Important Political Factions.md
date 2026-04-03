@@ -6,7 +6,7 @@ Together, these factions form much of the political middle layer of human civili
 
 ---
 
-## 1. Planetary and Megacity Power Centers
+## 1. [[Planetary and Megacity Power Centers]]
 
 These are the major political authorities rooted in planets, megacities, or dominant urban regions. Some function as conventional governments, others more as administrative power centers, regulatory blocs, or governing shells wrapped around much larger economic systems.
 
@@ -14,7 +14,7 @@ Typical examples include megacity governance blocs on **[[Earth]]**, formal plan
 
 ---
 
-## 2. Habitat and Station Federations
+## 2. [[Habitat and Station Federations]]
 
 Not all important political actors are tied to planets. Many emerge from constellations of stations, habitats, docks, and orbital settlements that have learned to coordinate for survival, bargaining power, maintenance, or mutual defense.
 
@@ -22,7 +22,7 @@ These include cislunar habitat leagues, Belt station federations, and independen
 
 ---
 
-## 3. Trade, Route, and Infrastructure Authorities
+## 3. [[Transit and Corridor Authorities]]
 
 In a civilization built on slow movement and fragile logistics, control over routes can become a form of political power. Some factions derive their importance not from large populations or strong cultural identity, but from their ability to regulate access, coordinate traffic, arbitrate transport disputes, and stabilize critical corridors.
 
@@ -30,7 +30,7 @@ This category includes corridor councils, docking compacts, freight arbitration 
 
 ---
 
-## 4. Regional Blocs and Political Alliances
+## 4. [[Regional Blocs and Political Alliances]]
 
 Some parts of the Solar System have developed larger regional formations able to coordinate diplomacy, infrastructure, security, and long-range political interests across multiple worlds or settlement clusters. These blocs are usually looser than traditional states, but more durable than temporary coalitions.
 
@@ -38,7 +38,7 @@ The clearest example is the **[[Jovian League]]**, but similar patterns may also
 
 ---
 
-## 5. Civic and Counter-Corporate Movements
+## 5. [[Civic and Counter-Corporate Movements]]
 
 Not all important political factions are governments or regional alliances. Some exist as civic coalitions, public-interest blocs, anti-corporate networks, labor-rights campaigns, infrastructure-rights movements, or loosely aligned social forces pushing back against the growing power of corporate and technocratic systems.
 

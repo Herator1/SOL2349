@@ -1,86 +1,202 @@
 ## Designed Biology
 
-Genetic modifications in SOL 2349 do not add to the human body.  
-They redefine it.
+In [[SOL 2349]], genetic modifications do not add external systems to the body. They alter the body itself.
 
-Unlike cybernetics, genemods are not devices and do not interface with external systems. They operate entirely within the body’s existing biological framework, altering how tissues develop, how systems regulate themselves, and how the organism responds to its environment. Their effects are subtle in isolation, but profound over time. A modified individual does not control an ability. They embody it.
+Unlike cybernetics, genemods are not devices, implants, or attached capabilities. They work entirely through biology: gene expression, epigenetic regulation, metabolic tuning, developmental bias, and long-term physiological control. A modified person does not activate a feature. Their body simply functions differently.
 
-These modifications are typically introduced at the cellular level, using tailored gene sequences, epigenetic regulation, and controlled expression systems that shape the body during growth or over extended treatment periods. The result is not an attachment or enhancement layered on top of the body, but a version of the body that has been optimized for specific conditions.
+That is what makes genemods so important in a spacefaring civilization. They do not create a second system layered onto the human body. They redefine the baseline the body operates from.
 
----
-
-## Adaptation Rather Than Augmentation
-
-Genemods are most commonly found in populations that operate under constant environmental or occupational stress. Long-term exposure to low gravity, radiation, chemical environments, or isolation has driven the need for bodies that can endure conditions that were never part of human evolution.
-
-Rather than providing sudden increases in capability, genetic modifications shift the baseline of what the body considers normal. A spacer adapted to low gravity does not feel enhanced in orbit. They feel stable. It is only when placed back into a high-gravity environment that the cost of that adaptation becomes apparent.
-
-This principle defines most genemods. They do not create universally superior humans. They create specialized ones.
+See also: [[The Age of Adaptation]], [[Human Adaptation Ethics Council]], [[Shukra]]
 
 ---
 
-## Passive Systems and Continuous Effects
+## Adaptation Rather Than Enhancement
 
-Because genemods operate through biological processes, they are always active. There is no activation, no interface, and no separation between the modification and the individual.
+Most genemods in [[SOL 2349]] exist for one reason: long-term life in space places human biology under constant stress.
 
-Changes in metabolism, perception, healing, or cognition occur continuously, often without conscious awareness. A modified liver processes toxins more efficiently at all times. An altered visual system adapts automatically to low-light conditions. Enhanced memory encoding does not require effort—it simply happens.
+Low gravity, radiation exposure, closed habitats, industrial toxins, recycled air, artificial light cycles, psychological isolation, and off-world medical realities all create pressures that human evolution never prepared for. Genetic modification emerged as one answer to that problem.
 
-This constant activity makes genemods inherently stable, but also limits their intensity. Biological systems must remain within viable ranges. Unlike cybernetics, they cannot be overclocked or pushed beyond their functional limits without risking systemic failure.
+This is why the setting follows a simple principle:
+
+**Adaptation rather than transcendence.**
+
+Genemods usually do not create universally “better” humans. They create humans better suited to specific environments and long-term conditions.
+
+A low-gravity adapted spacer may perform perfectly in orbital habitats, but feel strained, slow, or physically disadvantaged in sustained high gravity. A body optimized for radiation tolerance or industrial toxin handling may carry different medical or metabolic weaknesses elsewhere.
+
+Genemods are not about perfection. They are about fit.
+
+---
+
+## Passive and Always On
+
+Unlike cybernetics, genemods are always active.
+
+There is no trigger, interface, or activation state. A modified metabolism, altered recovery cycle, improved toxin processing, or low-light visual adaptation operates continuously and usually without conscious awareness.
+
+This gives genemods a very different feel from implants:
+
+- they are quieter  
+- less dramatic in moment-to-moment play  
+- usually more stable  
+- but often deeper in long-term consequence  
+
+A person with genemods does not feel like they are “using” them. They simply experience their own biology as normal.
+
+That also means genemods do not create **Load** in the same way implants do. They do not spike into action. They reshape the body's default operating conditions.
+
+---
+
+## Adaptation Profiles
+
+Most people with genemods are not carrying a random collection of upgrades. They have an adaptation profile.
+
+These profiles are built around coherent environmental or occupational needs, such as:
+
+- low-gravity life  
+- radiation tolerance  
+- closed-habitat immune resilience  
+- toxin handling  
+- reduced sleep or shifted recovery cycles  
+- sensory optimization for dim, enclosed, or artificial environments  
+- long-term industrial exposure resistance  
+
+This is one of the setting’s most important ideas: genemods are strongest when they form a stable package.
+
+A body is an interconnected system. Changing one area affects many others. The goal is usually not to maximize one trait in isolation, but to create a viable biological balance for a specific life context.
+
+That is why professional and legal systems in 2349 usually evaluate genemods as profiles rather than as isolated features.
 
 ---
 
 ## Trade-offs and Biological Cost
 
-Every genetic modification introduces trade-offs.
+Every genemod comes with trade-offs.
 
-Biological systems are interconnected, and optimizing one function inevitably affects others. Increased toxin resistance may alter how the body processes medication. Enhanced cognitive performance can lead to increased mental strain under failure conditions. Reduced sleep requirements shift recovery cycles and increase vulnerability when limits are exceeded.
+These are not just unfortunate side effects. They are built into the logic of biological optimization. Improving one system changes the balance of others.
 
-These trade-offs are not side effects in the traditional sense. They are consequences of rebalancing a complex system.
+Examples might include:
 
-In many cases, individuals are not fully aware of these costs until they operate outside the environment their bodies were optimized for. What functions perfectly in one context may become a liability in another.
+- improved toxin resistance altering response to medication  
+- low-gravity adaptation reducing high-gravity robustness  
+- reduced sleep requirements changing cognitive recovery patterns  
+- altered stress chemistry increasing failure severity under overload or trauma  
+- enhanced sensory processing increasing vulnerability to overstimulation in the wrong environment  
 
----
+In many cases, the cost of a genemod is not obvious while the person remains in the environment they were designed for. The problem appears when they leave it.
 
-## Stability and Limits
-
-Genemods are generally more stable than cybernetic systems, but they are not without limits.
-
-The human genome can only be altered within certain boundaries before stability is compromised. Excessive or poorly integrated modifications can lead to regulatory conflicts between biological systems, resulting in chronic conditions, reduced resilience, or unpredictable responses to stress.
-
-For this reason, most individuals carry only a small number of genetic modifications. These are carefully selected to complement each other, forming a coherent adaptation profile rather than a collection of independent enhancements.
-
-Unlike cybernetics, genemods cannot be easily adjusted once established. Their effects are persistent, and reversal is difficult, slow, and often incomplete.
+That is why genemods in SOL 2349 are not framed as clean enhancement. They are a negotiation with biology.
 
 ---
 
-## Reversibility and Permanence
+## Stability, Limits, and Systemic Risk
 
-While it is technically possible to reverse certain genetic modifications, the process is complex and rarely precise.
+Genemods are generally more stable than cybernetics, but they are not limitless. The human body can only absorb so much redesign before systemic stability begins to suffer. Excessive or poorly integrated modifications can create conflicts between regulatory systems: hormonal imbalance, immune instability, chronic fatigue patterns, developmental complications, reduced resilience, or unpredictable responses to stress.
 
-Changes introduced at the genetic and epigenetic level become integrated into the body’s regulatory systems over time. Undoing them requires not only removing or altering genetic sequences, but also retraining the body’s internal processes to function under a different configuration.
+This is one reason why legal genemods are usually conservative by design.
 
-In practice, this means that most genemods are treated as permanent. Even when partially reversed, traces of the modification may remain, influencing the body in subtle ways.
+Most people have only a limited number of meaningful modifications, chosen to work together rather than against each other. Heavily altered bodies do exist, but they are more likely to be experimental, military, illegal, or tied to highly specialized environments and institutions. That boundary is one of the major concerns of the [[Human Adaptation Ethics Council]].
 
-As with cybernetics, removal is not simply a return to a previous state. It is a transition into a new one.
+---
+
+## Permanence and Reversal
+
+Genemods are difficult to reverse.
+
+Unlike an implant, a genetic modification cannot simply be removed as hardware. Once genetic and epigenetic changes have become integrated into tissue development, metabolic regulation, and long-term bodily function, reversal becomes slow, imprecise, and often incomplete.
+
+Even when technically possible, reversal may involve:
+
+- prolonged treatment  
+- hormonal or metabolic instability  
+- incomplete restoration of prior function  
+- residual traits that persist after intervention  
+- long-term rehabilitation  
+
+In practice, most genemods are treated as persistent life-path decisions, not temporary upgrades.
+
+That is one reason why coercive adaptation, inherited modification, and developmental intervention remain so politically sensitive in 2349.
+
+See also: [[Human Adaptation Ethics Council]], [[Interplanetary Labor Assembly]]
 
 ---
 
 ## Scientific Foundations
 
-The development of genetic modifications builds upon centuries of advances in genetic engineering and systems biology.
+Modern genemods emerged from a long convergence of genetics, epigenetics, systems biology, developmental medicine, and synthetic biology.
 
-Early gene-editing technologies demonstrated that individual traits could be modified with increasing precision. Later developments introduced epigenetic control mechanisms, allowing genes to be activated, suppressed, or modulated in response to environmental conditions. Advances in synthetic biology enabled the design of entirely new regulatory pathways, integrating artificial control systems into natural biology.
+Earlier eras learned how to edit isolated genes. Later eras learned how to regulate entire expression networks, environmental responses, and biological feedback systems. By the 24th century, modification was no longer just about changing traits one by one. It became possible to shape coordinated physiological profiles.
 
-By the 24th century, these fields had matured into a discipline capable of shaping not just isolated traits, but coordinated biological systems. Modern genemods are the result of this systems-level approach, where the body is treated as an integrated network rather than a collection of independent functions.
+That is what makes genemods in 2349 believable and powerful: they are systems-level biology.
+
+They do not just alter one characteristic. They influence how the body regulates itself over time.
+
+This also explains why genemods are often harder to predict socially than cybernetics. A visible implant is easy to classify. A modified biology may be subtle, invisible, and far more deeply integrated.
 
 ---
 
-## Cultural Context
+## Regulation and Legitimacy
 
-Genetic modifications are widely accepted, but often less visible than cybernetics.
+Because genemods alter the human body at a foundational level, they are politically and ethically contested even where they are common.
 
-Because they do not alter outward appearance in obvious ways, their presence is frequently inferred rather than observed. In many professions, especially those involving long-term exposure to extreme environments, genemods are considered standard preparation rather than augmentation.
+The [[Human Adaptation Ethics Council]] is the most important recognized standard-setting body in this space. It does not control the entire Solar System, but it strongly influences what is considered legal, restricted, experimental, or prohibited.
 
-At the same time, they raise their own set of questions. While cybernetics blur the line between human and machine, genetic modifications challenge the definition of what is considered natural. A modified individual may be indistinguishable from an unmodified one, yet function under entirely different biological assumptions.
+Key concerns include:
 
-In this sense, genemods represent a quieter transformation. They do not change what a human looks like. They change what a human is capable of being.
+- long-term stability  
+- heritability  
+- developmental intervention  
+- medical coercion  
+- workplace pressure  
+- social recognizability  
+- whether a modification remains within accepted human norms  
+
+The central legal and ethical issue is usually not whether modification should exist at all. In most advanced regions, that debate is already over.
+
+The real conflict is about legitimacy:
+
+Who decides which changes are necessary adaptation, acceptable specialization, exploitative redesign, or dangerous human divergence?
+
+That conflict is especially intense where [[Shukra]] and other biotech powers push the boundaries of what adaptation can mean.
+
+---
+
+## Regional Variation
+
+Genemod culture differs significantly across the Solar System.
+
+### Earth
+Extremely diverse. Elite medicine, experimental clinics, inherited wealth advantages, public-health adaptation programs, and black-market gene work all exist side by side.
+
+### [[Luna]] / Cislunar Space
+More practical and occupational. Genemods are usually conservative, medically justified, and tied to long-term station life, industrial work, or environmental tolerance.
+
+### [[Mars]]
+One of the most important centers of adaptive biology, biosystems engineering, and regulated human modification. Mars often treats genemods as a rational extension of medicine and planetary long-term planning.
+
+### [[Venus]]
+Corporate and economic pressure create major grey zones. Useful biological adaptations may be encouraged or normalized in ways that blur the line between survival, employment, and coercion.
+
+### [[Asteroid Belt]]
+Less standardized and often more necessity-driven. Adaptation is valued, but quality, documentation, and oversight vary widely.
+
+### [[Jovian League]]
+Often accepts strict standards and advanced adaptation, but access may be selective, meritocratic, or politically filtered.
+
+---
+
+## Cultural Meaning
+
+Genemods are often less visible than cybernetics, but not less significant.
+
+A cybernetic implant may be obvious. A genemod may be invisible to everyone except doctors, insurers, employers, regulators, and the person living inside that biology. That makes genetic modification socially quieter, but also in some ways more unsettling.
+
+Cybernetics raise questions about the boundary between human and machine.
+
+Genemods raise questions about what counts as natural, acceptable, inherited, or even recognizably human in a civilization shaped by off-world survival.
+
+In [[SOL 2349]], genetic modification is not a flamboyant transhuman fantasy. It is a practical, contested, and deeply political form of designed biology.
+
+It does not make people post-human by default.
+
+It makes them fit for worlds humanity was never born for.

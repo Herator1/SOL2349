@@ -44,6 +44,7 @@ With a setting spanning the entire [[Solar System]]—from the crowded orbital i
   
 ## Life in Space  
   
+- [[Short Stories - Life in 2349]]
 - [[Living in Space]]  
 - [[From a Rock to a Habitat]]
 - [[Food]]  
@@ -62,9 +63,9 @@ With a setting spanning the entire [[Solar System]]—from the crowded orbital i
 - [[Basic Technological Concepts of Sol 2349]]  
 - [[Energy and Drive Systems]]  
 - [[Weapon Systems and Defenses]]  
-- [[Implant Overview]]  
 - [[Genetic Modifications]]  
 - [[Space Mining and Refining]]
+- [[Megaprojects]]
   
 ## Gamemaster Area  
   

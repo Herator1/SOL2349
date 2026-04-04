@@ -71,3 +71,10 @@ With a setting spanning the entire [[Solar System]]—from the crowded orbital i
   
 - [[Gamemaster Area]]  
 - [[Premade Characters]]
+
+## About the Project
+- [[Inspirations and Influences]]
+- [[Declaration of AI Use]]
+- [[Plans for the Future of Sol]]
+- [[Why this is no Expanse-Clone]]
+- [[About the Author]]

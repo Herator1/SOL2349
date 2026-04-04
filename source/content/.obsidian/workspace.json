@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Earth 2349/Sol 2349/Technology/Megaprojects/Solar Power Transfer Array.md",
+                "file": "Earth 2349/Sol 2349/About the Project/About the Author.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Solar Power Transfer Array"
+              "title": "About the Author"
             }
           }
         ]
@@ -182,10 +182,17 @@
   },
   "active": "15ac73eeca7802dc",
   "lastOpenFiles": [
-    "Earth 2349/Sol 2349/Factions/Political Factions/Regional Blocs and Alliances/Regional Blocs and Political Alliances.md",
-    "Earth 2349/Sol 2349/Technology/Megaprojects/Solar Power Transfer Array.md",
-    "Earth 2349/Sol 2349/Technology/Megaprojects/Megaprojects.md",
     "index.md",
+    "Earth 2349/Sol 2349/About the Project/Why this is no Expanse-Clone.md",
+    "Earth 2349/Sol 2349/About the Project/Plans for the Future of Sol.md",
+    "Earth 2349/Sol 2349/About the Project/Declaration of AI Use.md",
+    "Earth 2349/Sol 2349/About the Project/Inspirations and Influences.md",
+    "Earth 2349/Sol 2349/About the Project/About the Author.md",
+    "Earth 2349/Sol 2349/Technology/Technology Lore.md",
+    "Earth 2349/Sol 2349/About the Project",
+    "Earth 2349/Sol 2349/Technology/Megaprojects/Solar Power Transfer Array.md",
+    "Earth 2349/Sol 2349/Factions/Political Factions/Regional Blocs and Alliances/Regional Blocs and Political Alliances.md",
+    "Earth 2349/Sol 2349/Technology/Megaprojects/Megaprojects.md",
     "Earth 2349/Sol 2349/index.md",
     "Earth 2349/Sol 2349/Todo.md",
     "Earth 2349/Sol 2349/Rules/Core Mechanics/Core Mechanics.md",
@@ -204,12 +211,6 @@
     "Earth 2349/Sol 2349/Rules/Augmentations and Gear/Genetic Modifications.md",
     "Earth 2349/Sol 2349/Technology/Cybernetics/Gene Modifications.md",
     "Earth 2349/Sol 2349/Technology/Cybernetics/Cybernetic Implants.md",
-    "Earth 2349/Sol 2349/Factions/Political Factions/Regional Blocs and Alliances/Jovian League.md",
-    "Earth 2349/Sol 2349/Factions/Political Factions/Regional Blocs and Alliances/Interplanetary Science Authority.md",
-    "Earth 2349/Sol 2349/Factions/Political Factions/Regional Blocs and Alliances/Belt Arbitration Tribunal.md",
-    "Earth 2349/Sol 2349/Factions/Political Factions/Planetary and Megacity Power/Earth Deterrence Forces.md",
-    "Earth 2349/Sol 2349/Factions/Political Factions/Planetary and Megacity Power/Delhi Prime Civic Directorate.md",
-    "Earth 2349/Sol 2349/Factions/Political Factions/Habitat and Station Federations/Free Stations Compact.md",
     "Earth 2349/Sol 2349/Factions/Political Factions/Transit and Corridor",
     "Earth 2349/Sol 2349/Factions/Political Factions/Civic and Counter Corporate",
     "Earth 2349/Sol 2349/Factions/Political Factions/Regional Blocs and Alliances",
@@ -217,7 +218,6 @@
     "Earth 2349/Sol 2349/Factions/Political Factions/Habitat and Station Federations",
     "Earth 2349/Sol 2349/Lore and History/Known History/Main Timeline",
     "Earth 2349/Sol 2349/Solar System/Planets/03 Earth/Rewilded North",
-    "Earth 2349/Sol 2349/Solar System/Planets/03 Earth/Underwater Cities",
     "ChatGPT Image 1. Apr. 2026, 10_00_47.png",
     "ChatGPT Image 1. Apr. 2026, 09_47_03.png",
     "ChatGPT Image 31. März 2026, 22_55_10.png",

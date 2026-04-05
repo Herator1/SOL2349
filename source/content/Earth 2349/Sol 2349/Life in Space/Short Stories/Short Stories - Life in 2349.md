@@ -7,3 +7,4 @@ For players, they offer a clearer sense of tone, atmosphere, and everyday realit
 These are not grand histories. They are human-scale windows into life in space.
 
 [[Getting Augmented]]
+[[A Normal Day on a Station]]

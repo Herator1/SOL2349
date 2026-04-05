@@ -56,7 +56,7 @@ This did not create a single unified relic underworld. It created a thousand opp
 
 The megacorporations quickly recognized that relics could matter even when they were not revolutionary in the public imagination. A better material, a more resilient fabrication approach, a superior thermal solution, an unusual pressure-shell interface, or a partially reproducible industrial process could all produce strategic value.
 
-That made relic recovery a field of quiet competition between actors such as [[Helios]], [[Atlas]], [[NovaChem]], [[Nyx]], [[Shukra]], [[Solaris]], and [[Archeron]], each for its own reasons. Some wanted industrial advantage. Some wanted data control. Some wanted security control over dangerous sites. Some wanted to make sure rivals learned nothing useful.
+That made relic recovery a field of quiet competition between actors such as [[Helios]], [[Atlas]], [[NovaChem]], [[Nyx Data Systems]], [[Shukra]], [[Solaris]], and [[Archeron]], each for its own reasons. Some wanted industrial advantage. Some wanted data control. Some wanted security control over dangerous sites. Some wanted to make sure rivals learned nothing useful.
 
 This competition rarely took the form of open war. More often it appeared as legal obstruction, covert acquisition, site denial, contract manipulation, intelligence work, expedition interference, or the sudden disappearance of a promising discovery into classified storage.
 

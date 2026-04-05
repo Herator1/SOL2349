@@ -50,7 +50,7 @@ The most iconic structures on Mercury are its vast **solar array fields**, some 
 
 Above the planet, Mercury’s orbit is crowded with specialized infrastructure. [[Helios]] maintains major orbital energy platforms, relay stations, and transmission arrays that collect, regulate, and redirect part of Mercury’s power output toward industrial and commercial consumers across the inner system.
 
-Alongside Helios, [[Nyx]] operates heavily shielded orbital datacenters and network coordination hubs, using Mercury’s energy abundance to support high-density computational infrastructure. These facilities handle secure processing, routing, data storage, and industrial control systems tied to planetary and interplanetary logistics. Mercury therefore powers not only factories, but also parts of the inner system’s digital backbone.
+Alongside Helios, [[Nyx Data Systems]] operates heavily shielded orbital datacenters and network coordination hubs, using Mercury’s energy abundance to support high-density computational infrastructure. These facilities handle secure processing, routing, data storage, and industrial control systems tied to planetary and interplanetary logistics. Mercury therefore powers not only factories, but also parts of the inner system’s digital backbone.
 
 ---
 

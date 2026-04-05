@@ -12,7 +12,7 @@ These federations and compacts are shaped less by territory in the traditional s
 
 A major association of larger civilian and mixed-use habitats across the **[[Earth]]–[[Luna]]** corridor. The League focuses on safety standards, maintenance norms, emergency response coordination, residency rights, and collective bargaining against monopolistic pressure from larger infrastructure actors.
 
-Its members do not form a unified government, but together they represent one of the clearest civic voices in cislunar space. The League exists in constant tension with powerful actors such as **[[Earth]]**, **[[Luna]]**, **[[Atlas]]**, **[[Nyx]]**, and **[[NovaChem]]**, all of whom shape the corridor through infrastructure, regulation, or dependency. Where these powers think in terms of throughput and system stability, the League insists that habitats are not only nodes of movement, but places where people actually live.
+Its members do not form a unified government, but together they represent one of the clearest civic voices in cislunar space. The League exists in constant tension with powerful actors such as **[[Earth]]**, **[[Luna]]**, **[[Atlas]]**, **[[Nyx Data Systems]]**, and **[[NovaChem]]**, all of whom shape the corridor through infrastructure, regulation, or dependency. Where these powers think in terms of throughput and system stability, the League insists that habitats are not only nodes of movement, but places where people actually live.
 
 ---
 

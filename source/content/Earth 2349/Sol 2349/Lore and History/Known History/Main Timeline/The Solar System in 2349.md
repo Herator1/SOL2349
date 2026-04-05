@@ -6,7 +6,7 @@ The great powers of the age are not organized into one clear imperial order. The
 
 ## Overview
 
-The defining condition of the Solar System in **2349** is interdependence under fragmentation. Worlds specialize. Routes matter. Infrastructure determines power. A habitat may depend on food from [[Mars]], materials from the [[Asteroid Belt]], environmental chemistry from [[NovaChem]], communications from [[Nyx]], shipping through [[Kaiten]], structural certification from [[Atlas]], and financing from [[Solaris]]. This makes civilization resilient in some ways and dangerously brittle in others.
+The defining condition of the Solar System in **2349** is interdependence under fragmentation. Worlds specialize. Routes matter. Infrastructure determines power. A habitat may depend on food from [[Mars]], materials from the [[Asteroid Belt]], environmental chemistry from [[NovaChem]], communications from [[Nyx Data Systems]], shipping through [[Kaiten]], structural certification from [[Atlas]], and financing from [[Solaris]]. This makes civilization resilient in some ways and dangerously brittle in others.
 
 No part of human space is fully understandable in isolation. **[[Earth]]** remains the demographic and symbolic center of civilization, but no longer its uncontested engine of innovation. **[[Luna]]** is the first great gateway between planetary humanity and space industry. [[Mars]] is one of the leading scientific civilizations. [[Venus]] is one of the major industrial machines of the inner system. The outer system, especially around [[Jupiter]] and [[Saturn]], has matured into a durable civilizational sphere of its own.
 

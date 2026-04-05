@@ -59,7 +59,7 @@ With a setting spanning the entire [[Solar System]]—from the crowded orbital i
 - [[Interplanetary Law]]  
 
 ## Technology of 2349  
-  
+  - [[Technology Lore]]
 - [[Basic Technological Concepts of Sol 2349]]  
 - [[Energy and Drive Systems]]  
 - [[Weapon Systems and Defenses]]  
@@ -68,7 +68,6 @@ With a setting spanning the entire [[Solar System]]—from the crowded orbital i
 - [[Megaprojects]]
   
 ## Gamemaster Area  
-  
 - [[Gamemaster Area]]  
 - [[Premade Characters]]
 

@@ -43,7 +43,7 @@ A financial-services giant whose influence extends through insurance, credit sys
 
 A major chemical and life-support corporation with strong influence on [[Venus]] and [[Luna]]. NovaChem is central to atmospheric processing, industrial chemistry, pharmaceuticals, polymers, and the systems that keep large-scale human habitation functioning.
 
-### [[Nyx]]
+### [[Nyx Data Systems]]
 
 A leading information infrastructure corporation specializing in networks, secure processing, communications architecture, datacenters, and high-level system coordination. Nyx forms part of the invisible digital backbone of the inner system.
 

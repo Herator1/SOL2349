@@ -38,7 +38,7 @@ By the mature corporate era, the major megacorporations had developed into highl
 **[[Atlas]]** became the physical architect of human space: builder, certifier, and often landlord of stations, shipyards, dock complexes, and habitats.  
 **[[Kaiten]]** proved that control of motion could rival control of production, especially across the **[[Asteroid Belt]]** and major freight corridors.  
 **[[NovaChem]]** embedded itself beneath the visible layer of civilization through air chemistry, water treatment, industrial compounds, and habitat stability.  
-**[[Nyx]]** became the nervous system of the interplanetary age through communications, navigation, relay architecture, and data continuity.  
+**[[Nyx Data Systems]]** became the nervous system of the interplanetary age through communications, navigation, relay architecture, and data continuity.  
 **[[Solaris]]** turned finance into infrastructure through insurance, debt, predictive analytics, and risk management.  
 **[[Shukra]]** made advanced life science into civilizational leverage, especially on [[Mars]] and in fields tied to medicine, agriculture, and adaptation.  
 **[[Archeron]]** commercialized force itself through weapons, private security, convoy protection, and deniable violence.
@@ -49,7 +49,7 @@ Taken together, these corporations did not simply compete for markets. They comp
 
 The rise of the megacorporations was also a geographic process. Different worlds and corridors favored different forms of power.
 
-In the Earth–Moon system, the rise of **[[Luna]]**, cislunar stations, transfer hubs, and orbital infrastructure created ideal conditions for firms like **[[Helios]]**, **[[Atlas]]**, **[[NovaChem]]**, and **[[Nyx]]** to become system-defining. On **[[Earth]]**, especially across the emerging southern urban belts, corporate influence increasingly overlaid fragmented public governance rather than replacing it outright.
+In the Earth–Moon system, the rise of **[[Luna]]**, cislunar stations, transfer hubs, and orbital infrastructure created ideal conditions for firms like **[[Helios]]**, **[[Atlas]]**, **[[NovaChem]]**, and **[[Nyx Data Systems]]** to become system-defining. On **[[Earth]]**, especially across the emerging southern urban belts, corporate influence increasingly overlaid fragmented public governance rather than replacing it outright.
 
 On [[Mars]], corporate scientific power became inseparable from planetary development, especially through actors like **[[Shukra]]**. On [[Venus]], industrial chemistry, floating-city infrastructure, and morally grey political environments gave corporations a more direct and openly entangled role in social order. In the **[[Asteroid Belt]]**, control depended less on formal sovereignty than on contracts, transport, extraction rights, route access, and security capacity. There, corporate influence was often closest to raw operational power.
 

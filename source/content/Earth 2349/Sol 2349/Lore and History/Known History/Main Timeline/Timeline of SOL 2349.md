@@ -103,7 +103,7 @@ By the end of this period, cislunar space is no longer frontier territory. It is
 
 As human civilization spreads farther from Earth, traditional governments lose the ability to directly control distant infrastructure and settlements. Into this gap step the **[[Megacorporations]]**.
 
-What begins as licensed industrial participation grows into a system in which corporations control transport, energy, construction, chemistry, medicine, security, communications, and large parts of the labor economy. By the late 22nd century, they do not merely participate in civilization—they operate much of it. This is the age in which actors like [[Helios]], [[Atlas]], [[NovaChem]], [[Nyx]], [[Solaris]], [[Shukra]], [[Kaiten]], and [[Archeron]] become structurally indispensable.
+What begins as licensed industrial participation grows into a system in which corporations control transport, energy, construction, chemistry, medicine, security, communications, and large parts of the labor economy. By the late 22nd century, they do not merely participate in civilization—they operate much of it. This is the age in which actors like [[Helios]], [[Atlas]], [[NovaChem]], [[Nyx Data Systems]], [[Solaris]], [[Shukra]], [[Kaiten]], and [[Archeron]] become structurally indispensable.
 
 ---
 

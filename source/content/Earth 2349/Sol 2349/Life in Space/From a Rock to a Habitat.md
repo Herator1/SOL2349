@@ -44,7 +44,7 @@ In practical terms, this means that many of the most important steps in a statio
 
 The station becomes more permanent not through ceremony, but through a change in assumptions.
 
-Contracts grow longer. Redundancy is added where temporary systems once sufficed. More storage is installed than immediate operations strictly require. Maintenance shifts from improvised repair to planned continuity. Communication systems deepen and stabilize. Construction telemetry, cargo routing, internal control architecture, data caches, navigation links, and station-scale network integrity all become permanent priorities rather than project conveniences. This is where [[Nyx]] becomes part of the station’s underlying fabric.
+Contracts grow longer. Redundancy is added where temporary systems once sufficed. More storage is installed than immediate operations strictly require. Maintenance shifts from improvised repair to planned continuity. Communication systems deepen and stabilize. Construction telemetry, cargo routing, internal control architecture, data caches, navigation links, and station-scale network integrity all become permanent priorities rather than project conveniences. This is where [[Nyx Data Systems]] becomes part of the station’s underlying fabric.
 
 Like NovaChem, Nyx often operates below the level of visible identity. Most residents will not think of the station as a Nyx system. But once a site becomes truly permanent, it depends on reliable data architecture just as much as it depends on pressure hulls and fuel depots. Traffic coordination, internal systems management, long-range communication, construction oversight, relay continuity, and link stability all become too important to leave in an ad hoc state. A station entering long-term operation must be able to function not just as a structure, but as a node.
 
@@ -68,7 +68,7 @@ The great mass of a mature habitat is not found in the visible interior, but in 
 
 That is one of the reasons major habitats emerge where resource streams already exist. A station of meaningful size is too dependent on bulk mass to be treated as a lightweight project. It has to be built where shielding, structure, and supply can be maintained at scale.
 
-This also makes clear why no single corporation truly builds such a place alone, no matter whose name appears on the contract. [[Helios]] provides extraction and industrial throughput. [[Atlas]] provides structural design and assembly logic. [[NovaChem]] provides the chemical systems that make enclosed life stable. [[Nyx]] provides the communications and control architecture that keeps the whole complex integrated into the wider Solar System. Their interests overlap, compete, and constrain one another, but without all four layers the result remains incomplete.
+This also makes clear why no single corporation truly builds such a place alone, no matter whose name appears on the contract. [[Helios]] provides extraction and industrial throughput. [[Atlas]] provides structural design and assembly logic. [[NovaChem]] provides the chemical systems that make enclosed life stable. [[Nyx Data Systems]] provides the communications and control architecture that keeps the whole complex integrated into the wider Solar System. Their interests overlap, compete, and constrain one another, but without all four layers the result remains incomplete.
 
 A station is not a product. It is a negotiated convergence of systems.
 

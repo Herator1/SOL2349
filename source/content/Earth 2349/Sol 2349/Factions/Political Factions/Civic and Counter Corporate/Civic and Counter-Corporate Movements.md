@@ -2,25 +2,43 @@ Not all important political actors in **SOL 2349** derive their power from terri
 
 These movements and institutions rarely control worlds or major transport corridors directly. Their influence lies instead in pressure, legitimacy, coordination, standards, advocacy, and the ability to make certain abuses politically costly. They can investigate, condemn, arbitrate, certify, organize, and sometimes impose real constraints—but not always. In practice, their greatest weakness is enforcement. Powerful actors, especially the **[[Megacorporations]]**, can ignore, delay, circumvent, or quietly undermine their decisions when enough money, strategic importance, or infrastructural dependency is involved.
 
-That tension defines the category. These are not powerless organizations, but neither are they sovereign ones. They exist in the gap between what human civilization claims to stand for and what it is often willing to tolerate when profit, survival, or strategic necessity are at stake.
+That tension defines this category. These are not powerless organizations, but neither are they sovereign ones. They exist in the gap between what human civilization claims to stand for and what it is often willing to tolerate when profit, survival, or strategic necessity are at stake.
 
 ---
 
 ## Important Factions
 
-### [[Interplanetary Labor Assembly]]
+### [[Habitat and Labor Commission]]
 
-A major umbrella organization linking worker associations, labor councils, and industrial unions across habitats, docks, maintenance sectors, refining complexes, and long-haul transport systems. The Assembly is one of the few large civic actors capable of turning labor conditions into a system-wide political issue rather than a local contract dispute.
+The **[[Habitat and Labor Commission]]** is one of the most important civil-protective institutions in human space. It emerged from the gradual convergence of two realities: that labor in habitats, docks, maintenance sectors, and long-haul transport could not be separated cleanly from the conditions under which people were forced to live, and that many of the worst abuses in space were simultaneously labor abuses and habitat abuses.
 
-Its influence is strongest in sectors where workers remain difficult to replace and where strikes, slowdowns, or coordinated refusals can threaten maintenance, traffic continuity, or industrial reliability. This gives it real leverage—but also places it in constant tension with corporations that depend on disciplined labor and uninterrupted throughput. The Assembly can negotiate, organize, expose, and coordinate. It cannot always force compliance where corporate actors are willing to absorb scandal or use alternative pressure.
+As a result, the Commission operates across both domains. It deals with:
+- labor standards in artificial environments
+- maintenance-related worker safety
+- emergency shelter and evacuation rights
+- access to air, water, and minimum habitat viability
+- forced abandonment and residency precarity
+- exploitative contract regimes
+- unsafe living density
+- infrastructure neglect that crosses into civil endangerment
 
----
+This gives it a broader and more space-native role than a conventional labor union or a purely moral rights body. In much of human space, especially in habitats and stations, the question of whether people are being exploited cannot be separated from the question of whether the shell around them is being safely maintained.
 
-### [[Habitat Rights Commission]]
+The Commission is strongest where workers are hard to replace and where slowdowns, inspections, public findings, or coordinated pressure can threaten traffic continuity, industrial reliability, or corporate legitimacy. It is therefore particularly influential in:
+- major station systems
+- docks and freight hubs
+- maintenance sectors
+- refining complexes
+- habitat clusters with chronic deferred repair
+- long-haul transport environments
 
-A space-native civil protections body concerned with the minimum rights of people living in artificial environments. Its work includes questions of emergency shelter, air and water access, forced habitat abandonment, maintenance neglect, unsafe living conditions, residency vulnerability, and the treatment of populations trapped inside deeply unequal infrastructural systems.
+Its political strength comes from turning what powerful actors would prefer to describe as isolated local problems into system-wide issues. A bad contract can become a labor case. A neglected station can become a civil protections case. A deferred maintenance regime can become both.
 
-The Commission has moral authority and broad recognition across much of human space, especially in cases where habitat failure, deferred maintenance, or exploitative contract arrangements threaten civilian populations. But its greatest challenge is the same one that shapes many civic institutions in **2349**: it can define abuses more easily than it can stop them. Where powerful operators control the shell, the docking access, the chemistry, or the debt structure of a habitat, rights often remain dependent on someone else’s willingness to enforce them.
+That gives the Commission real leverage—but not unlimited leverage. It can investigate, expose, organize, condemn, certify, and coordinate. It cannot always force compliance where powerful operators are willing to absorb scandal, buy time, shift blame, or exploit infrastructural dependency to keep people trapped inside dangerous systems.
+
+This places it in constant tension with corporations such as [[Atlas]], [[NovaChem]], [[Kaiten]], and other operators whose profit depends on disciplined labor, uninterrupted throughput, and tightly controlled habitat economics. Publicly, many of these actors claim to support Commission standards. In practice, they often fight hardest when those standards become expensive.
+
+The Commission is therefore not revolutionary in the simple sense. It is something more persistent and, in some ways, more dangerous to entrenched power: an institution that insists the people keeping human space alive are not disposable, and that a habitat unfit to live in is not just a technical failure but a political one.
 
 ---
 

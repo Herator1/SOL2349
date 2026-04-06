@@ -31,7 +31,7 @@ A successful implant is not just surgically installed. It is neurologically lear
 
 This is one reason certified implant clinics, rehabilitation programs, and long-term monitoring matter so much in core regions. In frontier environments such as parts of the [[Asteroid Belt]], rushed or improvised integration often leads to much worse outcomes.
 
-See also: [[Interplanetary Labor Assembly]], [[Habitat Rights Commission]]
+See also: [[Interplanetary Labor Assembly]], [[Habitat and Labor Commission]]
 
 ---
 

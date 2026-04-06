@@ -47,7 +47,7 @@ This is especially common in corporate stations, isolated industrial worlds, rem
 
 See also:
 - [[Interplanetary Labor Assembly]]
-- [[Habitat Rights Commission]]
+- [[Habitat and Labor Commission]]
 - [[Megacorporations]]
 
 ---

@@ -1,308 +1,370 @@
 # 🧭 Act 3 — Escalation
 
-By this point the players will have alreay committed to several decision that changes the outcome of the scenario - therefore the third act is presented in a sandbox formate.
+By this point, the players will already have made several decisions that shape the rest of the scenario. They may have spoken to one or both factions, earned trust or suspicion, identified possible escape options, or begun forming their own plan. For that reason, Act 3 is not presented as a fixed sequence, but as a **sandbox under pressure**.
+
+The station is failing, the factions are watching each other, and the players are now part of the situation. What happens next depends on what they pursue, what they reveal, and how long they take.
+
+---
 
 ## Scene Purpose
 
-- force decisions
-- escalate tension
-- introduce the artifact
-- create multiple valid outcomes
+Act 3 exists to do four things:
+
+- force real decisions
+- escalate tension without railroading
+- introduce the relic as a live complication
+- drive the scenario toward one of several plausible endings
+
+This is the phase where the players stop exploring the consequences of earlier events and begin creating new ones.
 
 ---
 
 # ⚙️ Situation Overview
 
-At this stage:
+By the beginning of Act 3, the broad situation should be clear.
 
-- both factions are alive
-- the station is degrading
-- the players are known to both sides
-- escape is possible — but not trivial
+- both factions are still alive
+- the station is actively deteriorating
+- the players are known to the surviving groups
+- escape is possible, but not simple
+- the relic still has not been resolved
+
+This act works best if the GM keeps the pressure visible. The players should feel that they are operating inside a failing system, not a static map.
 
 ---
 
 ## Core Pressures
 
-- **Life support decreasing**
-- **Rotation becoming unstable**
-- **Power failures increasing**
-- **Tension between factions rising**
+These are the forces that keep the act moving:
+
+- **Life support is degrading**
+- **Spin gravity is becoming less stable**
+- **Power failures are spreading**
+- **Faction tension is increasing**
+- **Time makes every option worse**
+
+The station will not remain stable on its own. If the players delay too long, the environment begins making choices for them.
 
 ---
 
-👉 The situation will **not remain stable**
+# 🧪 The Relic
+
+## What It Is
+
+The central object of interest is an [[AI Relic]]: a degraded machine-age signal-routing and processing node. It contains no active intelligence and does not behave like a “cursed object” or dormant super-AI. Its importance comes from what it represents: a rare fragment of high-value pre-collapse technology with obvious research, industrial, and financial implications.
+
+It is valuable, deniable, difficult to classify, and legally messy. That is exactly why people are willing to kill for it.
 
 ---
-
-# 🧪 The Artifact
 
 ## Location
 
-The artifact is hidden inside:
+The relic is hidden inside the pirate freighter, in a concealed secondary compartment.
 
-👉 **the pirate freighter (secondary compartment)**
+It is:
 
-- shielded container
-- not part of standard cargo
-- intentionally concealed
+- inside a shielded container
+- deliberately separated from standard cargo
+- stored in a place meant to survive a hurried inspection
 
----
-
-## Discovery
-
-Players may find it via:
-
-- exploration
-- repairing the freighter
-- information from factions
-- searching for resources
+This is important because it means the players may discover it even if they focus primarily on escape rather than deeper lore.
 
 ---
 
-## Description (GM)
+## How the Players May Find It
 
-- small, irregular object
-- metallic but unidentifiable
-- no obvious function
+The relic can be discovered through several paths:
 
-## Effects (Subtle!)
+- repairing or searching the freighter
+- exploring hidden cargo spaces
+- information from one of the factions
+- searching for spare parts, fuel, or emergency supplies
+- piecing together what caused the battle in the first place
 
-- minor system desync
+You do not need to force the discovery, but the freighter is the best place to ensure it remains relevant.
+
+---
+
+## Description for the GM
+
+The relic should feel wrong, but not magical.
+
+- small and dense
+- metallic but not easily classifiable
+- irregular but engineered
+- no obvious interface, weapon function, or energy output
+
+Its presence creates **subtle disturbances**, not overt phenomena.
+
+### Possible Effects
+
+- minor system desynchronization
 - inconsistent sensor readings
-- slight perception drift
+- slight perception drift or timing discomfort
+- local instrumentation behaving “almost correctly”
+
+These effects should remain low-key. The relic is a complication, not a spectacle.
 
 ---
 
-# 🧠 What Factions Know
+## What the Factions Know
 
-## Security
+### Recovery Team
 
-- wants the artifact
-- does not fully understand it
-- considers it high priority
+They know the relic is the mission priority. They do not necessarily understand its full origin or value, but they know it matters enough to justify deniable force.
 
-## Pirates (Old Guard)
+### Old Guard
 
-- know it caused problems
-- want it contained or removed
-
+They do not understand the relic technically, but they understand its consequences. In practice, they know that it brought a recovery team to their door and nearly destroyed the station. That is enough.
 
 ---
 
 # 🚀 Escape Options
 
+Escape is the practical core of Act 3. The relic matters, but survival matters first.
+
+The players should quickly understand that there are two real options.
+
+---
+
 ## Option 1 — Repair the _Asterion_ (Hard)
+
+Repairing the _Asterion_ is possible, but difficult. This ship was not lightly damaged; it lost the superconducting nozzle-coil assembly that allows the main drive to function properly. Bringing it back to limited operational status requires serious effort, technical skill, and the kind of time the station may not want to give them.
 
 ### Requirements
 
-- major engineering effort
-- multiple system fixes
-- time + resources
+- significant engineering work
+- improvised replacement or partial workaround
+- power redistribution
+- access to components, tools, and time
 
-### Suggested Challenges
+### Good Challenges
 
 - power rerouting
-- structural repair
-- improvised components
+- improvised magnetic nozzle control
+- structural reinforcement
+- replacement of damaged field-control systems
+- recovering usable components from the station or freighter
+
+### Outcome
+
+**Success**
+
+- the _Asterion_ becomes marginally spaceworthy again
+- escape is possible, but not comfortable
+
+**Failure**
+
+- the ship remains unreliable or only partially maneuverable
+- departure may still be attempted, but with real risk
+
+This option is ideal if the players want to preserve their own ship, but it should clearly feel like the harder and slower path.
 
 ---
 
-### Consequences
+## Option 2 — Secure the Freighter (Easier)
 
-**Success:**
+The station freighter is usually the more practical escape option. It is damaged, but not catastrophically so, and it was built for actual Belt work rather than delicate survey operations.
 
-- original ship operational (limited)
-
-**Failure:**
-
-- ship unstable
-- may fail during escape
-
-👉 requires:
-
-- strong engineering
-- time (→ increases tension)
-
----
-## Option 2 — Pirate Freighter (Easier)
+In economic and narrative terms, it is not just transport. It is a major asset. Anyone who controls a flyable freighter controls mobility, cargo, leverage, and future survival.
 
 ### Requirements
 
 - moderate repairs
-- power restart
-- navigation check
+- restart or stabilize the power plant
+- confirm life support and control authority
+- basic navigation and launch prep
 
 ### Advantages
 
-- faster
-- more realistic option
+- faster than repairing the _Asterion_
+- more viable under time pressure
+- easier if the Old Guard cooperates
+
+### Outcome
+
+**Success**
+
+- freighter becomes the most reliable escape route
+
+**Failure**
+
+- the ship remains partially functional or dangerous to launch
+- the players may still use it, but with consequences
+
+This option should feel more Belt-realistic: ugly, compromised, but practical.
 
 ---
-
-### With Pirate Support
-
-- significantly easier
-- access to systems
-- possible assistance
-
----
-
-## Consequences
-
-**Success:**
-
-- reliable escape
-
-**Failure:**
-
-- partial functionality
-- risky departure
-
----
-
 
 # ⚔️ Conflict Triggers
 
-Use these to escalate naturally.
+Act 3 works best when escalation feels like a reaction to player behavior, not random GM force. Use the following triggers to make the station respond naturally.
 
 ---
 
-## Trigger 1 — Artifact Discovery
+## Trigger 1 — The Relic Is Found or Moved
 
-When players find or move it:
+If the players discover, relocate, or openly discuss the relic, tension rises immediately.
 
-- both factions react
-- tension increases immediately
+Likely consequences:
 
----
-
-## Trigger 2 — Choosing a Side
-
-Helping one faction:
-
-- other becomes hostile or suspicious
+- both factions become more focused on the players
+- negotiations harden
+- trust decreases unless the players are already aligned
 
 ---
 
-## Trigger 3 — Repairing a Ship
+## Trigger 2 — The Players Clearly Choose a Side
 
-Visible effort to escape:
+Once the players visibly help one faction, the other adjusts.
 
-- factions intervene
-- try to control situation
+Likely consequences:
 
----
-
-## Trigger 4 — Time Pressure
-
-After extended play:
-
-- systems fail
-- urgency forces action
+- increased suspicion or hostility
+- reduced access to negotiation
+- more aggressive posturing or intervention
 
 ---
 
-## Trigger 5 — Mistrust / Lies
+## Trigger 3 — A Ship Is Being Prepared
 
-If players deceive:
+Visible work on either the _Asterion_ or the freighter changes the whole political situation. Escape is not a neutral action.
 
-- trust collapses
-- negotiations harder
+Likely consequences:
 
----
-
-# 🧩 Additional Discoveries (Optional)
-
-Use these to enrich exploration.
-
----
-## 1. Battle Logs
-
-- partial data from station systems
-- confirms:
-    - corporate attack
-    - internal conflict
-
----
-## 2. Destroyed Frigate Data
-
-- external scan or logs
-- shows:
-    - heavy engagement
-    - unexpected resistance
+- one or both factions intervene
+- demands are made
+- bargaining becomes urgent
 
 ---
 
-## 3. Improvised Defenses
+## Trigger 4 — Time Runs Out
 
-- barricades
-- blast marks
-- signs of desperate fighting
+Use this if the table slows down or the players become too comfortable.
 
----
-## 4. Life Support Hub
+Examples:
 
-- partially functional
-- can be stabilized
+- pressure drops in one surviving section
+- the transfer system becomes less reliable
+- power fails in a critical junction
+- rotation instability worsens
 
-👉 gives players:
-
-- leverage
-- bargaining power
+This should not feel punitive. It should feel inevitable.
 
 ---
 
-## 5. Hidden Access Routes
+## Trigger 5 — Lies, Theft, or Hidden Agendas Collapse
 
-- maintenance shafts
-- alternate paths
+If the players deceive either faction and are caught, the station reacts.
 
-👉 useful for:
+Likely consequences:
 
-- stealth
-- avoiding conflict
+- trust evaporates
+- offers disappear
+- violence becomes more likely
+- the players are treated as an independent threat
 
 ---
 
-# 🧠 Player Options
+# 🧩 Additional Discoveries
 
-## 🟢 Negotiate
+These are optional tools to enrich the sandbox and give the players more leverage.
 
-- broker truce
-- exchange resources
+---
 
-## 🔵 Choose a Side
+## Battle Logs
 
-- support pirates
-- support security
+Fragmentary station logs can confirm:
 
-## 🟡 Stay Independent
+- the attempted corporate recovery
+- the earlier internal conflict
+- the order in which the station fell apart
 
-- avoid both factions
-- focus on escape
+Useful if the players want clarity before choosing sides.
 
-## 🔴 Escalate
+---
 
-- attack
-- destabilize situation
+## Wreck Data from the Destroyed Ship
 
-## ⚫ Exploit Chaos
+If accessed through scans, logs, or surviving systems, this can reveal:
 
-- take artifact
-- use distraction to escape
+- the assault was expected to be quick
+- the attackers underestimated the station
+- the operation was likely deniable by design
+
+Useful for reinforcing that the recovery team is not a legitimate authority.
+
+---
+
+## Improvised Defenses
+
+Barricades, patched blast doors, manual kill-zones, and field repairs tell the story of the station’s last hours. These also provide tactical context if combat starts.
+
+---
+
+## Life Support Hub
+
+A partially functional life support control node can become major leverage.
+
+If stabilized, it can:
+
+- buy time
+- increase faction dependence on the players
+- become the basis for a truce or bargain
+
+This is one of the best “non-combat power” tools in the scenario.
+
+---
+
+## Hidden Access Routes
+
+Old maintenance shafts, mining bypasses, or cable runs can provide:
+
+- stealth routes
+- alternate faction approaches
+- ways to reach ships or systems without direct confrontation
+
+These help preserve sandbox flexibility.
+
+---
+
+# 🧠 Player Approaches
+
+Players should feel that there are multiple valid strategies. None should be framed as “correct.”
+
+### Negotiate
+
+Broker a truce, exchange access, trade technical help for survival.
+
+### Choose a Side
+
+Back one faction and accept the consequences.
+
+### Stay Independent
+
+Avoid full commitment, focus on ships, systems, and survival.
+
+### Escalate
+
+Threaten, attack, sabotage, or destabilize the station directly.
+
+### Exploit Chaos
+
+Take the relic, use the worsening situation as cover, and run.
 
 ---
 
 # 🎯 Endgame Structure
 
-Eventually:
+Act 3 should not feel like it has a hidden “boss fight.” Instead, it moves toward resolution when one of the following becomes true:
 
-👉 one of these happens:
+- the factions openly clash
+- a critical system fails
+- one ship becomes spaceworthy
+- the relic changes hands
+- the players commit to a final plan
 
-- factions clash
-- systems fail
-- players trigger escape
+At that point, the act tips into the endgame and the scenario moves toward one of its possible outcomes.
 
 ---
 
@@ -310,37 +372,37 @@ Eventually:
 
 ## Key Principle
 
-👉 do not force outcomes
+Do not force a preferred ending.
 
 Let:
 
-- players decide
-- consequences unfold
+- the players decide
+- the factions react
+- the station keep getting worse
+- consequences unfold from action, not script
 
 ## Tone
 
-- pressure increases gradually
-- choices become harder
-- no clean solution
+The pressure should rise gradually, but steadily. Each decision should narrow options, increase commitment, or create new risk. There should be no clean solution, only workable ones.
 
 ---
 
 # 💡 Important Design Note
 
-The artifact is:
+The relic is **not** the answer to the scenario.
 
-👉 **not the solution**
+It is not a miracle tool, not a weapon, and not a narrative shortcut.
 
-It is:
+It is a complication that makes every choice more dangerous, more expensive, and more politically loaded.
 
-👉 **a complication**
+That is why it belongs here.
 
 ---
 
 # 🎯 Summary
 
-Act 3 is about:
+Act 3 is about pressure, decisions, leverage, and consequence.
 
-- pressure
-- decisions
-- consequences
+The environment is failing. The factions are watching each other. The players need a way out. The relic makes everything worse.
+
+What happens next should feel earned.

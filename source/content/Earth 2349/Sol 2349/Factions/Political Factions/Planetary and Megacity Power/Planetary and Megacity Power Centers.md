@@ -11,9 +11,18 @@ Unlike the **[[Megacorporations]]**, these factions derive their legitimacy prim
 
 A joint Earthside defense structure tasked with protecting **[[Earth]]** against major space-based threats. The EDF coordinates orbital surveillance, early-warning systems, defense satellites, interception networks, and selected naval and aerospace response capabilities. It is funded and supported through a tense mixture of megacity governments, surviving state structures, industrial interests, and megacorporate sponsorship. Though nominally defensive and cooperative, it is also one of the clearest examples of how fragmented Earth still maintains shared strategic institutions when the stakes are high enough.
 
-### [[Delhi Prime Civic Directorate]]
+### Megacity Governmental Authorities
 
-The most important single political power center on **[[Earth]]**. More than a city government in the old sense, Delhi Prime functions as one of the major administrative, demographic, and strategic cores of the planet. Its authority grows from scale, continuity, and infrastructural control rather than from any universal claim to rule Earth as a whole. In practice, it is one of the strongest examples of megacity governance as planetary power.
+The most important political actors on **[[Earth]]** are not old nation-states in the classical sense, but the governments of the great **[[Earth Megacities]]**. These megacity authorities combine municipal administration, regional governance, infrastructure control, security coordination, and economic management at a scale that makes many older state structures look secondary by comparison.
+
+Their power comes less from any universal claim to rule Earth as a whole than from population density, administrative continuity, financial weight, and control over the systems that keep modern urban civilization functioning. In practice, many of them govern not just cities in the traditional sense, but entire metropolitan territories, logistics corridors, coastal belts, industrial hinterlands, and dependent populations tied into megacity infrastructure.
+
+This makes them some of the most important power centers on the planet. They shape trade, law, public order, civil protection, industrial policy, and relations with off-world actors, while also competing with one another for influence, investment, prestige, and strategic relevance. Earth is not unified under them—but neither can any serious planetary politics ignore them.
+
+Examples include powerful urban cores such as **Delhi Prime**, Lagos, the great East African coastal megacities, major South American urban belts, and other southern population centers that rose to lasting dominance after **[[The Reshaping of Earth]]** and the long decline of the old northern core.
+
+Their shared logic is one of scale and survival:  
+where population, infrastructure, and governance are concentrated densely enough, a megacity stops being merely local government and becomes a planetary actor.
 
 ### [[Mars Planetary Consensus]]
 
@@ -23,6 +32,3 @@ The principal governing framework of [[Mars]], combining technocratic administra
 
 The closest thing [[Venus]] has to a formal planetary government. In theory, it coordinates regulation, intercity standards, safety frameworks, customs architecture, and public-facing legitimacy across the Venusian cloud cities. In practice, its power is sharply constrained by the realities of corporate dominance, industrial dependency, and the embedded influence of the [[Venus Syndicates]]. It remains politically useful less because it governs Venus completely than because many powerful actors benefit from the appearance that someone does.
 
-### [[Earth Megacity Governance Blocs]]
-
-A loose category rather than a single unified institution, but one of the defining political realities of **[[Earth]]**. In the absence of a meaningful world government, major urban powers such as **[[Delhi Prime]]**, **[[Greater Lagos]]**, the **[[Mombasa Corridor]]**, **[[Nova São Paulo]]**, and **[[New Sydney Arc]]** function as political centers in their own right. Together, they shape much of Earth’s practical governance through population concentration, infrastructural control, regional influence, and economic weight.

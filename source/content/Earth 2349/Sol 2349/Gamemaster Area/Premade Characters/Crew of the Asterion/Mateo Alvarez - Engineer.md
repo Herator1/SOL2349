@@ -1,6 +1,6 @@
 # 🔧 Mateo Álvarez — Engineer
 
-![[ChatGPT Image 27. März 2026, 08_14_19.png|450]]
+![[Pasted image 20260406130953.png|450]]
 **Origin:** Asteroid Belt  
 **Background:** Miner family, spacer engineer  
 **Role:** Systems, repair, technical problem solving

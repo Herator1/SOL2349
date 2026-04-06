@@ -5,73 +5,88 @@
 This opening scene establishes:
 
 - routine and isolation
-- the baseline state of the ship
-- first anomaly (the signal)
+- the operational baseline of a Helios survey vessel
+- the first anomaly (the signal)
 - player agency before the crisis
 
-No immediate danger — just **unease and decision-making**.
+There is **no immediate danger**. The focus is on normality, subtle irregularity, and decision-making.
 
 ---
 
 # 🎙️ Opening — Read Aloud
 
-> The ship has been quiet for days.   Not silent — never silent — but steady. Predictable.
-> The kind of quiet that comes when everything is working exactly as expected.
+> The ship has been quiet for days. Not silent — never silent — but steady, predictable, and deeply familiar in the way only a working spacecraft can be. Pumps cycle somewhere behind the walls. Cooling lines hum at a constant pitch. The structure answers heat and motion with the occasional low metallic creak. 
 > 
-> The mission is complete.   The last asteroid has been surveyed, the data logged, the probes secured.   There is nothing left to do but return.
+> The mission is complete. The last asteroid has been surveyed, the data logged, the probes secured. There is nothing left to do now but return.
 > 
-> Weeks of travel lie ahead.  Most systems are running at reduced load. Non-essential sensors are offline.  The ship is no longer searching. It is simply moving.
+> Weeks of travel lie ahead. Most systems are running at reduced load, and the ship has settled into the slow rhythm of transit. The work is done. What remains is routine, maintenance, idle conversation, and the long, uneventful stretch between one contract and the next.
 > 
-> And then - Something appears on the sensors.
+> For the moment, everything is exactly as it should be.
+
 
 ---
 
-# 🧠 Situation Brief (for GM)
+## 🧭 GM Note — When to Introduce the Signal
 
-- Ship is stable
-- Crew is relaxed / bored
-- No immediate threat
-- Signal is weak and unclear
+Do **not** introduce the anomaly immediately.
 
-👉 Let players talk, roleplay, explore the ship
+Let the players:
 
+- establish who they are
+- move through the ship
+- talk to crew
+- settle into the routine of long-range survey work
+
+The signal should appear **after** the table has had a few minutes to breathe and the normal state of the ship is clear.
+
+A good trigger is:
+
+- after a short roleplay scene
+- after someone checks systems
+- after someone comments on boredom or the return trip
+- after the GM feels the ship has become “real” to the players
+-
 ---
 
 # 🔍 Phase 1 — The Signal
 
-Players are informed:
+When you are ready to move the scene forward, introduce it like this:
 
-> A weak, inconsistent signal appears on passive sensors.  
-> It is not clearly identifiable and does not match known objects in the navigation data.
+### 🎙️ Read Aloud — First Anomaly
+
+> The first sign that something is wrong is easy to miss. A faint irregularity appears in the passive sensor feed, weak enough to look like background noise at first glance. It does not match any registered traffic, beacon, or charted object in the ship’s current path, and it does not disappear when the system refreshes.
+> 
+> It is not dramatic. Not yet.
+> 
+> But it is there.
+
 
 ---
-
 ## Player Options
 
 Players may:
 
-- ignore it
+- ignore the signal
 - analyze it
-- change course
-- ask for more data
-- cross-check systems
+- request additional data
+- cross-check navigation or system logs
+- adjust course
 
 ---
 
 # 🎲 Suggested Checks (Optional)
 
-## 1. Sensor Analysis (Intellect / Systems / Ops)
+## Sensor Analysis (Intellect / Systems / Operations)
 
 **Success:**
 
-- signal is _structured_, not random
+- signal is structured, not random
 - likely artificial origin
-- appears intermittent but persistent
 
 **High Success:**
 
-- multiple overlapping signals
-- possible debris reflections or damaged systems
+- multiple overlapping returns
+- possible reflections from debris or damaged systems
 
 **Failure:**
 
@@ -80,127 +95,125 @@ Players may:
 
 ---
 
-## 2. Navigation Check
+## Navigation Check
 
 **Success:**
 
-- no registered objects in that sector
-- charts show empty space
+- no registered objects in the area
+- charts indicate empty space
 
 **High Success:**
 
-- area may have been surveyed long ago
-- possible outdated or incomplete data
+- region may rely on outdated or incomplete survey data
 
 ---
 
-## 3. Engineering Check
+## Engineering Check
 
 **Success:**
 
+- no internal interference
 - ship systems functioning normally
-- no internal source of interference
 
 **Failure:**
 
-- temporary misdiagnosis (players may suspect ship issue)
+- temporary misdiagnosis
+- players may suspect onboard issues
 
 ---
 
 # 🧭 GM Guidance
 
-Important:
+Keep the tone:
 
-👉 Do NOT make the signal feel supernatural  
-👉 Keep it grounded, technical, ambiguous
+- technical
+- grounded
+- slightly off, but not alarming
 
-Tone:
+👉 The signal should feel **economically interesting**, not mysterious or supernatural
 
-- slightly off
-- not alarming
-- but persistent
+This is exactly the kind of anomaly a [[Helios]] vessel would investigate.
 
 ---
 
 # 🎭 Crew Interaction (Optional)
 
-If needed (small groups):
+NPC crew can:
 
-NPC crew may:
+- dismiss the signal as noise
+- argue for checking it (potential asset value)
+- recommend staying on course (risk vs contract discipline)
 
-- dismiss it as noise
-- suggest checking it out
-- recommend staying on course
-
----
-
-# ⚖️ Player Decision Point
-
-Eventually players must decide:
-
-### Option A — Ignore the Signal
-
-→ continue course
-
-👉 GM:
-
-- signal persists
-- may reappear stronger
-- you can gently push curiosity
+👉 Use this to reinforce **Belt pragmatism and contract thinking**
 
 ---
 
-### Option B — Investigate (recommended)
+## ⚖️ Decision Point
 
-→ adjust trajectory toward signal
+You’re also right that “ignore it” needs more pressure against it. On a Helios ship, the strongest motivator is not wonder, but value.
 
-👉 This leads into main scenario
+Here is a stronger version:
+
+### Decision Point
+
+At this stage, the players must decide whether to stay on course or investigate the anomaly.
+
+#### Ignore the Signal
+
+- continue on the planned return trajectory
+- signal remains unresolved
+- GM may reintroduce it later as a stronger anomaly or delayed consequence
+
+#### Investigate the Signal
+
+- alter course and perform a closer passive sweep
+- opens the path into the main scenario
+
+### GM Push if the Players Hesitate
+
+If the table leans too hard toward ignoring it, use an NPC or internal ship logic to push them:
+
+- a crew member points out that unregistered debris, wreckage, or abandoned infrastructure could mean **salvage value**
+- someone notes that [[Helios]] may pay a bonus for a potentially claimable industrial find, undocumented wreck, or resource-relevant structure
+- an operations crew member argues that logging and verifying the anomaly is simply the professional thing to do on a Helios contract
+- an engineer points out that if there is unregistered wreckage in a traffic corridor, Helios would want it on record anyway
+
+You can phrase it in-world like this:
+
+> “If that’s wreckage, hidden infrastructure, or unregistered salvage, Helios is not going to complain that we took a closer look. Might even pay extra if it turns into a real find.”
+
+That makes the decision feel grounded in the economy of the setting.
 
 ---
 
-# 🎙️ Transition — Read Aloud
+## 🎙️ Transition — Read Aloud
 
-(when players commit to approach)
+Here is a slightly improved version of the approach text as well:
 
-> The ship adjusts its trajectory slowly, almost reluctantly.  
-> Thrusters fire in short, controlled bursts, nudging the vessel off its original course.
-> The signal does not get clearer. It gets stronger.
+> The ship adjusts course in slow, controlled bursts, nudging itself away from the planned return trajectory. The anomaly does not become clearer so much as denser, as if the sensors are beginning to pick up fragments of a larger picture without being able to assemble it.
 > 
-> Not in a clean way — not like a beacon or transmission — but in fragments.  
-> Pieces of something that almost align, then don’t.
+> The feed fills with intermittent returns that almost resolve into structure before breaking apart again. Not a beacon. Not a clean transmission. More like damaged systems, reflections, or something scattered across a wider volume of space.
 > 
-> The sensor feed begins to fill with noise. Not static. Structure.
-> 
-> Ahead of you, something is there. It just hasn’t fully resolved yet.
+> There is something ahead. The ship just has not seen enough of it yet.
+---
+
+# 🎯 End of Part 1
+
+👉 Players commit to investigation  
+👉 Tension increases, but no danger yet
 
 ---
 
-# 🎯 End of Act 1 Segment
-
-👉 Stop here  
-👉 Let tension build
-
-Next moment:
-
-👉 **Debris impact → players take control**
-
 ---
-
-# 💡 GM Notes
-
-- Let players feel like they _chose_ this
-- Do not rush
-- Encourage discussion
-- Build curiosity, not fear
 
 # 🧭 Act 1 — Part 2: The Debris Field
 
 ## Scene Purpose
 
 - sudden escalation
-- introduce ship damage + urgency
+- introduce damage + urgency
 - force teamwork
-- establish: _this is a survival situation now_
+- establish: this is now a **survival situation**
 
 ---
 
@@ -208,14 +221,13 @@ Next moment:
 
 > The signal grows stronger.
 > 
-> Not clearer — just louder. More present.  
-> The sensor feed begins to struggle, trying to resolve shapes that don’t fully exist yet.
+> Not clearer — just more present. The sensor feed struggles to resolve shapes that do not fully exist yet.
 > 
 > Then something hits the hull.
 > 
 > Hard.
 > 
-> A sharp metallic impact reverberates through the ship, followed by a second strike — louder, closer.
+> A sharp metallic impact reverberates through the ship, followed by a second strike, closer this time.
 > 
 > The sensor display floods with returns.
 > 
@@ -229,27 +241,27 @@ Next moment:
 
 # ⚠️ Immediate Situation
 
-- debris moving at high velocity
-- no time to avoid entirely
-- ship is already taking hits
+- high-velocity debris
+- impacts already occurring
+- no time for full avoidance
 
-👉 Players must react **now**
+👉 Immediate player action required
 
 ---
 
 # 🎲 Phase 1 — Immediate Response
 
-Ask players:
+Ask:
 
 👉 _What do you do?_
 
 ---
 
-## Possible Actions
+## Typical Actions
 
 - manual piloting / evasive maneuvers
-- redirect power
-- seal sections
+- reroute power
+- seal compartments
 - assist crew
 - stabilize systems
 
@@ -261,13 +273,13 @@ Ask players:
 
 **Success:**
 
-- reduces number of impacts
-- ship stays mostly stable
+- reduces impacts
+- ship remains controllable
 
 **Failure:**
 
-- additional impacts
-- control lag / spin
+- additional hits
+- temporary loss of control
 
 ---
 
@@ -275,8 +287,8 @@ Ask players:
 
 **Success:**
 
-- reroute power
-- prevent cascading failures
+- stabilizes systems
+- prevents cascading failures
 
 **Failure:**
 
@@ -285,17 +297,17 @@ Ask players:
 
 ---
 
-### General Coordination / Command
+### Command / Coordination
 
 **Success:**
 
-- crew acts efficiently
+- crew responds efficiently
 - reduces chaos
 
 **Failure:**
 
-- delays, confusion
-- slower response
+- delays and confusion
+- slower recovery
 
 ---
 
@@ -303,67 +315,33 @@ Ask players:
 
 > The ship shudders again, harder this time.
 > 
-> Something scrapes along the hull — a long, grinding sound that doesn’t stop immediately.
+> Something scrapes along the hull, a long, grinding sound that does not stop immediately.
 > 
 > Warning lights flare across multiple systems.
 > 
-> Pressure drops in one section.  
-> Power fluctuations cascade through the grid.
+> Pressure drops in one section. Power fluctuations ripple through the grid.
 > 
-> The ship responds — but not fast enough.
-> 
-> Every correction comes just a fraction too late.
+> The ship responds, but every correction comes just a fraction too late.
 
 ---
 
 # 💥 Phase 2 — Critical Damage
 
-Now introduce **consequences**
+These occur regardless of player performance:
 
----
-
-## Core Damage (always happens)
-
-- Main drive destroyed
-- Power reduced to emergency levels
+- main drive destroyed
+- power reduced to emergency levels
 - debris field still active
 
 ---
 
 ## Additional Complications (choose 2–3)
 
-### 1. Hull Breach
-
-- one section depressurized
-- requires sealing
-
----
-
-### 2. Injured Crew
-
-- 1–2 NPCs injured
-- or one player lightly injured
-
----
-
-### 3. Sensor Disruption
-
-- unreliable readings
-- delayed information
-
----
-
-### 4. Thruster Damage
-
-- maneuvering is sluggish
-- harder to control ship
-
----
-
-### 5. Fire / Electrical Failure
-
-- localized system failure
-- requires intervention
+- hull breach (localized depressurization)
+- injured crew
+- sensor disruption
+- thruster damage
+- fire or electrical failure
 
 ---
 
@@ -371,8 +349,9 @@ Now introduce **consequences**
 
 Players must:
 
-👉 bring ship under control  
-👉 prevent total failure
+- regain control
+- stabilize core systems
+- prevent further loss
 
 ---
 
@@ -380,40 +359,22 @@ Players must:
 
 ### Engineering
 
-**Success:**
-
-- stabilize power
-- prevent further damage
-
-**Failure:**
-
-- additional system offline
+**Success:** systems stabilized  
+**Failure:** additional system loss
 
 ---
 
-### Medical (if injuries)
+### Medical
 
-**Success:**
-
-- stabilize injured
-- prevent worsening
-
-**Failure:**
-
-- injuries worsen / complications
+**Success:** injuries stabilized  
+**Failure:** complications worsen
 
 ---
 
-### Coordination / Leadership
+### Coordination
 
-**Success:**
-
-- faster recovery
-- fewer consequences
-
-**Failure:**
-
-- chaos persists longer
+**Success:** faster recovery  
+**Failure:** prolonged chaos
 
 ---
 
@@ -421,20 +382,15 @@ Players must:
 
 > The impacts begin to thin out.
 > 
-> Not because the debris is gone —  
-> but because you’ve passed through the worst of it.
+> Not because the debris is gone, but because you have passed through the densest part of it.
 > 
 > The ship is still moving.
 > 
 > Barely.
 > 
-> Systems stabilize one by one, though not all of them come back online.
+> Systems come back online one by one, though not all of them respond.
 > 
-> The noise fades.
-> 
-> What remains is damage.
-> 
-> And the realization that something critical is missing.
+> What remains is damage. And the silence that follows it.
 
 ---
 
@@ -442,9 +398,9 @@ Players must:
 
 Players learn:
 
-- main drive is gone
-- power is limited
-- long-range travel impossible
+- main drive destroyed
+- power severely limited
+- return journey impossible
 
 ---
 
@@ -452,112 +408,83 @@ Players learn:
 
 > The main drive is no longer responding.
 > 
-> Not damaged.
+> The fusion core is still live. Power is still there. Control systems still answer.
 > 
-> Not offline.
+> But the superconducting coils for the magnetic nozzle are gone.
 > 
-> Gone.
+> Whatever hit the ship tore through the drive assembly and destroyed the field structure that shapes and directs the exhaust. Without it, the engine cannot produce controlled thrust.
 > 
-> Whatever hit you tore it out completely.
-> 
-> The ship can still maneuver — slowly, carefully — but it cannot make the journey back.
-> 
-> Not like this.
+> The ship can still maneuver on emergency systems, slowly and carefully, but the main drive is finished. You are not making the return journey on this ship unless something changes.
 
----
 
 # 🔍 Phase 4 — Sensor Sweep
-
-Now give them the hook.
-
----
-
-## Sensor Check
 
 Players scan surroundings.
 
 ---
 
-### Success:
+## Results
 
-- debris field origin detected
-- large wreck (frigate)
+**Success:**
+
+- debris origin identified
+- destroyed combat-capable vessel
 - nearby structure with weak power
 
 ---
 
-### High Success:
+**High Success:**
 
-- signs of combat
+- clear signs of prior engagement
 - multiple energy signatures
-- station partially active
+- station still partially active
 
 ---
 
-### Failure:
+**Failure:**
 
-- only vague shapes
-- GM can still reveal station slowly
+- incomplete data
+- structure revealed gradually
 
 ---
 
 # 🎙️ Read Aloud — Discovery
 
-> As the sensors recalibrate, the debris field begins to resolve into something more than random fragments.
+> As the sensors recalibrate, the debris field begins to resolve into something structured.
 > 
-> There is structure here.
+> The remains of a large vessel drift ahead, broken, segmented, unmistakably built for combat.
 > 
-> Patterns.
-> 
-> The broken remains of a ship drift ahead — large, segmented, unmistakably military.
-> 
-> And beyond it…
-> 
-> Something else comes into view.
+> Beyond it, something else comes into view.
 > 
 > An asteroid.
 > 
-> Not natural anymore.
-> 
 > Hollowed out.
 > 
-> And embedded within it —
+> And embedded within it—
 > 
 > A station.
 > 
 > Still rotating.
 > 
-> Still powered.
+> Still drawing power.
 > 
-> Not dead.
+> Not abandoned.
 
 ---
 
 # 🎯 End of Act 1
 
-Players now face:
+Players now have:
 
-👉 **clear problem**
-
-- cannot leave
-
-👉 **clear option**
-
-- investigate station
-
-👉 **clear tension**
-
-- unknown, damaged, but active
+- a clear problem → they cannot leave
+- a clear option → the station
+- a clear tone → damaged, active, uncertain
 
 ---
 
 # 💡 GM Notes
 
-- let players feel the damage
-- reinforce: they are stranded
-- keep pressure, but allow breathing moment
-- this is transition → exploration
-
----
-
-Wenn du willst, machen wir als nächstes:
+- reinforce material consequences (damage, limits)
+- keep tone grounded and technical
+- allow a short pause before Act 2
+- this is the transition from routine → survival

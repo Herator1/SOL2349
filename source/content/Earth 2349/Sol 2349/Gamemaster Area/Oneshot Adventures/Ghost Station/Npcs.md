@@ -1,37 +1,37 @@
 # 👥 NPCs — Ghost Station
 
-This chapter provides an overview of the key NPCs and factions present on the station, including **combat-ready stats** for use if the situation escalates.
+This chapter covers the key factions and NPCs on the station. Keep them lightweight and adjust numbers or stats as needed for pacing and group size.
 
-NPCs are intentionally lightweight and can be adjusted dynamically depending on group size and difficulty.
-
----
-
-# ⚔️ Corporate Security Survivors
-
-## Overview
-
-A small, heavily armed black-ops unit tasked with retrieving the artifact.  
-They are injured, low on supplies, and under time pressure — but still highly dangerous.
+Combat should stay dangerous and short. Most NPCs prefer leverage, cover, and survival over prolonged firefights.
 
 ---
 
-## 👤 Commander Elena Markovic
+# ⚔️ Recovery Team
 
-**Role:** Leader, tactical control  
-**Behavior:** calm, precise, decisive
+A small, heavily armed **deniable recovery unit**, likely [[Archeron]]-linked. Their mission is to recover the relic, not secure the station. They are injured, low on life support, and under time pressure, but still the most dangerous force present.
 
----
+**Behavior**
 
-### ⚙️ Stats
-
-- Guard: 10
-- Health: 12
-- Wounds: 3
-- Armor: 2
+- disciplined and efficient
+- mission-first mindset
+- uses cover, angles, and focused fire
+- will cooperate only if useful
+- withdraws if the objective is lost
 
 ---
 
-### 🧠 Attributes
+## Commander Elena Markovic
+
+**Role:** tactical leader, negotiation anchor
+
+**Stats**
+
+- Guard 10
+- Health 12
+- Wounds 3
+- Armor 2
+
+**Attributes**
 
 - Reflexes 3
 - Fitness 2
@@ -39,130 +39,110 @@ They are injured, low on supplies, and under time pressure — but still highly 
 - Intellect 2
 - Presence 3
 
----
-
-### 🎯 Skills
+**Skills**
 
 - Firearms 4
 - Command 3
 - Insight 2
-- Tactics / equivalent 3
+- Tactics 3
+
+**Equipment**
+
+- Carbine — 2d6, AP1, 50m, controlled
+- Sidearm — 1d6, 30m, safe
+- Combat Suit — Armor 2, Guard 5
+
+**GM Notes**
+
+- calm, precise, decisive
+- prefers control over aggression
+- recognizes useful outsiders quickly
 
 ---
 
-### 🔫 Equipment
+## Recovery Operative
 
-**Carbine** — 2d6, AP1, 50m, controlled  
-**Sidearm** — 1d6, 30m, safe
+**Role:** standard combat unit
 
-**Combat Suit** — Armor 2, Guard 5
+**Stats**
 
----
+- Guard 8
+- Health 10
+- Wounds 3
+- Armor 2
 
-### 🧭 Notes
-
-- does not waste actions
-- prioritizes control over aggression
-- will retreat if necessary
-
----
-
----
-
-## 👤 Security Operative (Standard)
-
-**Role:** Soldier
-
----
-
-### ⚙️ Stats
-
-- Guard: 8
-- Health: 10
-- Wounds: 3
-- Armor: 2
-
----
-
-### 🎯 Skills
+**Skills**
 
 - Firearms 3
 - Athletics 2
 - Perception 2
 
----
+**Equipment**
 
-### 🔫 Equipment
+- Rifle — 2d6, AP1, 60m
+- Sidearm — 1d6
 
-**Rifle** — 2d6, AP1, 60m  
-**Sidearm** — 1d6
+**GM Notes**
 
----
-
----
-
-## 👤 Heavy Gunner
-
-**Role:** Suppression / threat
+- works well in pairs
+- holds angles and choke points
+- rarely acts alone unless forced
 
 ---
 
-### ⚙️ Stats
+## Heavy Gunner
 
-- Guard: 12
-- Health: 14
-- Wounds: 3
-- Armor: 3
+**Role:** suppression, area denial
 
----
+**Stats**
 
-### 🎯 Skills
+- Guard 12
+- Health 14
+- Wounds 3
+- Armor 3
+
+**Skills**
 
 - Firearms 4
 - Endurance 3
 
----
+**Equipment**
 
-### 🔫 Equipment
+- Heavy Rifle — 2d6+1, AP2, 40m, unstable
 
-**Heavy Rifle** — 2d6+1, AP2, 40m, unstable
+**GM Notes**
 
----
-
-### 🧭 Notes
-
-- slow but dangerous
-- anchor in combat
+- slow, but dangerous
+- ideal for defensive corridors
+- creates “do not cross” zones
 
 ---
 
----
+# 🏴 Old Guard
 
-# 🏴 Pirate Old Guard
+The remaining station crew: smugglers, salvagers, operators, and former contractors. They are less equipped and less disciplined than the recovery team, but they know the station and use it well.
 
-## Overview
+**Behavior**
 
-Survivors of the station crew. Less equipped, but more adaptable and familiar with the environment.
-
----
-
-## 👤 Arman Volkov
-
-**Role:** Leader, negotiator  
-**Behavior:** calm, pragmatic, distrustful
+- pragmatic, defensive, suspicious
+- avoids fair fights
+- uses routes, barricades, and environment
+- motivated by survival and station continuity
 
 ---
 
-### ⚙️ Stats
+## Arman Volkov
 
-- Guard: 8
-- Health: 12
-- Wounds: 3
-- Armor: 1
+**Role:** leader, negotiator
 
----
+**Stats**
 
-### 🧠 Attributes
+- Guard 8
+- Health 12
+- Wounds 3
+- Armor 1
+
+**Attributes**
 
 - Reflexes 2
 - Fitness 2
@@ -170,165 +150,193 @@ Survivors of the station crew. Less equipped, but more adaptable and familiar wi
 - Intellect 2
 - Presence 3
 
----
-
-### 🎯 Skills
+**Skills**
 
 - Firearms 3
 - Persuasion 3
 - Insight 3
 - Survival 2
 
----
+**Equipment**
 
-### 🔫 Equipment
+- SMG / Rifle — 2d6, 40m
+- Sidearm — 1d6
 
-**SMG / Rifle** — 2d6, 40m  
-**Sidearm** — 1d6
+**GM Notes**
 
----
-
-### 🧭 Notes
-
-- avoids direct confrontation
-- prioritizes survival
+- calm, pragmatic, distrustful
+- avoids direct confrontation if possible
+- will trade territory before losing people
 
 ---
 
----
+## Old Guard Fighter
 
-## 👤 Pirate Fighter (Standard)
+**Role:** defender, ambusher
 
-**Role:** Defender
+**Stats**
 
----
+- Guard 7
+- Health 10
+- Wounds 3
+- Armor 1
 
-### ⚙️ Stats
-
-- Guard: 7
-- Health: 10
-- Wounds: 3
-- Armor: 1
-
----
-
-### 🎯 Skills
+**Skills**
 
 - Firearms 2
 - Melee 2
 - Stealth 2
 
----
+**Equipment**
 
-### 🔫 Equipment
+- Improvised Rifle — 2d6, unreliable
+- Melee Weapon — 1d6
 
-**Improvised Rifle** — 2d6, unreliable  
-**Melee Weapon** — 1d6
+**GM Notes**
 
----
-
----
-
-## 👤 Mechanic
-
-**Role:** Support / environment
+- prefers cover and short engagements
+- retreats if losing position
+- dangerous in familiar terrain
 
 ---
 
-### ⚙️ Stats
+## Station Mechanic
 
-- Guard: 6
-- Health: 10
-- Wounds: 3
-- Armor: 1
+**Role:** support, systems control
 
----
+**Stats**
 
-### 🎯 Skills
+- Guard 6
+- Health 10
+- Wounds 3
+- Armor 1
+
+**Skills**
 
 - Engineering 3
 - Systems 2
 
----
+**Abilities**
 
-### 🔧 Abilities
+- restore or stabilize systems
+- lock or unlock sections
+- reroute power
+- disable doors or access points
 
-- can restore systems
-- can lock/unlock areas
+**GM Notes**
 
----
-
----
-
-# ⚖️ Balance Notes
-
-## Security
-
-- stronger in direct combat
-- fewer numbers
-- less mobility
+- not a frontline fighter
+- valuable ally or target
+- can change encounters through environment rather than combat
 
 ---
 
-## Pirates
+# 👤 Rescuable NPC — Talia Serrano
 
-- weaker individually
-- better positioning
-- environmental advantage
+A trapped **mutineer technician**. She is useful because she connects the earlier mutiny to the current standoff and knows practical details about the freighter, hidden routes, and the relic’s concealment.
+
+She is not loyal to the Old Guard, does not trust the recovery team, and mainly wants to survive.
+
+**Suggested Location**
+
+- sealed maintenance recess
+- damaged crawlspace near the freighter bay
+- isolated service compartment with failing air or power
+
+**Stats**
+
+- Guard 6
+- Health 9
+- Wounds 3
+- Armor 1
+
+**Attributes**
+
+- Reflexes 1
+- Fitness 1
+- Coordination 3
+- Intellect 2
+- Presence 2
+
+**Skills**
+
+- Engineering 2
+- Systems 3
+- Mechanics 2
+- Deception 1
+- Insight 1
+
+**Equipment**
+
+- Tool Pistol / Cutter — 1d6, short range, industrial tool
+- Patch Suit — Armor 1, limited EVA protection
+
+**GM Notes**
+
+- frightened, exhausted, suspicious
+- not combat-capable
+- lies at first if she thinks it helps
+- becomes useful once safe
+
+**What She Can Offer**
+
+- freighter repair knowledge
+- hidden compartment clue
+- maintenance bypass routes
+- context on the mutiny and failed sale
+
+Use her if the players need:
+
+- a practical lead
+- a human rescue moment
+- a route to the freighter or relic that does not depend entirely on faction trust
 
 ---
+
+# ⚖️ Faction Snapshot
+
+|Aspect|Recovery Team|Old Guard|
+|---|---|---|
+|Direct Combat|High|Medium|
+|Numbers|Low|Medium|
+|Coordination|High|Low–Medium|
+|Environment Use|Medium|High|
+|Mobility|Limited|Better local access|
 
 ---
 
 # 🧠 GM Combat Guidance
 
-## If players start combat:
+Combat is not the default solution. If it happens, it should:
 
-👉 escalate fast, but keep it short
+- escalate the scenario quickly
+- cost resources, trust, or escape options
+- change faction behavior immediately
 
----
-
-### Security behavior
+**Recovery Team**
 
 - coordinated
-- uses cover
-- targets threats
+- uses cover and focused fire
+- targets priority threats
 
----
+**Old Guard**
 
-### Pirate behavior
-
-- chaotic but smart
-- uses environment
-- retreats if needed
-
----
+- opportunistic
+- uses terrain, ambushes, and fallback routes
+- avoids standing in open firefights
 
 ---
 
 # 🔥 Difficulty Scaling
 
-## Easier
+**Easier**
 
-- reduce number of NPCs
-- lower Guard values
+- reduce NPC numbers
+- remove heavy gunner
+- lower Guard by 1–2
 
----
+**Harder**
 
-## Harder
-
-- add 1–2 security operatives
-- increase coordination
-
----
-
----
-
-# 🎯 Important
-
-Combat is **not the default solution**.
-
-If it happens:
-
-👉 it should feel dangerous  
-👉 it should change the scenario significantly
+- add 1–2 recovery operatives
+- improve faction positioning
+- let the Old Guard use more environmental control

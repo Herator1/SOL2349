@@ -15,13 +15,13 @@ The expected playtime is **3–5 hours**, depending on pacing, player decisions,
 There is no single correct outcome. Success is defined by what the players choose to prioritize, what they are willing to risk, and what they are prepared to leave behind.
 
 [[Premade Characters]] - Crew of the Asterion  
-[[Plot Overview]]  
+[[Ghost Station - Plot Overview]]  
 [[Pictures & Maps - Ghost Station]]
-[[Act 1]]  
-[[Act 2]]  
-[[Act 3]]  
-[[Npcs]]  
-[[Outcomes and Rewards]]
+[[Ghost Station - Act 1]]  
+[[Ghost Station - Act2]]  
+[[Ghost Station - Act 3]]  
+[[Ghost Station - Npcs]]  
+[[Ghost Station - Outcomes and Rewards]]
 
 ### 🎧 Additional Atmosphere Track
 

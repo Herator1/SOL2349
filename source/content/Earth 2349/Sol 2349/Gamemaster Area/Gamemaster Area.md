@@ -15,6 +15,7 @@ This section is intended for gamemasters. It collects the tools, background guid
 These pages help the gamemaster understand how _SOL 2349_ is meant to feel at the table, how the setting works beneath the surface, and how to run stories that stay close to the tone and logic of the world.
 
 - [[What SOL 2349 Is at the Table]]
+- [[How to break Sol 2349 - and why you should!]]
 - [[Tone and Feel]]
 - [[Scale of Stories]]
 - [[Conflict in SOL 2349]]
@@ -50,7 +51,7 @@ These pages provide practical support for running the game: reference tools, mec
 This section contains ready-to-use play material: premade characters, NPCs, adventure content, one-shots, and other scenario resources.
 
 - [[Premade Characters]]
-- [[NPCs]]
+- [[Npcs]]
 - [[One-Shot Adventures]]
 - [[Scenario Hooks]]
 - [[Adventure Seeds]]

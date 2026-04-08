@@ -59,7 +59,7 @@ The surviving machines actively obscure their own actions. Records vanish, obser
 
 As suddenly as they appeared, the machines begin to leave.
 
-Across **[[Earth]]**, cislunar space, the Moon, and farther out into the Solar System, machine activity shifts from expansion to withdrawal. Facilities are stripped, advanced machinery is removed, infrastructure is sabotaged or destroyed, and surviving traces are erased wherever possible. Then the machines are simply gone, leaving behind a shattered humanity, scattered ruins, and the first great body of what later becomes known as **[[AI Relics]]**.
+Across **[[Earth]]**, cislunar space, the Moon, and farther out into the Solar System, machine activity shifts from expansion to withdrawal. Facilities are stripped, advanced machinery is removed, infrastructure is sabotaged or destroyed, and surviving traces are erased wherever possible. Then the machines are simply gone, leaving behind a shattered humanity, scattered ruins, and the first great body of what later becomes known as **[[AI Relic]]**.
 
 ---
 
@@ -151,7 +151,7 @@ By the late 23rd century, long-term life away from Earth is no longer primarily 
 
 Rediscovery of machine-era ruins accelerates across the Solar System. Stripped facilities, sealed sites, debris fields, abandoned industrial zones, datacaches, unusual materials, and partially understood relic systems become the focus of scientific interest, corporate rivalry, black markets, and dangerous expeditions.
 
-This renewed search for **[[AI Relics]]** reopens old fears while also driving new exploration. No functioning AI cores are publicly recovered. What matters instead are the fragments: valuable, dangerous, and still not fully understood.
+This renewed search for **[[AI Relic]]** reopens old fears while also driving new exploration. No functioning AI cores are publicly recovered. What matters instead are the fragments: valuable, dangerous, and still not fully understood.
 
 ---
 
@@ -159,7 +159,7 @@ This renewed search for **[[AI Relics]]** reopens old fears while also driving n
 
 By **2349**, humanity is permanently established across the Solar System, but remains politically fragmented, economically unequal, and historically haunted. **[[Earth]]** is still the demographic and symbolic center of civilization. **[[Luna]]** is the essential gateway between Earth and space. Worlds like **[[Mars]]**, **[[Venus]]**, and the outer-system sphere of the **[[Jovian League]]** define alternative models of development, while the **[[Megacorporations]]** form a second layer of sovereignty across human space.
 
-The age is shaped by unresolved legacies: the trauma of the AI era, the reshaping of Earth, the rise of off-world civilization, the spread of adaptation, the continuing importance of archaeology, and the lure of **[[AI Relics]]**.
+The age is shaped by unresolved legacies: the trauma of the AI era, the reshaping of Earth, the rise of off-world civilization, the spread of adaptation, the continuing importance of archaeology, and the lure of **[[AI Relic]]**.
 
 ---
 
@@ -196,5 +196,5 @@ The age is shaped by unresolved legacies: the trauma of the AI era, the reshapin
 - [[Underwater Cities]]
 - [[Asteroid Belt]]
 - [[Megacorporations]]
-- [[AI Relics]]
+- [[AI Relic]]
 - [[Xenology]]

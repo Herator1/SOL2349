@@ -103,7 +103,7 @@ Critics argue that Nyx has more influence than almost anyone else over defining 
 
 See also:
 - [[Postwar Reconstruction]]
-- [[AI Relics]]
+- [[AI Relic]]
 
 ### Data Vaults and Long-Duration Storage
 
@@ -169,13 +169,13 @@ Its relationship with [[NovaChem]] is quieter but still important. Environmental
 
 Its relationship with the [[Jovian League]] is more openly strained. The League relies on Nyx infrastructure in many places but remains deeply suspicious of megacorporate control over information systems, especially given Nyx’s reputation for secrecy and AI-adjacent expertise.
 
-Nyx’s relationship with [[AI Relics]] may be the most troubling of all.
+Nyx’s relationship with [[AI Relic]] may be the most troubling of all.
 
 ---
 
 ## AI Relics and Forbidden Computation
 
-Nyx is one of the actors most aggressively interested in **[[AI Relics]]**.
+Nyx is one of the actors most aggressively interested in **[[AI Relic]]**.
 
 Officially, this interest is framed in terms of signal archaeology, hardware forensics, machine-era storage recovery, and network defense against unknown legacy architectures. In practice, many analysts believe Nyx is especially interested in relics tied to compute hardware: datacores, exotic substrates, timing systems, signal-processing materials, and machine-era architectures that might improve storage density, routing, or predictive capacity.
 

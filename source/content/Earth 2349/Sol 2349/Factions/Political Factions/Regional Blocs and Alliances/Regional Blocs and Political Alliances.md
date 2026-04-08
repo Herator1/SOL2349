@@ -2,7 +2,7 @@
 
 The most important regional political alliance in the outer Solar System and one of the clearest alternatives to both megacorporate dominance and fragmented local rule. The League binds together autonomous worlds and settlements around shared diplomacy, infrastructure coordination, collective security, and scientific cooperation.
 
-### [[Belt Arbitration Tribunal]]
+### [[Free Space Tribunal]]
 
 The closest thing the [[Asteroid Belt]] has to a widely recognized high judicial authority. The Tribunal does not govern the Belt as a unified polity, but it provides a critical framework for resolving major interstation disputes involving claims, contracts, salvage rights, docking conflicts, transit liability, and habitat-level conflicts that exceed local authority.
 

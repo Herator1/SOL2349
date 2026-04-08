@@ -41,13 +41,15 @@ With a setting spanning the entire [[Solar System]]—from the crowded orbital i
 - [[Megacorporations]]  
 - [[Criminal Networks]]  
 - [[Cults and Religions]]  
+- [[Important Political Factions]]
+- [[NGOs and Unions]]
   
 ## Life in Space  
   
 - [[Short Stories - Life in 2349]]
 - [[Living in Space]]  
 - [[From a Rock to a Habitat]]
-- [[Food]]  
+- [[Food and Cuisine in the Solar System]]  
 - [[Money in Space]]  
 - [[Advanced Medicine]]  
 - [[Languages in 2349]]  
@@ -55,7 +57,8 @@ With a setting spanning the entire [[Solar System]]—from the crowded orbital i
   
 ## Lore and History  
   
-- [[Timeline of SOL 2349]]  
+- [[Timeline of SOL 2349]] 
+- [[Mysteries of the Solar System]]
 - [[Interplanetary Law]]  
 
 ## Technology of 2349  
@@ -70,6 +73,7 @@ With a setting spanning the entire [[Solar System]]—from the crowded orbital i
 ## Gamemaster Area  
 - [[Gamemaster Area]]  
 - [[Premade Characters]]
+- [[One-Shot Adventures]]
 
 ## About the Project
 - [[Inspirations and Influences]]

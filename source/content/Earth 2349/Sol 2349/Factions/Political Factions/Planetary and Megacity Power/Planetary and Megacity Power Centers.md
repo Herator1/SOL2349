@@ -26,7 +26,13 @@ where population, infrastructure, and governance are concentrated densely enough
 
 ### [[Mars Planetary Consensus]]
 
-The principal governing framework of [[Mars]], combining technocratic administration, civic legitimacy, scientific oversight, and long-horizon planetary planning. The Consensus deals with major questions of settlement expansion, biosystems management, orbital infrastructure approval, and system-wide strategic policy. It also oversees a limited but meaningful deterrence and defense structure within the Martian system. Compared with many other major powers in human space, it remains unusually coherent, even if major actors such as [[Shukra]] exert immense influence within its orbit.
+The principal governing framework of [[Mars]], combining technocratic administration, civic legitimacy, scientific oversight, and long-horizon planetary planning. Rather than functioning as a conventional party parliament, the Consensus is structured around the major systems that keep Martian civilization alive: civil administration, labor and habitat continuity, biosystems, science, trade, orbital infrastructure, health, and defense.
+
+Its members are selected through a mixture of sector-based elections, institutional representation, and long rotating terms, reflecting the Martian belief that governance must represent not only population, but the critical systems on which planetary survival depends. The Consensus oversees settlement expansion, biosystems policy, orbital infrastructure approval, inter-settlement coordination, and system-wide strategic planning across [[Mars]], [[Phobos]], and [[Deimos]].
+
+It also maintains a small but meaningful defensive structure focused on surveillance, deterrence satellites, orbital monitoring, and rapid-response security units. Mars does not field a major war fleet, but it is not undefended.
+
+Compared with many other major powers in human space, the Martian system remains unusually coherent. Even so, powerful actors such as [[Shukra]] exert immense influence within its orbit, especially wherever expertise, biosystems management, medical infrastructure, and adaptation policy become politically decisive.
 
 ### [[Venus Administrative Compact]]
 

@@ -1,5 +1,3 @@
-## [[Europan Ocean Access Program]]
-
 The **Europan Ocean Access Program** is the most ambitious xenological access project in human history and one of the most tightly regulated scientific undertakings in the Solar System. Led primarily through the institutions of the **[[Jovian League]]**, and financed through a mixture of League funding, private capital, scientific endowments, and wealth ultimately derived from the strategic profits of **helium-3 extraction in the Jovian system**, the Program exists for one purpose:
 
 **controlled and sustainable access to the subsurface ocean of [[Europa]].**

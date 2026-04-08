@@ -18,11 +18,6 @@
 
 ---
 
-Work on Factions/Political Actors:
-**Phase 1**
-- [[Important Political Factions]]
-- [[Worker Unions]]
-- [[Money in Space]]
 
 **Phase 2**
 - [[NGOs]]

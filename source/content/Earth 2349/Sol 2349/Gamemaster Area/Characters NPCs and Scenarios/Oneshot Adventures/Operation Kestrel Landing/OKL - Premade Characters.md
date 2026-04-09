@@ -2,6 +2,8 @@ The following five characters are designed as the player-facing marine team for 
 
 They should feel highly trained, professional, and capable — but still human. These are not super-soldiers. They are a compact intervention team operating with limited numbers, limited certainty, and no guarantee of reinforcement.
 
+The characters are created using 80 pp, instead of the usual 50 to reflect their elite operative status.
+
 ---
 
 ### 1. Lt. Talia Serrin — Team Commander

@@ -5,504 +5,407 @@
 ## **Part 1: Dispatch and Descent**
 
 ---
-## 🏢 **Starting Situation**
+# ⚙️ **ACT I — The Problem Below**
 
-The players are part of a small, independent service unit operating within Aphrodite Prime. Their work sits somewhere between maintenance, diagnostics, and problem-solving for issues that fall outside standard corporate workflows. They are not high-level specialists, but they are trusted to go where others do not.
+## **Scene Purpose**
 
-At the beginning of the scenario, the crew is already deep into an extended work cycle. Fatigue is present, conversations are shorter than usual, and routines are beginning to blur together. This is not unusual in Aphrodite Prime. Systems run continuously, and so do the people maintaining them.
-
-The call comes in without much ceremony. No escalation flags, no corporate tagging — just a direct assignment routed through their operations contact.
+Act I introduces Aphrodite Prime from below, establishes that AP-LC-47 is a real place with real people rather than just a problem marker, and gives the players enough direct evidence to conclude three things: something physical is wrong, the official data does not reflect reality, and the cause or decision point lies above them. By the end of the act, they should feel pushed upward, not because the plot says so, but because the lower cluster clearly cannot resolve this on its own.
 
 ---
 
-## 🎙️ **Read-Aloud: Dispatch**
+## **Part 1 — Dispatch**
+
+The players are part of a small independent service crew working under contract in Aphrodite Prime. They are used for diagnostics, irregular maintenance, and inconvenient jobs that larger operators do not want to commit full corporate teams to. This is not glamorous work. It is practical, underpaid, and often assigned late.
+
+The call comes at the end of a long cycle. That matters. Everyone is tired enough to want this to be routine.
+
+### **Read-Aloud — Dispatch**
+
+> The message comes in without priority tone. Just another job. AP-LC-47. Lower habitat. Maintenance designation. Sensor inconsistencies. Minor buoyancy fluctuations. Nothing critical.
+> 
+> “I know you’re at the end of your shift.”
+> 
+> A short pause.
+> 
+> “This came in flagged for independent verification.”
+> 
+> The data resolves cleanly. Too clean.
+> 
+> “You go down. Run diagnostics. File a report.”
+> 
+> “If nothing’s wrong, you’re done.”
+
+### **What the Players Know**
+
+The job appears routine. They have a cluster ID, a maintenance designation, and a report of minor sensor inconsistencies tied to buoyancy behavior. No emergency protocol has been triggered. No explicit corporate client is attached. The request originated locally.
+
+That last part is the first quiet anomaly.
+
+### **If the Players Contact Their Boss Immediately**
+
+This should be possible.
+
+If they ask why the job matters, their supervisor does not have much more to offer, but can reinforce the tone.
+
+**Anika Voss** knows:
+
+- the request bypassed some normal routing
+- the contract is legitimate
+- no corporate layer has claimed the issue
+- the team is expected to file a technical report, not start a political fight
+
+If pushed, she answers like this:
+
+> “If it was important enough for a full corporate response, you wouldn’t be going.”  
+> “If it was nothing, it wouldn’t have reached us.”  
+> “Go look. Tell me what’s actually there.”
+
+That answer should not solve anything. It should just underline that the crew has been sent into an information gap.
 
 ---
 
-> The message comes in without priority tone or warning. Just another job. A cluster ID appears on the screen: AP-LC-47. Lower habitat. Maintenance designation. Sensor inconsistencies. Minor buoyancy fluctuations. Nothing critical. A voice follows, calm and direct. “I know you’re at the end of your shift. I know this isn’t ideal.” A short pause. “This came in flagged for independent verification.” The data resolves into clean, stable values. Almost too clean. “You go down. Run diagnostics. File a report.” Another pause. “If nothing’s wrong, you’re done.”
+## **Part 2 — Descent**
 
----
+The trip downward is short, but it is one of the most important scenes in the act. This is where the players should start to feel Venus.
 
-## 🧠 **GM Notes: What the players know**
+Aphrodite Prime is not a space station in vacuum. It exists inside a moving, toxic atmosphere and must constantly maintain sealed interiors, atmospheric processing, and buoyancy compensation. The city’s vertical stratification is central to how it functions: upper zones feel more stable because more resources are spent keeping them that way, while lower zones feel the load directly.
 
-At this stage, the players are given only limited and intentionally unremarkable information:
+### **Read-Aloud — Transit**
 
-- The cluster shows **minor inconsistencies in sensor data**
-- No emergency protocols are active
-- No corporate authority is directly involved
-- The request comes from a **local source**, not from above
-
-👉 The job appears routine.
-
-👉 The phrasing “independent verification” is the first subtle red flag.
-
----
-
-## 🎯 **Player Objective (Initial)**
-
-- Travel to **AP-LC-47**
-- Verify system integrity
-- Identify cause of data inconsistencies
-- Submit a report
-
-No further instructions are given.
-
----
-
-# 🚇 **Descent into the Lower Layers**
-
-## 🧭 Transition
-
-Moving downward in Aphrodite Prime is not a simple relocation. It is a gradual shift through layers of infrastructure, each one slightly less controlled than the last.
-
-The descent happens through a combination of transport tubes, vertical lifts, and transfer nodes. Access is routine for maintenance crews, but still regulated and monitored.
-
----
-
-## 🎙️ **Read-Aloud: Transit**
-
-> The cabin detaches with a soft mechanical shift and begins to descend. There is no real sensation of movement, just a subtle change in weight and pressure. Through the semi-transparent panels, the city unfolds in layers — platforms, structural frames, and transit lines suspended in dense clouds. The further down you go, the tighter it becomes. More infrastructure. Less space between it. The light changes. Slightly dimmer. Slightly warmer. Everything still works, but it feels closer. Then, briefly — a flicker. A subtle drop, barely more than a fraction of a second. The system responds immediately. “Minor fluctuation. No action required.” No one else reacts.
-
----
-## 🌍 **Environmental Shift (GM Guidance)**
-
-As the players descend, describe gradual but noticeable changes:
-
-- The air becomes **warmer and heavier**
-- Surfaces look less pristine, more used
-- Structural elements become more visible
-- The density of infrastructure increases
-
-👉 Nothing is broken.  
-👉 But everything feels **closer to its limits**.
-
----
-## ⚠️ **First Subtle Anomaly**
-
-During the descent, introduce a small, easily dismissible irregularity:
-
----
-### 🎬 Moment:
-
-- a brief, almost imperceptible drop
-- a flicker in lighting
-- a slight delay in system response
-
----
-### 🎙️ System Response:
-
+> The cabin detaches and begins to descend. Through the semi-transparent panels, the city unfolds in layers — platforms, structural frames, transit tubes, service spines disappearing into amber cloud.
+> 
+> The further down you go, the denser it becomes. More structure. More load. Less empty space.
+> 
+> The light shifts. Warmer. Dimmer. The walls around you feel thicker, more industrial, more permanent.
+> 
+> Then — a brief drop. Almost nothing.
+> 
 > “Minor fluctuation. No action required.”
+> 
+> No one reacts.
 
----
-## 🧠 GM Note:
+### **GM Guidance**
 
-This is important.
+Layer in sensory detail:
 
-- It is not dramatic
-- It does not trigger alarms
-- No NPC reacts strongly
+- the air is slightly warmer and more humid when the cabin seals cycle
+- there is a faint chemical tang from filtration systems and industrial processing
+- lower transit lines feel closer to the city’s bones: more braces, more pressure bulkheads, more inspection ports
+- the exterior view, where visible at all, is not skyline but structure suspended in cloud
 
-👉 But it is **real**
+This is a good place for one or two silent NPCs: a worker with a patched utility jacket, a logistics runner half asleep against the wall, a caretaker holding a pressure-rated crate. None react to the fluctuation. That tells the players more than dialogue would.
 
-This is the first physical hint that:
+### **Suggested Checks**
 
-> **The system is not as stable as it claims**
+**Analysis / Systems / Operations**  
+Notice the fluctuation is real, even if tiny. The system response is disproportionately fast and tidy.
 
----
+**Observation / Science**  
+Pick up that the descent route itself is built around redundancy and compartmentalization. Venusian infrastructure assumes the outside is always hostile.
 
-## 👥 Optional NPC Presence
+**Presence / Social**  
+Read the passengers: not frightened, not surprised, just used to this.
 
-You may include a few other passengers:
+### **If the Players Contact Their Boss During Transit**
 
-- maintenance workers
-- logistics personnel
-- silent, tired individuals
+Anika can only confirm the packet they already have. If they mention the drop and the automated reassurance, she gives a neutral answer:
 
-None of them react noticeably to the fluctuation.
+> “Log it. Could be routine compensation.”  
+> “Could also be why you’re going.”
 
-👉 This reinforces:
-
-> **Instability is normalized**
-
----
-## 🎯 Purpose of the Descent Scene
-
-This part of the scenario serves several key functions:
-
-- establishes the **vertical structure of the city**
-- introduces the **tone of controlled instability**
-- creates contrast between upper and lower layers
-- subtly signals that something is wrong
-
-Without explicitly stating it.
-
----
-## 🔚 Transition to Part 2
-
-The transport slows. Systems adjust. The structure around them becomes tighter, more crowded. AP-LC-47 is close. The real investigation begins once they step out of the transport system and into the cluster itself.
-
-## **Part 2: AP-LC-47**
-
-## 🏭 **Arrival in the Cluster**
-
-When the players step out of the transit system into AP-LC-47, the difference is immediate. The transition is not dramatic, but it is undeniable. The space feels tighter, more crowded, more exposed. Infrastructure is no longer hidden behind clean surfaces — it is visible, patched, extended, and in constant use.
-
-The cluster is fully operational. People are working, moving, living. Nothing appears broken at first glance. And yet, everything feels closer to its limit.
-
----
-### 🎙️ Read-Aloud: Arrival
-
-> The doors open with a muted mechanical sound, and the air changes immediately. Warmer. Heavier. The space beyond is tighter, layered with pipes, cables, and structural elements that run along every surface. Nothing is hidden here. Everything is part of the system, and all of it is in use. People move through the corridors with purpose, barely slowing as they pass. Conversations are short, voices low. Somewhere in the background, something hisses — a pressure release, controlled and routine. The structure beneath your feet feels solid, but not rigid. There is a faint give to it, almost imperceptible, like something constantly adjusting. Everything works. But nothing feels comfortable.
+Again: she does not stop them, but she does not validate their suspicion yet.
 
 ---
 
-## 👥 **Initial Interactions**
+## **Part 3 — Arrival in AP-LC-47**
 
-The presence of the players does not go unnoticed. They are clearly not part of the local routine. Their equipment, their movement, the way they observe — it sets them apart.
+AP-LC-47 should feel like a functioning lower habitat, not a disaster zone. That is important. The moral force of the scenario comes from the fact that this is a living part of the city, not an already-abandoned shell.
 
-Reactions are subtle:
+This cluster sits in the lower service bands: dense residential pockets, repair shops, recycler lines, maintenance access corridors, cheap food stalls, pressure doors with old seals, and too much infrastructure pushed through too little space. It is visibly maintained, but not comfortably. A lot of the environment is polymer-composite, patched paneling, utility paint, and exposed structural ribbing. The city here is not elegant. It is held together. That fits Aphrodite Prime’s broader logic as a layered city where failure is unequally distant depending on altitude.
 
-- brief looks that linger a moment too long
-- conversations that stop and resume once they pass
-- people who seem to wait before continuing what they were doing
+### **Read-Aloud — Arrival**
 
-No one confronts them directly at first, but the awareness is there.
+> The doors open. The air feels warmer, heavier, touched by filtration chemicals, cooking oil, warm plastic, and machine heat. Pipes and cable trunks run along the walls and overhead in disciplined chaos. Some are original. Some are newer. Some are clearly not supposed to be there.
+> 
+> People move with purpose, but without ease. A repair stall is open in an alcove. A food counter operates behind a pressure curtain. Somewhere nearby, a recycler coughs and restarts.
+> 
+> The structure beneath your feet gives just slightly as load shifts through it.
+> 
+> Everything works.
+> 
+> Nothing feels comfortable.
 
-If the players engage, they quickly pick up a pattern. The locals are not panicking — but they are not relaxed either. There is tension beneath the surface, something that has not yet escalated, but is clearly present.
+### **What the Players See Right Away**
 
----
+Give them visible world detail:
 
-## 🧠 **First Information Layer**
+- a local vendor serving protein wraps and hot filtered tea through a scratched service hatch
+- a child dragging a broken fan housing like a toy
+- a repair tech replacing a pressure seal by hand because the official replacement unit has not arrived
+- faded maintenance markings half-covered by newer utility labels
+- residents glancing at system displays mounted in corridor walls, then looking away
 
-Through conversation, observation, or simple presence, the players can learn:
-
-- fluctuations have been happening for days
-- nothing severe, but noticeable
-- official responses have been minimal or dismissive
-
-At some point, a local technician approaches them — cautiously, but with intent.
-
----
-
-### 🎭 **Yara N’Doye**
-
-Yara is not openly confrontational, but she is direct once she commits to the interaction. She has already tried to raise concerns through official channels and has been ignored.
+The locals notice the players quickly. Not with fear, but with calculation. They are visibly not part of the everyday rhythm down here.
 
 ---
 
-### 🎙️ Read-Aloud: Yara
+## **Part 4 — Core Investigation**
 
-> She watches you for a moment before stepping closer, lowering her voice slightly. “You’re not corporate.” It’s not a question. Her eyes flick briefly toward a nearby corridor before returning. “Good.” A short pause. “Tell me something. Your readings… do they match what you’re seeing?” She studies your reaction carefully. “Because ours don’t.”
+This is the real playable center of Act I. Do not collapse it into one roll. The players should be able to move around, ask questions, inspect systems, and solve one small local problem while the larger truth comes into focus.
 
----
+Use two or three of the following elements.
 
-## 🔧 **Investigation Begins**
+### **Investigation Point A — Sensor Node**
 
-Once the players begin their work, the inconsistencies become clear.
+A corridor-side maintenance interface shows nominal buoyancy and structural readings.
 
-This is not a single failure point. It is a mismatch between:
+On paper, everything is fine.
 
-- what the system reports
-- and what is physically happening
+**Systems / Operations / Analysis** reveals that the values are internally consistent, but too smooth. Natural system noise is missing. The data looks cleaned.
 
----
+### **Investigation Point B — Compensator Housing**
 
-## 🧪 **Suggested Discoveries (flexible, depending on playstyle)**
+A buoyancy or stabilization subsystem is cycling more often than the display suggests.
 
-These should not require perfect success — partial results are enough to move forward.
+It is audible before it is visible: a repeating pressure equalization thump, a slight lag, then recovery.
 
-### Systems / Analysis
+**Engineering / Robotics / Science** reveals that the hardware is not catastrophically damaged. It is compensating more than official values admit.
 
-- sensor values are internally consistent
-- but do not align with expected physical behavior
+### **Investigation Point C — Small Local Problem**
 
-### Engineering / Robotics
+Use one practical issue so the players interact with the place, not just the plot.
 
-- hardware is functional
-- no critical damage or failure
+Choose one:
 
-### Observation
+- a pressure door sticks and needs a manual override
+- a service platform tilts enough to jam a delivery cart
+- a recycler line backs up and spills light composite waste into the corridor
+- a neighborhood utility tap keeps resetting because it is being deprioritized by the local network
 
-- subtle structural shifts
-- slight inconsistencies in movement or balance
+If the players help, they earn goodwill and get more open conversation from locals.
 
----
+### **Investigation Point D — Residents**
 
-## ⚠️ **The Key Insight**
+If they ask around, people mention:
 
-The cluster is not failing in a conventional sense.
+- subtle fluctuations for several days
+- official responses that were dismissive or delayed
+- a recent inspection team that “made the numbers look better” but changed nothing practical
 
-> The data is wrong.
+### **Yara N’Doye**
 
----
+Yara should appear once the players have touched at least one real system.
 
-## 🎬 **Physical Confirmation**
+### **Read-Aloud — Yara**
 
-At an appropriate moment — ideally while the players are focused on a system or interacting with the environment — introduce a tangible effect.
+> She watches you work for a moment before stepping closer. “You’re not corporate.”
+> 
+> A pause.
+> 
+> “Good.”
+> 
+> Her voice drops. “Tell me something. Your readings — do they match what you’re seeing?”
+> 
+> She studies your faces carefully.
+> 
+> “Because ours don’t.”
 
----
+Yara should not dump everything immediately. She is testing whether the players are honest, useful, or just another layer of denial.
 
-### 🎙️ Read-Aloud: Fluctuation
+### **Suggested Checks**
 
-> It starts as a subtle shift, more felt than seen. The weight under your feet changes — not enough to throw you off balance, but enough to register. Loose objects slide a fraction of a centimeter along a surface. A faint structural sound follows, deep within the framework of the cluster. Not a break. Not a failure. Just movement. Then, just as quickly, it settles. The system responds almost instantly. “Minor fluctuation. No action required.” The message is calm. Routine. Around you, people pause for a brief moment — then continue.
+**Systems / Analysis**  
+Identify that the numbers are wrong, not the basic instruments.
 
----
+**Engineering / Robotics**  
+Confirm the hardware is stressed but not obviously broken.
 
-## 🧠 **GM Note**
+**Social / Presence**  
+Win local trust, especially if the crew helps with the small infrastructure problem.
 
-This moment is critical.
-
-- it confirms that something **physical** is happening
-- it contradicts the system’s “stable” output
-- it shows that locals are **used to this**
-
----
-
-## 👥 **Follow-up Interaction (optional but recommended)**
-
-If the players return to Yara after this:
-
----
-
-### 🎙️ Read-Aloud: Yara Reaction
-
-> She doesn’t look surprised when you describe it. Just tired. “Yeah,” she says quietly. “That’s new normal.” Her gaze drifts briefly toward the ceiling, as if listening to something beyond it. “We reported it. Multiple times.” A short pause. “They sent a team down last week.” She lets out a short breath. “After that, the numbers looked perfect.” Another pause. Longer this time. “That’s when it got worse.”
-
----
-
-## 🔍 **Final Clue (Transition Hook)**
-
-With further inspection, the players can identify:
-
-- system logs have been modified
-- entries overwritten or normalized
-- trace of an external access point
+**Observation / Science**  
+Notice repeated micro-adjustments in the environment: swinging cables, sliding loose items, residents bracing automatically during tiny load shifts.
 
 ---
 
-### 🎯 Key Finding:
+## **Part 5 — Physical Confirmation**
 
-> **Override source: Mid-Level Node (Delta Network)**
+Once the players have enough information to suspect manipulation, give them one direct physical event.
 
----
+### **Read-Aloud — Fluctuation**
 
-## **Part 3: Pressure and Direction**
+> A subtle shift runs through the structure. Loose objects slide. A hanging cable swings and slowly settles. Something deep in the framework gives a low metallic groan, not like a break, but like weight moving where it should not.
+> 
+> Then the system voice cuts in, smooth and immediate.
+> 
+> “Minor fluctuation. No action required.”
+> 
+> Around you, people pause for half a second — then carry on.
 
----
-## 👮 **Optional Encounter — Station Security**
+This is the moment where suspicion becomes certainty.
 
-At some point during the investigation — ideally after the players have gathered first inconsistencies or spoken to locals — introduce a controlled interruption.
+The cluster is physically unstable in small but measurable ways, and the public-facing system response is minimizing it.
 
-This is not a raid.  
-It is not aggressive.  
-It is **routine control**.
+If the players go back to Yara now, she becomes more explicit:
 
-Security personnel enter the area with calm precision. Their presence is noticeable, but not disruptive. They do not rush, do not shout, and do not escalate.
-
----
-
-### 🎙️ Read-Aloud: Security Arrival
-
-> The shift in atmosphere is subtle, but immediate. Conversations drop in volume. Movement slows just slightly. Three figures enter the corridor, their equipment clean, their posture controlled. No visible urgency. No visible concern. One of them scans a nearby interface without looking at it directly, as if the result is already known. “Routine verification,” one of them says, voice even, almost detached. “No cause for concern.” Their attention moves across the space — briefly, precisely — and then settles on you. Not hostile. Not welcoming. Just… aware.
-
----
-
-## 🧠 **What Security Actually Does**
-
-- scans local systems
-- checks interfaces and access points
-- briefly interacts with data nodes
-
-👉 If players observe closely:
-
-- data is not truly checked
-- it is **aligned**
-- inconsistencies disappear from displays
+> “That’s been happening more often.”  
+> “We reported it.”  
+> “They sent a team.”  
+> “After that, the numbers looked perfect.”  
+> “That’s when it got worse.”
 
 ---
 
-### 🎯 Key Insight:
+## **Part 6 — Security Pressure**
 
-> **They are not fixing the system.  
-> They are correcting what is visible.**
+The security scene should happen after the players have enough information to feel clever, but before they have a complete explanation.
 
----
+### **Read-Aloud — Security Arrival**
 
-## 🎭 **Player Interaction**
+> The corridor changes before the people in it do. Conversations dip. Movement slows. Three security personnel enter without hurry, their equipment clean, posture neutral, faces unreadable.
+> 
+> “Routine verification,” one of them says.
+> 
+> No concern. No urgency.
+> 
+> One kneels at a system interface. Another scans the corridor. The third watches you.
 
-If approached, security remains polite but firm:
+### **What Security Actually Does**
 
-- they do not answer deeper questions
-- they redirect responsibility
-- they discourage further investigation
+They do not repair anything.
 
-They will not initiate combat unless directly attacked.
+They:
 
----
+- scan local nodes
+- reconcile or overwrite displayed anomalies
+- align values to acceptable output
+- make the visible problem disappear
 
-## 🔥 **Important Moment**
+If the players observe closely, they can catch the distinction.
 
-During this encounter, **Yara disappears**.
+### **Suggested Checks**
 
-She does not confront security. She does not argue.
+**Systems / Operations**  
+Realize the process is not diagnostics but normalization.
 
-👉 She avoids them.
+**Presence / Social**  
+Draw limited answers without escalating the scene.
 
-This reinforces that:
+**Observation**  
+Notice that locals are trying not to be noticed.
 
-- locals do not trust the system
-- interference has consequences
+### **If the Players Confront Security**
 
----
+Security stays polite and procedural.
 
----
+> “Your contract does not include oversight.”  
+> “This area is under review.”  
+> “No cause for concern.”
 
-## 🧑‍🏭 **Darian Velasco — Local Coordinator**
+They will not start a fight unless attacked. Their purpose here is to show that official attention exists — and that it is pointed at appearances.
 
-Velasco is the one who initiated the request that brought the players here. He is not a formal authority figure, but he carries weight within the cluster. People listen to him because he understands both the systems and the reality of living under them.
+### **Yara’s Reaction**
 
-He does not seek the players immediately. Instead, he observes first. When he is certain they are not part of the official response structure, he approaches.
+Yara disappears during this scene. She does not challenge security. She avoids being seen by them.
 
----
-
-### 🎙️ Read-Aloud: Velasco
-
-> He doesn’t introduce himself right away. Just steps into the edge of the conversation, arms crossed, watching you for a moment longer than necessary. “You’re not with them,” he says eventually, nodding slightly in the direction the security team went. Not a question. He studies your equipment, your posture, the way you look at the space around you. “Good.” A short pause. “Then maybe you’ll actually tell me what’s going on.” His gaze shifts briefly upward, toward layers of structure you can’t see from here. “Because whatever it is… it didn’t start down here.”
-
----
-
-## 🧠 **Velasco’s Role**
-
-Velasco serves as:
-
-- confirmation that the issue is **real and ongoing**
-- a grounded perspective on local impact
-- a narrative push toward escalation
-
-He does not provide solutions.  
-He provides **context and pressure**.
+That matters.
 
 ---
 
-## 🎯 **Information Velasco can share**
+## **Part 7 — Velasco and the Push Upward**
 
-- fluctuations have increased after a recent “inspection”
-- reports sent upward were ignored
-- access to higher layers is restricted
+Velasco enters once security has left or once the players are clearly outside the official response.
 
-Most importantly:
+### **Read-Aloud — Velasco**
 
-> he believes the source is **not local**
+> He steps in only after the security team has moved on. He studies you first, then the corridor display, then the direction they went.
+> 
+> “You’re not with them,” he says.
+> 
+> Not a question.
+> 
+> “Good.”
+> 
+> He looks upward, through layers of structure no one can actually see.
+> 
+> “Because whatever this is, it didn’t start down here.”
 
----
+Velasco is the cluster’s local coordinator, formal or informal depending on how you want to frame him. He is not a revolutionary and not a hero. He is the person who has been trying to get someone to take this seriously.
 
-## ⚠️ **Decision Reinforcement**
+He can give the players:
 
-At this point, multiple elements converge:
+- confirmation that the problem worsened after the last official inspection
+- confirmation that reports sent upward went nowhere
+- the sense that local systems no longer have authority over what is happening
 
-- system data does not match reality
-- security is actively smoothing inconsistencies
-- locals confirm the issue is worsening
-- the source points upward
+If the players tell him what they found, he becomes the emotional and practical voice of the act. He cannot solve it. He can tell them that staying here will not.
 
-The players now have a clear direction — even if no one explicitly tells them to go.
+### **If the Players Contact Their Boss Now**
 
----
+This is the most important version of that conversation.
 
-# 🚇 **GM Section — Paths to the Mid-Level**
+If they call Anika after seeing the fluctuation, the false data, and the security normalization, she should pause longer than before.
 
-The players must now find a way to move upward into the corporate layer. There is no single correct solution. Aphrodite Prime allows movement between layers — but not equally, and not without friction.
+Then:
 
----
+> “You were sent to verify a local anomaly.”
+> 
+> A pause.
+> 
+> “So verify it.”
+> 
+> If they press harder:  
+> “If the source is above your layer, document that too.”  
+> “I’m not authorizing a crusade.”  
+> “I’m also not telling you to walk away.”
 
-## 🧭 **1. Official Transit (Most Likely)**
+That answer is useful because it does three things:
 
-The players use the standard transport network.
-
-This requires:
-
-- a plausible reason
-- minimal system access
-- or social manipulation
-
-👉 This path is:
-
-- controlled
-- monitored
-- but not airtight
-
-Mid-level systems will flag them as **out-of-band**, but not immediately block them.
-
----
-
-## 🔧 **2. Maintenance Routes**
-
-Hidden or semi-official access paths exist within the infrastructure:
-
-- vertical service shafts
-- maintenance corridors
-- legacy access routes
-
-These are:
-
-- less monitored
-- physically demanding
-- potentially dangerous
-
-👉 This path reinforces:
-
-- the physicality of the city
-- the “inside the machine” feeling
+- confirms she believes them, at least partly
+- avoids officially protecting them
+- gives the GM a believable reason the crew keeps going
 
 ---
 
-## 🕶️ **3. Local Contacts / Informal Access**
+## **Part 8 — Exit Vectors**
 
-Velasco or other locals can point the players toward:
+By now the crew should have enough to conclude:
 
-- transport workarounds
-- loosely controlled access points
-- individuals who can move people between layers
+- the instability is real
+- the data is being manipulated
+- the decision or source lies above the cluster
 
-This may involve:
+Do not leave the upward move vague. Give the GM concrete handles.
 
-- favors
-- trust
-- or negotiation
+### **Possible Ways Up**
+
+**Official Transit**  
+They ride the standard network with a plausible maintenance pretext, spoofed access, or social confidence.
+
+**Maintenance Routes**  
+They use service shafts, utility corridors, or older internal pathways that bypass some formal control.
+
+**Local Contact / Workaround**  
+Velasco points them toward a semi-legal route, a maintenance relay, or someone who moves people between layers for the right reason.
+
+No matter which route they choose, the result should be the same:
+
+They reach the mid-level.  
+They are not fully authorized.  
+But they are not stopped yet.
 
 ---
 
-## 🎯 **GM Guidance**
+## **End of Act I**
 
-No matter which path the players choose, the outcome should be:
+By the end of the act, the players should have:
 
-- they reach the mid-level
-- but are **not fully authorized**
+- direct evidence that the environment is physically unstable
+- evidence that official data is being normalized or overwritten
+- a clear social and technical reason to move upward
+- at least one believable path to do so
 
-They are:
+The core realization at the end of Act I is simple:
 
-> **allowed to be there — but not expected**
-
----
-## 🎯 **End of Part 2 — Decision Point**
-
-At this stage, the players understand:
-
-- the problem is real
-- the system is misrepresenting it
-- the source is external
-
-They must now decide:
-
-- accept the situation and report
-- or pursue the origin of the manipulation
-
-## 🧩 **Transition to Act II**
-
-By the end of Act 1, the players should understand:
-
-- the problem is real
-- it is being hidden
-- and its source lies above
-
-They are no longer responding to a job.
+> The cluster is not being ignored.  
+> It is being managed.

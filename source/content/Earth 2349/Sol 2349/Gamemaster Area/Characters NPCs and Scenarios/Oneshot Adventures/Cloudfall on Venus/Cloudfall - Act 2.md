@@ -1,536 +1,309 @@
 # 🏙️ **ACT II — The System Above**
 
-## **Part 1: Entry into the Mid-Level**
+## **Scene Purpose**
 
----
-## 🌆 **Arrival**
+Act II is the operational heart of the scenario. The players leave behind the visible stress of the lower cluster and enter the layer where Aphrodite Prime turns instability into procedure. This is not the luxurious top of the city yet, but the managerial and technical middle: routing, diagnostics, customs, scheduling, supervisory infrastructure, and the vast everyday machinery that keeps a Venusian floating city feeling stable to the people who can afford stability.
 
-The transition into the mid-level of Aphrodite Prime is immediate, but not dramatic. There is no clear boundary, no visible line that separates one world from another. And yet, the difference is unmistakable.
+This act should not feel like a heist. The players are not breaking into a secret fortress. They are moving through a functioning system that was never designed for them, trying to get close enough to see what it is doing behind its polished surfaces. At first they are tolerated. Then they are noticed. Then they matter.
 
-The environment opens up. Space becomes available again. Surfaces are clean, uninterrupted, and deliberately designed. Infrastructure disappears behind panels and structure. What was exposed below is hidden here. The system is still present — but no longer visible.
+By the end of the act, the players should have made several meaningful choices, reached Node 3 through their own approach, uncovered the logic behind the false stability of AP-LC-47, and forced the system to acknowledge them as more than background noise.
 
----
-### 🎙️ Read-Aloud: Mid-Level Entry
+## **Part 1 — Entry into the Mid-Level**
 
-> The space opens around you as you step out of the transit system. The air feels different — cooler, cleaner, controlled. Surfaces are smooth, uninterrupted, almost reflective. There are no exposed cables, no improvised repairs, no visible strain. People move through the space without hesitation, their pace steady, their attention focused. No one rushes. No one lingers. The system is still here. You just don’t see it anymore.
+The transition into the mid-level should feel immediate but understated. There is no dramatic checkpoint separating one world from another. Instead, the environment simply changes until the players realize they are no longer in the same city they just left.
 
----
-## 🧠 **Immediate Contrast**
+The corridors widen. Surfaces become cleaner and more continuous. Polymer paneling is unscarred, signage is embedded instead of bolted on, airflow is quiet and evenly distributed, and every display seems to present calm, legible certainty. The exposed guts of the lower cluster are gone. The system is still everywhere, but here it has the confidence to disappear behind walls.
 
-The players should feel the difference without needing it explained:
+### **Read-Aloud — Mid-Level Entry**
 
-- temperature and air quality are controlled
-- noise levels are lower
-- movement is structured and efficient
+> The space opens around you as you step out of the transit system. The air is cooler here, cleaner, dry in a way that feels almost curated after the warmth below. Surfaces are smooth, uninterrupted, and softly reflective. Lighting is even, with no visible flicker, no exposed fixtures, no improvised repairs. People move with practiced focus through the concourse — contract staff, systems clerks, inspectors, freight coordinators, maintenance teams in clean utility wear. No one looks relaxed. No one looks hurried. Everything here feels balanced, calibrated, and already accounted for.
 
-Nothing appears broken.  
-Nothing appears stressed.
+The players should quickly understand that this is not a richer version of the lower cluster. It is a different relationship to the same city. Below, systems were felt. Here, systems are trusted.
 
-👉 This is what “stability” looks like.
+Public displays offer exactly the sort of reassurance the players now know how to distrust. Cluster statuses cycle quietly in one corner of a corridor screen. Structural load remains nominal. Buoyancy distribution remains stable. AP-LC-47 is listed as operational.
 
----
+### **Read-Aloud — Passive Monitoring**
 
-## ⚠️ **System Recognition**
-
-The players are not invisible here.
-
-Their presence is registered automatically:
-
-- IDs are scanned
-- access levels are evaluated
-- movement is tracked
-
-They are not stopped immediately — but they are not fully authorized either.
-
----
-
-### 🎙️ Read-Aloud: System Response
-
-> As you move deeper into the concourse, a nearby interface flickers briefly. A soft tone follows, barely audible. For a moment, a line of text appears — then disappears again. Access tier mismatch. Flagged for passive monitoring. Nothing else happens. No alarms. No intervention. The space continues as if nothing has changed.
-
----
-
-## 🧠 **GM Note**
-
-This is critical for tone:
-
-- the system does not react with force
-- it reacts with **observation and classification**
-
-The players are now:
-
-> **a known irregularity**
-
----
-
-## 👮 **Soft Security Presence**
-
-Security in the mid-level operates differently from the lower cluster. There are no patrols moving aggressively through space. Instead, presence is subtle, controlled, and targeted.
-
-If the players draw attention, a security representative approaches — calmly, without urgency.
-
----
-
-### 🎙️ Read-Aloud: Security Interaction
-
-> A single figure approaches, posture relaxed, movement precise. No visible rush, no sign of escalation. “You’re outside your assigned service band,” they say, voice neutral. Their gaze moves briefly across your equipment, then back to you. “State your task.” There is no threat in the question. But there is no ambiguity either.
-
----
-
-## 🎭 **Interaction Outcome**
-
-No matter how the players respond — as long as they remain plausible:
-
-- they are allowed to continue
-- but remain under observation
-
-Security will not escort them out unless they escalate.
-
-👉 This reinforces:
-
-> **The system prefers to manage, not confront**
-
----
-
-## 🔍 **Finding the Path Forward**
-
-The players are now in the correct layer — but not yet at the source.
-
-The key location is:
-
-> **AP-MID-Delta Node 3**
-
-This is not a public location. It is part of the infrastructure that supports the visible stability of the mid-level.
-
-The players can locate it through:
-
-- system access and data traces
-- physical navigation and signage
-- or indirect information gathered in the environment
-
----
-
-## 🧠 **Environmental Clue**
-
-Displays throughout the area show system-wide stability metrics:
-
-- buoyancy: stable
-- structural load: nominal
-- cluster status: operational
-
-Including:
-
-> **AP-LC-47 — Stable**
-
----
-
-👉 The players now know:
-
-> **This is false.**
-
----
-
-## 🎯 **Decision Point**
-
-At this stage, the players must choose how they proceed:
-
-- move carefully and blend in
-- access systems and trace the source
-- or attempt direct infiltration
-
-There is no correct approach.
-
-But all paths lead toward the same conclusion:
-
-> **The answer is not in the open.  
-> It is inside the system.**
-
----
-
-## 🧩 **Transition**
-
-Once the players identify or reach Node 3, the tone shifts again.
-
-Observation becomes intrusion.  
-Investigation becomes interference.
-
-And for the first time:
-
-> **The system will react.**
-
-## **Part 2: Node 3**
-
-## 📍 **The Infrastructure Layer**
-
-AP-MID-Delta Node 3 is not hidden in the sense of being secret. It exists exactly where it should — within the structural and operational core of the mid-level. What makes it inaccessible is not its location, but its function.
-
-This is not a control room in the traditional sense. It is part of a distributed system that processes, aligns, and forwards data across multiple layers of the city. The stability of Aphrodite Prime depends on nodes like this — not because they generate stability, but because they define what stability looks like.
-
-Reaching the node requires intent. The players must step outside the flow of normal movement, either by accessing restricted pathways, interacting with system interfaces, or following traces left behind in the data they have already uncovered.
-
----
-
-## 🎙️ Read-Aloud: Approach to Node 3
-
-> The transition is subtle at first. The open spaces narrow into structured corridors, the lighting shifts from ambient to functional. Fewer people move through this area, and those who do seem to belong here. Interfaces are embedded into the walls, responding instantly to nearby presence. The system feels closer again — not exposed, but attentive. A designation appears briefly on a nearby panel before fading: Delta Node 3. There is no announcement, no barrier. Just the sense that you are no longer in a place meant for observation, but for operation.
-
----
-
-## 🧠 **Accessing the Node**
-
-There is no single correct method to enter or interact with Node 3. The system allows access under certain conditions, and the players may be able to exploit that ambiguity.
-
-Possible approaches include:
-
-- presenting themselves as maintenance or diagnostics personnel
-- accessing a nearby interface and leveraging partial credentials
-- entering through service pathways or infrastructure corridors
-
-Regardless of the method, access should feel:
-
-- possible
-- but not fully legitimate
-
-The system does not immediately reject them.  
-It **evaluates them**.
-
----
-
-## ⚠️ **System Awareness**
-
-Once the players begin interacting with Node 3, the system’s behavior changes.
-
-- responses become slightly delayed
-- interface feedback becomes more structured
-- logs register their presence
-
----
-
-### 🎙️ Read-Aloud: System Interaction
-
-> The interface responds immediately — too immediately. Data resolves into clear, stable values, layered neatly across multiple systems. For a moment, everything aligns perfectly. Then, beneath the surface, something shifts. A secondary layer becomes visible. Values that don’t match. Deviations that shouldn’t be there. The system hesitates — not in function, but in presentation. As if deciding what you are allowed to see.
-
----
-
-## 🔍 **Core Discovery**
-
-Within Node 3, the players uncover the central truth of the scenario.
-
-This should not be hidden behind a single roll. Information can be revealed in layers, but the conclusion should become clear.
-
----
-
-### 🧠 **What they find**
-
-1. **Dual Data Layers**
-    - one set of values is internally consistent and stable
-    - another reflects real conditions: fluctuations, drift, stress
-
-👉 The system is actively **filtering reality**
-
----
-
-2. **Priority Allocation Table**
-
-Clusters are categorized dynamically.
-
-AP-LC-47 is marked:
-
-> **“Below viability threshold”**
-
-This classification does not trigger repair.  
-It justifies reduced intervention.
-
----
-
-3. **Command Overrides**
-
-The system logs show:
-
-- manual intervention
-- suppression of escalation
-- enforced normalization of output data
-
----
-
-> **“Suppress anomaly escalation.”**  
-> **“Maintain external stability metrics.”**
-
----
-
-## ⚠️ **Critical Moment — Breaking the Illusion**
-
-If the players interfere — even briefly — they can disrupt the smoothing layer.
-
----
-
-### 🎙️ Read-Aloud: System Exposure
-
-> For a moment, the system stops correcting itself. The clean lines of data fracture, replaced by something raw and uneven. Readings spike, drift, overlap. A cluster identifier appears among the noise — AP-LC-47. The values don’t stabilize. They cascade. A warning begins to form, incomplete, unresolved. Then — just as quickly — it disappears. The system reasserts itself. The data smooths out. Stable. Nominal. As if nothing had happened.
-
----
-
-## 🧠 **What this means**
-
-The system:
-
-- is fully aware of the instability
-- is capable of exposing it
-- and is actively choosing not to
-
-This is not a failure.
-
-> **It is a controlled decision.**
-
----
-
-## 🔒 **Limits of Player Control**
-
-Even if the players attempt to disable the manipulation:
-
-- the system will restore it
-- higher-level authority overrides local changes
-
----
-
-👉 This is important:
-
-They cannot solve the problem here.
-
-They can only:
-
-- understand it
-- expose it
-- or escalate it
-
----
-
-## 🎯 **Decision Point**
-
-At this stage, the players have enough information to act.
-
-They must decide how to proceed:
-
-- leave with the data
-- attempt to push the system further
-- or expose what they have found
-
----
-
-## ⚠️ **System Escalation Trigger**
-
-Their interaction with Node 3 does not go unnoticed.
-
-Once they cross a certain threshold:
-
-- the system flags their activity
-- their presence is no longer passive
-
----
-
-### 🎙️ Read-Aloud: Escalation
-
-> The interface pauses for just a fraction too long. A new line appears, sharper than the others. Unauthorized interaction with core infrastructure. For a moment, nothing else happens. Then the system continues as if uninterrupted. But something has changed. Not in what you see — but in how the system sees you.
-
----
-
-## 🧩 **Transition to Part 3**
-
-The players now stand at a threshold.
-
-They understand the system.  
-They have seen the truth behind it.
-
-What they do next determines how the system responds.
-
-Whether they choose to:
-
-- expose the data
-- move deeper
-- or withdraw
-
-the situation will escalate beyond the level of routine control.
-
-## **Part 3: Escalation Paths**
-
----
-## 🧠 **Situation After Node 3**
-
-By the time the players leave Node 3, the nature of the system is no longer in question. They understand that the instability in AP-LC-47 is real, that it is being actively suppressed, and that this suppression is not a technical necessity, but a deliberate decision.
-
-What remains unclear is how far that decision extends — and who is responsible for it.
-
-More importantly, their actions inside Node 3 have not gone unnoticed. The system has registered them, categorized them, and escalated their presence beyond passive observation. They are no longer an irregularity within the system. They are now a factor.
-
-From this point forward, the scenario opens up. The players are not pushed in a single direction. Instead, they are presented with multiple ways to act — each one shaping how the system responds and how Act III unfolds.
-
----
-
-## 📡 **Path 1 — Data Exposure**
-
-The players may choose to release what they have found.
-
-This can take different forms:
-
-- broadcasting raw system data
-- injecting unfiltered values into public displays
-- routing alerts into official channels
-
-The exact method is not important. What matters is that the information becomes visible beyond controlled systems.
-
----
-
-### 🎙️ Read-Aloud: Exposure
-
-> The system resists at first. Inputs are rejected, rerouted, delayed. Then something slips through. A fragment of unfiltered data appears where it shouldn’t — incomplete, unstable. It spreads faster than expected, not through design, but through reaction. Displays hesitate. Values shift. For a brief moment, the system stops presenting stability and begins reflecting reality. And reality is not quiet.
-
----
-
-## 🧠 **Immediate Effects**
-
-- public interfaces begin showing conflicting data
-- automated systems initiate partial responses
-- mid-level stability is questioned for the first time
-
-This does not create instant chaos, but it breaks the illusion of control.
-
-People notice.
-
-And once noticed, it cannot be fully undone.
-
----
-
-## ⚠️ **System Reaction**
-
-The system responds quickly, but not aggressively.
-
-- data is re-normalized
-- access points are restricted
-- anomalies are flagged and isolated
-
-But the key difference is:
-
-> **The system is now reacting to something external — the players**
-
----
-
-## 🎯 **Outcome of Exposure**
-
-If the players pursue this path, Act III will shift toward:
-
-- system-wide consequences
-- loss of control at the mid-level
-- increased pressure for resolution
-
-They are no longer observers.
-
-They have forced the system to respond.
-
----
-## 🧭 **Path 2 — Controlled Escalation**
-
-Instead of exposing the data broadly, the players may choose to follow the chain of authority.
-
-Node 3 provides enough information to identify that the decision-making layer is not local. There is a higher level of control — one that defines priorities rather than executes them.
-
-By following access logs, command signatures, or escalation pathways, the players can trace this authority upward.
-
----
-
-### 🎙️ Read-Aloud: Escalation Trace
-
-> The data does not point to a location so much as a direction. Higher access. Higher authority. The commands that shape the system don’t originate here. They pass through it. Routed, verified, enforced. A designation appears briefly within the log structure before being absorbed back into the system. Not a place. Not a system. A name. And behind it, a layer you have not yet reached.
-
----
-## 🧠 **What this means**
-
-The players now understand:
-
-- Node 3 executes decisions
-- it does not make them
-
-To reach the source, they must move further upward — into the executive layer of the system.
-
----
-## 🎯 **Outcome of Escalation**
-
-If the players follow this path:
-
-- they move toward direct confrontation
-- the system shifts from passive observation to active management
-- they are no longer just a variable — they are now **relevant**
-
-This leads cleanly into Act III.
-
----
-## 🕳️ **Path 3 — Withdrawal (Partial or Full)**
-
-The players may choose not to escalate.
-
-They can:
-
-- collect the data
-- return to their employer
-- or disengage entirely
-
----
-
-## 🧠 **GM Guidance**
-
-This path should remain valid — but not neutral.
-
-If the players withdraw:
-
-- the system continues unchanged
-- AP-LC-47 continues to degrade
-- no immediate consequence follows
-
-But the knowledge remains.
-
----
-
-### 🎙️ Read-Aloud: Withdrawal
-
-> The system settles back into its usual rhythm. Clean data. Stable outputs. No visible deviation. Whatever you saw, whatever you uncovered, is no longer present in any official form. The city continues as it always has. Functioning. Balanced. Quiet. As if nothing ever needed to be questioned.
-
----
-
-## 🎯 **Outcome of Withdrawal**
-
-This can still lead into Act III if:
-
-- the players reconsider
-- or are contacted again
-- or realize the implications too late
-
-Otherwise, it becomes a **low-intervention ending**, defined by inaction.
-
----
-## ⚠️ **System State at the End of Act II**
-
-Regardless of the path chosen, the system has changed in one important way:
-
-> **It is now aware of the players as intentional actors.**
-
-From this point forward:
-
-- responses become more targeted
-- access becomes more controlled
-- interactions become more deliberate
-
-The scenario shifts from discovery to consequence.
-
----
-## 🧩 **Transition to Act III**
-
-Act II ends when the players commit to a direction:
-
-- exposing the system
-- confronting its source
-- or stepping away
-
-Each of these leads into a different tone for Act III, but all share the same core:
-
-> The system is no longer something they are investigating.
+> A wall display flickers as you pass. The shift is so small it could almost be ignored. A soft tone follows. For a moment, text appears on the lower edge of the screen.
 > 
-> It is something they are now part of.
+> Access tier mismatch. Flagged for passive monitoring.
+> 
+> Then it is gone. The display returns to transit schedules and system metrics. No alarm follows. No one nearby reacts.
+
+That should be the first reminder that the players are not invisible here. The system has seen them and made a decision: not to stop them yet.
+
+If the players contact **Anika Voss** at this stage, she gives them enough to continue but not enough to protect them.
+
+> “You are outside the original service scope.”
+> 
+> A short pause.
+> 
+> “I’m not recalling you.”
+> 
+> “I’m also not covering unauthorized access if this becomes formal.”
+> 
+> If they press further:  
+> “If the source is really in the middle layers, find out what it is before you decide how loud you want to be.”
+
+That conversation is useful because it supports both cautious and aggressive groups. It also reinforces the scenario’s core tone: nobody with institutional sense wants to own this until they know exactly what it is.
+
+## **Part 2 — The Mid-Level as a Play Space**
+
+This section should be played, not summarized. The players need time to move through the mid-level and feel that it is a real, inhabited operational layer of Aphrodite Prime rather than just a corridor leading to exposition. Let them ask questions, stop at terminals, watch workers, improvise cover stories, and choose how visible they want to become.
+
+They are looking for **AP-MID-Delta Node 3**, but they should not get there in a single clean line. Before reaching it, they should have to solve at least two practical problems or interactions. Each one should feel believable in a city built on administration, logistics, and environmental control rather than on cinematic secrecy.
+
+The mid-level should feel populated by people who think in task flows, not ideals: systems schedulers, customs staff, contract managers, environmental techs, inspection personnel, maintenance admins. This is where problems are routed, deferred, normalized, and priced.
+
+### **Possible Interaction Scene — Service Desk / Routing Kiosk**
+
+A routing kiosk or staffed contract desk sits beside a service corridor. It handles maintenance scheduling, movement permissions, work order conflicts, and internal access requests. This is not glamorous, but it is exactly the sort of place where the players can learn something useful.
+
+The players can bluff a diagnostic assignment, ask where Delta systems are physically located, request access to a maintenance band, or try to piggyback on an existing service workflow.
+
+On a good social or operations check, they get a routing reference, a floor designation, or a service corridor identifier that points toward the correct infrastructure sector. On a partial success, they still get useful information, but their names or IDs are entered more explicitly into a local system. On a failure, they are redirected politely and the GM should tick up the pressure in the background.
+
+### **Possible Interaction Scene — Public Terminal**
+
+A semi-public terminal allows access to maps, maintenance overlays, or infrastructure relationships. The players may not be able to pull privileged data yet, but they can still learn enough to orient themselves.
+
+On a systems or analysis check, they identify Delta Node 3 as part of a supervisory infrastructure band rather than a local maintenance space. A stronger success might also reveal adjacent service corridors, a maintenance annex, or a time window when the node receives routine traffic. On a weaker result, they still get the general zone, but the terminal registers unusual query behavior.
+
+### **Possible Interaction Scene — Freight Disruption**
+
+A freight lane stalls nearby. A sealed pallet fails an environmental or customs verification and locks a short section of corridor traffic. Workers are annoyed, not alarmed. A logistics tech taps impatiently at a scanner and gets nowhere.
+
+This is an excellent way to make the city feel alive while giving the players something useful to do. They can help solve the problem, use the disruption as cover to move deeper into a service lane, talk to workers, or simply observe how the system behaves when it encounters friction.
+
+### **Read-Aloud — Freight Stall**
+
+> Ahead, movement compresses around a stalled freight lane. A cargo pallet sits motionless behind a low barrier, sealed and tagged, while a tired logistics worker taps the scanner again with growing irritation. The display insists on a verification loop that has clearly already been run twice. No one is panicking. People simply shift around the blockage, adjusting to it as if inconvenience were the normal price of order.
+
+Helping here can earn goodwill from staff and a believable excuse for the players to be near service infrastructure. It also reinforces an important thematic point: even in the stable layers, order is something constantly maintained, not something naturally present.
+
+### **Mid-Level NPC — Tomas Ilyin**
+
+Act II benefits greatly from one memorable operational NPC before Varga. Tomas Ilyin is a good fit: a systems scheduler or maintenance routing coordinator who is not malicious, just thoroughly adapted to the logic of the mid-level. He is tired, efficient, perceptive, and the sort of person who sees instability first as a workflow problem.
+
+He can be met at the routing desk, during a stalled service request, or near the approach to Delta systems. He is not there to dump lore. He is there to make the mid-level feel inhabited by people who have internalized the system.
+
+He might say:
+
+> “If the lower bands were actually unstable, this board would show it.”
+> 
+> Then, after a glance at the players:
+> 
+> “Unless it isn’t supposed to.”
+
+Or, in another scene:
+
+> “Things don’t disappear here. They get rerouted.”
+> 
+> A beat.
+> 
+> “That’s not always the same thing.”
+
+Tomas can help, obstruct, or simply become a witness. More importantly, he gives the players a human point of contact with the mindset they are moving toward.
+
+## **Pressure and Escalation**
+
+Act II should tighten gradually. The players should always feel that they can keep moving, but that each action leaves a trace.
+
+The easiest way to run this is with an invisible escalation track.
+
+At first, the players are merely flagged for passive monitoring. As they ask the wrong questions, linger in service zones, spoof credentials, trigger terminal warnings, or solve problems in ways that make them memorable, the system becomes more attentive. Doors that should open immediately pause for a beat. A terminal requests confirmation where before it did not. A single security representative appears in the background twice within ten minutes. One player’s ID is quietly spoken aloud by a corridor assistant.
+
+The system never becomes loud. That is why it feels threatening.
+
+### **Near-Miss Event — Air Seal Check**
+
+At some point before Node 3, trigger one mandatory near-miss event. The best option here is an environmental integrity check. It fits Venus, it feels local to the setting, and it creates pressure without requiring violence.
+
+### **Read-Aloud — Air Seal Check**
+
+> A soft tone sounds overhead, followed by a calm synthetic voice.
+> 
+> “Environmental integrity check in progress.”
+> 
+> Pressure doors slide shut along the corridor with smooth, practiced finality. Movement compresses. Conversations stop and resume at a lower volume. The people around you do not panic. They simply wait, because this is a city built on the assumption that sealed space is never negotiable.
+> 
+> You are not alone in here.
+
+This scene is useful because it traps the players briefly inside a controlled environment with other staff, maybe a terminal, maybe a security drone, and whatever cover story they have managed to build. It gives the GM a chance to test their improvisation without turning the act into an action sequence.
+
+Possible uses:
+
+- a security rep asks a quiet question
+- Tomas notices them again
+- a nearby terminal becomes available for a few seconds
+- one player is addressed by name or contractor tag
+- a concealed service route becomes visible when a maintenance panel unlocks
+
+## **Part 3 — Arrival at Node 3**
+
+Node 3 needs to feel like a real place in Aphrodite Prime. Not a secret bunker. Not a giant command center. Not a lonely wall terminal. It is best imagined as a **supervisory infrastructure suite** inside a perfectly ordinary mid-level systems building: part technical office, part operational control point, part hardened service environment. It belongs to the city so completely that nobody who belongs here would think twice about it.
+
+The players arrive through corridors that gradually shed all public-facing character. The signage shifts from plain language to service codes and departmental routing. Doors become heavier. Lighting grows cooler. Sound becomes more muted, more absorbed by materials designed for controlled work.
+
+### **Read-Aloud — Arrival at Node 3**
+
+> The concourse gives way to a quieter service sector. The corridor narrows slightly, and the signage changes from civic labels and contract routing to maintenance codes, infrastructure bands, and abbreviated system designations. Ahead, a reinforced access door sits flush with the wall beneath a compact display: DELTA NODE 3 — SUPERVISORY SYSTEMS. Beside it, a work-order terminal glows softly. Across the corridor, behind a glass partition, a small operations alcove holds two desks, one occupied, one dark. A technician in clean utility wear crosses the space without looking up. Nothing about this looks secret. It just looks like a part of the city that assumes you already belong.
+
+That is the right feeling. Not “we found the hidden lair.” More “we have arrived somewhere procedural, internal, and not meant for outsiders.”
+
+### **What the Players See**
+
+At the threshold of Node 3, the players should be able to observe a few concrete details:
+
+- a service access terminal for work orders and maintenance entry
+- a sealed supervisory door
+- a compact glassed-in operations nook
+- one staffer on duty, perhaps reviewing schedules or diagnostic summaries
+- maybe a drone dock or maintenance cabinet
+- no dramatic guard post, but an environment that clearly records who enters
+
+This gives the GM room to support multiple approaches.
+
+## **Part 4 — Getting In**
+
+Accessing Node 3 should feel meaningful, but not like a mission impossible break-in. The players are working their way through a real operational system, not trying to vault laser beams. All three basic routes should be valid.
+
+They may use procedural access, leaning on the routing data or service authority they already picked up. This is the cleanest route and the least physically risky, but it leaves the strongest audit trail.
+
+They may manipulate the terminal and append themselves to an existing maintenance or supervisory workflow. This is faster and more technical, but risks a stronger escalation state if things go wrong.
+
+They may come in through a service route, taking advantage of maintenance corridors, back-end access, or support spaces revealed earlier. This feels more physical and more exposed to bad timing, but may leave less official trace.
+
+All of these methods should work. The tension should come from cost, not from blocking progress.
+
+If you want a simple GM rule here, use this:
+
+- **clean route** = easier entry, stronger trace
+- **technical route** = faster entry, stronger system scrutiny
+- **physical route** = less official scrutiny, more awkward complications
+
+## **Part 5 — Inside Node 3**
+
+Inside, Node 3 is compact and controlled. No windows. Filtered air. Acoustic dampening. Clean embedded system walls. A low, stable hum. No sense of grandeur. It feels like a part of the city that converts chaos into information and information into acceptable outputs.
+
+### **Read-Aloud — Inside Node 3**
+
+> The room inside is smaller than you expected. Controlled. Quiet. Walls are lined with embedded interfaces and softly lit system panels. There are no exposed cables, no decorative surfaces, no visible excess — just layered information presented in calm, perfect order. A low mechanical hum sits beneath everything, steady enough to fade if you stop listening for it.
+> 
+> At first, the displays show exactly what the rest of the city shows: stability, balance, nominal function.
+> 
+> Then one layer beneath it shifts.
+> 
+> And for a moment, the city tells the truth.
+
+There may be one systems supervisor, one maintenance tech, or no one immediately inside depending on which entry route the players used and how much time pressure you want. There should, however, be the sense that this space belongs to a shift cycle and that people can return at any moment.
+
+This is important. The room should never feel safe.
+
+## **Core Discovery**
+
+Do not hide the truth behind a single roll. Let the players peel it back in layers.
+
+First, they identify that there are effectively two realities in the system: raw values and presented values. The raw layer is noisy, stressed, and unresolved. The presented layer is smooth, normalized, and socially usable.
+
+Second, they confirm AP-LC-47’s status designation: **below viability threshold**. That should feel cold and administrative, not theatrical. It means the cluster is not important enough to stabilize fully unless doing so serves broader system priorities.
+
+Third, they find the override logic. Warning escalation is being suppressed. Output is being normalized. The city is not ignorant of the problem. It is managing perception of it.
+
+Fourth, if they push further, they discover that Node 3 is not the origin of the decision. It is an enforcement layer, not a sovereign one.
+
+### **Read-Aloud — The Slip**
+
+> For a fraction of a second, the smoothing layer drops away. Clean lines fracture into rough data. AP-LC-47 blooms across the interface in raw form — drift, stress, compensator load, instability trending upward. A warning begins to resolve.
+> 
+> Then the correction sweeps back in.
+> 
+> Stable. Nominal. Operational.
+> 
+> As if the truth existed only by mistake.
+
+That is the emotional high point of Act II.
+
+## **Pressure Inside Node 3**
+
+This scene should not feel leisurely. Once the players engage the node meaningfully, add urgency.
+
+Possible pressure sources:
+
+- a shift change is approaching
+- a systems review is scheduled to begin
+- the staffer in the operations alcove stands up and starts moving
+- an automated sync cycle starts counting down
+- corridor traffic outside changes in a way that suggests growing attention
+
+The players should not have time to do everything.
+
+That is what creates tension.
+
+They may be able to:
+
+- extract proof
+- trace authority upward
+- push raw data toward a public-facing layer
+- hide or reduce their trail
+
+They should not be able to do all four cleanly.
+
+## **Escalation Trigger**
+
+Once they push too far, the system registers them explicitly.
+
+### **Read-Aloud — Escalation**
+
+> The interface pauses for half a heartbeat. A new line appears, narrow and sharp.
+> 
+> Unauthorized interaction with core infrastructure.
+> 
+> It vanishes almost immediately. The room remains quiet. The displays remain clean. Nothing locks down.
+> 
+> But the system no longer feels passive.
+> 
+> It feels attentive.
+
+This is the shift from exploration to consequence.
+
+## **Part 6 — Choice at the End of Act II**
+
+At this point, the players must decide what they are doing with the truth.
+
+They can pull their evidence and leave quietly. They can push raw data into a public or semi-public layer and create controlled disruption. They can trace the authorization chain upward and move toward the executive level. Or they can back off entirely.
+
+If they publish signals now, the city should react — but not with instant chaos. Public displays hesitate. Contradictory values flicker into view. A few automated responses begin to spool up. Corridor traffic changes. People start noticing that the visible layer of the city is no longer completely trustworthy.
+
+That is enough. Cloudfall does not need riots here. It needs the first crack in the polished surface.
+
+If they contact Anika after Node 3, this is her strongest scene:
+
+> “Then don’t send me conclusions yet.”
+> 
+> A pause.
+> 
+> “Send me proof.”
+> 
+> Another pause.
+> 
+> “And decide whether you want to be right quietly or loudly.”
+
+That line supports every path the players might now take.
+
+## **End of Act II**
+
+By the end of the act, the players should feel that they have crossed a threshold. They are no longer following a rumor. They have touched the mechanism itself.
+
+They should leave Act II with:
+
+- direct proof that the mid-level stability layer is filtered
+- confirmation that AP-LC-47 is being deliberately managed below preservation priority
+- awareness that Node 3 enforces decisions rather than originating them
+- a sense that the system now recognizes them as intentional actors
+- a decision about whether to expose, escalate, withdraw, or trace upward
+
+The central realization of the act is simple:
+
+> The city is not stable because it is safe.  
+> It is stable because the truth is managed.

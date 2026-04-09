@@ -1,11 +1,25 @@
-These scenarios are not scripts. They are **situations**. Each one-shot provides a framework — a place, a conflict, a set of actors already in motion. What happens next is up to the players… and how everything inevitably starts to fall apart. Because it will. Expect plans to break. Expect alliances to shift. Expect things to escalate faster than anticipated.
+These scenarios are not scripts. They are **situations**.
 
-These adventures are designed to:
+Each one-shot presents a framework: a place, a conflict, and a set of actors already in motion. Tensions exist before the players arrive. Agendas are already colliding. Pressure is already building.
+
+What happens next depends on the players — and on how quickly everything begins to unravel.
+
+Because it will.
+
+Expect plans to fail.  
+Expect alliances to shift.  
+Expect pressure to escalate faster than anyone anticipated.
+
+These adventures are built to:
+
 - create pressure
-- force decisions
-- and let consequences unfold naturally
+- force difficult decisions
+- let consequences unfold naturally
 
-You are not guiding a story to its intended ending. You are setting events in motion and watching what survives. Chaos is not just possible. It is expected.
+You are not guiding a story toward a predetermined ending. You are setting events in motion and discovering what survives.
 
-[[Ghost Station]]
-[[Cloudfall]]
+Chaos is not a side effect. It is part of the design.
+
+[[Ghost Station]]  
+[[Cloudfall]]  
+[[Operation Kestrel Landing]]

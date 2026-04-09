@@ -50,7 +50,7 @@ These pages provide practical support for running the game: reference tools, mec
 
 This section contains ready-to-use play material: premade characters, NPCs, adventure content, one-shots, and other scenario resources.
 
-- [[Premade Characters]]
+- [[Crew of the Asterion - Premade Characters]]
 - [[Ghost Station - Npcs]]
 - [[One-Shot Adventures]]
 - [[Scenario Hooks]]

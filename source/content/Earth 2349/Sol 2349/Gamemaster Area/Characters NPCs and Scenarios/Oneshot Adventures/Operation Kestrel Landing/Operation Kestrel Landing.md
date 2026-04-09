@@ -1,4 +1,4 @@
-Space is quiet—until it isn’t.
+![[Pasted image 20260409144248.png]]
 
 You are part of a Jovian League Marine rapid response unit, deployed to the outer Saturn system after a remote research outpost goes dark following a fragmented distress signal. Communications are unreliable, the situation unclear, and your team is the first—possibly the only—force to arrive on site.
 

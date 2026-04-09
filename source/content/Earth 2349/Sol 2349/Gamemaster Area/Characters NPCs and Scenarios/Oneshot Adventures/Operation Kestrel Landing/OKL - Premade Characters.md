@@ -399,10 +399,183 @@ She is an excellent choice for players who want to be useful under pressure whil
 
 ### 3. Corporal Dorian Valek — Heavy Gunner
 
-**Role:** Fire Support / Area Denial / Defensive Anchor  
-**Rank:** Corporal  
-**Origin:** Industrial settlement network on [[Rhea]]
+![[ChatGPT Image 9. Apr. 2026, 10_58_05.png|450]]
 
+**Rank:** Corporal  
+**Origin:** Industrial settlement network on [[Rhea]]  
+**Background:** Heavy equipment and station-security transfer into Jovian League response service  
+**Role:** Fire support, suppression, area denial, frontline anchor
+
+---
+## Core Stats
+
+- **Guard:** 0 / 13
+- **Health:** 16 / 16
+- **Load:** 6 / 6
+- **Wounds:** 3 / 3
+- **Mod Space:** 7 / 7
+
+---
+## Attributes
+
+- **Reflexes 3**
+- **Fitness 4**
+- **Coordination 2**
+- **Intellect 1**
+- **Presence 1**
+
+---
+## Skills
+
+**Reflexes:** Firearms 4  
+**Fitness:** Endurance 3, Perception 2  
+**Coordination:** Low-G Movement 2, Heavy Weapons 3  
+**Intellect:** Security 1
+
+---
+
+## Implant Categories
+
+- **Combat**
+- **Physical**
+
+---
+## Implants
+
+### Targeting Assist
+
+**Cat:** Combat  
+**Type:** Neural / Combat  
+**mSpace:** 2
+
+#### Assisted Aim
+
+**Type:** Passive
+
+Gain Tactical Edge on one ranged attack per round if you did not move aggressively beforehand.
+
+#### Tracking Burst
+
+**Type:** Augmented  
+**Load:** +1
+
+Ignore one situational penalty from recoil, target movement, or poor visibility on a ranged attack.
+
+#### Suppression Focus
+
+**Type:** Active  
+**Cost:** 1 Action  
+**Load:** +2
+
+Your next suppressive or burst attack gains Tactical Edge.
+
+---
+
+### Recoil Control Lattice
+
+**Cat:** Combat  
+**Type:** Neuromuscular / Stabilization  
+**mSpace:** 2
+
+#### Braced Frame
+
+**Type:** Passive
+
+Gain Tactical Edge when firing heavy or high-recoil weapons from a stable position.
+
+#### Controlled Sweep
+
+**Type:** Augmented  
+**Load:** +1
+
+Reduce one penalty tied to recoil, sustained fire, or awkward firing stance.
+
+#### Anchor Fire
+
+**Type:** Active  
+**Cost:** 1 Action  
+**Load:** +2
+
+Until the start of your next turn, gain a strong situational bonus to hold position and fire without being displaced.
+
+---
+
+### Reinforced Musculature
+
+**Cat:** Physical  
+**Type:** Muscular / Structural  
+**mSpace:** 3
+
+#### Load Bearing
+
+**Type:** Passive
+
+Treat carried heavy gear and weapon mass as less physically taxing for movement and handling.
+
+#### Impact Resistance
+
+**Type:** Passive
+
+Gain Tactical Edge on resisting knockdown, forced movement, or blunt-force destabilization.
+
+#### Power Push
+
+**Type:** Augmented  
+**Load:** +1
+
+Ignore one penalty from heavy armor, awkward footing, or rapid reposition under load.
+
+---
+
+## Genemods
+
+### Dense Musculature
+
+**Theme:** Strength / resilience
+
+Gain Tactical Edge on brute force, recoil control, and resisting physical strain.  
+**Drawback:** Fine precision suffers under delicate manual work; suffer Setback on very delicate technical manipulation.
+
+### Enhanced Recovery
+
+**Theme:** Tissue repair / endurance
+
+Gain Tactical Edge on resisting physical deterioration, lingering trauma, and combat exhaustion.  
+**Drawback:** Recovery is efficient but metabolically demanding; extended deprivation hits harder.
+
+---
+
+## Equipment
+
+**Support Weapon** — 3d6, B, FA  
+**Service Pistol** — 2d6, 30 m, S  
+**Heavy Combat EVA Suit** — Armor 3, Guard 7
+
+---
+
+## Items
+
+- Spare Ammunition Pack
+- Smoke Grenade
+- Flash Grenade
+- Heavy Weapon Sling
+- Seal Patches
+- Restraint Cuffs
+
+---
+## Notes
+
+Dorian is built as a **frontline heavy support specialist**. He is strongest when he can:
+
+- hold a corridor or chokepoint
+    
+- absorb pressure without folding
+    
+- lay down disciplined sustained fire
+    
+- anchor the squad physically during bad fights
+    
+- stay effective in armor, low gravity, and unstable terrain
 Dorian Valek grew up in a harsh, equipment-heavy environment where machine discipline and personal endurance mattered more than style or rhetoric. He is physically imposing, but his real strength is steadiness. Under fire, he becomes calmer, not louder. When the rest of the room starts to fray, he narrows his world to sectors, angles, and timing.
 
 Valek is loyal, highly dependable, and less politically reflective than some of the others — at least at first. He trusts systems because systems usually keep people alive. That also means he can be slow to question larger institutional assumptions until the evidence becomes impossible to ignore. Once he does start doubting something, however, he tends not to stop halfway.
@@ -417,9 +590,172 @@ He is a good choice for players who want to hold ground, protect the team, and e
 
 ### 4. Sergeant Mirek Arden — Breach Specialist
 
-**Role:** Entry / Close Assault / Controlled Force  
+![[ChatGPT Image 9. Apr. 2026, 10_44_42.png|450]]
+
 **Rank:** Sergeant  
-**Origin:** Dockside security and boarding environment in the inner Jovian system
+**Origin:** Dockside security network in the inner Jovian system  
+**Background:** Boarding-actions and compartment-clearing specialist in Jovian League response service  
+**Role:** Entry, close assault, breaching, pressure fighting in confined spaces
+
+---
+## Core Stats
+
+- **Guard:** 0 / 12
+- **Health:** 14 / 14
+- **Load:** 6 / 6
+- **Wounds:** 3 / 3
+- **Mod Space:** 7 / 7
+
+## Attributes
+
+- **Reflexes 3**
+- **Fitness 3**
+- **Coordination 3**
+- **Intellect 1**
+- **Presence 1**
+
+---
+## Skills
+
+**Reflexes:** Firearms 3  
+**Fitness:** Endurance 2, Perception 1  
+**Coordination:** Low-G Movement 2, Melee 2, Ordnance 4  
+**Intellect:** Security 1
+
+---
+## Implant Categories
+
+- **Combat**
+- **Engineering**
+
+## Implants
+
+### Reflex Booster
+
+**Cat:** Combat  
+**Type:** Neural  
+**mSpace:** 3
+
+#### Reflex Spike
+
+**Type:** Augmented  
+**Load:** +2
+
+Immediately gain 1 additional Action.
+
+This Action may be used:
+
+- on your turn
+- or as a Reactive Action if a valid trigger exists
+
+This extra Action cannot be used to activate Reflex Spike again.
+
+#### Neural Correction
+
+**Type:** Reactive  
+**Trigger:** after you fail a combat roll  
+**Load:** +3  
+**Limit:** 1× per round
+
+Reroll the failed combat roll. You must use the new result.
+
+---
+
+### Demolition & Breach Suite
+
+**Cat:** Engineering + Combat  
+**Type:** Breach  
+**mSpace:** 3
+
+A controlled breaching implant package built for entry, access denial, and forced opening under pressure.
+
+#### Controlled Breach
+
+**Type:** Active  
+**Cost:** 1 Action  
+**Load:** +2
+
+Open or destroy a light barrier within reach, such as:
+
+- a door
+- hatch
+- access panel
+- light wall section
+- improvised cover
+
+This does not breach bulkheads, hardened military barriers, or major reinforced structures unless a rule says otherwise.
+
+#### Shock Entry
+
+**Type:** Augmented  
+**Trigger:** immediately after using **Controlled Breach**  
+**Load:** +1
+
+Immediately do one of the following:
+
+- move up to **5 m**
+- make **1 melee attack**
+- make **1 close-range ranged attack**
+
+#### Breach Shielding
+
+**Type:** Passive
+
+When using **Controlled Breach**, gain **+2 Guard** until the start of your next turn.
+
+---
+
+## Genemods
+
+### Dense Musculature
+
+**Theme:** Strength / resilience
+
+Gain Tactical Edge on brute force, recoil control, and resisting physical strain.  
+**Drawback:** Fine precision suffers under delicate manual work; suffer Setback on very delicate technical manipulation.
+
+### Neural Acceleration
+
+**Theme:** Reaction / neural speed
+
+Gain Tactical Edge on reaction-based perception, timing, and sudden combat response.  
+**Drawback:** Mental shock hits harder; when you gain a Mental Condition from overload or trauma, the GM may escalate the reaction more sharply.
+
+---
+
+## Equipment
+
+**Boarding Shotgun** — 3d6, 10 m, S  
+**Service Pistol** — 2d6, 30 m, S  
+**Combat EVA Suit** — Armor 2, Guard 6
+
+---
+
+## Items
+
+- Breaching Charges
+- Cutting Tool
+- Flash Grenade
+- Smoke Grenade
+- Seal Patches
+- Restraint Cuffs
+
+---
+
+## Notes
+
+Mirek is built as a **close-quarters breach specialist**. He is strongest when he can:
+
+- force access fast
+    
+- fight at short range under pressure
+    
+- break stalemates in doors, corridors, and compartment transitions
+    
+- stay effective in low-g movement and unstable footing
+    
+- turn momentum and violence into controlled entry
+
 
 Mirek Arden is the first-through-the-door type, but not because he is reckless. He is trained to solve physical problems quickly: sealed doors, hostile chokepoints, compartment transitions, and moments where hesitation costs more than aggression. He has experience in boarding actions, close-quarters clearing, and low-visibility station fighting.
 
@@ -434,6 +770,227 @@ He is a strong choice for players who want tempo, pressure, and direct action wi
 ---
 
 ### 5. Specialist Yara Quist — Recon Operator
+
+![[ChatGPT Image 9. Apr. 2026, 14_39_41.png|450]]
+
+**Rank:** Specialist  
+**Origin:** Saturn-system research support habitat  
+**Background:** Sensor technician and systems scout in Jovian League response service  
+**Role:** Recon, hacking, science support, evidence recovery, light combat support
+
+---
+## Core Stats
+
+- **Guard:** 0 / 11
+- **Health:** 12 / 12
+- **Load:** 7 / 7
+- **Wounds:** 3 / 3
+- **Mod Space:** 7 / 7
+
+---
+## Attributes
+
+- **Reflexes 3**
+- **Fitness 2**
+- **Coordination 2**
+- **Intellect 3**
+- **Presence 1**
+
+---
+## Skills
+
+**Reflexes:** Firearms 2  
+**Fitness:** Endurance 1, Perception 2  
+**Coordination:** Low-G Movement 2  
+**Intellect:** Systems 4, Security 2, Science 3, Survival 2
+
+---
+## Implant Categories
+
+- **Operations**
+- **Combat**
+
+---
+## Implants
+
+### Systems Interface Node
+
+**Cat:** Operations  
+**Type:** Neural / Interface  
+**mSpace:** 2
+
+#### Remote Interface
+
+**Type:** Passive
+
+You may interact with a connected or exposed system within **20 m** if you have:
+
+- line of sight
+- a valid access point
+- or a clear local interface path
+
+This allows you to:
+
+- open or close doors
+- trigger panels
+- cycle locks
+- operate cameras
+- activate simple mechanisms
+
+This does not bypass security by itself.
+
+#### Fast Interface
+
+**Type:** Augmented  
+**Load:** +1  
+**Limit:** 1× per round
+
+Perform **one simple system interaction** without spending an Action.
+
+This may be used on your turn or reactively if a valid trigger exists.
+
+#### Extended Control
+
+**Type:** Active  
+**Cost:** 1 Action  
+**Load:** +2
+
+Take control of one simple connected system within range until the start of your next turn.
+
+Typical examples:
+
+- a door
+- a camera
+- a lift control
+- a local mechanism
+- a turret or sensor on standby, if lightly secured
+
+---
+
+### Intrusion Suite
+
+**Cat:** Operations  
+**Type:** Neural / Cyber  
+**mSpace:** 3
+
+#### Quick Breach
+
+**Type:** Augmented  
+**Range:** 10 m  
+**Load:** +2
+
+Immediately attempt to access or bypass one protected system within range.
+
+This does not guarantee success, but it allows you to attempt the intrusion instantly without needing extended setup.
+
+#### Data Extraction
+
+**Type:** Active  
+**Cost:** 1 Action  
+**Load:** +1
+
+If you already have access to a system, immediately pull one useful package of data, such as:
+
+- logs
+- identities
+- routes
+- camera records
+- access history
+- stored instructions
+
+#### Ghost Access
+
+**Type:** Passive
+
+When you successfully bypass a system, you may leave no obvious sign of intrusion unless the system is actively monitored or exceptionally secure.
+
+---
+
+### Targeting Suite
+
+**Cat:** Combat  
+**Type:** Neural / Optic  
+**mSpace:** 2
+
+#### Predictive Targeting
+
+**Type:** Augmented  
+**Load:** +2
+
+Your next ranged attack this turn gains all of the following:
+
+- Tactical Edge
+- ignore movement penalties
+- reduce the target’s cover bonus by 2
+
+This affects only one attack.
+
+#### Recoil Dampening
+
+**Type:** Passive
+
+When making a second ranged attack in the same round, ignore the first repetition penalty.
+
+#### Lock-On
+
+**Type:** Active  
+**Cost:** 1 Action  
+**Load:** +2
+
+Choose one visible target. Until the start of your next turn, your attacks against that target ignore movement penalties.
+
+---
+
+## Genemods
+
+### Neural Acceleration
+
+**Theme:** Reaction / neural speed
+
+Gain Tactical Edge on reaction-based perception, timing, and sudden combat response.  
+**Drawback:** Mental shock hits harder; when you gain a Mental Condition from overload or trauma, the GM may escalate the reaction more sharply.
+
+### Cold Adaptation
+
+**Theme:** Thermal resilience
+
+Gain Tactical Edge in cryogenic environments, surface exposure, and extreme cold survival situations.  
+**Drawback:** Suffer Setback in extreme heat or overheating conditions.
+
+---
+
+## Equipment
+
+**Compact Carbine** — 3d6, 30 m, S, B  
+**Service Pistol** — 2d6, 30 m, S  
+**Combat EVA Suit** — Armor 2, Guard 6
+
+---
+
+## Items
+
+- Recon Drone
+- Intrusion Kit
+- Sensor Package
+- Data Storage Module
+- Seal Patches
+- Smoke Grenade
+
+---
+
+## Notes
+
+Yara is built as a **technical recon specialist**. She is strongest when she can:
+
+- get into systems fast
+    
+- recover logs, traces, and hidden data
+    
+- read a station before the station reads her
+    
+- support the squad with targeted fire rather than brute force
+    
+- turn evidence, routing, and access control into tactical advantage
 
 **Role:** Recon / Technical Intrusion / Situational Awareness  
 **Rank:** Specialist  

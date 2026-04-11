@@ -254,6 +254,18 @@ Describe the response burn as controlled violence:
 - the sense that the ship is doing something expensive and deliberate
     
 
+### Transfer to the Pilgrim
+
+When the insertion plan is finalized, the team is moved out of the Kestrel and into the **Pilgrim-class lander**.
+
+The transfer is quick and procedural. A short pressurized passage or docking collar links the patrol craft to the lander, and the difference between the two ships is immediate. The **Kestrel** feels tight but orderly, built for patrol work and long shifts. The **Pilgrim** feels denser, more mechanical, and far less comfortable — a vehicle built to survive descent, land hard, and lift out again.
+
+Inside, everything is arranged around deployment. Crash couches, restraint frames, cargo tie-downs, suit brackets, breaching gear, med packs, and equipment lockers fill most of the usable space. There is no room for ceremony. Marines file in, clip weapons and loose gear into place, and strap into acceleration restraints along the inner hull. Once harnesses are locked, movement is limited and conversation usually drops off.
+
+The launch from the Kestrel is not dramatic. There is a muted separation jolt, a few attitude corrections, then the heavier push as the Pilgrim commits to descent. The team does not get a panoramic view of Enceladus below. They get vibration through the frame, status lights, hull noise, and the occasional clipped update from the pilot. Final approach feels mechanical and controlled rather than cinematic: thruster pulses, changing engine tone, small corrections, and the growing sense that the lander is balancing itself against uncertain ground.
+
+Touchdown comes as a hard transfer of weight through the hull and landing frame, followed by a brief settling shudder. Then the restraints release, the compartment changes from transit to deployment mode, and the team unclips, checks seals, grabs gear, and stacks at the hatch.
+
 ### Read-Aloud: Burn to Approach
 
 > The patrol drift ends without drama. One moment the ship is quiet and level in its own routines; the next, the Kestrel commits.

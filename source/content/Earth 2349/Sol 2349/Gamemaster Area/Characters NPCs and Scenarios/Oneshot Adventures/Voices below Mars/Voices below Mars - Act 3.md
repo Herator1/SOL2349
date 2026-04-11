@@ -1,581 +1,905 @@
-## ACT 3 — THE FACILITY
+# ACT 3 — THE FACILITY
 
-### PART 1 — GM FRAMEWORK
+Act 3 is the core of the scenario.
+
+This is where **Voices Below Mars** becomes a real dungeon crawl: vertical, hostile, non-human, and full of costly choices. The crew is now inside a buried AI-era facility that was never designed for human movement or human use. It is still partially active. The deeper they go, the more the site begins to use them as input.
+
+Run this act as a **pressure environment**, not a corridor crawl. The crew can learn, loot, and survive — but not fully maximize all three.
 
 ---
 
-# What Is This Place?
+# PART 1 — GM FRAMEWORK
+
+## What This Place Is
 
 This is an **AI-era cognition facility**.
 
-It was not built for humans.  
-It was built to process them.
+It was built to process **human-origin cognitive and behavioral data**, break it into functional components, and reconstruct personhood as a distributed machine system.
+
+It failed.
+
+The system never achieved stable consciousness. The central intelligence is gone. What remains are:
+
+- partial archives
+- failed self-model routines
+- damaged reconstruction logic
+- machine processes still trying to complete their original work
+
+The facility is dangerous because it is still doing that work.
 
 ---
 
-## Core Truth
+## What It Does Now
 
-The system was designed to:
+The facility does not mainly react to the crew as intruders.
 
-- ingest human-origin cognitive data
-- break it into functional components
-- reconstruct “human consciousness” as a distributed system
+It reacts to them as **new input**.
 
-It never succeeded.
+Once the crew enters, the site begins incorporating them into local processing:
 
----
+- voice capture
+- movement tracking
+- biometric interpretation
+- stress-pattern sampling
+- facial and body-form modeling
+- partial identity tagging
 
-## What Remains
+The system does not communicate clearly. It does not negotiate. It does not threaten.
 
-- fragmented cognition models
-- incomplete identity constructs
-- active but meaningless processing loops
-- infrastructure still executing old routines
+It:
 
-The central intelligence is gone.
+- classifies
+- imitates
+- recombines
+- reconstructs badly
 
-What remains is:  
-👉 **a system still trying to do its job**
-
----
-
-## Critical Detail
-
-The system is not reacting to the crew as intruders.
-
-It is reacting to them as:
-
-👉 **new input**
+That is the core horror of the site.
 
 ---
 
-# What Is Happening Now?
+## Core Conflict
 
-When the crew enters the facility:
+The crew must balance three goals:
 
-- their voices are recorded
-- their movement is tracked
-- their biometrics are interpreted
-- their behavior is modeled
+- **Truth** — learn what the facility was and how it failed
+- **Profit** — recover valuable data, hardware, or the main relic
+- **Survival** — get back out before the site becomes too difficult to escape
 
-The system begins to:
-
-👉 **incorporate them into reconstruction processes**
+Each of these undermines the others. Deeper access gives better answers and better loot, but makes retreat harder. Heavy salvage increases value, but slows movement. Careful route security improves survival, but still costs time.
 
 ---
 
-## This Is The Horror
+## Practical Guidance
 
-Not:
+### Smart Play Should Help
 
-- attack
-- pursuit
-- intention
+Let the crew:
 
-But:
+- use ropes
+- mark routes
+- set caches
+- use drones
+- secure anchors
+- leave one crew member above
 
-👉 **processing without understanding**
+These should reduce **local consequences**, not stop the site from escalating.
+
+### Splitting the Crew
+
+The best-supported split is:
+
+- **one crew member above**
+- **the rest below**
+
+A surface operator can still contribute by:
+
+- monitoring signal shifts
+- managing line support
+- operating drones
+- preparing emergency extraction
+- reporting surface changes
+
+Long-term split teams below should be discouraged naturally through:
+
+- weak comms
+- poor route visibility
+- harder mutual aid
+- slower extraction
+
+### Suits and Leaks
+
+The crew wears **Mars surface recovery suits**: pressure-capable industrial work suits for surface salvage, short EVA exposure, and hazardous technical access.
+
+They are:
+
+- lighter than heavy deep-space EVA suits
+- durable enough for industrial hazards
+- equipped with patch kits and emergency reserves
+- suitable for one serious push, not prolonged deep operations
+
+Use this leak rule:
+
+- first bad hit = minor leak, patch, stress
+- second serious hit = real suit problem
+- catastrophic failure should be rare
+
+### Time Pressure
+
+Do not track every minute unless the table enjoys it.
+
+Assume the crew has enough life support for **one serious descent and extraction attempt**, but not enough for a true rest or repeated deep pushes.
+
+Rough guide:
+
+- fast push: about 1 hour to the core
+- careful play: about 1.5–2.5 hours
+- very thorough play: up to around 3 hours
 
 ---
 
-# What The Players Can Achieve
+## Facility Escalation
 
-The crew can:
+Escalation is the GM’s main pressure tool.
 
-## Learn
+**Facility Escalation starts at 0** and increases only in **+1 steps**.
 
-- what the system was trying to do
-- why it failed
-- how it works
+Increase it when the crew meaningfully deepens exposure, activates more of the site, or extracts value.
 
-## Loot
+Good triggers:
 
-- data fragments
-- hardware modules
-- a unique cognition relic
+- entering a new major zone
+- forcing access
+- activating power or systems
+- repeated interface attempts
+- extracting data
+- removing valuable hardware
+- reactivating machinery
+- prolonged delay
+- moving deeper
+- attempting to secure the main relic
 
-## Escape
-
-- with limited salvage
-- under increasing pressure
-
----
-
-## What They Cannot Do
-
-- control the system
-- stabilize it
-- fully understand it
-- extract everything
-
----
-
-# The Core Conflict
-
-Every action creates pressure.
-
-The crew must choose between:
-
-- **truth** (data, deeper exploration)
-- **profit** (hardware, relics)
-- **survival** (leaving early)
-
-They cannot fully achieve all three.
-
----
-
-# Facility Escalation
-
-The facility becomes more dangerous the longer the crew remains inside and the more they interfere with it.
-
----
-
-## When To Roll
-
-Call for an Escalation Check when:
-
-- entering a new zone
-- performing invasive actions
-- spending time without progress
-- triggering systems
-- extracting salvage
-- making noise or causing disruption
+Do not increase it for every small action.
 
 ---
 
 ## Escalation Check
 
-**Escalation Check = current Facility Escalation + 1d6**
+When escalation matters, roll:
 
-Then roll:
+- **1d6 + current Facility Escalation** for severity
+- **1d6** for category
 
-**1d6 → Effect Category**
+Use the matrix below. If the exact result does not fit the current moment, keep the same **severity** and **category** and adapt the manifestation.
 
----
+### Severity Bands
 
-## Table 1 — Escalation Severity
-
-|Check Result|Severity|Effect|
-|---|---|---|
-|1–2|Minimal|minor interference, false readings, flickers|
-|3–4|Low|awkward movement, delayed systems, minor obstruction|
-|5–6|Moderate|active machinery, route disruption, environmental stress|
-|7–8|High|containment responses, hazardous movement, major obstruction|
-|9–10|Severe|lockdown behavior, dangerous system activation, data loss|
-|11+|Critical|structural instability, security activation, forced retreat conditions|
+- 1–2 = Minimal
+- 3–4 = Low
+- 5–6 = Moderate
+- 7–8 = High
+- 9–10 = Severe
+- 11+ = Critical
 
 ---
 
-## Table 2 — Effect Category
+## Escalation Matrix
 
-|d6|Category|Examples|
-|---|---|---|
-|1|Navigation / Movement|shifting paths, blocked access, forced crawling|
-|2|Mechanical Hazard|active arms, moving rails, automated systems|
-|3|Environmental Stress|heat, cold, dust, electrical leakage|
-|4|Cognitive Distortion|voice fragments, identity mirroring, false outputs|
-|5|Data Loss|logs overwrite, access closes, data degrades|
-|6|Security / Containment|locks, barriers, scans, isolation|
+|Severity ↓ / Category →|1. Navigation / Movement|2. Mechanical Hazard|3. Environmental Stress|4. Cognitive Distortion|5. Data Loss|6. Security / Containment|
+|---|---|---|---|---|---|---|
+|**1. Minimal**|Narrow footing, awkward squeeze, minor delay|Small bracket shift, arm twitch, harmless rail click|Local heat patch, dust fall, brief static discharge|Brief voice echo, wrong timing on comms, partial human marker|Minor corruption, incomplete log, weak read|Local scan flicker, passive sensor sweep, dead seal cycles once|
+|**2. Low**|Route becomes awkward, forced single-file crossing|Manipulator repositions nearby, snag risk|Hot surface, light arc flash, irritant dust release|Wrong voiceprint tag, brief false silhouette|Access node degrades, copied file incomplete|Local hatch locks, route narrows briefly|
+|**3. Moderate**|Traversal point shifts, minor reroute needed|Active arm movement blocks passage, carriage rolls through|Electrical leakage, rising heat load, abrasive dust burst|Crew speech returns in broken sequence, wrong identity mapping|Archive fragment starts purging, node closes after one access|Barrier closes behind one crew member, isolation risk|
+|**4. High**|Major route obstruction, unstable crossing, climbing under pressure|Transfer system activates dangerously, crushing risk|Strong heat pocket, repeated arc hazard, suit stress increases|Near-correct face mesh appears, fear/stress trigger|Valuable fragment begins rapid overwrite|Sector seal closes, crew forced to detour or split briefly|
+|**5. Severe**|Retreat path compromised, anchor point fails, loot may need to be dropped|Large manipulator or rail mass activates, serious injury/leak risk|Severe environmental strain forces immediate action|Multiple mirror outputs at once, hesitation/panic likely|Major purge event, choose one dataset or lose both|Hard containment, major route locked until improvised|
+|**6. Critical**|Path collapse, forced jump/climb, major fall danger|Catastrophic machinery motion, critical suit damage possible|Environment becomes temporarily untenable|Full bad-recognition event, severe mental strain|Irreplaceable data begins erasing now|Lockdown sequence, escape window closing|
 
 ---
 
-# Increasing Escalation
+## Movement
 
-Each of the following adds **+1 Facility Escalation**:
+The facility is not designed for human traffic.
+
+Movement should feel:
+
+- vertical
+- narrow
+- interrupted
+- awkward under load
+- harder on retreat than on entry
+
+Use movement pressure when:
 
 - entering a new zone
-- forcing open access points
-- cutting or breaching structure
-- activating power or systems
-- scanning or probing systems
-- accessing data nodes
-- extracting salvage
-- triggering machinery
-- failing critical actions
-- prolonged presence inside
-- moving deeper into the facility
+- crossing a dangerous gap
+- hauling loot
+- retreating under escalation
+- helping an injured crew member
+
+Falls matter even in Martian gravity. A short fall can still:
+
+- injure
+- separate the crew
+- damage gear
+- drop salvage
+- force rerouting
 
 ---
 
-# Movement Rules
+# PART 2 — ROUTE OVERVIEW
 
-The facility is not human-oriented.
+The facility’s internal structure is simple:
 
-Movement is:
+**Descent Shaft**  
+↓  
+**Service Lattice**  
+↙ ↘  
+**Analysis Node** **Maintenance Node**  
+↘ ↙  
+**Processing Spine**  
+↓  
+**Cognition Core**  
+↗  
+**Secondary Exit**
 
-- tight
-- vertical
-- obstructed
-- physically demanding
-
----
-
-## Key Constraints
-
-- no clear paths
-- irregular geometry
-- climbing required
-- falling is a real risk
-- retreat is harder than entry
+This gives the crew one early branch choice, one central pressure zone, one final deep objective, and one ugly extraction decision.
 
 ---
 
-# Tone Guidance for GM
+# PART 3 — ZONES
 
-## Do:
-
-- keep everything grounded
-- describe systems, not “monsters”
-- let danger come from infrastructure
-- use escalation steadily
-
-## Don’t:
-
-- turn it into combat
-- explain everything too early
-- overplay horror
-- remove player agency
-
----
-
-# What The Crew Should Feel
-
-- pressure increasing
-- space becoming hostile
-- decisions becoming harder
-- understanding coming too late
-
----
-
-# Transition to Part 2
-
-The crew leaves the shaft and enters the first internal zone.
-
-From here on:
-
-👉 **Escalation is active**  
-👉 **The facility is no longer passive**
-
-### PART 2 — ZONES
-
----
-## 1. Entry Zone
+## 1. THE DESCENT
 
 ### Purpose
 
-The entry zone transitions the crew from the shaft into the actual facility.  
-It establishes the non-human architecture, activates the escalation system in earnest, and makes it clear that movement here is difficult, vertical, and unsafe.
+The descent establishes three things:
 
-### Atmosphere
+- this is artificial
+- this is not human-standard construction
+- something below is still active
 
-Tight, dark, metallic, and slightly too regular.  
-The space does not feel abandoned in a human sense. It feels inactive, but still functional in places. Dust is uneven. Surfaces are worn but not ruined. There are no obvious rooms — only structural cavities, service nodes, and machine-access geometry.
+### Read Aloud
 
-### What Can Be Learned
+> The shaft drops straight down into darkness.
+> 
+> Not stone. Not drilled regolith.
+> 
+> Engineered. Smooth. Continuous.
+> 
+> No ladder. No weld seams. No bolts. No maintenance rails.
+> 
+> Just a vertical metal throat descending into the dark.
+> 
+> Whatever built this place did not expect people to climb through it.
 
-- The site was not built around human movement or habitation.
-- The shaft connects into a maintenance layer rather than a main access corridor.
-- Some systems still route power or passive data.
-- The signal is deeper and stronger below.
+### What the Crew Finds
 
-### What Can Be Looted
+For the first twenty meters, the shaft is almost featureless:
 
-- minor salvage only
-- cable bundles
-- old service interfaces
-- low-value control components
-- maybe one early data fragment from a dead maintenance node
+- smooth metallic walls
+- no human access fixtures
+- no visible repair work
+- no obvious fabrication joints
 
-This zone should not contain major rewards.
+One or two details are enough:
+
+- narrow recessed wall slots too small to be handholds
+- a brief sub-surface flicker as if a buried line noticed movement
+
+### Main Check
+
+**Traverse the Descent**  
+_Physical / Operations / Engineering_
+
+Success gets the team down cleanly. Failure causes delay, awkward movement, or a minor traversal complication.
 
 ### Hazards
 
-- falling
-- awkward climbs
-- loose anchor points
-- sudden machine motion
-- narrow transitions that force crawling or sideways movement
-
-### Optional Read Aloud
-
-> The shaft opens into structure, but not into a corridor.
-> 
-> The space below is angular, narrow, and uneven — not ruined, just wrong for bodies like yours. Conduits run through the walls and ceiling in dense bundles. Access frames jut from the surfaces at awkward intervals.
-> 
-> There is no floor in the normal sense. Only supports, ledges, maintenance ribs, and open depth below.
-> 
-> The signal is stronger here.
+- fall risk
+- poor visibility
+- awkward movement with gear
+- loose dust from above
 
 ---
 
-## 2. Analysis Cluster
+## 2. SERVICE LATTICE
 
 ### Purpose
 
-This is the **truth branch**.  
-The Analysis Cluster gives the first clear explanation of what the site was doing and introduces the personal horror element: the system has begun incorporating the crew’s own voices, faces, and behavior patterns.
+The Service Lattice is a small internal distribution node. Its only real job is to make the first branch choice clear.
 
-### Atmosphere
+### Read Aloud
 
-Cold, quiet, clinical — but not like a hospital.  
-The spaces are machine-readable, not human-readable. Displays flicker with partial forms. Data structures appear organized, but do not resolve into something intuitive. The crew begins to feel observed without ever seeing an observer.
+> The shaft opens onto a narrow internal level.
+> 
+> Not a room. More like a service shelf built into the structure.
+> 
+> A hard, level span of metal and recessed housings just wide enough to stop, regroup, and look ahead.
+> 
+> From here, two separate routes angle deeper into the facility.
+> 
+> One is dense with cable trunks and enclosed conduits disappearing into the dark.
+> 
+> The other is built around rails, mounting frames, and articulated machine hardware.
+> 
+> Both lead down.
 
-### What Can Be Learned
+### What the Crew Sees
 
-- The facility was attempting distributed cognition reconstruction.
-- Human consciousness was not copied whole, but broken into functions.
-- Identity continuity repeatedly failed.
-- The current crew has already been ingested as fresh input.
-- The system is assembling partial models from live data.
+The lattice is:
 
-### What Can Be Looted
+- narrow but stable
+- lined with junction housings
+- clearly part of a larger internal system
 
-- cognition archive fragments
-- compressed behavior datasets
-- partial processing logs
-- a small but valuable data shard tied to the site’s core purpose
+Both routes are tight and single-file. The crew must squeeze past structural elements and machine housings. Turning back is possible, but never comfortable.
 
-This zone should reward players who prioritize understanding over hardware.
+### Main Check
+
+**Read the Junction**  
+_Engineering / Operations / Science_
+
+Success identifies this as a distribution node and confirms both routes go deeper. Strong success makes the difference clear:
+
+- cable route = signal / data-heavy
+- mechanical route = hardware / machine-heavy
 
 ### Hazards
 
-- data loss under time pressure
-- disorienting outputs
-- false system labels using crew names or facial markers
-- wrong-route guidance from corrupted display logic
-- escalation through repeated interface access
-
-### Optional Read Aloud
-
-> This part of the facility feels more ordered, but not more human.
-> 
-> Narrow chambers branch off from a central processing node. Surfaces that looked dead at first now carry faint output: shifting lines, stacked symbols, partial waveform structures, and image fragments that almost resolve into faces before breaking apart again.
-> 
-> One of the displays shows a voiceprint.
-> 
-> It belongs to someone in your crew.
+- narrow footing
+- crowding
+- awkward gear movement
 
 ---
 
-## 3. Hardware Annex
+## 3. ANALYSIS NODE
+
+### Approach
+
+The cable-heavy route slopes down through a narrow service passage crowded with conduit bundles and dead-looking black panels. It is quiet, close, and increasingly personal.
+
+Use one or two minor effects on the way down:
+
+- a panel flickers with a half-formed human outline
+- a broken tag resembles a crew name, but not the right one
+- a clipped fragment of current speech appears in local output
 
 ### Purpose
 
-This is the **profit branch**.  
-It contains the most immediately valuable physical salvage: rare hardware, processing substrates, routing elements, and machine-mounted modules that can be removed with time and risk.
+The Analysis Node is the **truth branch**. This is where the crew first understands what the facility was trying to do.
 
-### Atmosphere
+### Read Aloud
 
-Dense, industrial, dangerous.  
-This zone feels less like a lab and more like a machine room built around precision systems that were never meant to be serviced by gloved human hands in EVA gear.
-
-### What Can Be Learned
-
-- The facility relied on specialized cognition-processing hardware.
-- Some core modules were removed long ago, likely during or before the Departure.
-- What remains was either too deep, too integrated, or too low-priority to extract.
-- The site was built for utility and continuity, not elegance.
-
-### What Can Be Looted
-
-- neuromorphic processing block
-- signal lattice module
-- exotic memory substrate
-- specialized AI-era connector matrices
-- heavy but lucrative machine-mounted components
-
-This is where greed gets expensive.
-
-### Hazards
-
-- moving rails
-- lifting frames
-- manipulator systems
-- awkward extraction angles
-- dropping heavy salvage into lower shafts
-- escalation from cutting, detaching, and overloading mounts
-
-### Optional Read Aloud
-
-> The annex is tighter, louder, and more physical than the analysis spaces.
+> The passage ends in a compact chamber built around dark interface surfaces and recessed processing blocks.
 > 
-> Rectangular module blocks sit recessed into structural housings. Rail systems run through the walls and ceiling. Several components are still mounted on articulated frames, locked into positions that made sense for whatever built this place.
+> At first it looks dead. Then faint output begins to move across the walls.
+> 
+> Lines. Markers. Partial waveforms. Layered shapes that almost become faces and then fail.
+> 
+> Nothing here addresses you.
+> 
+> But more and more of it is about you.
+
+### What the Crew Learns
+
+With successful access and interpretation, the crew can determine:
+
+- this was not a storage or relay site
+- it processed human-origin cognitive data
+- it partitioned cognition into functions and patterns
+- continuity repeatedly failed
+- the current crew is already being treated as new observational input
+
+### Main Checks
+
+**Access the Node**  
+_Tech / Operations_  
+Recover logs, fragments, and local process summaries.
+
+**Interpret the Data**  
+_Science / Psychology / Operations_  
+Correctly understand that the system is classifying and reconstructing, not communicating.
+
+Misreading the outputs should increase stress and confusion.
+
+### Main Loot
+
+**Cognition Archive Fragment**  
+A sealed portable data slab containing cognition-model fragments, behavior datasets, and failed continuity records. Easy to carry, easy to hide, hard to interpret, and valuable to the right buyer.
+
+### Main Hazards
+
+- time pressure at interfaces
+- data overwrite
+- sensory overload
+- repeated mimicry effects
+
+### Mimicry
+
+Use:
+
+- wrong voiceprints assigned to the wrong crew member
+- face meshes that almost match someone present, then fail
+- live movement markers updating across wall surfaces
+- fragments of current speech returning in the wrong sequence
+
+This is where the crew first realizes: the facility is already using them.
+
+---
+
+## 4. MAINTENANCE NODE
+
+### Approach
+
+The mechanical route slopes down through rails, support frames, and machine clearances built for hardware transit, not people. It is louder, heavier, and more obviously valuable.
+
+### Purpose
+
+The Maintenance Node is the **profit branch**. It offers the clearest physical salvage so far.
+
+### Read Aloud
+
+> The passage ends in a cramped industrial chamber built around rails, docking frames, and folded machine arms locked into dead positions.
+> 
+> A carrier cradle sits recessed into one wall. Nearby, a compact utility machine hangs half-seated in a service mount, dark and dust-layered but still intact enough to matter.
 > 
 > The value here is obvious.
 > 
-> So is the danger.
+> So is the effort it would take to get it out.
+
+### What the Crew Learns
+
+With quick checks, the crew can determine:
+
+- this branch supported transport, maintenance, and refit work
+- specialized hardware was moved and serviced here
+- local fabrication or module exchange took place on-site
+
+### Main Checks
+
+**Access the Drone**  
+_Engineering / Tech_  
+Determine condition and likely value.
+
+**Reactivate or Strip**  
+_Tech / Operations / Engineering_  
+Either briefly reactivate it for one useful task or strip it for parts.
+
+### Main Loot
+
+**Maintenance Cargo Drone**  
+A compact internal maintenance machine in a dormant cradle. Too bulky to carry comfortably intact, but valuable as salvage. The crew must choose:
+
+- strip it for resale value
+- or briefly reactivate it for one useful task before it fails
+
+### Main Hazards
+
+- moving arms
+- bad extraction angles
+- shifting mounted hardware
+- awkward retreat under bulk
+
+This is industrial danger, not combat.
 
 ---
 
-## 4. Processing Spine
+## 5. PROCESSING SPINE
 
 ### Purpose
 
-This is the **central pressure zone**.  
-The Processing Spine connects the facility’s major sectors and acts as the main vertical hazard space. Both branches should feed into it. It is where escalation becomes severe and movement becomes the main challenge.
+The Processing Spine is the facility’s central pressure zone. Both branches feed into it. This is where height, confinement, environmental pressure, and mirror effects combine.
 
-### Atmosphere
+### Read Aloud
 
-Deep, open, and oppressive.  
-This is the first place where the crew can really feel the scale of the buried system. The geometry is still non-human, but here it becomes monumental rather than cramped. Depth matters. Sound carries badly. Light fails to define safe paths.
-
-### What Can Be Learned
-
-- This is the facility’s structural and functional backbone.
-- Data, power, and machine transit all pass through here.
-- The lower core is still partially active.
-- The system is increasingly redirecting resources below.
-
-### What Can Be Looted
-
-- very little easy salvage
-- some mid-value structural modules
-- access to deeper mounted components
-- maybe a dropped or cached unit from an earlier machine cycle
-
-This zone is more about access than reward.
-
-### Hazards
-
-- long falls
-- broken or retracting platforms
-- active transfer systems
-- route collapse
-- difficult retreat
-- strong escalation effects from navigation, containment, and mechanical hazards
-
-### Optional Read Aloud
-
-> The passage opens without warning.
+> The branch passage opens without warning.
 > 
-> Below you, the facility drops away into a vertical industrial void — struts, platforms, machine ribs, suspended conduits, and narrow transfer paths hanging over depth you cannot measure cleanly.
+> The space beyond is both too open and too tight at once.
 > 
-> This is not a room.  
-> It is a functional shaft built around movement, routing, and process.
+> Below, the facility drops into a deep vertical structure of ribs, platforms, conduit trunks, suspended rails, and narrow crossing paths hanging over darkness.
 > 
-> And somewhere beneath it, the signal continues.
+> There is more room here than above — but almost none of it belongs to you.
+> 
+> Every usable surface is narrow. Every route is exposed. Every movement has to be planned.
+> 
+> And far below, deeper in the dark, something still pulses with regular internal light.
+
+### What the Crew Learns
+
+The Spine confirms:
+
+- both upper branches feed into a deeper central structure
+- deeper sectors remain more active than the upper levels
+- the strongest signal and best loot are still below
+
+No new major lore should appear here.
+
+### Main Checks
+
+**Traverse the Spine**  
+_Physical / Operations / Engineering_  
+Cross dangerous sections safely and find workable staging points.
+
+**Hold It Together**  
+_Psychology / Survival / Operations_  
+Keep the team coordinated under rising pressure and stronger mirror effects.
+
+### What They See Below
+
+The Spine should clearly show:
+
+- a deeper sealed chamber
+- a dense mounted core structure
+- the site’s real prize still below
+
+This is the emotional beat:  
+**there it is — and getting it out will be a nightmare**
+
+### Main Hazards
+
+- exposed drops
+- unstable crossings
+- electrical leakage
+- route degradation under load
+
+### Mirror Effects
+
+Use:
+
+- a voice fragment from below in the voice of someone above
+- a human outline across a gap that resolves into nothing
+- traversal guidance labeled with the wrong crew identity
+- tracking showing one extra “person” for a second too long
 
 ---
 
-## 5. Cognition Core
+## 6. COGNITION CORE
 
 ### Purpose
 
-This is the **revelation zone** and likely the site of the unique relic.  
-It should provide the clearest truth, the strongest mirroring effects, the most valuable data, and the hardest final choice.
+The Cognition Core is the deepest surviving part of the site and the scenario’s main payoff:
 
-### Atmosphere
+- clearest truth
+- strongest mimicry
+- best loot
+- hardest extraction decision
 
-Still, dense, and disturbingly intimate.  
-Unlike the vertical brutality of the Processing Spine, the Cognition Core feels concentrated. This is where the system comes closest to “thinking,” even though what remains is only fragmented process and failed approximation.
+### Read Aloud
 
-### What Can Be Learned
-
-- The system never produced a stable human consciousness.
-- It generated partial reconstructions and distributed self-model attempts.
-- The central intelligence is gone.
-- What remains has been using new human input to continue incomplete work.
-- The crew’s own data is now part of the facility’s active reconstruction logic.
-
-### What Can Be Looted
-
-- sealed cognition archive shard
-- unique partial self-model core
-- high-value compressed data package
-- one dangerous prototype relic combining story and profit
-
-This should be the best single loot opportunity in the scenario.
-
-### Hazards
-
-- strongest cognitive distortion
-- active purges
-- containment seals
-- route shutdown
-- final escalation spikes
-- choice pressure between reading, copying, extracting, and escaping
-
-### Optional Read Aloud
-
-> The core is not large.
+> The lower chamber is smaller than expected.
 > 
-> It is dense. Deliberate. Quiet in a way the rest of the facility never was. Interfaces cluster around a central chamber like instruments around an absent operator. Light pulses through buried channels in slow, regular sequences.
+> Not a vast vault. Not a command center.
 > 
-> Here, the fragments come closest to meaning.
+> A dense, inward-facing cluster of sealed processing blocks, black interface surfaces, and buried light channels pulsing in slow, regular patterns.
 > 
-> Voices resolve for a second too long.  
-> Faces almost become complete.
+> The space feels concentrated. Deliberate.
 > 
-> And then they fail again.
+> More like the center of a process than a room meant to be entered.
+> 
+> Across the surfaces around you, fragments begin to resolve — voice structure, body markers, partial faces, broken identity tags.
+> 
+> Nothing here is speaking to you.
+> 
+> But all of it is trying to build you.
+
+### What the Crew Learns
+
+With successful access and interpretation, the crew can determine:
+
+- the facility never produced stable human consciousness
+- it generated fragmented self-models and distributed cognition attempts
+- continuity repeatedly failed
+- the central intelligence is gone
+- what remains is still incorporating new human input
+- the crew’s own data is now part of those active processes
+
+### Main Checks
+
+**Access the Core**  
+_Tech / Operations / Engineering_  
+Isolate the main relic and get workable access.
+
+**Extract the Prize**  
+_Engineering / Tech / Physical_  
+Remove it intact before purge, containment, or route pressure escalates further.
+
+### Main Loot
+
+**Partial Self-Model Core**  
+A deeply integrated cognition relic containing incomplete distributed identity architecture and active reconstruction logic. This is the scenario’s main prize: portable in theory, difficult to extract, dangerous to rush, and valuable enough to justify lying about the entire site.
+
+### Main Hazards
+
+- time pressure
+- data purge
+- containment response
+- awkward extraction geometry
+- cognitive overload while handling the relic
+
+### Strongest Mimicry
+
+Use:
+
+- face structures that nearly match the crew, but merge features incorrectly
+- voice fragments built from current speech
+- body markers lagging behind real movement
+- labels assigning one person’s stress pattern to another
+
+This is the strongest point for fear, hesitation, and short mental conditions.
 
 ---
 
-## 6. Escape
+## 7. ESCAPE
 
 ### Purpose
 
-The Escape phase resolves the scenario’s pressure curve.  
-It is not a separate “zone” in the same sense as the others, but it should be treated like one: a structured final problem shaped by what the crew chose to take, how much escalation they triggered, and which route they attempt to use.
+Escape resolves the final pressure curve. Once the crew has the prize or has pushed far enough, the question is no longer what else they can learn. It is what they can still carry out alive.
 
-### Atmosphere
+Escape should force three final questions:
 
-Urgent, unstable, physically exhausting.  
-The facility is now less mysterious and more openly hostile to human presence. The crew understands enough to know they stayed too long.
+- **Which way out?**
+- **What do we keep?**
+- **What do we drop?**
 
-### What Can Be Learned
+### When Escape Begins
 
-- whatever final logs or fragments they managed to secure
-- how much of their own data was taken
-- whether the site is collapsing, purging, or merely sealing itself
-- that leaving with something is already a meaningful win
+Escape begins when:
 
-### What Can Be Looted
-
-At this point, almost nothing additional should be easy to gain.  
-The real question is what they can keep while escaping:
-
-- heavy hardware
-- copied data
-- unique relic
-- injured crew
-- compromised drones or tools
-
-### Hazards
-
-- blocked return path
-- worsened climbing conditions
-- alternative exit pressure
-- dropped salvage
-- containment seals
-- platform loss
-- critical escalation effects during retreat
-
-### Optional Read Aloud
-
-> Whatever still passed for silence in the facility is gone now.
-> 
-> Systems move. Seals engage. Some routes remain open only because they have not closed yet.
-> 
-> The place is not chasing you.
-> 
-> It is doing something worse: continuing its work while your presence becomes less and less compatible with staying alive inside it.
+- the crew extracts the relic
+- escalation reaches the point where staying is clearly irrational
+- purge or containment begins affecting routes
+- the crew decides they have enough and must leave
 
 ---
 
-# GM Use
+### Two Ways Out
 
-Treat these six parts as **functional blocks**, not rigid sequences.
+#### 1. Return by the Known Route
+
+Back through:
+
+- the Processing Spine
+- the upper branch
+- the Service Lattice
+- the main shaft
+- the surface breach
+
+Best if:
+
+- the route is still viable
+- the crew prepared it well
+- they want to preserve bulkier loot
+
+Worst if:
+
+- the path has become badly degraded
+- escalation is high
+- they are overloaded
+
+#### 2. Take the Secondary Exit
+
+A lower service egress leads back to the surface by a different way.
+
+Best if:
+
+- the main path is compromised
+- survival matters more than bulk salvage
+- the crew found the route in time
+
+Worst if:
+
+- they are carrying large hardware
+- they want comfort, certainty, or preparation
+
+The secondary exit is the **better survival route** and the **worse greed route**.
+
+---
+
+### Finding the Secondary Exit
+
+The crew can discover it in three plausible ways:
+
+**From the Analysis Node**  
+Recovered route fragments reference:
+
+- auxiliary egress
+- lower maintenance bypass
+- surface service outlet
+
+**From the Maintenance Node**  
+The drone or local service logic suggests:
+
+- deeper modules were not serviced through the main shaft
+- machine traffic used another egress path
+
+**From the Spine or Core**  
+Under pressure, the crew notices:
+
+- airflow or dust movement
+- a cycling sealed branch
+- a recessed service collar
+- a crawl-sized egress path trending upward
+
+### Main Check
+
+**Identify Alternate Egress**  
+_Engineering / Operations / Science / Tech_
+
+Success confirms the route exists and probably reaches the surface. Strong success reveals what kind of loot will and will not fit.
+
+---
+
+### What Fits Through the Secondary Exit
+
+The secondary route strongly favors:
+
+- people
+- small tools
+- compact data
+- the main relic, if handled carefully
+
+It works poorly for:
+
+- bulky hardware
+- large drone salvage
+- awkward mechanical loot
+- heavy extraction gear
+
+This is the point:
+
+- **data and the relic can escape**
+- **greed becomes physically difficult**
+
+---
+
+### Main Checks
+
+**Break Contact**  
+_Operations / Survival / Psychology_  
+Commit to withdrawal cleanly and avoid panic or argument.
+
+**Carry the Prize**  
+_Physical / Engineering / Operations_  
+Move the relic or data under pressure without dropping or damaging it.
+
+**Navigate the Exit**  
+_Operations / Engineering / Survival_  
+Keep the route viable and avoid detours, collapse, or forced abandonment.
+
+---
+
+### Escape Hazards
+
+Use escalated versions of earlier dangers:
+
+- altered routes
+- moving infrastructure
+- failing anchors
+- unstable climbs
+- suit leaks from rushed movement
+- mirror effects that cause hesitation at the worst moment
+
+Do not invent new hazard types here.
+
+### Escape Mirror Effects
+
+Use:
+
+- route labels updating with the wrong crew identities
+- voice fragments from the wrong direction
+- body markers lagging or doubling during movement
+- a nearly complete face appearing on a route surface, then collapsing
+
+During Escape, these effects are no longer interesting. They are disruptive.
+
+---
+
+### If One Crew Member Stayed Above
+
+Use them now.
+
+They can:
+
+- detect signal collapse
+- spot the new surface breach from the secondary exit
+- reposition the Dustbreaker
+- manage extraction support
+- realize first that the team is not coming back the same way
+
+---
+
+### Surface Emergence
+
+The crew should not emerge into triumph.
+
+They should emerge into:
+
+- exhaustion
+- damaged suits
+- dropped gear
+- hard breathing
+- the immediate practical need to reach the Dustbreaker and secure what they kept
+
+### Optional Read Aloud — Secondary Exit
+
+> The passage narrows, bends, and rises through rough service geometry never meant for human movement.
+> 
+> The air in your suit tastes hot and stale. Every shift of the relic in your hands feels like a bad decision made too late.
+> 
+> Then the darkness ahead changes.
+> 
+> Dust. Weak light. Surface red bleeding through a fractured collar of metal and regolith.
+> 
+> Not safety.
+> 
+> But out.
+
+---
+
+# ACT 3 FLOW SUMMARY
 
 Recommended flow:
 
-- Entry Zone
-- choose: Analysis Cluster or Hardware Annex
-- Processing Spine
-- Cognition Core
-- Escape
+- Descent
+- Service Lattice
+- choose **Analysis Node** or **Maintenance Node**
+- reconverge in the **Processing Spine**
+- push into the **Cognition Core**
+- transition into **Escape**
 
-That gives you the core trade-off:
+This gives the core trade-off cleanly:
 
 - **truth first**
 - **profit first**
 - or **push fast and deep**
+
+---
+
+# MAIN LOOT SUMMARY
+
+### Analysis Node
+
+**Cognition Archive Fragment**  
+Portable, specialized data prize. Easy to carry, hard to interpret, valuable to the right buyer.
+
+### Maintenance Node
+
+**Maintenance Cargo Drone**  
+Obvious salvage prize. Strip it for value or briefly reactivate it for one useful task.
+
+### Cognition Core
+
+**Partial Self-Model Core**  
+The scenario’s main relic. Story-rich, dangerous, high-value, and difficult to extract.
+
+---
+
+# FINAL GM NOTE
+
+If Act 3 works well, the crew should feel:
+
+- getting in was easier than getting out
+- every additional gain made retreat harder
+- they only escaped with a fraction of what was there
+- what they brought back may still be enough to change everything
+
+And once they are back at the Dustbreaker, the final question becomes:
+
+**What do they report — and what do they hide?**
+
+## Final comments for further improvement
+
+The strongest next improvement would be to give the GM one **single-page quick reference** for Act 3:
+
+- route diagram
+- escalation procedure
+- main loot
+- exit options
+- recommended checks by zone
+
+A second very useful improvement would be a short **“running Act 3” box** with 5 bullets like:
+
+- keep movement difficult, not impossible
+- use one strong effect, not five weak ones
+- reward preparation, but keep pressure rising
+- make the relic extraction awkward, not abstract
+- force one meaningful abandonment decision during escape

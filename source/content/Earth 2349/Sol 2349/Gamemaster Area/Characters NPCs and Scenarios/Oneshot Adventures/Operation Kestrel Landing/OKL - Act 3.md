@@ -709,6 +709,72 @@ Accept the corporate or formal chain and let stronger institutions take over.
 Consequence: easiest in the moment, morally darkest in retrospect.
 
 ---
+## Extraction to the Pilgrim
+
+If the players secure surviving scientists and decide to remove them from the station, extraction should feel tense, procedural, and fragile rather than heroic.
+
+The **Pilgrim** is not parked at a boarding gate. It is waiting on the surface at the team’s chosen landing site, or at a revised pickup point if the tactical situation has changed. That means extraction requires three distinct steps:
+
+- move the survivors out of the station
+- get them across the surface in EVA or emergency transfer gear
+- board and strap them into the Pilgrim for immediate liftoff
+
+In most cases, the hardest part is not the takeoff itself. It is getting frightened, injured, compromised, or uncooperative civilians from a damaged research station to a military lander under pressure.
+
+### Getting the scientists out
+
+If the scientists are mobile and cooperative, the players can move them in a controlled evacuation line: armed marines forward and rear, survivors in the middle, pace dictated by suit integrity, injuries, and surface conditions.
+
+If they are injured, sedated, unstable, or contaminated, the players may need:
+
+- emergency soft stretchers
+- suit assist frames
+- improvised tow lines
+- one marine fully committed to casualty movement rather than security
+
+Keep this practical. The scene should reinforce that rescue is slow, awkward, and exposed.
+
+### Boarding the Pilgrim
+
+Once at the lander, boarding is fast and procedural.
+
+The hatch cycles, the marines push the survivors inside, and the interior immediately becomes cramped and ugly in a different way than during insertion. Empty restraint points, crash couches, fold-down web seats, and cargo tie-downs now become evacuation hardware.
+
+Scientists are not expected to board well. Some may freeze, argue, panic, or demand priority for data, samples, or equipment. The marines should be forced to decide quickly what matters:
+
+- living people
+- wounded personnel
+- critical data packages
+- sealed research containers
+- or speed of departure
+
+Once inside, survivors are strapped down as hard as the marines were on descent. Injured evacuees may be clipped into med restraints or cargo-rated crash webbing if proper seats are limited. This should not feel comfortable or humane. It should feel necessary.
+
+### Liftoff
+
+Takeoff itself is simple once the hatch is sealed.
+
+The Pilgrim lifts under controlled thrust, clears the surface, and begins ascent to rendezvous with the **Kestrel**. Unless you want one last complication, do not overplay this part. The emotional weight is in who made it aboard, what was left behind, and whether the team believes they actually extracted victims, witnesses, liabilities, or evidence.
+
+### GM guidance
+
+Do not spend too long here unless extraction becomes the crisis of the finale.
+
+In most runs, this sequence works best as a **tight closing procedure**:
+
+- secure survivors
+- withdraw to the surface
+- load the Pilgrim
+- strap in
+- seal hatch
+- lift off
+
+The important questions are not technical. They are human and political:
+
+- Who gets out?
+- In what condition?
+- With what information?
+- And who now controls the story of what happened on the station?
 
 ## GM Guidance for Intentions
 

@@ -1,22 +1,41 @@
 # 👥 NPCs — Ghost Station
 
-This chapter covers the key factions and NPCs on the station. Keep them lightweight and adjust numbers or stats as needed for pacing and group size.
+This chapter covers the active factions and key NPCs on Ghost Station.
 
-Combat should stay dangerous and short. Most NPCs prefer leverage, cover, and survival over prolonged firefights.
+Keep them lightweight. Adjust numbers, stats, and equipment as needed for pacing, player count, and desired lethality.
+
+Combat should stay dangerous and short. Most NPCs prefer leverage, cover, and survival over prolonged firefights. Even the Recovery Team is not here to die gloriously. The Old Guard is not trying to win open battles. Everyone is managing risk, time, and collapse.
+
+Ghost Station is not populated by a large living community. At the time of the scenario, the station is effectively defined by:
+
+- the **Corporate Recovery Team**
+- the **Old Guard**
+- **Talia Serrano**, the surviving freighter crewmember hidden near the threshold
 
 ---
 
-# ⚔️ Recovery Team
+# ⚔️ Corporate Recovery Team
 
-A small, heavily armed **deniable recovery unit**, likely [[Archeron]]-linked. Their mission is to recover the relic, not secure the station. They are injured, low on life support, and under time pressure, but still the most dangerous force present.
+A small, heavily armed **deniable recovery unit**, likely [[Archeron]]-linked. Their mission is to recover the relic, contain the situation, and leave. They are injured, low on life support, and operating under time pressure, but they remain the most dangerous force on the station.
 
-**Behavior**
+They are not here to secure Ghost Station as a place. They are here to secure an objective.
 
+## Behavior
 - disciplined and efficient
 - mission-first mindset
 - uses cover, angles, and focused fire
-- will cooperate only if useful
-- withdraws if the objective is lost
+- willing to negotiate if it preserves control
+- becomes harsher if secrecy, time, or relic access is threatened
+- withdraws if the objective is lost or the station becomes untenable
+
+## GM Guidance
+The Recovery Team should feel:
+- dangerous
+- professional
+- tired, but still coherent
+- more interested in control than in unnecessary killing
+
+They are not cartoon corporate black-ops. They are a compact, capable team trying to finish a compromised mission before the entire situation collapses.
 
 ---
 
@@ -24,39 +43,44 @@ A small, heavily armed **deniable recovery unit**, likely [[Archeron]]-linked. T
 
 **Role:** tactical leader, negotiation anchor
 
-**Stats**
+Markovic is the face of the Recovery Team. She is controlled, perceptive, and entirely capable of speaking calmly while planning force as a fallback. She is usually the best point of contact for negotiation, because she understands leverage better than the rest of her team.
 
+### Stats
 - Guard 10
 - Health 12
 - Wounds 3
 - Armor 2
 
-**Attributes**
-
+### Attributes
 - Reflexes 3
 - Fitness 2
 - Coordination 2
 - Intellect 2
 - Presence 3
 
-**Skills**
-
+### Skills
 - Firearms 4
 - Command 3
 - Insight 2
 - Tactics 3
 
-**Equipment**
-
+### Equipment
 - Carbine — 2d6, AP1, 50m, controlled
 - Sidearm — 1d6, 30m, safe
 - Combat Suit — Armor 2, Guard 5
 
-**GM Notes**
+### GM Notes
+- calm, precise, controlled
+- treats negotiation as another tactical tool
+- quickly identifies useful outsiders
+- escalates only when time, secrecy, or relic control is threatened
+- does not waste people casually, but will absolutely use pressure
 
-- calm, precise, decisive
-- prefers control over aggression
-- recognizes useful outsiders quickly
+### Typical Uses in Play
+- first serious negotiation
+- pressure on the players to cooperate
+- hard deadline delivery
+- clean statement of what the Recovery Team wants
 
 ---
 
@@ -64,279 +88,361 @@ A small, heavily armed **deniable recovery unit**, likely [[Archeron]]-linked. T
 
 **Role:** standard combat unit
 
-**Stats**
+These operatives form the professional backbone of the team. They are not flashy, but they are dangerous because they work well together, respect firing lanes, and keep their heads under stress.
 
+### Stats
 - Guard 8
 - Health 10
 - Wounds 3
 - Armor 2
 
-**Skills**
-
+### Skills
 - Firearms 3
 - Athletics 2
 - Perception 2
 
-**Equipment**
-
+### Equipment
 - Rifle — 2d6, AP1, 60m
 - Sidearm — 1d6
+- Combat Suit — Armor 2
 
-**GM Notes**
-
-- works well in pairs
+### GM Notes
+- works best in pairs
 - holds angles and choke points
-- rarely acts alone unless forced
+- rarely rushes unless ordered or cornered
+- uses the station like an obstacle, not like home terrain
+
+### Typical Uses in Play
+- corridor pressure
+- escort for Markovic
+- guarding access toward the threshold or freighter objective
 
 ---
 
 ## Heavy Gunner
 
-**Role:** suppression, area denial
+**Role:** suppression, denial, hard corridor control
 
-**Stats**
+Use this profile only if you want the Recovery Team to feel especially dangerous in confined station spaces. In a compact scenario like Ghost Station, one heavy gunner can define an entire approach route.
 
+### Stats
 - Guard 12
 - Health 14
 - Wounds 3
 - Armor 3
 
-**Skills**
-
+### Skills
 - Firearms 4
 - Endurance 3
 
-**Equipment**
-
+### Equipment
 - Heavy Rifle — 2d6+1, AP2, 40m, unstable
+- Reinforced Combat Suit — Armor 3
 
-**GM Notes**
-
+### GM Notes
 - slow, but dangerous
-- ideal for defensive corridors
-- creates “do not cross” zones
+- ideal for locking down a threshold or corridor
+- creates clear “do not cross” zones
+- most effective when used sparingly
+
+### Typical Uses in Play
+- hard stand-off at the threshold
+- corridor denial during repair work
+- visible symbol that negotiation may be better than crossing open fire
 
 ---
 
 # 🏴 Old Guard
 
-The remaining station crew: smugglers, salvagers, operators, and former contractors. They are less equipped and less disciplined than the recovery team, but they know the station and use it well.
+The Old Guard are the remaining station defenders: smugglers, salvagers, operators, and former contractors who know Ghost Station far better than the Recovery Team ever will.
 
-**Behavior**
+They are less equipped, less disciplined, and less unified than the Recovery Team, but they understand the routes, dead zones, patched systems, and choke points of the station. They are not trying to win a clean military engagement. They are trying to survive, hold what matters, and avoid being erased.
 
+## Behavior
 - pragmatic, defensive, suspicious
 - avoids fair fights
 - uses routes, barricades, and environment
-- motivated by survival and station continuity
+- trades ground when necessary
+- values people and survivability over dramatic heroics
+- may cooperate if that is the best path to survival
+
+## GM Guidance
+The Old Guard should not feel like noble rebels or generic pirates.
+
+They are:
+- tired
+- suspicious
+- station-rooted
+- more human and more improvisational than the Recovery Team
+- willing to bargain, lie, or retreat if that keeps them alive
+
+They know they are in a bad position. That makes them dangerous in a different way.
 
 ---
 
 ## Arman Volkov
 
-**Role:** leader, negotiator
+**Role:** leader, negotiator, pragmatic defender
 
-**Stats**
+Volkov is the most stable anchor on the Old Guard side. He is not ideological. He is not reckless. He is the person still trying to keep a damaged situation from becoming total collapse.
 
+He knows he cannot win a straight fight against the Recovery Team. His strength is judgment, local authority, and the ability to choose what to sacrifice.
+
+### Stats
 - Guard 8
 - Health 12
 - Wounds 3
 - Armor 1
 
-**Attributes**
-
+### Attributes
 - Reflexes 2
 - Fitness 2
 - Coordination 2
 - Intellect 2
 - Presence 3
 
-**Skills**
-
+### Skills
 - Firearms 3
 - Persuasion 3
 - Insight 3
 - Survival 2
 
-**Equipment**
-
+### Equipment
 - SMG / Rifle — 2d6, 40m
 - Sidearm — 1d6
+- Patch Armor / Utility Rig — Armor 1
 
-**GM Notes**
-
+### GM Notes
 - calm, pragmatic, distrustful
 - avoids direct confrontation if possible
 - will trade territory before losing people
+- speaks more plainly than Markovic
+- understands the station as home terrain, not as an objective
+
+### Typical Uses in Play
+- first meaningful human counterpoint to the Recovery Team
+- bargaining over routes, ships, or wounded
+- framing the station as a place people actually lived in
 
 ---
 
-## Old Guard Fighter
+## Old Guard Defender
 
-**Role:** defender, ambusher
+**Role:** defender, ambusher, local holdout
 
-**Stats**
+Old Guard defenders are not soldiers, but they are dangerous in the right conditions. They know where to hide, where to fall back, and where the station itself can do part of the work for them.
 
+### Stats
 - Guard 7
 - Health 10
 - Wounds 3
 - Armor 1
 
-**Skills**
-
+### Skills
 - Firearms 2
 - Melee 2
 - Stealth 2
+- Athletics 1
 
-**Equipment**
-
+### Equipment
 - Improvised Rifle — 2d6, unreliable
-- Melee Weapon — 1d6
+- Sidearm or improvised melee weapon — 1d6
+- Patch Armor / Work Suit — Armor 1
 
-**GM Notes**
-
+### GM Notes
 - prefers cover and short engagements
 - retreats if losing position
 - dangerous in familiar terrain
+- best used in pairs, corners, barricades, or fallback positions
+
+### Typical Uses in Play
+- escorting Volkov
+- holding spinward approaches
+- threatening the players without forcing immediate combat
+- making the station feel inhabited and defended
 
 ---
 
-## Station Mechanic
+# 👤 Talia Serrano
 
-**Role:** support, systems control
+A surviving **freighter crewmember** caught in the collapse of the transfer operation.
 
-**Stats**
+Talia is not loyal to the Old Guard, does not trust the Recovery Team, and does not fully trust the players either. She is frightened, exhausted, and mainly wants to survive.
 
-- Guard 6
-- Health 10
-- Wounds 3
-- Armor 1
+She matters because she connects:
+- the freighter
+- the failed cargo transfer
+- the split within the freighter crew
+- the current station standoff
 
-**Skills**
+without knowing the whole truth herself.
 
-- Engineering 3
-- Systems 2
-
-**Abilities**
-
-- restore or stabilize systems
-- lock or unlock sections
-- reroute power
-- disable doors or access points
-
-**GM Notes**
-
-- not a frontline fighter
-- valuable ally or target
-- can change encounters through environment rather than combat
+She is not an exposition machine. She is a partial witness with practical knowledge.
 
 ---
 
-# 👤 Rescuable NPC — Talia Serrano
+## Suggested Location
 
-A trapped **mutineer technician**. She is useful because she connects the earlier mutiny to the current standoff and knows practical details about the freighter, hidden routes, and the relic’s concealment.
+Talia should usually be found in:
 
-She is not loyal to the Old Guard, does not trust the recovery team, and mainly wants to survive.
+- a **sealed off-axis maintenance recess**
+- hidden near the **spin-transfer threshold**
+- close enough to hear movement and fragments of conversation
+- overlooked during the fighting because the compartment is small, damaged, and easy to miss
 
-**Suggested Location**
+This location is better than placing her near the freighter because:
+- the players can find her before fully committing to a faction
+- neither faction has full control over her
+- she becomes part of the threshold tension rather than a late-stage reveal
 
-- sealed maintenance recess
-- damaged crawlspace near the freighter bay
-- isolated service compartment with failing air or power
+---
 
-**Stats**
+## Role in the Scenario
 
+Talia can function as:
+- a **witness**
+- a **rescue burden**
+- a **bargaining asset**
+- a **liability**
+- a **practical lead** toward the freighter and the failed transfer
+
+If the players protect her, she becomes more useful.  
+If they expose her, she becomes a problem immediately.
+
+---
+
+## Stats
 - Guard 6
 - Health 9
 - Wounds 3
 - Armor 1
 
-**Attributes**
-
+## Attributes
 - Reflexes 1
 - Fitness 1
 - Coordination 3
 - Intellect 2
 - Presence 2
 
-**Skills**
-
+## Skills
 - Engineering 2
 - Systems 3
 - Mechanics 2
 - Deception 1
 - Insight 1
 
-**Equipment**
-
-- Tool Pistol / Cutter — 1d6, short range, industrial tool
+## Equipment
+- Tool Cutter — 1d6, short range, industrial tool
 - Patch Suit — Armor 1, limited EVA protection
 
-**GM Notes**
+---
 
+## GM Notes
 - frightened, exhausted, suspicious
-- not combat-capable
-- lies at first if she thinks it helps
-- becomes useful once safe
+- not combat-capable in any meaningful sense
+- gives information in fragments, not speeches
+- lies or omits details if she thinks it improves her odds
+- becomes more coherent and useful once protected and stabilized
 
-**What She Can Offer**
+---
 
-- freighter repair knowledge
-- hidden compartment clue
-- maintenance bypass routes
-- context on the mutiny and failed sale
+## What Talia Knows for Sure
+- the freighter brought the cargo
+- the transfer to an internal hold was interrupted
+- command authority collapsed during the attempt
+- the freighter crew split
+- the station was still inhabited when the recovery push began
 
-Use her if the players need:
+## What Talia Suspects
+- there was an outside buyer waiting on confirmation
+- the Recovery Team cares more about the cargo than any survivors
+- nobody now fully controls the situation
 
-- a practical lead
-- a human rescue moment
-- a route to the freighter or relic that does not depend entirely on faction trust
+## What Talia Does Not Know
+- the true origin of the relic
+- the full corporate chain behind the recovery operation
+- the complete station-wide picture after the collapse
+
+---
+
+## What Talia Can Offer
+- confirmation that the freighter is central to the crisis
+- pressure toward the freighter as a key objective
+- a human perspective on the collapse
+- limited technical knowledge relevant to the freighter
+- a reason to treat the station as more than just hostile terrain
 
 ---
 
 # ⚖️ Faction Snapshot
 
-|Aspect|Recovery Team|Old Guard|
+| Aspect | Recovery Team | Old Guard |
 |---|---|---|
-|Direct Combat|High|Medium|
-|Numbers|Low|Medium|
-|Coordination|High|Low–Medium|
-|Environment Use|Medium|High|
-|Mobility|Limited|Better local access|
+| Direct Combat | High | Medium |
+| Numbers | Low | Medium |
+| Coordination | High | Low–Medium |
+| Station Access | Medium | High |
+| Discipline | High | Low–Medium |
+| Flexibility | Medium | High |
+| Willingness to Bargain | Medium | Medium–High |
 
 ---
 
 # 🧠 GM Combat Guidance
 
 Combat is not the default solution. If it happens, it should:
-
 - escalate the scenario quickly
 - cost resources, trust, or escape options
 - change faction behavior immediately
+- usually advance station pressure
 
-**Recovery Team**
-
+## Recovery Team
 - coordinated
 - uses cover and focused fire
 - targets priority threats
+- fights to achieve control, not for spectacle
 
-**Old Guard**
-
+## Old Guard
 - opportunistic
 - uses terrain, ambushes, and fallback routes
-- avoids standing in open firefights
+- avoids open firefights whenever possible
+- tries to survive the exchange, not dominate it
+
+## Important Principle
+A short violent scene should change the whole station mood.
+
+After open gunfire:
+- trust falls
+- movement becomes harder
+- negotiations narrow
+- both sides assume worse intentions
+- the station feels closer to collapse
 
 ---
 
 # 🔥 Difficulty Scaling
 
-**Easier**
+## Easier
+- reduce total NPC numbers
+- remove the Heavy Gunner
+- lower Guard by 1–2 for minor NPCs
+- let one faction be more damaged, divided, or passive
 
-- reduce NPC numbers
-- remove heavy gunner
-- lower Guard by 1–2
+## Harder
+- add 1–2 Recovery Operatives
+- improve faction positioning at thresholds and corridors
+- let the Old Guard use better barricades and fallback routes
+- increase pressure from life support, power, or route instability during combat
 
-**Harder**
+---
 
-- add 1–2 recovery operatives
-- improve faction positioning
-- let the Old Guard use more environmental control
+# 🧭 Quick Use Summary
+
+Use the NPCs like this:
+
+- **Markovic** = pressure, negotiation, mission logic
+- **Recovery Operatives** = professional corridor threat
+- **Heavy Gunner** = hard denial / “do not cross” presence
+- **Volkov** = human counterweight, local authority, survival logic
+- **Old Guard Defenders** = station-rooted resistance and ambush pressure
+- **Talia** = witness, burden, leverage, and link to the freighter transfer

@@ -1,51 +1,129 @@
-# Living in Space
+Living in space in 2349 is not a constant struggle to survive, but a disciplined form of ordinary life made possible by engineering, maintenance, trade, and a culture that takes shared systems seriously.
 
-Human life beyond Earth is shaped less by architectural tradition than by **engineering necessity**. In space, every cubic meter must be pressurized, heated or cooled, monitored, maintained, and protected from radiation, vacuum, fire, contamination, and structural failure. For that reason, habitable volume remains one of the most expensive resources in the Solar System.
+Everything important is artificial. Air is circulated. Water is processed. Pressure is maintained. Waste is handled. Temperature is managed. Radiation is mitigated. Food is grown, manufactured, recycled, or shipped in. Even gravity is often engineered rather than simply present. This creates dependence, but not permanent fear. Human civilization has lived in artificial environments for centuries. Habitats, stations, ships, and settlements are built with redundancies, maintenance access, inspection regimes, and legal protections precisely so that life inside them can be stable and normal.
 
-This has consequences that are visible in nearly every artificial environment. Outside a small number of prestigious settlements, space habitats are not designed around spaciousness, ornament, or historical ideas of domestic comfort. They are designed around **efficiency, reliability, and controlled livability**. Rooms are compact, infrastructure is deeply integrated into the built environment, and private living space is usually smaller than most pre-space societies would have considered normal.
+Space is therefore not a dystopian nightmare where people buy every breath by the minute. Basic life support is a civilizational baseline. Air, pressure integrity, water access, and minimum habitability are treated as fundamental necessities of organized life, not optional luxuries. Standards vary, comfort varies, and poor communities still exist, but a functioning habitat that casually withholds breathable air from its residents is not a normal or accepted part of civilized interplanetary society.
 
-In many habitats, especially those operating in low gravity or microgravity, living conditions are understood in terms of **volume rather than floor area**. Walls, ceilings, and vertical surfaces remain usable parts of the habitat. Storage is built into structure. Furniture is often foldable, retractable, or multifunctional. Interior design tends to prioritize modularity, service access, and psychological stability over luxury.
-
-Even so, life in space is not uniformly harsh. The largest settlements on [[Mars]], the cloud cities of [[Venus]], major orbital hubs, and some high-end corporate habitats offer residential districts that are stable, comfortable, and in some cases quietly affluent. But these remain the exception. For most people living beyond Earth, domestic life is shaped by constraints that never fully disappear: limited personal space, shared infrastructure, recycled air and water, and the constant awareness that habitability is an active process rather than a natural condition.
-
-For that reason, privacy is often unevenly distributed. Wealthier residents may have self-contained apartments with dedicated hygiene space, controlled noise isolation, and limited private amenities. Technical professionals and long-term station workers often occupy compact but functional units. In more industrial environments such as Belt habitats, mining stations, freight spines, and dock complexes, shared accommodation remains common. Communal kitchens, shared hygiene blocks, rotating shift housing, and limited personal storage are normal features of daily life.
-
-This does not make space habitation uniformly miserable. Most mature habitats understand that morale, privacy, and routine matter. Even highly constrained environments usually provide some combination of social space, recreation, exercise areas, food service, and quiet zones. But these are never free. Every comfort in space is supported by structural mass, energy expenditure, maintenance labor, and political-economic decisions about who deserves room to breathe.
-
-As a result, living in space is defined by a constant balance between **technical constraint and human adaptation**. Habitats must be efficient enough to function, but humane enough to retain the people who keep them alive.
-
-For a more detailed look at daily life inside orbital settlements, including housing, commerce, food, privacy, and social space, see [[Life on a Space Station]].
+See also: [[Life in Space]], [[Interplanetary Law]], [[Money in Space]]
 
 ---
 
-# Life on a Space Station
+## Life Inside Systems
 
-Life on a space station is rarely as dramatic as outsiders imagine. Most of the time, it is not defined by catastrophe or frontier heroism, but by routines carried out inside an engineered environment that must remain stable at all times. People wake, eat, commute, work, shop, rest, and socialize much as they do anywhere else — but all of it happens inside a structure where air, water, gravity, temperature, and safety are artificial achievements rather than background conditions.
+To live in space is to live inside systems.
 
-That basic fact shapes everything.
+On Earth, many conditions of life are simply present in the environment. In space, they are produced and maintained. Most people are not consciously afraid of this, but they are shaped by it. A person living in a habitat may feel entirely at home while still understanding that ordinary comfort depends on machinery, logistics, skilled labor, and stable supply chains.
 
-In large, mature stations, everyday life is often more normal than visitors expect. Corridors become streets. Transfer nodes become plazas. Commercial strips form around traffic flow, work shifts, and transport access. People develop favorite cafés, regular food stalls, bars they return to after work, and familiar routes between residential sections and industrial or administrative districts. The environment is compact and controlled, but not necessarily bleak. A functioning station has to be livable, not merely survivable.
+This also creates dependence on trade between systems. Few habitats are truly self-sufficient in every important category. Even large and advanced settlements depend on regular imports, replacement parts, specialist equipment, pharmaceuticals, technical expertise, or food categories they do not produce locally. Disruptions usually mean stress, delay, rationing, or substitution rather than instant collapse, but they are felt.
 
-The exact feel of daily life depends heavily on gravity. In habitats built around rotational sections, many residential districts operate at something close to partial gravity rather than a full Earth standard. In SOL 2349, this is often around **0.5 g**, which offers a workable compromise between structural cost, long-term health, and day-to-day comfort. At that level, most ordinary activities remain familiar. People walk normally, carry goods, sit in bars, cook, queue, clean, and commute in ways that still feel recognizably human. The differences are real, but subtle: movement is lighter, falls are less punishing, ceilings can be higher for the same structural cost, and interior architecture tends to feel slightly more open than its physical mass would suggest.
+This is one of the defining truths of life in space: no habitat stands entirely alone for long.
 
-Closer to the station’s static spine, or in smaller and more utilitarian installations, conditions may shift toward microgravity or very low gravity. That changes daily life more dramatically. Shops use clips, straps, nets, and containment surfaces. Drinks come in sealed containers or magnetic cups rather than open glasses. Food is designed to avoid crumbs, loose particles, and free-floating liquids. Seating becomes anchoring. Walls and ceilings become usable surfaces rather than boundaries. A low-g service corridor, dockside market, or spine bar feels physically different from life in a rotating residential ring, even within the same station.
+See also: [[Travelling in Space]]
 
-Housing reflects the same logic. Truly luxurious accommodation exists, but it is uncommon outside prestige corporate stations, executive districts, or high-value research environments. Most residents live in compact but functional apartments or shared residential modules. For a skilled technician, administrator, nurse, or systems specialist, a private unit may be small by planetary standards but still comfortable enough for long-term life: sleeping space, integrated storage, hygiene access, a compact galley or kitchenette, and enough privacy to sustain routine. For industrial workers, transient contractors, freight crews, and lower-tier station labor, living conditions are often denser. Shared blocks, rotating occupancy, capsule bunks, and limited personal storage remain common, especially near dock sectors and heavy work zones.
+---
 
-What matters most is usually not size in the abstract, but quality of systems. Noise insulation, reliable climate control, clean air, dependable sanitation, and the ability to close a door matter more than decorative space. A small, quiet, well-maintained module is often considered better housing than a larger but noisy and poorly serviced one.
+## Redundancy, Maintenance, and Trust
 
-Food culture on stations is more varied than stereotype suggests. Large stations typically support several parallel systems at once. Communal dining and worksite canteens remain important, especially for industrial labor and routine shift work. At the same time, food corridors, takeaway counters, compact restaurants, and localized market clusters emerge wherever population density supports them. Street food in the planetary sense is rare, but station equivalents are common: hand-held meals, wrapped hot food, dense bowls, sealed drinks, portable snacks, and prepared dishes optimized for confined environments. In better residential districts, home cooking is common as well, though kitchens are usually compact and ingredients are often partially processed, packaged, or standardized for storage and waste control.
+Space civilization works because systems are designed to fail slowly rather than all at once.
 
-Packaging is highly optimized. In space, packaging is not merely about branding or convenience, but about containment, shelf stability, stacking efficiency, traceability, and recyclability. Food containers are often modular, resealable, compact, and designed for easy material recovery. In low-gravity environments they may also include grip surfaces, anchor points, or semi-rigid geometries that make them easier to handle. Waste is not casually tolerated in enclosed systems. Even ordinary domestic packaging reflects that.
+Life support, pressure infrastructure, power routing, fire suppression, water processing, structural monitoring, and thermal control are built with backups, compartmentalization, procedural safeguards, and maintenance access. In ordinary life, this means inspections, maintenance windows, service interruptions, and repair work are constant facts of existence rather than exceptional events.
 
-Commerce on a station is similarly practical. Shops are rarely large by planetary standards, but they are dense, efficient, and shaped by local demand. A residential commercial strip may include food counters, maintenance kiosks, clothing outlets, pharmacy access, tool rental, repair services, small bars, communications booths, and convenience retail. In more industrial districts, the mix shifts toward work supplies, sealed consumables, cheap prepared meals, spare electronics, pressure garments, and contract services. In major hubs, these spaces can become lively and socially important, even if they never resemble open-air urban markets on a planet.
+Repair culture is therefore deeply respected in space. The people who keep systems running are not invisible. They are part of the foundation of daily life.
 
-Bars deserve special mention because they often serve as one of the main social stabilizers in station life. In partial gravity districts, a bar may look surprisingly familiar: counter seating, booths, dim light, acoustic shielding, low music, tired workers at the end of a shift. In low-g or spine-adjacent sectors, bars feel different. Movement is more fluid, furniture is more anchored, and the physical experience of socializing changes with the environment. But the role remains the same. Bars are not luxuries. They are part of how enclosed communities remain psychologically functional.
+This also shapes social expectations. Negligence with shared infrastructure is not seen as harmless carelessness. It is dangerous, irresponsible, and often punishable. A person who is reckless with fire risk, contamination rules, safety procedures, shared tools, pressure integrity, or life-support systems damages more than equipment. They damage trust. In many parts of the Solar System, a reputation for carelessness with common infrastructure is enough to harm a person’s standing for years.
 
-Movement through the station is structured by scale and gravity. On smaller stations, most people walk. On larger habitats, tram lines, internal transit loops, cargo-separated pedestrian routes, and elevator or transfer systems between the rotating sections and the static spine become part of daily routine. Commuting is usually less about long distance than about controlled access and environmental transition. A worker may travel only a few kilometers in absolute terms, but cross multiple technical and social boundaries in doing so: residential ring to transfer hub, transfer hub to spine, spine to dock works, or residential sector to fabrication block.
+See also: [[The Spacer Code]]
 
-Ownership is also different from most planetary norms. On many stations, especially corporate or semi-corporate ones, people own relatively little of the physical environment around them. Living space is often leased. Infrastructure is centrally maintained. Appliances, furniture, and utility access may be standardized rather than individually owned. What residents accumulate instead are portable possessions: clothing, personal electronics, tools, keepsakes, work certifications, customized gear, and objects that can move with them if contracts change or relocation becomes necessary.
+---
 
-All of this creates a form of life that is constrained, but not necessarily bleak. Space stations in SOL 2349 are not utopian environments, but neither are they uniformly grim. People live there because jobs are real, systems are stable enough, communities exist, and everyday life, though compressed and engineered, remains recognizably human. They build routines. They form neighborhoods. They complain about management, poor ventilation, cramped transit, and recycled food. They go to work, meet friends, buy takeaway, watch traffic through shielded viewports, and return to small but functional homes.
+## Private Life and Public Life
 
-That is what makes a station feel real. Not that it escapes the limits of living in space, but that people have learned how to live meaningfully within them.
+Most people in space have private space, but not much of it.
+
+Individuals, couples, and families usually have quarters of their own, but much of everyday life takes place outside them. Meals are often eaten in canteens rather than in private kitchens. Leisure happens in bars, lounges, public plazas, gyms, rec rooms, and shared gardens rather than in large private homes. Exercise takes place in designated facilities, not in open natural space. Social life is built around common infrastructure because common infrastructure is more efficient, easier to maintain, and more practical than duplicating everything in every household.
+
+This makes life in space more public than life in most planetary settlements. People spend more time in shared corridors, shared eating spaces, shared transit nodes, and shared recreation areas. In many habitats this feels normal rather than oppressive, but it does mean that privacy, quiet, and personal room are more visible markers of status than they are on Earth.
+
+Luxury in space often means not extravagance, but relief: a larger berth, a quieter compartment, a private washroom, a better galley, a window, or simply the ability to spend time alone.
+
+See also: [[Life on a Space Station]], [[A Normal Day on a Station]]
+
+---
+
+## Shift Cycles and Structured Time
+
+Life in space is structured not only by clocks, but by systems management.
+
+Habitats are expensive to run, and shared facilities are used deliberately. Canteens, gyms, transit corridors, workshops, recreation areas, and medical services are often planned around staggered shifts, load balancing, and maintenance windows. Not every service is available to everyone at all times, and off-time is not always spontaneous.
+
+Some people remain on the same shift cycle for years. Others are moved frequently depending on job, contract, local demand, or facility pressure. This shapes who eats together, who relaxes together, which places feel local, and whether family members are awake at the same time. In some habitats, shared holidays, family leave, or group downtime must be booked in advance because too many people using the same systems at once would be disruptive or inefficient.
+
+Time in space is therefore social and infrastructural at the same time.
+
+See also: [[Work, Labor, and Contracts in 2349]]
+
+---
+
+## Distance, Trade, and Separation
+
+Distance still matters in 2349.
+
+Communication is better than in earlier centuries, but the Solar System is still large. Travel takes time. Movement costs money. Family members may live under different gravities, legal systems, work cycles, and communication rhythms. Even when contact is easy, physical presence is not.
+
+At greater distances, communication itself changes. In the inner system, live conversation is often straightforward. Further out, light lag becomes a real emotional problem. Messages can still be exchanged, but conversation begins to break apart. A person may remain connected to home in a technical sense while still feeling profoundly distant from it in a human one.
+
+This is also why trade matters so much. Space civilization is not just a network of places. It is a network of places that must remain in contact materially as well as socially.
+
+See also: [[Travelling in Space]], [[Asteroid Belt]]
+
+---
+
+## Body, Gravity, and Adaptation
+
+Human bodies adapt, but adaptation is never entirely free.
+
+Medicine in 2349 is good enough to help people move between gravity regimes without turning the Solar System into a collection of permanent biological castes. Living in low gravity, spin gravity, microgravity, or planetary gravity does shape the body, but most of these effects can be treated, managed, or compensated for with time, medical support, training, and expense.
+
+That does not mean adaptation is easy. Recovering for higher gravity can be painful, slow, and costly. Returning down a gravity well after long periods away may involve rehabilitation, medication, structured exercise, and weeks or months of discomfort. Moving into lower gravity is usually easier, but becoming fully competent and natural in it still takes time.
+
+This gives gravity a real social meaning. Some people adapt so thoroughly to life away from planets that returning to a deep gravity well stops feeling attractive. Others always think of planetary gravity as the place where life is most physically complete, even if they can no longer tolerate it comfortably.
+
+See also: [[Advanced Medicine]], [[Getting Augmented]]
+
+---
+
+## Consumption, Quality, and Waste
+
+Space culture is usually less wasteful than planetary mass consumer culture, but it is not joyless.
+
+People care about quality, reliability, durability, taste, and comfort. Good food and good drink are valued. Well-made products are appreciated. Craftsmanship matters. In structured and constrained environments, small comforts often matter more, not less.
+
+What is judged negatively is wastefulness. Throwing away usable material, abusing shared goods, damaging common facilities, or treating scarce resources carelessly carries both financial and social cost. Wastefulness is often read not only as inefficiency, but as laziness toward the systems that make life possible.
+
+This gives many space societies a practical rather than ideological attitude toward consumption. Good things are welcome. Stupid waste is not.
+
+See also: [[Food and Cuisine in the Solar System]], [[Money in Space]]
+
+---
+
+## Many Ways to Live in Space
+
+There is no single space lifestyle.
+
+The basic realities of artificial environments, maintenance culture, constrained space, and infrastructural dependence apply almost everywhere beyond Earth, but they are experienced very differently depending on where a person lives.
+
+Cislunar space is dense, advanced, and closely tied to Earth. Travel back to the planet can be fast and relatively affordable by interplanetary standards. Large habitats there often feel highly developed, urbanized, and integrated into wider economic networks. Life in the Belt is much more diverse. Some stations are sophisticated and stable, others rough, improvised, or deeply specialized. In the outer system, distance matters more, delay matters more, and habitats tend to feel more self-contained.
+
+Even within a single region, life can differ enormously between wealthy orbital communities, industrial stations, long-haul ships, frontier settlements, and older retrofitted habitats. Living in space is therefore a shared condition, not a single culture.
+
+See also: [[Earth]], [[Mars]], [[Venus]], [[Asteroid Belt]]
+
+---
+
+## Conclusion
+
+Living in space means living with systems, schedules, interdependence, and limits.
+
+It is not a permanent emergency, because generations of engineering, law, labor, and culture have made artificial environments stable enough for ordinary life. But it is also not Earth. Comfort is engineered. Privacy is limited. Public infrastructure matters. Distance remains real. Maintenance never stops. Shared systems shape both behavior and values.
+
+A person living in space in 2349 may feel safe, at home, and entirely normal. But that normality exists because civilization works constantly to sustain it.

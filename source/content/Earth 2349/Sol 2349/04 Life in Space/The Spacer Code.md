@@ -1,57 +1,93 @@
-# Overview
+## Overview
 
-Life in space is built on systems—and systems do not forgive mistakes. Across the solar system, a shared set of expectations has emerged among those who live and work beyond planetary surfaces. These are not formal laws, nor are they written down in any single place. Instead, they form an **unspoken code of conduct**, shaped by necessity, risk, and the constant awareness that failure in space is rarely survivable.
+Life in space depends on systems, and systems do not forgive carelessness.
 
-Among spacers, this code matters more than regulation. It is the difference between routine and catastrophe, between isolation and survival.
+Across the Solar System, a shared set of expectations has emerged among those who live and work beyond planetary surfaces. These expectations are not a single law code, nor are they written down in one authoritative form. They are closer to a practical ethic: habits, assumptions, and judgments shaped by risk, interdependence, and the constant knowledge that failure in space is rarely contained for long.
 
----
+Among spacers, this code often matters more than formal regulation. It shapes how people judge competence, trust, reputation, and belonging. It is one of the things that makes life in artificial environments possible at all.
 
-# Systems Are Sacred
-
-In space, every system is critical. Air, pressure, power, heat management—none of these are optional, and none of them are forgiving. As a result, there is a near-universal understanding among spacers: **you do not cut corners**. Poor workmanship, negligence, or improvisation without understanding is not just unprofessional—it is dangerous. A small mistake can cascade into system failure, and system failure can mean loss of life.
-
-This creates a culture where technical competence is not just valued, but expected. Even outside formal roles, most spacers possess a working understanding of essential systems. You are responsible not only for your own safety, but for the integrity of the environment around you.
+See also: [[Living in Space]], [[Life on a Space Station]]
 
 ---
 
-# Trust Is Infrastructure
+## Systems Are Sacred
 
-In an environment where survival depends on others, trust becomes a functional necessity. Crews rely on each other, stations rely on incoming ships, and ships rely on external support they may never see again.
+In space, every system matters.
 
-Among spacers, trust is not abstract—it is operational. You trust that a dock will hold, that a repair was done correctly, that a warning is real. Breaking that trust has consequences far beyond reputation. It undermines the assumptions that keep people alive. Because of this, trust is built slowly and lost quickly. It cannot be enforced—but it is constantly evaluated.
+Air handling, pressure integrity, power distribution, water recovery, thermal control, and structural maintenance are not background infrastructure. They are the conditions that make ordinary life possible. As a result, one of the most widely shared assumptions among spacers is simple: **you do not cut corners around critical systems**.
 
----
+Poor workmanship, lazy maintenance, careless handling, or improvisation without understanding are not seen as minor professional flaws. They are dangerous. A small mistake can spread outward through dependent systems, and in a closed environment that can quickly become everyone’s problem.
 
-# You Help, or You Don’t Belong
-
-One of the most widely accepted principles among spacers is simple: **you help others in distress**. This is not idealism. It is reciprocity. Everyone who spends enough time in space will eventually face a situation they cannot resolve alone—system failure, navigation errors, resource shortages. Survival often depends on whether someone else chooses to respond.
-
-Ignoring a distress call is not illegal everywhere, but it is remembered. On many routes and within many communities, it is enough to permanently damage a reputation. In space, refusing to help is understood as a long-term decision.
+This creates a culture in which technical competence is respected far beyond formal engineering roles. Even people who are not specialists are expected to understand the basics of the systems they live inside. In space, ignorance is sometimes tolerated. Negligence is not.
 
 ---
 
-# Sabotage Is the Ultimate Crime
+## Trust Is Infrastructure
 
-If poor work is dangerous, deliberate interference is unforgivable. The manipulation, damage, or sabotage of critical systems is treated as one of the most severe offenses across all regions of the solar system. While enforcement varies depending on location, the consequences are always extreme. In controlled environments, it may lead to imprisonment or forced labor. In less regulated areas, punishment can be immediate and final. Spacing—being ejected into vacuum without protection—is rare, but not unheard of. 
+In environments where survival depends on other people, trust becomes part of the infrastructure.
 
-The reason is simple: sabotage does not just harm individuals. It threatens entire systems, and everyone within them.
+Crews rely on each other. Stations rely on arriving ships. Ships rely on repair crews, traffic controllers, cargo handlers, habitat techs, and support systems they may never fully see. Every transfer, docking maneuver, refueling operation, maintenance cycle, and emergency response depends on the assumption that other people are doing their part correctly.
 
----
+Among spacers, trust is therefore not abstract. It is operational. You trust that a dock will hold, that a warning is real, that a seal was checked properly, that a repair was not signed off carelessly, and that the person giving an all-clear understands what that means.
 
-# Reputation Travels Faster Than Ships
-
-Despite the vastness of space, the community of active spacers is relatively small. Millions travel between worlds, stations, and the Belt—but along specific routes, within certain sectors, people begin to recognize each other. Information spreads.
-
-Reputation is built through contracts, interactions, and decisions made under pressure. Reliability, competence, and behavior in critical situations all contribute to how a spacer is perceived. This reputation often determines access to work, docking priority, and cooperation. 
-
-On some routes, your name arrives before you do. And once established, it is difficult to change.
+Breaking that trust has consequences beyond embarrassment or formal liability. It undermines the assumptions that keep people calm enough to function. That is why trust is built slowly and lost quickly. It cannot be fully enforced, but it is constantly judged.
 
 ---
 
-# A Shared Understanding
+## You Help, or You Are Remembered
 
-The Spacer Code is not enforced by any central authority, yet it persists across political systems, corporate territories, and independent regions. It exists because the environment demands it.
+One of the most widely recognized principles among spacers is that distress matters.
 
-Space does not tolerate negligence. It does not reward selfishness. And it does not forget mistakes.
+This is not pure idealism. It is long-term reciprocity. Anyone who spends enough time in space will eventually face something they cannot solve alone: a systems fault, a navigation error, a shortage, a docking problem, a medical emergency, a bad burn calculation, or a failed repair under the wrong conditions. Survival often depends on whether someone else chooses to respond.
 
-Among those who live between worlds, the rules are simple—not because they are easy, but because they must be understood. If you break them, the consequences may not come immediately. But they will come eventually.
+Because of that, ignoring distress carries social weight even where it carries little legal risk. Not every situation allows intervention. Not every distress call is genuine. And not every crew can afford to risk itself. But a reputation for indifference travels badly. In many communities, refusing aid without good reason is remembered for a long time.
+
+In space, people do not always expect heroism. They do expect that need will be taken seriously.
+
+---
+
+## Sabotage Is Unforgivable
+
+If poor work is dangerous, deliberate interference is worse.
+
+The intentional damage, manipulation, or disabling of critical systems is treated almost everywhere as one of the most serious possible offenses. Exact enforcement varies by region, jurisdiction, and political culture, but the underlying judgment is remarkably consistent. Sabotage is not seen merely as property damage or interpersonal violence. It is seen as an attack on a shared life-support environment.
+
+That is why reactions are often severe. In tightly regulated environments, sabotage may lead to imprisonment, labor sentencing, or permanent exclusion from critical systems work. In harsher or less regulated places, punishment may be immediate and extreme.
+
+The core reason is simple: sabotage threatens not only specific victims, but everyone who depends on the same structure.
+
+---
+
+## Reputation Travels Faster Than Ships
+
+The Solar System is vast, but active spacer networks are smaller than they first appear.
+
+Millions of people move through stations, routes, ports, and Belt corridors, but many sectors are socially narrower than they look. Crews overlap. contractors return to the same hubs. traffic controllers remember names. dock workers talk. engineers compare notes. brokers remember who caused trouble, who stayed calm, who paid fairly, who panicked, and who left others holding the risk.
+
+As a result, reputation matters enormously. Reliability, competence, honesty under pressure, and behavior in emergencies all shape how a person is perceived. That perception affects access to work, willingness to cooperate, informal trust, and sometimes even the quality of treatment a crew receives on arrival.
+
+On some routes, your record reaches a station before you do. Once established, it can be difficult to escape.
+
+See also: [[Work, Labor, and Contracts in 2349]], [[Money in Space]]
+
+---
+
+## The Code Is Practical, Not Noble
+
+The Spacer Code is not a romantic code of honor.
+
+It exists because life in space forces people into repeated dependence on systems, routines, and one another. Most of its values are practical before they are moral. Check your work. Do not endanger shared infrastructure. Do not lie casually about safety. Do not create preventable risk for others. Take distress seriously. Do not make yourself a burden through laziness or recklessness. Be the kind of person others can continue to work with inside a closed environment.
+
+That does not make the code less meaningful. If anything, it makes it more durable. It survives across corporate territory, station law, Belt custom, and political rivalry because it is reinforced by the environment itself.
+
+---
+
+## A Shared Understanding
+
+The Spacer Code has no single author and no central authority behind it, yet versions of it persist almost everywhere beyond the deep gravity worlds.
+
+It exists because artificial environments reward competence, punish carelessness, and force people to notice who can be trusted. Different regions express it differently. Different crews enforce it differently. Different institutions may invoke law where others rely on reputation. But the underlying pattern remains familiar across much of human space.
+
+Space does not tolerate negligence for long. It does not absorb selfishness easily. And it rarely lets people forget who became dangerous when systems were under pressure.
+
+Among those who live between worlds, the rules are not simple because life is simple. They are simple because they have to be understood quickly, remembered easily, and applied when something goes wrong.

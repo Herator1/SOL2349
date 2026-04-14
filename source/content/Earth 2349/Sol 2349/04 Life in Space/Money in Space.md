@@ -14,12 +14,9 @@ Economic life across the Solar System runs through a layered mix of planetary cu
 
 Many planets, stations, and corporations maintain their own internal financial systems, but **SOL** functions as the common language of long-distance commerce. Major cargo deals, ship sales, industrial procurement, spacer wages, salvage claims, and infrastructure contracts are usually expressed in SOL somewhere in the chain.
 
-For most people, however, daily life is not lived entirely in SOL. Housing, food, medical access, and labor obligations are often structured through local systems. A person may technically be paid in a trusted interplanetary currency and still remain trapped inside a station, route network, or corporate dependency environment.
+For most people, however, daily life is not lived entirely in SOL. Housing, food, medical access, and labor obligations are often mediated through local systems. A person may technically be paid in a trusted interplanetary currency and still remain tied to a station economy, route network, or corporate dependency structure.
 
-See also:
-- [[Food and Cuisine in the Solar System]]
-- [[Living in Space]]
-- [[Life on a Space Station]]
+See also: [[Living in Space]], [[Life on a Space Station]], [[Work, Labor, and Contracts in 2349]]
 
 ---
 
@@ -27,9 +24,9 @@ See also:
 
 The **Solar Credit** is the closest thing human space has to a universal currency.
 
-It is not universal because everyone uses it for every purchase. It is universal because it remains legible across worlds. If something has to survive contract review, freight arbitration, insurance modeling, and delayed verification across multiple jurisdictions, it is usually denominated in SOL.
+It is not universal because everyone uses it for every purchase. It is universal because it remains legible across worlds. If something must survive contract review, freight arbitration, insurance modeling, and delayed verification across multiple jurisdictions, it is usually denominated in SOL.
 
-The currency is especially important for ship transactions, interplanetary cargo, technical procurement, private security contracts, and large industrial payments. It is trusted because the institutions behind it are trusted—or at least feared enough to be taken seriously.
+The currency matters most in ship transactions, interplanetary cargo, technical procurement, private security contracts, and large industrial payments. It is trusted because the institutions behind it are trusted—or feared enough to be taken seriously.
 
 One of the most important actors in that system is **[[Solaris]]**, the dominant banking, insurance, and financial analytics megacorporation in human space. Solaris does not literally own the Solar Credit, but it is deeply embedded in the systems that make SOL stable, insurable, and contractually meaningful across distance. In practice, much of the Solar economy remains coherent because Solaris helps make it coherent.
 
@@ -39,16 +36,13 @@ That is one of the reasons Solaris is so powerful. It does not merely move money
 
 ## Local Currencies and Controlled Economies
 
-Most planets, stations, and large habitats also run local financial systems. These may take the form of civic currencies, station-issued labor credits, corporate wage accounts, route settlement instruments, or local digital payment structures.
+Most planets, stations, and large habitats also operate local financial systems. These may take the form of civic currencies, station-issued labor credits, corporate wage accounts, route settlement instruments, or closed digital payment structures.
 
-This makes sense economically, but it often creates dependency. A worker may earn a respectable wage on paper while living inside a system where rent, food, transit, air, and medical access are all mediated by the same employer or habitat authority. In such places, practical freedom can be far weaker than nominal income suggests.
+This is efficient, but it also creates dependency. A worker may earn a respectable wage on paper while living in a system where rent, food, transit, and medical access are all mediated by the same employer or habitat authority. In such places, practical freedom can be far weaker than nominal income suggests.
 
-This is especially common in corporate stations, isolated industrial worlds, remote Belt habitats, and long-haul labor environments. Economic freedom and real mobility are not always the same thing.
+This is especially common in corporate stations, isolated industrial worlds, remote Belt habitats, and long-haul labor environments. Economic freedom and real mobility are not the same thing.
 
-See also:
-- [[Interplanetary Labor Assembly]]
-- [[Habitat and Labor Commission]]
-- [[Megacorporations]]
+See also: [[Interplanetary Labor Assembly]], [[Habitat and Labor Commission]], [[Megacorporations]]
 
 ---
 
@@ -56,9 +50,9 @@ See also:
 
 One of the defining features of the Solar economy is that **location changes value**.
 
-Because moving mass through space requires energy, planning, and infrastructure, the same object can have radically different economic meaning depending on where it is. Heavy industrial metals are cheapest near the **[[Asteroid Belt]]**. Controlled food systems and biological goods are comparatively strong on [[Mars]]. Advanced synthetics and atmospheric chemistry products are tied to [[Venus]]. Heritage agriculture remains concentrated on [[Earth]]. Helium-3 is cheapest near the outer systems where it is harvested.
+Because moving mass through space requires energy, planning, and infrastructure, the same object can have radically different economic meaning depending on where it is. Heavy industrial metals are cheapest near the [[Asteroid Belt]]. Controlled food systems and biological goods are comparatively strong on [[Mars]]. Advanced synthetics and atmospheric chemistry products are tied to [[Venus]]. Heritage agriculture remains concentrated on [[Earth]]. Helium-3 is cheapest near the outer systems where it is harvested.
 
-These gradients create real trade opportunities, but not infinite arbitrage. The same physics that creates the price difference also makes exploiting it difficult. A market gap only matters if enough margin survives the burn.
+These gradients create real trade opportunities, but not infinite arbitrage. The same physics that creates a price difference also makes exploiting it difficult. A market gap only matters if enough margin survives the burn.
 
 ---
 
@@ -70,26 +64,21 @@ Every maneuver consumes something valuable: propellant, reaction mass, time, the
 
 That is why experienced operators treat trajectory planning as economic survival rather than pure navigation. In many cases, the most valuable person on a ship is not the best negotiator, but the one who knows which route is still financially alive.
 
-See also:
-- [[Drive Systems]]
-- [[Energy and Drive Systems]]
-- [[Non-Torch Drives and Launch to Orbit]]
-- [[Gravity Assist and Aerobreaking]]
+See also: [[Drive Systems]], [[Energy and Drive Systems]], [[Non-Torch Drives and Launch to Orbit]], [[Gravity Assist and Aerobreaking]]
 
 ---
 
 ## Delay, Verification, and Financial Friction
 
-The Solar economy is shaped not only by moving cargo, but by moving information. In the inner system, high-capacity communication makes finance relatively fast and reliable. Farther out, delay, relay dependence, and bandwidth prioritization create real transaction friction.
+The Solar economy is shaped not only by moving cargo, but by moving information.
 
-That matters because finance in the outer system often depends on delayed verification, escrow structures, bonded contracts, cargo-backed obligations, and local trust. The farther from dense infrastructure one goes, the more expensive certainty becomes.
+In the inner system, high-capacity communication makes finance relatively fast and reliable. Farther out, delay, relay dependence, and bandwidth prioritization create real transaction friction. Verification slows down. Escrow becomes more important. Contracts rely more heavily on bonds, cargo backing, delayed confirmation, and trusted intermediaries.
 
-This is another reason **[[Solaris]]** matters so much. It is one of the few actors capable of turning delayed economic reality into something that still feels stable enough to build on.
+The farther from dense infrastructure one goes, the more expensive certainty becomes.
 
-See also:
-- [[Nyx Data Systems]]
-- [[Jovian League]]
-- [[Outer System Consolidation]]
+This is another reason **[[Solaris]]** matters so much. It is one of the few actors capable of turning delayed economic reality into something stable enough to build on.
+
+See also: [[Nyx Data Systems]], [[Jovian League]], [[Outer System Consolidation]]
 
 ---
 
@@ -97,14 +86,14 @@ See also:
 
 Frontier economics is not just ordinary trade at greater distance. It is an environment where replacement is slow, expertise is scarce, and a missing part can matter more than a full bank account.
 
-This is especially true in remote stations, Belt habitats, outer-system corridors, and thin-settlement zones near [[Uranus]], [[Neptune]], and beyond. In such places, wealth is less about abstract numbers than about access: to fuel, parts, certifications, bandwidth, medical care, and competent labor.
+This is especially true in remote stations, Belt habitats, outer-system corridors, and thin-settlement zones near [[Uranus]], [[Neptune]], and beyond. In such places, wealth is less about abstract numbers than about access: fuel, parts, certifications, bandwidth, medical care, and competent labor.
 
 In frontier space, poverty is dangerous.  
 But so is wealth without logistics.
 
 ---
 
-# Typical Prices in the Solar System
+## Typical Prices in the Solar System
 
 The following figures represent **typical prices** in **SOL**. They are not fixed laws. Costs vary by region, urgency, infrastructure density, legal status, and whether a transaction is official, gray-market, or desperate.
 
@@ -116,18 +105,16 @@ The important point is relational: a few SOL is serious money for most people, a
 
 ### Basic living costs (per month)
 
-| Lifestyle | Cost |
-| --- | --- |
-| Survival-level habitation (belt worker bunk) | 0.1 – 0.2 SOL |
-| Modest station life | 0.3 – 0.6 SOL |
-| Comfortable habitat living | 0.8 – 1.5 SOL |
-| Luxury arcology lifestyle | 3 – 10+ SOL |
+|Lifestyle|Cost|
+|---|---|
+|Survival-level habitation (worker bunk / capsule)|0.1 – 0.2 SOL|
+|Modest station life|0.25 – 0.5 SOL|
+|Comfortable habitat living|0.7 – 1.2 SOL|
+|Luxury arcology lifestyle|2.5 – 8+ SOL|
 
-Basic food and life-support access can be relatively cheap in well-run systems due to scale and controlled production. **Habitat volume**, however, remains expensive almost everywhere.
+Basic food and life-support access can be relatively cheap in well-run systems due to scale and controlled production. **Habitat volume** remains expensive almost everywhere.
 
-See also:
-- [[Food and Cuisine in the Solar System]]
-- [[Living in Space]]
+See also: [[Food and Cuisine in the Solar System]], [[Housing, Privacy, and Domestic Life]]
 
 ---
 
@@ -135,23 +122,23 @@ See also:
 
 ### Docking Fees
 
-| Location | Typical Cost |
-| --- | --- |
-| Small mining station | 0.02 – 0.05 SOL |
-| Major orbital station | 0.1 – 0.3 SOL |
-| High-traffic megahub | 0.5 SOL or more |
+|Location|Typical Cost|
+|---|---|
+|Small mining station|0.02 – 0.05 SOL|
+|Major orbital station|0.1 – 0.3 SOL|
+|High-traffic megahub|0.5 SOL or more|
 
 Docking fees usually include life-support hookup, traffic integration, and limited service access. At major hubs, docking priority itself can become a weapon.
 
 ### Refueling Costs (fusion fuel / reaction mass)
 
-| Location | Cost (small freighter) |
-| --- | --- |
-| Jovian system | 3 – 10 SOL |
-| Asteroid Belt | 8 – 25 SOL |
-| Mars / Venus | 20 – 80 SOL |
+|Location|Cost (small freighter)|
+|---|---|
+|Jovian system|3 – 10 SOL|
+|Asteroid Belt|8 – 25 SOL|
+|Mars / Venus|20 – 80 SOL|
 
-Fuel is cheapest near source regions and most expensive in the dense, high-demand inner system. These values assume a **small freighter on a normal operational cycle**, not a full military sprint or unusually aggressive burn profile.
+Fuel is cheapest near source regions and most expensive in the dense, high-demand inner system. These values assume a **small freighter on a normal operational cycle**, not a full military sprint or an unusually aggressive burn profile.
 
 Even profitable crews can be financially damaged by a single bad refueling cycle.
 
@@ -159,21 +146,18 @@ Even profitable crews can be financially damaged by a single bad refueling cycle
 
 ## Spacecraft Prices
 
-| Ship Type | Price |
-| --- | --- |
-| Small shuttle | 80 – 200 SOL |
-| Patrol craft | 250 – 600 SOL |
-| Independent cargo hauler | 600 – 1,500 SOL |
-| Large interplanetary freighter | 2,000 – 8,000+ SOL |
+|Ship Type|Price|
+|---|---|
+|Small shuttle|100 – 250 SOL|
+|Patrol craft|300 – 800 SOL|
+|Independent cargo hauler|800 – 2,000 SOL|
+|Large interplanetary freighter|3,000 – 10,000+ SOL|
 
 Ships are among the most expensive assets in the Solar System because they combine reactors, shielding, life support, navigation architecture, certified structure, and high-performance propulsion. Even a “small” commercial vessel represents a major concentration of capital, debt, and maintenance burden.
 
 In campaigns, a ship should rarely feel like a car. It should feel like a business, a survival machine, and a mortgage at the same time.
 
-See also:
-- [[Reactors and Energy Management]]
-- [[Radiation and Shielding]]
-- [[Heat Management]]
+See also: [[Reactors and Energy Management]], [[Radiation and Shielding]], [[Heat Management]]
 
 ---
 
@@ -181,39 +165,38 @@ See also:
 
 ### Typical annual income
 
-| Profession | Income |
-| --- | --- |
-| Earth low-income worker | 0.4 – 0.7 SOL |
-| Station technician | 1 – 2 SOL |
-| Skilled engineer | 2 – 4 SOL |
-| Jovian system specialist | 4 – 7 SOL |
-| Elite researcher / ship captain | 8 – 15+ SOL |
+|Profession|Income|
+|---|---|
+|Earth low-income worker|1.5 – 3 SOL|
+|Station technician|4 – 7 SOL|
+|Skilled engineer|7 – 12 SOL|
+|Jovian / remote-system specialist|12 – 20 SOL|
+|Elite researcher / ship captain|20 – 40+ SOL|
 
-Highly specialized technical workers in remote systems command higher salaries because they are difficult to replace and expensive to transport. But nominal pay can be misleading. Habitat rent, debt, certification costs, and local lock-in often matter more than headline income.
+Specialized technical workers in remote systems command higher salaries because they are difficult to replace and expensive to transport. But nominal pay can still be misleading. Habitat rent, debt, certification costs, and local lock-in often matter more than headline income.
+
+See also: [[Work, Labor, and Contracts in 2349]]
 
 ---
 
 ## High-End Technology
 
-| Technology | Price |
-| --- | --- |
-| Basic cybernetic implant | 1 – 3 SOL |
-| Advanced prosthetic limb | 3 – 8 SOL |
-| Military-grade implants | 10+ SOL |
-| Nanomedical treatment | 5 – 20 SOL |
+|Technology|Price|
+|---|---|
+|Basic cybernetic implant|1 – 4 SOL|
+|Advanced prosthetic limb|4 – 10 SOL|
+|Military-grade implants|10 – 30+ SOL|
+|Nanomedical treatment|5 – 25 SOL|
 
 These interventions can be life-changing, but access depends heavily on region, law, and medical infrastructure. A person may be technically able to survive an injury, but not able to afford the form of survival that preserves their old life.
 
-See also:
-- [[Cybernetic Implants]]
-- [[Gene Modifications]]
-- [[Human Adaptation Ethics Council]]
+See also: [[Cybernetic Implants]], [[Gene Modifications]], [[Human Adaptation Ethics Council]]
 
 ---
 
 ## Debt, Risk, and Crew Economics
 
-For many people in the Solar System, a single SOL represents months of income. That means ship crews, investigators, transport operators, freelancers, mercenaries, smugglers, and explorers often live inside a high-risk economy where one successful contract can change everything—and one failed one can destroy them.
+For many people in the Solar System, a single SOL represents a meaningful amount of income, savings, or monthly cost. That means ship crews, investigators, transport operators, freelancers, mercenaries, smugglers, and explorers often live inside a high-risk economy where one successful contract can change a year—and one failed one can destroy it.
 
 That is why money should not feel abstract in **SOL 2349**. Fuel, repairs, docking, bandwidth, medicine, legal disputes, and emergency parts are not background flavor. They are often the immediate pressure behind jobs, compromises, and dangerous decisions.
 

@@ -22,7 +22,7 @@
 **Phase 2**
 - [[NGOs]]
 - [[The Spacer Code]]
-- [[Advanced Medicine]]
+- [[Medicine and Care in 2349]]
 - [[Cults and Religions]]
 **Phase 3**
 - Ausbau von spezifischen Unterfraktionen je Region

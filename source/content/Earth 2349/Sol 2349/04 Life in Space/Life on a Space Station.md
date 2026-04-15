@@ -34,7 +34,7 @@ Zero-g space is not an exotic edge case. It is an integral part of many stations
 
 This means status is often visible simply through location. A person’s berth, office, clinic, or preferred public spaces reveal a great deal about where they sit in the station’s internal hierarchy.
 
-See also: [[Living in Space]], [[Advanced Medicine]]
+See also: [[Living in Space]], [[Medicine and Care in 2349]]
 
 ---
 

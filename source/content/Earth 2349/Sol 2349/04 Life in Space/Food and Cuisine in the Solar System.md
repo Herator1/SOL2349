@@ -1,98 +1,110 @@
 In **SOL 2349**, food is never just cuisine. It is logistics, biology, class, and infrastructure.
 
-Across the Solar System, what people eat depends on where they live, how much mass can be moved, how efficient their recycling systems are, and whether their habitat can support real agriculture, controlled cultivation, or only high-efficiency synthetic nutrition. Closed environments turned food production into part of [[Life on a Space Station|life support]], while distance and transport cost turned many traditional Earth products into luxury goods far beyond their home world.
+Across the Solar System, what people eat depends on where they live, how much mass can be moved, how efficient their recycling systems are, and whether their habitat can support real agriculture, controlled cultivation, or only high-efficiency synthetic nutrition. In closed environments, food is part of life support. Across distance, it is also part of economics.
 
-The result is a food culture divided not only by taste, but by ecology, wealth, and location. At one end are rare Earth-grown prestige goods often called **Old Food**. In the middle lies the vast world of **New Food**, produced through hydroponics, fermentation, cultured biology, and closed-loop habitat systems. At the rougher end lies **Spacer Food** and nutrient pastes, built for endurance, affordability, and survival under industrial conditions.
+That does not mean food in 2349 is bleak. Quite the opposite. Food is often better, more varied, and more culturally layered than early space pioneers ever imagined. But it is also more visibly shaped by infrastructure than food was for most people on old Earth.
 
-Food in 2349 is better than early space pioneers ever imagined. It is also far more shaped by infrastructure than most people on old Earth would have recognized.
+The result is a culinary world divided not only by taste, but by ecology, wealth, and location.
+
+See also: [[Living in Space]], [[Life on a Space Station]], [[Money in Space]]
 
 ---
 
 ## Food as Infrastructure
 
-In much of human space, food production cannot be separated from water recovery, waste processing, atmospheric management, and nutrient control. A major habitat that cannot recycle organics, recover trace nutrients, and stabilize agricultural loops is not merely inefficient. It is fragile.
+In much of human space, food is not separate from the systems that keep people alive.
 
-This is especially true in orbital settlements, remote stations, long-haul ships, and much of the [[Asteroid Belt]], where every kilogram of water, nitrogen, phosphorus, and biologically useful mass has to justify itself. In these environments, food belongs to the same systems logic described in [[Living in Space]], [[Life on a Space Station]], and [[Salvage, Recycling, and the Economics of Waste]].
+Water, nitrogen, phosphorus, carbon feedstock, bioreactor capacity, agricultural volume, refrigeration, and transport all determine what can be eaten in a given place. In stations, ships, and remote habitats, cuisine is constrained by the same logic that shapes air, waste handling, and habitat mass. Food is part of the material loop.
 
-Even worlds with larger agricultural capacity, such as [[Earth]] or [[Mars]], remain shaped by that same reality. Food is part of a civilizational material loop, not an isolated consumer product.
+This is especially true in orbital settlements, long-haul ships, remote stations, and much of the [[Asteroid Belt]]. Most stations depend on regular imports for their caloric base. Small local greenhouses are common and often highly valued, but they usually provide supplements such as greens, herbs, and small luxury crops rather than covering total food demand. Using valuable pressure volume and controlled habitat capacity to grow all calories locally is usually too inefficient to be economical.
+
+Even on worlds with larger agricultural capacity, food remains shaped by the reality that interplanetary civilization runs on managed biological systems rather than effortless abundance.
 
 ---
 
 ## Food Tiers
 
-### 1. Luxury Food (“Old Food”)
+Food in the Solar System is often understood in broad tiers rather than by a simple divide between “real food” and “space food.”
 
-| Category | Information |
-| --- | --- |
-| Production | Primarily [[Earth]]-based agriculture |
-| Availability | Rare outside Earth and major inner-system habitats |
-| Price | Extremely expensive |
-| Cultural Status | Prestige, heritage, and luxury goods |
+### Old Food
 
-**Old Food** refers to traditional agricultural products produced through conventional or semi-conventional farming on [[Earth]]. These foods depend on natural ecosystems, long biological cycles, and forms of agricultural abundance that are difficult or economically absurd to reproduce in most off-world environments.
+**Old Food** refers to traditional agricultural products produced through conventional or semi-conventional farming, primarily on [[Earth]].
 
-Typical examples include traditional cheeses, wines and aged spirits, meat from livestock, soil-grown fruit, natural honey, and dairy products from animal agriculture. Such foods are common only in high-end restaurants, diplomatic settings, corporate events, and elite private households.
+These foods depend on natural ecosystems, long biological cycles, and forms of abundance that are difficult or economically absurd to reproduce in most off-world environments. Traditional cheeses, wines, livestock meat, soil-grown fruit, natural honey, and animal dairy products all fall into this category.
 
-For many people born off-world, Old Food is less “normal food” than an expensive cultural experience. It carries the prestige of [[Earth]] itself: memory, authenticity, abundance, and status condensed into something edible.
+Outside Earth and a few wealthy inner-system habitats, Old Food is usually a prestige good. It carries the cultural weight of heritage, memory, authenticity, and status. For many people born off-world, it is less “normal food” than an expensive and slightly mythologized experience.
 
-### 2. Standard Food (“New Food”)
+### New Food
 
-| Category | Information |
-| --- | --- |
-| Production | Hydroponics, aeroponics, fermentation, cellular agriculture |
-| Availability | Common in most major habitats and settlements |
-| Price | Moderate |
-| Cultural Status | Everyday high-quality food |
+**New Food** is the everyday cuisine of settled off-world civilization.
 
-Across most of human space, the real standard of daily eating is **New Food**. These are foods specifically designed, adapted, or normalized for production in space-compatible agricultural systems. They are not crude substitutes for “real food.” For hundreds of millions of people, they are simply food.
+It comes from hydroponics, aeroponics, fungal cultivation, fermentation systems, cultured proteins, algae, engineered crops, and closed-loop food production adapted to artificial environments. It is not emergency survival food. It is the normal basis of life for billions of people.
 
-New Food includes hydroponic vegetables, cultured meat, vat-grown seafood, fungal protein dishes, fresh greens from habitat gardens, and engineered staples optimized for closed environments. In well-developed regions, especially on [[Mars]], in major orbital habitats, and in the better-regulated worlds of the [[Jovian League]], this food can be excellent: fresh, nutritionally precise, and highly varied.
+New Food varies enormously in quality. At its best, it is sophisticated, regional, and genuinely enjoyable. At its worst, it is standardized, over-optimized, and nutritionally efficient without being loved. Most people in the Solar System eat some version of New Food most of the time.
 
-The cultural point matters as much as the technical one. New Food is not the future waiting to become normal. In much of the Solar System, it already is.
+### Spacer Food
 
-### 3. Spacer Food
+**Spacer Food** is food shaped by work, mobility, and industrial routine.
 
-| Category | Information |
-| --- | --- |
-| Production | Synthetic proteins, microbial fermentation, processed staple systems |
-| Availability | Very common in ships, docks, industrial habitats, and outer-system settlements |
-| Price | Affordable |
-| Cultural Status | Functional everyday nutrition with its own subculture |
+It is associated with ships, rough stations, contractor life, route culture, and environments where durability, compact storage, quick service, and predictability matter more than culinary elegance. Spacer Food includes compressed meal blocks, protein wraps, durable stews, shelf-stable fermented dishes, reheatable trays, concentrated sauces, electrolyte drinks, and heavily optimized work meals that can be eaten quickly and with little waste.
 
-**Spacer Food** is the cuisine of endurance, route culture, and industrial life. It is built for long-duration travel, difficult storage conditions, and reliable nutrition under harsh economic constraints. It relies heavily on algae-derived protein, fungal biomass, microbial cultures, engineered starch bases, and fermentation.
+It is not necessarily bad food. In many cases it is highly functional food with strong local traditions built around it. But it is usually more pragmatic than prestigious.
 
-Typical forms include protein noodles, fermented fungal stews, thick nutrient sauces, preserved broth concentrates, reconstituted grain cakes, and modular meal packs. These foods are often strongly flavored. Filtered air, dry habitat conditions, stress, long shifts, and recycled atmospheres can dull the eating experience, which helps explain the widespread preference for strong spices, sharp acids, bitter stimulants, and heavily seasoned sauces.
+### Gravies
 
-Spacer Food is not merely cheap subsistence. Over time it has developed into a real culinary tradition, especially among long-haul crews, dock workers, refinery personnel, miners, and station maintenance workers. In that sense it functions much like worker food and ship food did in earlier centuries on Earth: born from necessity, but slowly transformed into identity.
+At the bottom end lies the world often jokingly or bitterly referred to as **gravies**.
 
-See also [[The Spacer Code]] and [[Money in Space]].
+These are low-cost survival foods: nutrient slurries, dense pastes, bulk carb-protein mixes, institutional sauces, and minimally dignified meal systems intended to keep people going when cost matters more than pleasure. In rough industrial environments, marginal habitats, prisons, emergency shelters, and desperate contract situations, gravies mark the lower boundary of acceptable nutrition.
 
-### 4. Nutrient Pastes (“Gravies”)
-
-| Category | Information |
-| --- | --- |
-| Production | Fully synthetic nutrient processing |
-| Availability | Universal |
-| Price | Very cheap |
-| Cultural Status | Emergency, institutional, or subsistence food |
-
-Nutrient pastes are the lowest common denominator of food in human space. Among spacers they are often called **gravies**, though the slang varies by region and station culture.
-
-These highly processed mixtures provide complete or near-complete nutrition, but are generally unpleasant to consume for long periods. They are commonly distributed in powder, gel, or cartridge form and rehydrated into thick slurries or semi-solid meal masses. They remain standard in deep-space missions, emergency reserves, poor industrial stations, temporary work camps, and disrupted logistics environments.
-
-Wealthier habitats treat them as fallback food, but gravies never disappear because they solve real problems: low storage volume, long shelf life, easy standardization, and predictable nutritional content. Like everything else in space, even bad food tends to become culturally adapted. Crews mix, season, fry, ferment, or reshape gravies until they become at least tolerable.
+They are not the universal food of space, but everyone knows what they represent.
 
 ---
 
-## Drinks and Alcohol
+## Everyday Eating in Space
 
-Beverages in the Solar System have undergone a transformation similar to food production. While traditional drinks such as wine, whiskey, tea, coffee, or beer are still produced on [[Earth]], their export beyond the planet is sharply limited by cost, fragility, and transport logic.
+Most people in space do not eat the way earlier generations imagined “future space dwellers” would eat.
 
-For most people in human space, everyday beverages come from controlled fermentation, synthetic flavor chemistry, hydroponic plant inputs, and stimulant-enriched substitutes. Synthetic coffee and tea analogues, fermented grain or fungal drinks, flavored hydration mixes, and vitamin-stimulant tonics are widespread. Authentic Earth-grown coffee or tea remains rare and expensive outside elite inner-system markets.
+Daily food is usually warm, varied, and socially structured. Even in compact habitats, meals matter. Canteens, bars, mess halls, cafés, and communal dining spaces remain central to ordinary life. In many stations, eating alone in private quarters all the time would seem strange, unhealthy, or socially withdrawn.
 
-Alcohol followed a similar path. Traditional Earth beverages still exist, but much off-world alcohol is produced through controlled fermentation or synthetic chemistry rather than old terrestrial agriculture. Early efforts focused on replicating Earth drinks. Over time, that became less important. Entire populations born in habitats and off-world cities no longer had a direct sensory reference for what many old drinks were “supposed” to taste like. New categories of alcohol emerged instead, designed for low gravity, long shelf life, controlled strength, and closed-system production.
+This is one reason food culture remains strong despite material limits. Shared meals provide rhythm, familiarity, and relief in environments that are highly engineered and heavily scheduled. A canteen on a station is not just a place to consume calories. It is one of the places where local culture becomes visible.
 
-Alcohol consumption in space is usually lower and more regulated than on old Earth, especially in operational environments. Running ships, maintaining pressure systems, and working in hazardous habitats require constant alertness. Many stations and ships impose strict penalties for intoxication on duty, and professional crews often avoid alcohol almost entirely during active work cycles. People still drink, but drinking culture is shaped much more strongly by safety, shift discipline, crew trust, and station law than by older terrestrial habits.
+See also: [[Housing, Privacy, and Domestic Life]], [[A Normal Day on a Station]]
+
+---
+
+## Freshness, Quality, and Status
+
+Fresh food remains one of the clearest markers of comfort and status across much of the Solar System.
+
+A habitat with reliable fresh greens, herbs, fruit, high-quality cultured dairy substitutes, or well-managed protein systems feels wealthier than one built around bulk staples and industrial meal lines. Truly rare agricultural goods from Earth are even more charged with prestige.
+
+That said, food culture in **SOL 2349** should not be understood as a world where all off-world food is miserable imitation and all “real” food belongs to Earth. Over centuries, many populations have built tastes, standards, and expectations around foods native to artificial environments. Controlled-grown ingredients, cultured protein textures, fermentation cuisines, and compact high-flavor dishes are not second-rate substitutes to the people who grew up with them. They are simply normal food.
+
+What remains rare is not quality itself, but certain forms of abundance.
+
+---
+
+## Preservation, Fermentation, and Flavor Density
+
+Distance and storage constraints changed cuisine across human space.
+
+Food that stores well, travels well, or delivers strong flavor from compact inputs tends to thrive. Fermentation became more important. Concentrated broths, dense sauces, pickled foods, cultured pastes, spice-heavy preparations, shelf-stable protein products, dried garnish systems, and modular flavor kits all became common in one form or another.
+
+This does not flatten cuisine. It often does the opposite. Environments with tight material limits tend to produce strong food identities because flavor becomes something people pursue deliberately rather than receive automatically from agricultural abundance.
+
+In many habitats, cuisine is defined less by luxurious quantity than by intelligent intensity.
+
+---
+
+## Alcohol and Drink
+
+Alcohol survived the expansion into space, but it changed with it.
+
+Traditional Earth wines, spirits, and agricultural drinks still exist, especially on [[Earth]] and in elite settings. But much off-world alcohol is produced through controlled fermentation or synthetic chemistry rather than old terrestrial agriculture. Over time, entire off-world populations lost any direct sensory reference for what many classic Earth drinks were “supposed” to taste like.
+
+As a result, alcohol culture diversified rather than merely imitating Earth. Station brews, chemically stabilized spirits, fungal ferments, algae-derived alcohols, and local hybrid traditions emerged across the Solar System.
+
+At the same time, alcohol use is generally more regulated in operational environments than it was in many earlier planetary societies. Ships, hazardous stations, and high-risk industrial habitats impose strong norms and often strict penalties around intoxication on duty.
 
 ---
 
@@ -100,25 +112,39 @@ Alcohol consumption in space is usually lower and more regulated than on old Ear
 
 Food in the Solar System is not uniform. Shared technologies exist, but cuisine varies sharply by region, environment, and class.
 
-On [[Earth]], people still have access to the widest range of true agricultural traditions, along with the strongest link to regional culinary history. At the same time, even Earth is no longer simply “traditional.” Megacity growth, climate adaptation, and synthetic food systems reshaped everyday eating there as well.
+### Earth
 
-On [[Mars]], food culture is associated with controlled agriculture, engineered crops, cultured proteins, and nutritional precision. Compared with Earth, Martian cuisine can feel cleaner, more technical, and more deliberately managed.
+[[Earth]] retains the widest range of true agricultural traditions and the strongest connection to historical regional cuisines. But Earth is also densely populated and consumes most of its own calories. It remains culturally dominant in questions of heritage food, but it is not the main bulk supplier for the rest of the Solar System.
 
-On [[Venus]], dense urbanism and atmospheric industry produced a cuisine rich in fermentation, synthetic complexity, and strong flavoring. Upper-tier Venusian cuisine can be chemically elegant and luxurious; lower-tier food culture is often fast, intense, and shaped by shift work, crowding, and class stratification.
+### Mars
 
-In the [[Asteroid Belt]], food tends to be practical, heavily seasoned, and protein-dense, shaped by freight logic, station economics, and route life. Strong sauces, preserved bases, fungal dishes, and broth concentrates are common, and food culture there often carries a distinctly industrial identity.
+[[Mars]] is one of the major bulk food exporters of human space.
 
-Within the [[Jovian League]], food standards are generally high, contamination controls are strict, and habitat nutrition is tightly regulated. Cuisine there reflects the League’s broader political style: stable, competent, and public-minded, though not necessarily less distinctive.
+Lower gravity, abundant controlled agricultural volume, and large-scale planned food production make Martian agriculture highly competitive by interplanetary standards. Much of what stations and habitats eat in the inner system is shaped directly or indirectly by Martian bulk exports: processed staples, engineered crops, protein feedstock, fermentation inputs, and other high-volume food materials. Martian cuisine is therefore associated both with controlled agriculture and with large-scale food logistics.
+
+### Venus
+
+On [[Venus]], especially in the great floating habitats, food systems are extensive and often close to self-sufficient. Large greenhouse structures support significant cultivation capacity, but Venusian food production is also more dependent on synthetic and artificial inputs than some Martian systems. The result is often sophisticated, dense, and highly processed in a refined way: a cuisine shaped by atmospheric habitats, service economies, migrant layering, and controlled biochemical systems.
+
+### Belt Stations
+
+In the [[Asteroid Belt]], food is strongly shaped by logistics, labor, and throughput. Most Belt stations depend on regular imported caloric inputs, with local cultivation serving mainly as supplementation rather than total support. Belt cuisine tends to be practical, dense, fermented, durable, and socially communal. The rougher the station, the more likely food culture is built around efficient staples, strong flavoring, shared canteen life, and local worker identity.
+
+### Jovian and Outer System Habitats
+
+Much of the outer Solar System, especially the Jovian sphere, is more self-sufficient than the Belt when it comes to bulk life-support inputs. Large habitats there often produce much of their own food base, though variety and luxury still depend on trade. The heavy tankers that carry helium-3 inward often bring food products, organics, seed material, fermentation stock, and other biological inputs back outward on return cycles. This helps maintain culinary exchange even in regions where self-sufficiency is relatively strong.
+
+See also: [[Earth]], [[Mars]], [[Venus]], [[Asteroid Belt]], [[Outer Solar System]]
 
 ---
 
 ## Food, Identity, and Social Meaning
 
-Food carries enormous symbolic weight in **2349**.
+Food carries enormous symbolic weight in 2349.
 
-**Old Food** represents memory, heritage, and the enduring prestige of [[Earth]]. **New Food** represents the settled normality of life beyond Earth. **Spacer Food** represents endurance, labor, and route culture. **Gravies** represent the lower boundary of survival, but also the humor and bitterness that come with enclosed hardship.
+Old Food represents memory, heritage, and the prestige of Earth. New Food represents the settled normality of life beyond Earth. Spacer Food represents endurance, labor, and route culture. Gravies mark the lower edge of survival, but also the gallows humor of enclosed hardship.
 
-In many habitats and stations, shared meals matter more than they once did on Earth. Enclosed life is stressful, repetitive, and heavily infrastructural. A meal is not only nutrition. It is one of the ways people preserve rhythm, ritual, and social humanity inside artificial environments.
+In many habitats and stations, meals matter more than they once did on old Earth. Artificial environments are stressful, repetitive, and infrastructural by nature. A meal is not only nutrition. It is one of the ways people preserve rhythm, ritual, hospitality, and social humanity.
 
 How people eat tells you a great deal about how they live.
 
@@ -126,7 +152,9 @@ How people eat tells you a great deal about how they live.
 
 ## The Direction of Cuisine in Human Space
 
-Over the centuries, food in the Solar System has moved away from the old distinction between “real food” and “space food.” What emerged instead is a layered culinary civilization: heritage food from Earth, normalized closed-loop food cultures, regional planetary cuisines, industrial worker cuisines, and entire new traditions born in habitats, stations, and ships.
+Over time, food in the Solar System moved away from the old distinction between “real food” and “space food.”
+
+What emerged instead is a layered culinary civilization: heritage food from Earth, normalized closed-loop food cultures, regional planetary cuisines, industrial worker cuisines, and entirely new traditions born in habitats, stations, and ships.
 
 The farther humanity spread, the less plausible it became that one agricultural tradition would define what food meant for everyone.
 

@@ -34,7 +34,7 @@ Unlike Common, Technical Standard is intentionally rigid. Its grammar is tightly
 
 It is highly effective in technical use, but rarely serves as a language of ordinary life. Most people recognize fragments of it, especially set phrases, warnings, technical commands, and interface language, but true fluency is usually limited to trained professionals. Among the general population, it is often perceived as cold, formal, and faintly arrogant: the language of system designers, engineers, and operators rather than of ordinary social life.
 
-See also: [[Living in Space]], [[Advanced Medicine]]
+See also: [[Living in Space]], [[Medicine and Care in 2349]]
 
 ---
 

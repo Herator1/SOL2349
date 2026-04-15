@@ -88,7 +88,7 @@ That does not mean adaptation is easy. Recovering for higher gravity can be pain
 
 This gives gravity a real social meaning. Some people adapt so thoroughly to life away from planets that returning to a deep gravity well stops feeling attractive. Others always think of planetary gravity as the place where life is most physically complete, even if they can no longer tolerate it comfortably.
 
-See also: [[Advanced Medicine]], [[Getting Augmented]]
+See also: [[Medicine and Care in 2349]], [[Adaptation for the Job]]
 
 ---
 

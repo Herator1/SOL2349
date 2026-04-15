@@ -1,6 +1,6 @@
 This section explores everyday human life in **SOL 2349**.
 
-Life in the Solar System is shaped by distance, habitat design, work, scarcity, medicine, language, and the constant need to live inside engineered environments. These pages focus on the ordinary human side of the setting: how people live, eat, speak, work, adapt, and build communities across a harsh but inhabited interplanetary civilization.
+Life across the Solar System is shaped by distance, habitat design, work, scarcity, medicine, language, and the constant need to live inside engineered environments. These pages focus on the ordinary human side of the setting: how people live, eat, speak, work, adapt, age, and build communities across a harsh but inhabited interplanetary civilization.
 
 If you are new to the setting, start with the overview pages below.
 
@@ -21,9 +21,10 @@ If you are new to the setting, start with the overview pages below.
 - [[Housing, Privacy, and Domestic Life]]
 - [[Work, Labor, and Contracts in 2349]]
 
-## Human Adaptation and Survival
+## Medicine, Adaptation, and Survival
 
-- [[Advanced Medicine]]
+- [[Medicine and Care in 2349]]
+- [[Adaptation for the Job]]
 - [[Getting Augmented]]
 
 ## Stories and Vignettes

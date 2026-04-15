@@ -46,7 +46,7 @@ Major contracts often include substantial health screening. This is not merely b
 
 This can protect workers, but it also gives employers leverage. Elite firms use strict health thresholds as prestige filters. Desperate firms lower standards when labor is short. Predatory employers sometimes use vague fitness clauses to void benefits or remove workers they no longer wish to carry.
 
-See also: [[Advanced Medicine]], [[Getting Augmented]]
+See also: [[Medicine and Care in 2349]], [[Adaptation for the Job]]
 
 ---
 

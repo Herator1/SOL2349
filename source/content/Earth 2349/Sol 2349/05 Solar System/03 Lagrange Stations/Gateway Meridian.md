@@ -1,3 +1,5 @@
+![[Pasted image 20260416213802.png|450]]
+
 | Parameter     | Value                                                          |
 | ------------- | -------------------------------------------------------------- |
 | Type          | High-throughput transfer station                               |
@@ -6,7 +8,6 @@
 | Controlled By | Multi-operator traffic authority with heavy corporate presence |
 | Population    | ~2–4 million, mostly rotational and service-heavy              |
 | Character     | Dense, fast, procedural, non-romantic                          |
-
 The **Gateway Meridian** is the dominant permanent station at **Earth–Moon L1**, the busiest transfer node in the Earth–Moon corridor, and the largest space station in the Solar System. Suspended between [[Earth]] and [[Luna]], it functions as the main sorting point for passenger movement, cargo redistribution, service traffic, and route synchronization across near-Earth space.
 
 Unlike construction sites such as the [[Copernicus Lagrange Complex]], Gateway Meridian is built around **throughput rather than fabrication**. It does not exist to build deep-space hardware or hold major strategic reserves. It exists to keep ships moving, passengers processed, cargo reassigned, schedules aligned, and traffic bottlenecks from propagating across the busiest orbital corridor in human civilization.

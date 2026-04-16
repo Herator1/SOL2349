@@ -1,78 +1,125 @@
 
-| Parameter | Value |
-|---|---|
-| Type | Heavy construction and deep-space staging complex |
-| Location | Earth–Moon L2 |
-| Primary Role | Ship assembly, deep-space logistics, outbound mission staging |
-| Controlled By | Mixed industrial consortiums under near-Earth oversight |
-| Population | ~6–9 million (highly distributed, largely technical) |
-| Character | Industrial, spacious, strategic, non-civilian |
-The **Copernicus Lagrange Complex** is the largest permanent installation at **Earth–Moon L2** and one of the most important construction and staging sites in human space. Built in the stable deep-side corridor beyond [[Luna]], it serves as a major assembly point for long-range freighters, deep-space infrastructure modules, convoy support vessels, and mission hardware too large or too awkward to build efficiently in lower orbit.
+| Parameter     | Value                                                                      |
+| ------------- | -------------------------------------------------------------------------- |
+| Type          | Distributed industrial and shipbuilding complex                            |
+| Location      | Earth–Moon Lagrange region                                                 |
+| Primary Role  | Orbital industry, fabrication, shipbuilding, refining, storage, and repair |
+| Controlled By | Multi-operator industrial zone with heavy corporate influence              |
+| Population    | Large rotating industrial workforce across multiple specialized stations   |
+| Character     | Vast, harsh, industrial, diverse, strategically important                  |
+The **Copernicus Lagrange Complex** is the largest concentration of heavy orbital industry in near-Earth space and one of the most important fabrication zones in the inner Solar System. Despite the name, it is not one station. It is a **spread-out array of specialized industrial stations, docks, storage systems, fabrication yards, and assembly structures** distributed across a shared orbital-industrial architecture.
 
-Copernicus is not a city in the ordinary sense. It is a **distributed industrial complex**, spread across fabrication yards, drydock frames, truss fields, fuel depots, habitation spines, logistics stations, and construction gantries linked through controlled transit architecture. Much of what appears, from a distance, to be a single station is in fact a connected field of specialized structures, each optimized for one part of the deep-space supply chain.
+If [[Gateway Meridian]] keeps the Earth–Moon corridor moving, Copernicus helps build the hardware that movement depends on.
 
-Its importance lies in scale. Lower orbits are crowded, expensive, and politically sensitive. Copernicus offers volume, stability, and room to build. Here, ships can remain half-finished for months, kilometer-scale structures can be assembled without constant traffic interference, and outbound missions can take shape in an environment designed for mass, inertia, and long preparation cycles rather than rapid turnover.
+See also: [[Luna]], [[Earth]], [[Atlas]], [[Helios]]
 
 ---
 
 ## Function
 
-The core role of Copernicus is to turn industrial output into **interplanetary capability**. Components manufactured on [[Earth]], [[Luna]], [[Mercury]], or elsewhere in the inner system arrive here to be assembled into operational vessels and mission systems. Hull sections, radiators, habitat drums, fuel systems, cargo frames, support trusses, thermal control arrays, and propulsion assemblies come together at Copernicus in a way that few other sites in the Solar System can sustain.
+Copernicus exists for orbital industry at scale.
 
-This makes the complex one of the key thresholds between near-Earth industry and the wider Solar System. Missions heading for [[Mars]], the [[Asteroid Belt]], the Jovian system, or farther outward often pass through Copernicus in one form or another. Some arrive only for final outfitting and fueling. Others are effectively born here.
+Its specialized stations handle different parts of the near-Earth industrial chain: receiving and processing lunar and Belt-derived mass, fabrication, structural assembly, shipbuilding, repair, fuel storage, fuel refining, and large-scale industrial support. This is where raw extracted material is turned into the machinery of space civilization.
 
-The complex also supports long-range logistics planning, deep-space communication integration, outbound convoy staging, and mission provisioning. In practical terms, Copernicus is where projects stop being designs and become hardware committed to distance.
-
----
-
-## Structure and Layout
-
-Copernicus is built for **mass, separation, and redundancy**. Its major construction arms are spaced widely enough to handle dangerous industrial operations, large rotating sections, thermal expansion, and the slow repositioning of major structural elements. Unlike dense orbital habitats, the complex feels open, sparse, and deliberately over-scaled.
-
-The main built environment includes:
-- heavy drydock frames for ship assembly and long-hull servicing
-- truss construction yards for modular infrastructure
-- depot nodes for fuel, reaction mass, and industrial stock
-- controlled habitation spines for rotating crews and long-stay specialists
-- support stations for inspection, certification, and outbound mission integration
-
-The result is not elegant. It is a place of scaffolds, exposed frames, work lights, radiators, service craft, and things too large to understand at a glance. Copernicus is one of the few places in human space where even a large ship can feel like just another component.
+It is not a market hub and not a transfer station in the ordinary sense. Its importance lies in making large things possible.
 
 ---
 
-## Population and Daily Life
+## Scale and First Impression
 
-The permanent population of Copernicus is relatively small for its scale, but still counts in the millions when all distributed habitats, station crews, contract workers, support personnel, and rotating technical staff are included. Most residents are engineers, assemblers, tug pilots, structural specialists, mission planners, inspection personnel, fabrication crews, logistics operators, and industrial administrators.
+The first impression of Copernicus is not a station, but an industrial region.
 
-Life here is highly technical and strongly scheduled. Copernicus does not revolve around civic rhythm, public culture, or urban identity in the planetary sense. It revolves around build phases, launch windows, inspection deadlines, fueling sequences, safety clearances, and the movement of very large things through controlled space.
+Instead of one dominant habitat, visitors encounter a vast spread of specialized infrastructure: docks, truss arrays, fabrication yards, fuel depots, processing stations, and partially completed structures hanging in different stages of assembly. The whole complex feels less like a single place and more like an orbital landscape of work.
 
-Even its residential environments feel temporary, functional, and mission-oriented. Few people come to Copernicus to settle permanently in the emotional sense. They come to work on projects too large, too expensive, or too strategically important to happen anywhere else.
+Its scale becomes obvious the moment something unfinished comes into view. Hull sections, structural spines, dockside assembly frames, and kilometer-scale industrial geometry make clear that Copernicus deals in sizes many other stations only service from afar.
+
+See also: [[From a Rock to a Habitat]], [[Travelling in Space]]
 
 ---
 
-## Politics and Control
+## Raw Mass and Industrial Flow
 
-Because of its strategic importance, Copernicus is not fully dominated by any one corporation, state, or planetary authority. Instead, it exists under a layered regime of **industrial consortium influence, near-Earth regulatory oversight, contract power, and strategic scrutiny**. No single actor owns the whole complex, but many powerful actors depend on it.
+The defining sight at Copernicus is raw mass arriving for transformation.
 
-This creates a controlled but politically dense environment. Access rights, build priority, drydock scheduling, inspection authority, mission classification, and communications control all carry economic and strategic significance. Corporate competition exists here, but it is constrained by the fact that too much depends on keeping the complex operational and predictable.
+Lunar material, Belt-derived feedstock, and industrial bulk mass are received here in ugly, practical forms: barges, tankers, containers, and stripped-down transport structures designed for throughput rather than elegance. Reception and refining infrastructure dominates large parts of the complex. This is where raw matter is sorted, stabilized, processed, and redirected into more valuable forms.
 
-Copernicus is therefore less corrupt than some frontier zones, but not cleaner in any moral sense. It is simply too important for disorder to become casual.
+That also means accidents happen. Copernicus works with large volumes, hazardous materials, heavy transfer systems, and constant industrial motion. Safety culture is strong because it has to be, but risk is built into the scale of the place.
+
+Beyond the reception systems and refining lines, the next great image of Copernicus is obvious: big ships under construction.
+
+---
+
+## Not One Station
+
+One of the most important things to understand about Copernicus is that it is **not one station**.
+
+It is a diverse cluster of linked but specialized facilities, each with its own rhythm, labor profile, operator interests, and internal culture. Some sections are dominated by fabrication, others by refining, storage, repair, fuel handling, orbital construction, or materials processing.
+
+This diversity is one of its strengths. Copernicus can absorb complexity because it is already structured as a distributed industrial environment rather than a single overloaded node.
+
+---
+
+## Industry and Corporate Presence
+
+No one actor fully runs Copernicus.
+
+In practice, it functions like a giant industrial park in space: politically fragmented, commercially entangled, and full of overlapping corporate influence. Major industrial players have a strong presence here, especially actors such as [[Atlas]], [[Helios]], and [[NovaChem]], each tied to different parts of the industrial chain.
+
+That means the complex feels less like a station government and more like an industrial ecosystem. Power is distributed across operators, contracts, supply chains, fabrication dependencies, and access to critical infrastructure.
+
+---
+
+## Workforce
+
+Copernicus depends on a huge and highly skilled workforce.
+
+It draws industrial personnel, fabrication specialists, engineers, technical crews, repair staff, logistics operators, materials experts, dockworkers, and support labor from both [[Luna]] and [[Earth]], as well as from wider near-Earth industry. The sheer amount of personnel needed to keep the complex running is one of the things outsiders often underestimate most.
+
+This is not glamorous work. It is hard, technical, dangerous, and often exhausting. But it is also prestigious in a specific industrial way. Copernicus is one of the places where the inner system proves what it can actually build.
+
+See also: [[Work, Labor, and Contracts in 2349]], [[Life on a Space Station]]
+
+---
+
+## Daily Reality
+
+The emotional tone of Copernicus is harsh and industrial.
+
+There is little romance here. Public space matters less than work space. Comfort exists, but it is secondary to function. The complex is full of long shifts, strict safety culture, maintenance pressure, heavy equipment, and the sense that everything around you is expensive, dangerous, and unfinished in one way or another.
+
+Unlike a place such as [[Ceres Exchange Ring]], where money is the visible surface, Copernicus makes labor and structure visible first.
+
+---
+
+## Boom, Bust, and Strategic Risk
+
+One of the permanent problems of Copernicus is economic whiplash.
+
+The complex is highly exposed to boom-bust cycles, labor shortages, material interruptions, and sudden shifts in industrial demand. A major contract surge can strain the whole system. A downturn can leave specialized sections underused, workers displaced, and supply chains distorted.
+
+At the same time, Copernicus is too important not to attract quiet conflict. Industrial espionage, sabotage, data theft, and supply interference are persistent risks, especially where high-value designs, strategic assembly capability, and critical infrastructure all exist in proximity.
+
+This does not make the complex lawless. It makes security serious and often shaped as much by corporate fear as by public regulation.
 
 ---
 
 ## Reputation
 
-Copernicus has a reputation for being vast, impersonal, and quietly intimidating. It is one of those places where the scale of interplanetary civilization becomes physically undeniable. Ships that will spend years in transit are assembled here. Infrastructure meant for worlds people will never personally visit passes through here. Entire missions can be delayed, reshaped, or canceled by what happens in a single dock segment or certification channel.
+Copernicus has a reputation for scale, harshness, and industrial seriousness.
 
-To workers, it is exhausting, technical, and strangely abstract.  
-To planners, it is indispensable.  
-To outsiders, it often feels like the last place in near-Earth space before the real distances begin.
+Outsiders often imagine it as one giant station. People who actually know it understand that it is something broader and harder to summarize: a sprawling orbital fabrication region where major structures, ships, and industrial systems come into existence through enormous amounts of labor, coordination, and risk.
+
+It is not elegant. It is not socially warm. It is not unified. But it is one of the places where space civilization builds itself in public.
+
+If [[Gateway Meridian]] is where traffic is organized, Copernicus is where the machines behind that traffic are born.
 
 ---
 
 ## Role in the Solar System
 
-If [[Gateway Meridian]] organizes movement between [[Earth]] and [[Luna]], Copernicus organizes movement beyond them. It is one of the principal industrial thresholds between planetary civilization and the wider Solar System.
+Copernicus Lagrange Complex is one of the core industrial zones of near-Earth civilization.
 
-Copernicus is not where humanity dreams about expansion.  
-It is where expansion gets assembled, checked, fueled, and sent out anyway.
+It does not dominate trade like [[Ceres Exchange Ring]]. It does not regulate access like [[Ares Transfer Terminal]]. It does not route data like [[Nyx Relay Nexus]]. Its role is heavier and slower: it turns extraction, energy, and labor into ships, structures, fuel systems, and long-term orbital capability.
+
+Worlds may still anchor civilization.  
+But places like Copernicus help build the tools that let civilization leave them.

@@ -3,188 +3,149 @@
 ![[Okoye.png|450]]
 
 **Origin:** Venus  
-**Background:** Former smuggler from a wealthy Venusian family  
-**Role:** Leader, pilot, social control
+**Background:** Former smuggler, now contract pilot for [[Helios]]  
+**Role:** Pilot, negotiator, situational control
+
+Kaito grew up in a wealthy Venusian family connected to logistics and trade. He had access to education, money, and safe career options, but left that environment early. For several years he worked in grey-market transport and smuggling, mostly moving cargo through routes where discretion mattered more than force.
+
+He was never an enforcer. He survived by flying well, keeping calm, and telling people what they needed to hear at the right moment.
+
+Eventually he took legal contract work with [[Helios]]. The pay is cleaner, the risk is more structured, and it still keeps him in a cockpit. He is good at command when things get tense, but he prefers control, leverage, and clean exits over direct confrontation.
+
+**Good motivations to play:** keep control of the situation, avoid pointless violence, protect the crew if it matters, and never get trapped without options.
 
 ---
 
 ## ⚙️ Core Stats
 
-- Guard: 0 / 9
-- Health: 12 / 12
-- Load: 7 / 7
-- Wounds: 3 / 3
-- Mod Space: 5 / 5
+|Stat|Value|
+|---|--:|
+|Guard|0 / 9|
+|Health|12 / 12|
+|Load|7 / 7|
+|Wounds|3 / 3|
+|Mod Space|5 / 5|
 
 ---
 
 ## 🧠 Attributes
 
-- Reflexes 3
-- Fitness 2
-- Coordination 1
-- Intellect 2
-- Presence 3
+|Attribute|Value|
+|---|--:|
+|Reflexes|3|
+|Fitness|2|
+|Coordination|1|
+|Intellect|2|
+|Presence|3|
 
 ---
 
 ## 🎯 Skills
 
-**Reflexes:** Firearms 2, Piloting 3, Gunnery 2, EVA 2  
-**Fitness:** Low-G Movement 1, Athletics 1, Endurance 1  
-**Presence:** Persuasion 3, Command 1, Deception 3, Insight 2
+|Attribute|Skills|
+|---|---|
+|**Reflexes**|Firearms 2, Piloting 3, Gunnery 2, EVA 2|
+|**Fitness**|Low-G Movement 1, Athletics 1, Endurance 1|
+|**Presence**|Persuasion 3, Command 1, Deception 3, Insight 2|
 
 ---
 
 ## 🧩 Implants
 
-## 🚀 Pilot Interface Core
+### 🚀 Pilot Interface Core
 
-**Cat:** Spacefaring  
+**Category:** Spacefaring  
 **Type:** Neural / Flight  
-**mSpace:** 3
+**Mod Space:** 3
 
-### Flight Sync
+**Flight Sync (Passive)**  
+Gain **Tactical Edge** on **Piloting** during evasive maneuvering, docking under pressure, unstable approach, or hazardous flight conditions.
 
-**Type:** Passive
+**Precision Burn (Active, 1 Action, Load +1)**  
+Ignore one ordinary movement, handling, or environmental piloting penalty for one maneuver.
 
-Gain **Tactical Edge** on **Piloting** during:
-
-- evasive maneuvering
-- docking under pressure
-- unstable approach
-- hazardous flight conditions
+**Evasive Pattern (Reactive, Load +2)**  
+When your vehicle is targeted, intercepted, or forced into a dangerous maneuver, immediately reposition within the current scene. Choose one: negate one ordinary collision/interception/forced-position consequence, or force one attacker to lose **Tactical Edge** or one ordinary targeting advantage.
 
 ---
 
-### Precision Burn
+### 🎭 Deception Module
 
-**Type:** Active  
-**Cost:** 1 Action  
-**Load:** +1
-
-Perform one maneuver without suffering one ordinary movement, handling, or environmental piloting penalty.
-
----
-
-### Evasive Pattern
-
-**Type:** Reactive  
-**Trigger:** your vehicle is targeted, intercepted, or forced into a dangerous maneuver  
-**Load:** +2
-
-Immediately reposition your vehicle within the current engagement or flight scene.
-
-Choose one:
-
-- negate one ordinary collision, interception, or forced-position consequence
-- or force one attacker to lose **Tactical Edge** or one ordinary targeting advantage against you
-
----
-
-## 🎭 Deception Module
-
-**Cat:** Social  
+**Category:** Social  
 **Type:** Neural / Cognitive  
-**mSpace:** 2
+**Mod Space:** 2
 
-### Cover Story
+**Cover Story (Passive)**  
+You can quickly build a plausible false identity, explanation, or surface story for the current situation.
 
-**Type:** Passive
+**False Signal (Active, 1 Action, Range 10 m, Load +1)**  
+Give one visible target a short believable false statement or cue. If plausible, they accept it long enough for one immediate reaction, hesitation, or wrong decision.
 
-You can rapidly construct a plausible false identity, explanation, or surface-level story that fits the immediate situation.
-
----
-
-### False Signal
-
-**Type:** Active  
-**Cost:** 1 Action  
-**Range:** 10 m  
-**Load:** +1
-
-Choose one visible target within range.
-
-Deliver a short, plausible false statement or misleading cue.
-
-If believable, the target treats it as true long enough for one immediate reaction, hesitation, or decision.
-
----
-
-### Misdirection
-
-**Type:** Augmented  
-**Load:** +2
-
-Until the start of your next turn, attempts to detect your deception, concealment, or false intent suffer **Setback**.
+**Misdirection (Augmented, Load +2)**  
+Until the start of your next turn, attempts to read your deception, concealment, or false intent suffer **Setback**.
 
 ---
 
 ## 🧬 Genemods
 
-### **Crowd Adaptation**
+### Crowd Adaptation
 
-**Type:** Station-born social
+Gain **Tactical Edge** when reading crowd behavior, public tension, and dense social situations.  
+**Drawback:** long isolation and silence are harder for him than for most people.
 
-Gain **Tactical Edge** on reading dense social situations, crowd flow, and public tension.
+### Night Vision
 
-⚠️ Solitude, silence, and emotional isolation are harder to endure for long periods.
-
----
-
-### **Night Vision**
-
-**Type:** Low-light adaptation
-
-Ignore ordinary vision penalties from darkness or very low light.
-
-⚠️ Bright light and flash conditions are more disruptive.
+Ignore ordinary penalties from darkness or low light.  
+**Drawback:** bright light and flash conditions are more disruptive.
 
 ---
 
 ## 🔫 Equipment
 
-**Pistol** — 1d6 / 30m / Safe
-
-**EVA Suit** — Armor 1, Guard 4, EVA
+|Item|Effect|
+|---|---|
+|**Pistol**|1d6 / 30m / Safe|
+|**EVA Suit**|Armor 1, Guard 4, EVA|
 
 ---
 
 ## 🎒 Items
 
-- Portable Light (1A) — illuminates large area
-- Signal Beacon (1A) — sends predefined signal
+- Portable Light (1A) — lights a large area
+    
+- Signal Beacon (1A) — sends a predefined signal
+    
 
 ---
 
-## 🧭 Notes
+## 🧭 Play Kaito Like This
 
-Kaito is strongest when he can control **situations, not fights**.
+Kaito is best when he controls the pace of a scene instead of overpowering it.
 
-- excels at piloting under pressure
-- dominates social interaction through positioning and deception
-- creates openings rather than forcing outcomes
+He is good at:
 
-He is not built to win firefights — he is built to **avoid them, redirect them, or leave them behind**.
+- difficult piloting
+    
+- talking under pressure
+    
+- bluffing, delaying, and redirecting
+    
+- making the next move cleaner for the rest of the crew
+    
+
+He is weaker in:
+
+- stand-up fights
+    
+- heavy technical work
+    
+- situations where brute force is the only answer
+    
+
+At the table, play him as calm, observant, and intentional. He does not talk for the sake of talking. He speaks when he wants to move people in a certain direction.
 
 ---
 
-## 📖 Optional Background Lore
+## One-Line Player Read
 
-Kaito Okoye grew up in the controlled, layered environments of Venus, surrounded by wealth, structure, and expectation. His family operated within the upper tiers of logistics and trade, where risk was abstract and carefully managed.
-
-He left that behind.
-
-Not because he had to, but because he refused to spend his life inside systems that never truly needed him. Out in transit corridors and Belt routes, he found something closer to what he was looking for: uncertainty, leverage, and the constant requirement to stay one step ahead.
-
-He moved through smuggling, contract piloting, and grey-market transport work. Never reckless, never loud, but always operating just outside clean legality. He learned quickly that survival did not come from aggression, but from timing, control, and understanding what other people wanted before they said it out loud.
-
-The contract with [[Helios]] is, in many ways, a compromise. It is structured, legal, and predictable — but it still puts him in space, still gives him control of a ship, and still leaves enough room for decisions to matter.
-
-Players who want to step into Kaito quickly should focus on three things:
-
-- stay calm, even when things go wrong
-- speak with intent, not emotion
-- always look for the angle that avoids direct confrontation
-
-He is not a hero, and he is not trying to be one. But when things start to fall apart, he is exactly the kind of person you want making the call.
+**Kaito Okoye is a former grey-market pilot from a wealthy Venusian background who now flies legally for Helios — still smooth, still evasive, and still always looking for the exit route.**

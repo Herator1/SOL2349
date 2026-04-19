@@ -1,85 +1,150 @@
 ## 🧭 Ghost Station — Plot Overview
 
-This section gives the Game Master a quick overview of the scenario, its central conflict, and the broader setting context behind it. _Ghost Station_ is not just a fight inside an abandoned outpost. It is a Belt scenario shaped by salvage, contract logic, corporate deniability, failing infrastructure, and competing claims over something valuable that no one should have been moving in the first place.
+This section gives the Game Master a quick overview of the scenario, its central conflict, and the broader setting context behind it. _Ghost Station_ is not just a fight inside an abandoned outpost. It is a Belt scenario shaped by salvage, contract logic, corporate deniability, failing infrastructure, and competing claims over something valuable that should never have been moved through a place like this.
 
 ---
 
 # Background
 
-The station is hidden inside the shell of a mined-out asteroid somewhere in the [[Asteroid Belt]]. It is not a formal habitat, not part of any recognized authority, and not protected by the rules, reciprocity agreements, or safety standards that keep most Belt stations alive. It exists outside the normal order, and that shows in everything from its patched pressure sections to its unstable rotating habitat.
+Ghost Station is hidden inside the shell of a mined-out asteroid somewhere in the [[Asteroid Belt]]. It is not a formal habitat, not part of any recognized authority, and not protected by the rules, reciprocity agreements, or safety standards that keep most Belt stations alive. It exists outside normal Belt order, and that shows in everything from its patched pressure sections to its unstable rotating habitat.
 
-Originally, the site was industrial infrastructure: mining tunnels, cargo shafts, processing cavities, and service access routes cut into the asteroid during its extraction phase. After the rock was exhausted, the shell was repurposed over time into an illegal salvage and cargo-laundering node. It became a place where off-book freight could be stored, sorted, relabeled, quietly transferred, or held outside normal arbitration and claim systems. Smuggling happened here, but so did salvage processing, discreet dockings, grey-market brokerage, and other forms of Belt commerce that depended on secrecy more than brute force.
+Originally, the site was industrial infrastructure: mining tunnels, cargo shafts, processing cavities, and service routes cut into the asteroid during extraction. After the rock was exhausted, the shell was repurposed into a hidden salvage and cargo-laundering node. Off-book freight could be stored, relabeled, transferred, broken down, or held outside normal arbitration and claim systems. Smuggling happened here, but so did salvage processing, discreet dockings, grey-market brokerage, and other quiet Belt business that depended on secrecy more than open force.
 
-The people operating the station were not generic pirates. They were a mix of smugglers, salvagers, route parasites, former contract workers, ex-security personnel, and Belt pragmatists who had built a precarious life around hidden infrastructure and controlled access.
+The people running the station were not generic pirates. They were a mix of smugglers, salvagers, former contractors, route parasites, ex-security people, and station operators who had built a precarious life around hidden infrastructure and controlled access.
 
-The crisis began when a faction within the station acquired a highly valuable object: an [[AI Relic]] in the form of a degraded machine-age signal-routing and processing node. It is not an active AI core and contains no functioning intelligence, but it has obvious research and industrial value to the right buyer. The object likely entered the station through the same channels as other illicit or undeclared cargo: intercepted freight, salvage, or a crate moved through too many hands under too little scrutiny.
+The immediate crisis began when a **freighter arrived with a highly valuable object**: an [[AI Relic]] in the form of a degraded machine-age signal-routing and processing node. It is not an active AI core and contains no functioning intelligence, but it has obvious research and industrial value to the right buyer. The plan was to transfer it from the freighter into a secured internal hold and complete a quiet off-book handoff once an outside buyer confirmed receipt terms.
 
-A group within the station leadership — the mutineers — saw the object as a way out. They wanted to sell it through an off-book deal, take the money, and leave. The Old Guard opposed that plan, not because they were morally opposed to profit, but because they understood what the sale would mean. Moving an object like this from a fragile illegal station would expose the entire operation and attract exactly the kind of attention they could not survive.
+That transfer failed.
 
-They were right.
+Authority broke down during the move. People on the station and aboard the freighter stopped agreeing on who had the right to control the cargo, who the real buyer was, and whether moving the object any further would destroy the station’s ability to stay hidden. The freighter crew split. Station personnel split. The cargo remained in the freighter hold. What had been a dangerous deal turned into an internal rupture.
 
-That attention arrived in the form of a deniable corporate recovery team, likely linked to [[Archeron]] or at least operating in the same style: disciplined, heavily armed, and clearly here to recover the object rather than negotiate for it. The legal ownership of the relic is intentionally murky, which makes deniable force more likely, not less.
+That attention then arrived from outside in the form of a **deniable corporate recovery team**, likely [[Archeron]]-linked or operating in the same style: disciplined, heavily armed, and focused on securing the object rather than negotiating openly for it. The legal ownership of the relic is intentionally unclear, which makes deniable force more likely, not less.
 
-The team arrived aboard a combat-capable vessel and attempted a close assault. They underestimated the target. The station’s operators knew the structure, had improvised defenses, and were embedded in a hardened industrial shell built from old extraction infrastructure. The assault escalated into a brutal close-range battle. The attacking ship was crippled and destroyed, creating the debris field around the asteroid, but the station also took severe damage in the process.
+The recovery team arrived aboard a combat-capable vessel and pushed in hard. They underestimated the target. The station’s operators knew the structure, had improvised defenses, and fought from hardened industrial terrain. The result was a brutal close-range battle through docking sections, service corridors, and transfer routes. The attacking ship was destroyed, creating the debris field around the asteroid, but the station also took severe damage.
 
-By the time the players arrive, the original mutiny is no longer the active conflict. Most of the mutineers are dead, scattered, or isolated by the fighting. The surviving live standoff is now between the station’s Old Guard and the stranded recovery team. Both sides are weakened, short on life support, low on time, and unable to finish the fight cleanly. Meanwhile, the station itself is failing.
+By the time the players arrive, the original cargo dispute is still the reason for the crisis, but it is no longer the only conflict in play. The surviving standoff is now between:
+
+- the **Old Guard**, the remaining station operators trying to survive and keep the Recovery Team from walking away with the relic
+    
+- the **Corporate Recovery Team**, stranded but still mission-focused
+    
+- and, potentially, **Talia Serrano**, a surviving freighter crewmember who witnessed part of the failed transfer and split
+    
+
+Both sides are weakened, low on time, short on life support, and trapped inside a failing station.
 
 ---
 
 # Act 1 — On Board the _Asterion_
 
-The players are part of the crew of the _Asterion_, a small survey vessel operated by [[Helios]]. It is an industrial ship, designed for resource assessment rather than exploration. Its job is to identify and characterize Belt resources so that larger extraction and refining assets can follow later. The crew does not think like adventurers. It thinks in terms of contracts, continuity, throughput, and risk.
+The players are the **only five crew aboard** the _Asterion_, a small survey vessel operated by [[Helios]]. It is a working industrial ship built for resource assessment, not adventure. The crew thinks in terms of contracts, reporting value, system integrity, and operational risk.
 
-During the return transit, the ship detects a weak and irregular signal. It is not immediately alarming, but it is economically relevant. In Belt space, an unregistered signal can mean wreckage, hidden infrastructure, abandoned cargo, or other assets worth investigating. The crew alters course and enters what turns out to be an uncharted debris field.
+During return transit, the ship detects a weak irregular signal. It is not immediately dramatic, but it is worth checking. In Belt space, an unregistered signal can mean wreckage, hidden infrastructure, abandoned cargo, or a claimable asset. The players alter course and enter what turns out to be an uncharted debris-rich volume.
 
-The _Asterion_ is struck hard. Its main-drive capability is lost when critical components of the drive assembly are destroyed, power becomes limited, and some crew members may be injured. The ship remains barely maneuverable but can no longer complete its return journey.
+The _Asterion_ is struck hard. Its main-drive capability is lost when critical parts of the drive assembly are destroyed. Power becomes limited. Internal damage spreads. The ship remains barely maneuverable, but it can no longer complete the return trip.
 
-Sensor readings reveal two critical facts: the wreckage of a destroyed combat-capable vessel, and beyond it, a partially powered structure embedded in a hollowed-out asteroid.
+Sensor reconstruction reveals two critical facts:
 
-With no viable alternative, the crew approaches the station and attempts to dock.
+- the wreckage of a destroyed combat-capable vessel
+    
+- a partially powered structure embedded in a hollowed-out asteroid
+    
+
+With no safe return path, the players approach the station and dock.
 
 ---
 
 # Act 2 — Arrival at the Station
 
-The players enter the station via EVA, moving through the dead static docking shell before passing through rough transfer infrastructure into the damaged rotating habitat. Spin gravity exists, but it is unstable and uncomfortable. The station is not just old; it is visibly non-compliant, held together by patchwork repairs, improvised life-support loops, and infrastructure never meant to support long-term habitation.
+The players enter the station via EVA, moving through the dead outer docking shell before crossing into the damaged rotating habitat through rough industrial transfer infrastructure. The station is visibly non-compliant and unstable: patched pressure zones, improvised repairs, weak spin gravity, degraded air, and systems kept alive far beyond any sane service life.
 
-Inside, the players find the aftermath of a recent battle. There are dead station personnel, dead corporate operators, breach points, barricades, and damage patterns that show a close-quarters fight through docking sections, corridors, and access routes. The place feels like a salvage node turned battlefield.
+Inside, the players find the aftermath of a recent battle. There are dead station defenders, dead recovery personnel, breach points, barricades, and damage patterns that show a close-quarters fight through docking sections and access corridors. This is not an abandoned ruin. It is a damaged working station that has been fought over very recently.
 
-They also discover a damaged but potentially repairable freighter. In Belt terms, this is not merely transport. It is survival, leverage, ownership narrative, and bargaining power. Whoever controls a flyable ship controls the best chance of leaving — and much of the negotiation around what happens next.
+They also discover a damaged but potentially usable **freighter**. This is one of the most important material facts in the scenario. It is:
 
-Further exploration reveals that the station is still inhabited.
+- a possible escape route
+    
+- a source of critical parts
+    
+- proof that the station crisis centered on incoming cargo
+    
+- the place where the relic is still hidden
+    
 
-Two factions remain.
+As the players explore further, they uncover increasingly clear signs that the station conflict began during a failed cargo transfer. Logs and physical evidence show that the relic was supposed to move from the freighter into an internal hold, but the process was suspended when authority broke down and people started choosing sides.
 
-The first is the recovery team, likely operating under a deniable contract linked to [[Archeron]]. They are heavily armed, disciplined, and focused on recovering the relic. They are also injured, low on life support, and effectively stranded. Their ship is gone, their position is limited, and mission priority still outweighs simple retreat.
+Before full faction contact, the players may also find **Talia Serrano**, a surviving freighter crewmember hidden near the threshold between dead shell and inhabited core. She confirms that the freighter brought the cargo, that the transfer failed, and that the station was still inhabited when the armed recovery push began.
 
-The second is the Old Guard: the remaining station operators. They are less professional and less well equipped, but they know the station, understand its systems, and are better positioned to survive in it for a little longer. Their priority is station continuity, survival, and preventing total loss of control.
+By the end of Act 2, the players should understand that the station is still inhabited and that two organized groups remain inside:
 
-Both factions distrust each other completely. Neither wants real cooperation. Both see the players as a variable that might shift the balance.
+- the **Recovery Team**, disciplined, armed, and still focused on the relic
+    
+- the **Old Guard**, less formal but rooted in the station and determined to survive
+    
+
+Both sides see the players as a factor that might change the balance.
 
 ---
 
 # Act 3 — Escalation
 
-Once the players are inside, the situation becomes a pressure cooker.
+Once the players are inside, the scenario becomes a pressure situation rather than a simple investigation.
 
-Life support degrades, power failures spread, and the rotating section becomes less stable. The environment itself becomes part of the conflict. This is not a static dungeon. It is a failing infrastructure node under stress, and every passing hour reduces the number of workable options.
+Ghost Station is failing. Life support degrades, power failures spread, and the rotating section becomes less stable. The environment itself is now part of the conflict. This is not a static location. It is a damaged infrastructure node under stress, and delay makes everything worse.
 
-Both factions try to use the players. They may offer deals, request help, manipulate them, or test their loyalties. The players, meanwhile, must solve their own survival problem. They need a way out, and that means making decisions about ships, systems, alliances, and the contested [[AI Relic]] at the center of the scenario.
+Both factions try to use the players.
 
-There are several viable paths forward. The players might support one faction, broker a temporary truce, remain independent, or exploit the chaos for their own purposes. They may try to repair the _Asterion_, which is possible but difficult and time-consuming, or secure the damaged freighter, which is usually the more practical option, especially with help from people who know the station and its systems.
+**Elena Markovic**, leader of the Recovery Team, wants to secure the relic, contain witnesses, and leave before the station becomes untenable.
 
-The relic remains the central point of tension. Hidden aboard the damaged freighter, it is not important because it is magical or immediately dangerous, but because it is economically and politically explosive. In a fragmented Belt, control of something like this means money, leverage, future claims, and unwanted attention from actors far beyond the station itself.
+**Arman Volkov**, leader of the Old Guard, wants to keep his people alive, stop the Recovery Team from taking the relic cleanly, and get through the crisis without complete collapse.
 
-What matters most in Act 3 is that the scenario does not resolve on its own. The players are no longer observing a conflict. They are now part of it, and their decisions determine whether the station ends in negotiation, betrayal, violence, collapse, or a narrow shared survival.
+**Talia Serrano**, if active, becomes a witness, liability, bargaining asset, and practical link to the freighter.
+
+At the same time, the players still have their own survival problem: they need a ship.
+
+There are two real escape options:
+
+- **repair the _Asterion_**, which is harder and slower but preserves their ship
+    
+- **patch the freighter**, which is easier and faster but means abandoning the _Asterion_
+    
+
+The freighter is central not only because it may fly, but because it contains the relic and the clearest proof of what happened. The players may negotiate, choose a side, stay independent, exploit the chaos, or try to leave with the relic themselves. Once they start acting, the factions react, the station keeps failing, and the situation moves toward endgame.
+
+What matters most in Act 3 is this:
+
+the scenario does not resolve on its own. The players are no longer observing the crisis. They are now part of it, and their choices determine whether Ghost Station ends in temporary cooperation, faction victory, betrayal, violent collapse, or simple survival at someone else’s expense.
 
 ---
 
 # Outcome
 
-There is no fixed ending and no clean solution. The best outcome is usually not victory, but survival with consequences.
+There is no fixed ending and no clean solution. The best result is usually not victory, but survival with consequences.
 
-Possible endings include fragile cooperation and joint evacuation, alignment with one faction, independent escape while abandoning the others, or a full collapse into violence and structural failure. The exact result depends on player choices, the pace of escalation, and how much of the station — and its people — is still functional by the end.
+Possible endings include:
 
-Whatever the outcome, _Ghost Station_ should leave behind more than wreckage. It should leave open questions about ownership, salvage, secrecy, corporate deniability, and who gets to possess dangerous remnants of the past in a fragmented Belt where legality, survival, and profit rarely point in the same direction.
+- fragile cooperation and shared evacuation
+    
+- alignment with the Recovery Team
+    
+- alignment with the Old Guard
+    
+- independent escape while leaving the conflict unresolved
+    
+- full collapse into violence and station failure
+    
+
+The exact outcome depends on:
+
+- which ship becomes launchable
+    
+- which faction, if any, the players support
+    
+- what happens to Talia
+    
+- what happens to the relic
+    
+- who gets out alive
+    
+
+Whatever the ending, _Ghost Station_ should leave behind more than wreckage. It should leave open questions about ownership, salvage, secrecy, deniable force, survivor claims, and who gets to possess dangerous remnants of the past in a Belt where legality, survival, and profit rarely align.

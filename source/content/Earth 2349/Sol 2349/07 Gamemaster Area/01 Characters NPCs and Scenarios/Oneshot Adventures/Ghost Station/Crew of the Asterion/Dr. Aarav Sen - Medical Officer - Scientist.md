@@ -3,228 +3,172 @@
 ![[ChatGPT Image 8. Apr. 2026, 13_44_29.png|450]]
 
 **Origin:** Mars  
-**Background:** Former xenology research lead (Shukra Biotech)  
+**Background:** Former Shukra Biotech research lead  
 **Role:** Medicine, science, analysis
+
+Aarav built his career on Mars in the overlap between medicine, hostile environments, and applied biological research. At [[Shukra Biotech]], he worked in xenology-adjacent programs focused on contamination, biological tolerance, and how living systems behave under unusual environmental stress.
+
+He was not a lab recluse, but neither was he a soldier. He was the person brought in when a situation was medically unclear, environmentally dangerous, or scientifically unusual.
+
+At some point he pushed into questions that were politically inconvenient inside the company and lost his old position. After that, he moved into contract work and eventually onto the _Asterion_. On the crew, he is the person most likely to understand what is hurting people, what is wrong with the environment, and what kind of danger everyone else has not identified yet.
+
+**Good motivations to play:** keep people alive through knowledge, understand dangerous things before others do, avoid repeating old institutional mistakes, and stay useful by being right when it matters.
 
 ---
 
 ## ⚙️ Core Stats
 
-- Guard: 0 / 7
-- Health: 12 / 12
-- Load: 9 / 9
-- Wounds: 3 / 3
-- Mod Space: 6 / 6
+|Stat|Value|
+|---|--:|
+|Guard|0 / 7|
+|Health|12 / 12|
+|Load|9 / 9|
+|Wounds|3 / 3|
+|Mod Space|6 / 6|
 
 ---
 
 ## 🧠 Attributes
 
-- Reflexes 1
-- Fitness 2
-- Coordination 3
-- Intellect 4
-- Presence 1
+|Attribute|Value|
+|---|--:|
+|Reflexes|1|
+|Fitness|2|
+|Coordination|3|
+|Intellect|4|
+|Presence|1|
 
 ---
 
 ## 🎯 Skills
 
-**Other:** Perception 2  
-**Coordination:** Trauma 2, Surgery 3, Cybernetics 2  
-**Intellect:** Physics 2, Biology 3, Analysis 2, Systems 1
+|Attribute|Skills|
+|---|---|
+|**Other**|Perception 2|
+|**Coordination**|Trauma 2, Surgery 3, Cybernetics 2|
+|**Intellect**|Physics 2, Biology 3, Analysis 2, Systems 1|
 
 ---
 
 ## 🧩 Implants
 
-## 🩺 Field Medical System
+### 🩺 Field Medical System
 
-**Cat:** Medicine  
+**Category:** Medicine  
 **Type:** Bio / Support  
-**mSpace:** 2
+**Mod Space:** 2
 
-### Rapid Treatment
+**Rapid Treatment (Augmented, Load +2, 1× per target per Short Rest)**  
+Restore **1d6 Health** to yourself or a target in touch range. A target cannot benefit again until they complete a Short Rest.
 
-**Type:** Augmented  
-**Load:** +2  
-**Limit:** 1× per target per Short Rest
+**Stabilize Patient (Active, 1 Action, Load +1)**  
+Stabilize a dying target in touch range. If successful, the target stops dying and may act normally on their next turn if nothing else prevents it.
 
-Restore **1d6 Health** to yourself or a target in touch range.  
-A target cannot benefit from **Rapid Treatment** again until they complete a Short Rest.
-
-### Stabilize Patient
-
-**Type:** Active  
-**Cost:** 1 Action  
-**Load:** +1
-
-Stabilize a dying target in touch range.  
-If successful, the target stops dying and may act normally on their next turn if nothing else prevents it.
-
-### Trauma Support
-
-**Type:** Passive
-
-When performing **Stabilize** or **First Aid**, gain **Tactical Edge**.
+**Trauma Support (Passive)**  
+Gain **Tactical Edge** when performing **Stabilize** or **First Aid**.
 
 ---
 
-## 🌍 Environmental Science Suite
+### 🌍 Environmental Science Suite
 
-**Cat:** Science  
+**Category:** Science  
 **Type:** Sensor / Field  
-**mSpace:** 2
+**Mod Space:** 2
 
-### Field Readout
+**Field Readout (Passive)**  
+Detect and interpret environmental signatures such as radiation, magnetic irregularities, atmospheric composition, temperature gradients, and pressure instability.
 
-**Type:** Passive
+**Hazard Prediction (Passive)**  
+Automatically notice obvious environmental danger patterns such as unstable structures, dangerous pressure zones, energy leakage, thermal stress, and unsafe routes.
 
-You can detect and interpret key environmental signatures, including:
-
-- radiation
-- magnetic field irregularities
-- atmospheric composition
-- temperature gradients
-- pressure instability
-
-### Hazard Prediction
-
-**Type:** Passive
-
-You automatically notice obvious environmental danger patterns, such as:
-
-- unstable structures
-- dangerous pressure zones
-- energy leakage
-- thermal stress
-- unsafe routes
-
-### Deep Scan
-
-**Type:** Active  
-**Cost:** 1 Action  
-**Load:** +1
-
-Analyze an area within **20 m**. The GM should reveal one or more of the following:
-
-- hidden danger
-- safest route
-- safest position
-- most stable access point
-- environmental weak point
+**Deep Scan (Active, 1 Action, Load +1)**  
+Analyze an area within **20 m**. The GM reveals one or more of the following: hidden danger, safest route, safest position, most stable access point, or environmental weak point.
 
 ---
 
-## 🧬 Bio-Chem Analyzer
+### 🧬 Bio-Chem Analyzer
 
-**Cat:** Science  
+**Category:** Science  
 **Type:** Bio / Sensor  
-**mSpace:** 2
+**Mod Space:** 2
 
-### Chemical Detection
+**Chemical Detection (Passive)**  
+Detect and distinguish toxins, drugs, contaminants, unusual biological residues, and dangerous compounds.
 
-**Type:** Passive
+**Rapid Analysis (Active, 1 Action, Load +1)**  
+Analyze one visible sample, substance, patient, or contaminated object. Determine one useful answer immediately, such as what it does, whether it is toxic, whether it is medically useful, whether it is safe to handle, or whether a target shows contamination or biochemical weakness.
 
-You can detect and distinguish:
-
-- toxins
-- drugs
-- contaminants
-- unusual biological residues
-- incompatible or dangerous compounds
-
-### Rapid Analysis
-
-**Type:** Active  
-**Cost:** 1 Action  
-**Load:** +1
-
-Analyze one visible sample, substance, patient, or contaminated object.  
-You may determine one useful answer immediately, such as:
-
-- what the substance does
-- whether it is toxic
-- whether it is medically useful
-- whether it is safe to handle
-- whether a target shows biochemical weakness or contamination
-
-### Biological Insight
-
-**Type:** Passive
-
+**Biological Insight (Passive)**  
 Gain **Tactical Edge** on **Biology**.
 
 ---
 
 ## 🧬 Genemods
 
-### **Enhanced Memory**
+### Enhanced Memory
 
-**Type:** Cognitive retention
+Perfect recall of learned information, layouts, names, procedures, and reviewed data.  
+**Drawback:** suffer **Setback** on snap decisions under extreme time pressure.
 
-Perfect recall of learned information, layouts, names, procedures, and reviewed data.
+### Sleep Reduction
 
-⚠️ Fast improvisation becomes harder; suffer **Setback** on snap decisions made under extreme time pressure.
-
----
-
-### **Sleep Reduction**
-
-**Type:** Long-haul adaptation
-
-An **Extended Rest** only requires **4 hours** of true sleep or equivalent downtime.
-
-⚠️ Recovery is shallower; recover **1 less Health** during each rest.
+An **Extended Rest** only requires **4 hours** of true sleep or equivalent downtime.  
+**Drawback:** recover **1 less Health** during each rest.
 
 ---
 
 ## 🔫 Equipment
 
-**Pistol** — 1d6, 30m, Safe
-
-**EVA Suit** — Armor 1, Guard 4
+|Item|Effect|
+|---|---|
+|**Pistol**|1d6, 30m, Safe|
+|**EVA Suit**|Armor 1, Guard 4|
 
 ---
 
 ## 🎒 Items
 
 - Portable Scanner (1A) — detects life, anomalies, energy
+    
 - Data Pad
+    
 - Med Scanner
+    
 
 ---
 
-## 🧭 Notes
+## 🧭 Play Aarav Like This
 
-Aarav is a high-intellect support specialist built for:
+Aarav is strongest when the problem is unclear, dangerous, or medically urgent.
 
-- emergency stabilization
-- scientific analysis
-- contamination assessment
-- environmental hazard reading
+He is good at:
 
-He is weakest in direct combat and strongest when the scenario involves:
+- stabilizing injuries
+    
+- reading hazardous environments
+    
+- identifying toxins, contaminants, and strange substances
+    
+- interpreting unclear scientific or technical danger
+    
+- slowing down panic by understanding the real problem
+    
 
-- injuries
-- unknown substances
-- dangerous environments
-- technical or biological interpretation
+He is weaker in:
+
+- direct combat
+    
+- intimidation
+    
+- fast social leadership
+    
+- improvising under extreme immediate pressure
+    
+
+At the table, play him as calm, observant, and analytical. He does not jump to conclusions. He watches first, gathers information, and tries to understand the real nature of a problem before acting.
 
 ---
 
-## 📖 Optional Background Lore
+## One-Line Player Read
 
-Aarav Sen built his career on Mars in spaces where science, medicine, and environmental adaptation overlapped. At [[Shukra]], he worked in xenology-adjacent research, studying hostile environments, biological tolerance, and the edge cases where life, contamination, and engineered systems meet. He was not a field adventurer by nature, but a systems thinker — someone trained to interpret unusual conditions before they became lethal.
-
-His professional break came when he pushed too hard against internal boundaries he was not supposed to question. Officially, he left voluntarily. In practice, he was cut away from his former network, his access, and much of the career path he had built. That loss still shapes him.
-
-On the _Asterion_, he is the person most likely to recognize that a problem is more complicated than it first appears. He sees patterns in contamination, failure, environmental drift, and human damage that others miss. He is not fast, charismatic, or physically imposing, but he is the crew member you want when the problem is unclear, medical, or scientifically wrong.
-
-Players who want to step into Aarav quickly should focus on three things:
-
-- observe before speaking
-- treat uncertainty as a problem to analyze
-- stay calm when others rush toward simple answers
-
-He is not built to dominate a scene. He is built to understand it before it kills anyone.
+**Dr. Aarav Sen is a former Shukra Biotech research lead from Mars — a medical and scientific specialist who handles injury, contamination, and dangerous environments better than almost anyone else on the ship.**

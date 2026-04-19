@@ -5,16 +5,24 @@
 Act 2 establishes Ghost Station as:
 
 - a damaged but still partially functional Belt installation
-- the site of a recent and unfinished violent rupture
-- a place where people are still alive
-- a space divided between dead infrastructure and a small surviving core
+    
+- the site of a recent violent conflict
+    
+- a place where survivors are still present
+    
+- a station divided between dead infrastructure and a small living core
+    
 
 This act should communicate four things quickly:
 
 - the players are vulnerable
+    
 - the station is damaged but not dead
-- the conflict here was recent and internal as well as external
+    
+- the conflict here was recent and involved at least two sides
+    
 - survivors remain inside
+    
 
 The pacing should stay deliberate. This is still the exploration and tension phase, not the final decision phase.
 
@@ -24,19 +32,24 @@ The pacing should stay deliberate. This is still the exploration and tension pha
 
 ## GM Summary
 
-The _Asterion_ docks manually with the station. The players enter through the dead outer shell in EVA, explore damaged docking and service sections, identify signs of two distinct factions, discover a specific clue that the crisis centered on disputed cargo transfer, and find the freighter docked elsewhere in the outer structure.
+The _Asterion_ docks manually with the station. The players enter through the dead outer shell in EVA, move through damaged docking and service sections, identify signs of two distinct groups, find a clear clue that the crisis centered on disputed cargo transfer, and discover the freighter docked elsewhere in the outer structure.
 
-Before reaching the inhabited core, they encounter the first strong sign that someone is still alive inside.
+Before reaching the inhabited core, they also get the first strong sign that someone is still alive deeper inside.
 
 ---
 
 ## Situation
 
 - the _Asterion_ is damaged and only barely maneuverable
+    
 - the station does not assist docking
+    
 - the outer shell is partly dead, partly damaged, and partly intact
+    
 - the _Asterion_ remains the crew’s only secure fallback
+    
 - the players do not yet know who fought here, who survived, or what the cargo dispute was about
+    
 
 Make the fallback value of the _Asterion_ clear early.
 
@@ -44,11 +57,11 @@ Make the fallback value of the _Asterion_ clear early.
 
 ## 🎙️ Read Aloud — Approach
 
-> As the station grows in the forward view, it becomes clear that this is not a normal habitat and never was. The structure is built into the shell of a mined-out asteroid, its industrial core half-buried in old excavation voids and service shafts. Around one section, a damaged rotating habitat still turns, unevenly but persistently, as if the station is forcing itself to remain alive.
+> The station fills the forward view: a mined-out asteroid fitted with docking frames, service structures, and one damaged rotating habitat section still turning inside the rock.
 > 
-> Large parts of the structure are dark. Other sections flicker with unstable light. There are no running signals, no guidance systems, and no response to your approach. By any reasonable standard, this place should have been abandoned long ago.
+> Large sections are dark. A few still show weak power. There are no docking lights, no traffic signals, and no response to your approach.
 > 
-> It hasn’t been.
+> This place is damaged, but not dead.
 
 ---
 
@@ -63,30 +76,46 @@ This is a good moment to reinforce that Ghost Station is illegal, improvised, an
 **Piloting / Coordination**
 
 **Success**
+
 - clean docking
+    
 - stable seal
+    
 - no added strain on the ship
+    
 
 **Partial Success**
+
 - rough docking
+    
 - minor seal stress or clamp strain
+    
 - airlock remains usable, but imperfectly
+    
 
 **Failure**
+
 - hard contact
+    
 - unstable seal, clamp stress, or delayed leak risk
+    
 
 **Engineering Support**
+
 - can reduce risk or stabilize the docking interface
+    
 - good support role for non-pilots
+    
 
 ---
 
 ## 🎙️ Read Aloud — Docking
 
-> The final approach is slow and awkward, every correction shaped by the damage the ship has already taken. The docking structure ahead is visibly scarred, with one berth torn open and another still barely intact. There are no lights to guide you in and no automated systems waiting to catch the approach.
+> The final approach is slow and careful. One berth ahead is torn open; another is barely intact.
 > 
-> The last meters pass in tense silence. Then the hull makes contact with a heavy metallic shudder, and the clamps engage. The ship settles against the station, not gently, but firmly enough to hold.
+> There are no active docking systems. You bring the ship in by hand.
+> 
+> The hull connects with a heavy shudder. Clamps bite. The seal holds.
 
 ---
 
@@ -95,17 +124,26 @@ This is a good moment to reinforce that Ghost Station is illegal, improvised, an
 The players cannot assume the station is pressurized or safe.
 
 They must:
+
 - suit up
+    
 - decide who leaves the ship
+    
 - choose what equipment to bring
+    
 
 ### GM Guidance
 
 Emphasize:
+
 - helmets stay on
-- comms may be degraded
+    
+- comms may degrade inside the station
+    
 - the _Asterion_ is damaged, but still safer than the station
-- this is a real transition from shipboard control to uncertain infrastructure
+    
+- this is the point where shipboard control ends
+    
 
 Load should matter here.
 
@@ -113,9 +151,11 @@ Load should matter here.
 
 ## 🎙️ Read Aloud — Airlock
 
-> The inner hatch closes behind you with a heavy mechanical finality, and the airlock begins to cycle. Pressure drops steadily. The temperature shifts. For a few seconds, there is only the low vibration of the ship and the quiet work of the system.
+> The inner hatch closes. Pressure drops. Suit audio takes over.
 > 
-> Then the outer door opens, and the station lies beyond — dark, silent, and close enough now to feel real.
+> Then the outer door opens.
+> 
+> The station is only a few meters away.
 
 ---
 
@@ -124,33 +164,47 @@ Load should matter here.
 The players move through vacuum and zero-g from the _Asterion_ into the station’s docking section.
 
 ### Environment
+
 - zero gravity
+    
 - no sound except suit audio and transmitted vibration
+    
 - drifting debris
+    
 - exposed battle damage
-- visible remains of a recent external fight
+    
+- clear signs of a recent fight
+    
 
 ### Suggested Checks
 
 **EVA / Coordination**
 
 **Success**
+
 - clean movement
+    
 - controlled entry
+    
 - no suit strain
+    
 
 **Failure**
-- awkward drift, tether complication, collision, or minor suit stress
 
-Keep EVA tense and deliberate, not clumsy or comic.
+- awkward drift, tether complication, collision, or minor suit stress
+    
+
+Keep EVA tense and deliberate, not clumsy.
 
 ---
 
 ## 🎙️ Read Aloud — Exterior
 
-> From the outside, the station does not look abandoned so much as damaged beyond any sane operating standard. Hull sections are scorched, panels have been torn away, and one of the docking ports has been completely destroyed, its outer structure twisted outward by force. Debris drifts around the installation in slow, silent arcs, not randomly, but as the remains of something violent and recent.
+> From the outside, the station is badly damaged. Hull panels are missing. Several sections are scorched. One docking port has been blown outward from the inside.
 > 
-> Nearby, the broken hull of a much larger ship hangs against the black, fractured and hollow. It is immediately obvious that the debris field you crossed did not come from chance collision or ordinary salvage damage. A battle was fought here.
+> Nearby, the wreck of a much larger ship hangs broken across the debris field.
+> 
+> This was a battle.
 
 ---
 
@@ -159,21 +213,29 @@ Keep EVA tense and deliberate, not clumsy or comic.
 The players enter through a damaged but usable access corridor in the outer docking structure.
 
 ### Conditions
-- vacuum
-- zero-g
-- no sound, no atmosphere
-- controlled corridor damage
-- clear signs of recent fighting
 
-This should feel like damaged infrastructure, not gothic ruin.
+- vacuum
+    
+- zero-g
+    
+- no atmosphere
+    
+- controlled corridor damage
+    
+- clear signs of recent fighting
+    
+
+This should feel like damaged infrastructure, not horror scenery.
 
 ---
 
 ## 🎙️ Read Aloud — First Interior
 
-> Your lights cut into a corridor that is still entirely without atmosphere. Loose fragments drift where pressure once held them down, and the walls are marked by tight, deliberate scorch patterns that speak of controlled fire rather than accident. Ahead, a body hangs caught against the wall by a snagged harness line, its helmet shattered inward.
+> Your lights catch a corridor still open to vacuum. Burn marks run tight across the walls. Several access panels have been cut open in a hurry.
 > 
-> Nothing moves. The stillness feels less like abandonment than interruption, as if the place was simply forced to stop in the middle of whatever it had been doing.
+> One body is caught against a wall bracket, still clipped to a harness line.
+> 
+> This section was fought over at close range.
 
 ---
 
@@ -184,71 +246,116 @@ The players move deeper through the docking section and dead service corridors.
 ### What They Find
 
 #### Dead Station Defenders
+
 - patched suits
+    
 - improvised armor
-- practical equipment
-- wounds consistent with close defensive fighting
-- gear suggests smugglers, salvagers, or long-term station users, not formal troops
+    
+- practical tools and weapons
+    
+- bodies in cover positions
+    
+- gear suggests smugglers, salvagers, or long-term station users
+    
 
 #### Dead Recovery Personnel
-- cleaner, standardized equipment
+
+- cleaner, more standardized equipment
+    
 - stripped or absent insignia
+    
+- breaching gear
+    
 - better armor
-- more disciplined weapons handling and breaching kit
-- wounds consistent with an organized push into defended corridors
+    
+- more controlled firing positions
+    
+- bodies usually farther forward, in push positions
+    
 
 Use roughly **3 dead station defenders for every 1 dead recovery operator**.
 
-That ratio helps sell the tactical picture:
-- the recovery side was stronger individually
-- the defenders used familiarity, terrain, and attrition
+That ratio helps show:
+
+- the recovery side was better equipped
+    
+- the defenders knew the station and made them pay for every corridor
+    
 
 ### Suggested Checks
 
 **Perception / Analysis**
 
 **Success**
-- two distinct factions are obvious
-- this was not random collapse or one-sided slaughter
+
+- two distinct groups are obvious
+    
+- this was not just random damage or a decompression event
+    
 
 **Security / Combat Analysis / Intellect**
 
 **Success**
-- the better-equipped side pushed inward
-- the defenders fought from prepared positions
-- the station conflict was part boarding action, part internal rupture
+
+- one side pushed inward in an organized assault
+    
+- the other side defended prepared positions
+    
+- this was a boarding action followed by internal fighting
+    
 
 ---
 
-## Phase 6 — Dead Corridor Service Hatch
+## Phase 6 — Cargo Dispute Clue
 
 This is the first fixed clue and should appear before the players reach the inhabited core.
 
 **Location:**  
-A half-jammed manual service hatch in the dead corridor network between **Dock 1** and the **spin-transfer lift**.
+A jammed service junction between **Dock 1** and the **spin-transfer lift**.
 
 ### What Is There
-- dark utility junction
-- smeared handprint near the manual release wheel
-- dropped cargo tether clip
-- cracked maintenance terminal still running on cached power
 
-### Recovered Terminal Fragment
+- a dark utility alcove
+    
+- a dropped cargo tether
+    
+- a smeared handprint beside a manual hatch wheel
+    
+- a damaged terminal still running on residual power
+    
+- two dead bodies nearby: one in freighter work gear, one in station gear
+    
 
-> **TRANSFER STATUS:** SUSPENDED  
-> **HOLD ACCESS:** LOCKED  
-> **AUTHORITY STATE:** DISPUTED  
-> **CREW STATUS:** SPLIT  
-> **NOTE:** Await confirmation before moving cargo.
+### What the Terminal Shows
 
-### What This Establishes
-- the crisis was not only external
-- the conflict centered on cargo access
-- command authority had already broken down before open violence
+The terminal is damaged, but the relevant entries are easy to recover:
+
+> **TRANSFER HOLD 2 — ACCESS LOCKED**  
+> **CARGO MOVE SUSPENDED**  
+> **AUTHORITY CONFLICT**  
+> **TRANSFER CREW DIVIDED**  
+> **MANUAL CONFIRMATION REQUIRED**
+
+### What This Clearly Tells the Players
+
+- cargo was being moved before the fighting
+    
+- the move was interrupted
+    
+- the people in charge were no longer agreeing
+    
+- the split started before the station was fully overrun
+    
 
 ### GM Guidance
-This is the first hard indication that something specific triggered the collapse.  
-Do not bury it behind difficult rolls. The players should be able to recover the log if they investigate at all.
+
+Do **not** hide this behind difficult rolls.
+
+If the players inspect the terminal or bodies at all, they get the core meaning:
+
+**there was a cargo transfer, command authority broke down, and people started choosing sides.**
+
+A good roll can add detail, but not basic understanding.
 
 ---
 
@@ -256,26 +363,41 @@ Do not bury it behind difficult rolls. The players should be able to recover the
 
 The players reach a secondary docking bay and find the freighter.
 
-This is an important scene. The freighter should register immediately as:
+This should register immediately as:
+
 - a second ship
-- a possible escape route
+    
+- a possible escape option
+    
 - a likely source of parts
-- something clearly connected to the station conflict
+    
+- something directly tied to the conflict
+    
 
 ### Description
+
 - medium Belt freighter
+    
 - practical, work-built hull
+    
 - battle-scarred but not destroyed
+    
 - still docked, not drifting
+    
 - farther from the _Asterion_, on another outer docking position
+    
 
 ---
 
 ## 🎙️ Read Aloud — The Freighter
 
-> The corridor opens into a broader docking space, and there, secured inside the bay, is another ship. It is smaller than a true bulk hauler but larger than a shuttle, built in the blunt, practical style of Belt freight work. Its hull is scarred and stripped in places, and several sections show clear impact and heat damage, but the overall frame is still intact.
+> The corridor opens into a second docking space.
 > 
-> It did not drift here by accident. It was docked deliberately, and whatever happened afterward was serious enough to keep it from leaving.
+> Another ship is still secured in the bay: a medium freighter, blunt-hulled and built for Belt cargo work.
+> 
+> Its hull is scarred and heat-marked, but the frame is intact.
+> 
+> It was docked here on purpose, and it never left.
 
 ---
 
@@ -284,62 +406,85 @@ This is an important scene. The freighter should register immediately as:
 **Engineering / Systems**
 
 **Success**
+
 - the freighter is damaged, but repairable
-- its drive section appears largely intact
+    
+- its drive section appears mostly intact
+    
 - it could become an escape option with moderate repair work
-- it may also contain useful components for repairing the _Asterion_
+    
+- it may also contain useful components for the _Asterion_
+    
 
 **High Success**
-- the freighter is much easier to patch into emergency flight condition than the _Asterion_ is to fully restore
-- the _Asterion_ will need significant work before it can safely burn again
+
+- the freighter is easier to return to emergency flight than the _Asterion_ is to restore for a safe burn
+    
+- the _Asterion_ has the worse propulsion problem
+    
 
 **Failure**
-- the freighter clearly is not dead, but its repair value remains uncertain
+
+- the freighter is clearly not dead, but exact repair value remains unclear
+    
 
 ### GM Guidance
-Do not fully explain the later repair dilemma yet, but seed it here:
-- _Asterion_ = worse propulsion damage
-- freighter = better propulsion condition, worse secondary systems
 
-That will give Act 3 a concrete material base.
+Do not fully explain the repair dilemma yet, but seed it here:
+
+- _Asterion_ = worse propulsion damage
+    
+- freighter = better propulsion condition, worse overall condition
+    
+
+That gives Act 3 a solid practical base.
 
 ---
 
 ## Phase 8 — First Signs of Life
 
-Before the spin transition, the players should receive the first strong indication that survivors remain deeper inside.
+Before the spin transition, the players should get a clear indication that survivors remain deeper inside.
 
-This is still a hint, not yet open faction contact.
+This is still not open contact, but it should not be cryptic.
 
-### Possible Read
-- weak local power
-- intermittent internal activity
-- a short-range human transmission
-- something that is clearly not just a failing automatic system
+### Possible Evidence
+
+- localized power draw deeper in the station
+    
+- a pressure zone still being maintained
+    
+- a manually rerouted signal
+    
+- a short voice fragment on local comms
+    
 
 ### Suggested Checks
 
 **Sensors / Comms / Systems**
 
 **Success**
+
 - isolated internal activity detected
-- the station is not fully dead
+    
+- someone is still operating systems deeper inside
+    
 
 **High Success**
-- brief human transmission fragment or manually routed signal
-- likely local, intentional, and recent
+
+- short human transmission fragment
+    
+- likely local and recent
+    
 
 ---
 
-## 🎙️ Read Aloud — Signal Hint
+## 🎙️ Read Aloud — Signal
 
-> As your systems continue to recalibrate against the station’s damaged structure, it becomes clear that this place is not entirely dead. Somewhere deeper inside, isolated systems are still running on limited and unstable power. For a moment, a signal sharpens just enough to resolve into something recognizable.
+> Your systems pick up active power use deeper inside the station.
 > 
-> Not an automated ping. Not a system loop.
+> A moment later, a short comm fragment cuts through the noise — too broken to make out words, but clearly human and clearly recent.
 > 
-> A transmission.
-> 
-> Weak, broken, and incomplete — but intentional.
+> Someone is still alive in there.
 
 ---
 
@@ -347,12 +492,18 @@ This is still a hint, not yet open faction contact.
 
 By the end of this section, the players should understand:
 
-- the station is active
+- the station is still partly active
+    
 - the battle was recent
+    
 - at least two sides were involved
-- the conflict included a dispute over cargo transfer
+    
+- the conflict included a cargo transfer dispute
+    
 - there is a second ship
+    
 - survivors are likely still present deeper inside
+    
 
 ---
 
@@ -362,9 +513,9 @@ By the end of this section, the players should understand:
 
 The players move from the dead outer shell to the only surviving inhabited part of the station. To reach it, they must use the improvised spin-transfer system that connects static infrastructure to the rotating inner core.
 
-At the threshold they have their first real chance to discover the lone survivor, **Talia Serrano**, hidden in a maintenance recess. She provides the first human explanation of the crisis before the players move deeper into territory controlled by one of the two remaining factions.
+At the threshold they can find the lone survivor, **Talia Serrano**, hidden in a maintenance recess. She gives the first direct human explanation of the crisis before the players move into territory controlled by one of the two remaining factions.
 
-This section should transition the scenario from outer wreckage to inhabited danger.
+This section transitions the scenario from wreckage exploration to live human conflict.
 
 ---
 
@@ -373,51 +524,71 @@ This section should transition the scenario from outer wreckage to inhabited dan
 This section should:
 
 - make the station feel structurally believable
-- introduce unstable spin gravity as a physical experience
+    
+- introduce unstable spin gravity as a physical problem
+    
 - establish the threshold between dead shell and inhabited core
-- place the lone survivor before full faction commitment
+    
+- place the survivor before faction commitment
+    
 - prepare first contact with Old Guard or Recovery Team
+    
 
 ---
 
 ## Phase 1 — Reaching the Transfer System
 
-The dead corridors do not connect directly to the surviving habitat. Instead, the players eventually reach an old industrial transfer node: a reinforced shaft and cargo lift system bridging the static shell and the rotating core.
+The dead corridors do not connect directly to the surviving habitat. Instead, the players reach an old industrial transfer node: a reinforced shaft and cargo lift system connecting the static shell to the rotating core.
 
 ### What the Players Realize
+
 - the outer shell remains zero-g
+    
 - the inhabited section rotates deeper inside
-- the connection is mechanical, rough, and improvised
-- the station was never a clean coherent habitat
+    
+- the connection is mechanical and improvised
+    
+- this station grew out of mining and salvage infrastructure
+    
 
 ### Suggested Checks
 
 **Engineering / Systems**
 
 **Success**
-- the players understand the transfer system
-- they identify worn couplings, timing issues, or failing dampers
-- they can reduce transfer risk before activation
+
+- the players understand how the transfer works
+    
+- they identify timing problems, worn couplings, or failing dampers
+    
+- they reduce the risk before activation
+    
 
 **Failure**
+
 - the lift still works
-- the instability comes as more of a surprise
+    
+- the handover feels rougher and less controlled
+    
 
 **Perception / Analysis**
 
 **Success**
-- old mining and cargo markings make the station’s industrial past obvious
-- the transfer system was built for freight and maintenance, not comfort
+
+- old mining and cargo markings make the station’s original industrial use obvious
+    
+- this system was built for freight, not comfort
+    
 
 ---
 
 ## 🎙️ Read Aloud — Transfer System
 
-> The corridor ends at a reinforced shaft built deep into the inner structure of the station. What waits there is not a normal passenger elevator, but an industrial transfer cage — the kind of system once used to move cargo pallets, machinery, and maintenance crews between sections that were never originally designed to fit together.
+> The corridor ends at a reinforced shaft and an old industrial transfer cage.
 > 
-> Heavy rails run along the shaft walls. The cage itself is enclosed in mismatched plating, patched braces, manual overrides, and old warning markings half-buried under newer repairs. Everything about it suggests that this system was rebuilt, modified, and kept alive long past its intended service life.
+> This is not a passenger lift. It was built to move cargo, machinery, and maintenance crews between mismatched station sections.
 > 
-> Somewhere below and inward, the rotating section of the station continues to turn. This is the bridge between the dead exterior and the part that still matters.
+> It still works. Barely.
 
 ---
 
@@ -426,39 +597,53 @@ The dead corridors do not connect directly to the surviving habitat. Instead, th
 Once activated, the cage carries the players from static zero-g infrastructure into the rotating inner core.
 
 ### What Happens
+
 - the cage begins in zero-g
+    
 - rotation gradually asserts itself
-- the handover is rough and imperfect
+    
+- the handover is rough
+    
 - gravity arrives unevenly before stabilizing at a weak level
+    
 
 ### Suggested Checks
 
 **Coordination / Low-G Movement**
 
 **Success**
-- players brace well
-- they remain steady and ready on arrival
+
+- players brace properly
+    
+- they arrive steady and ready
+    
 
 **Failure**
+
 - awkward impact, dropped gear, or brief disorientation
+    
 
 **Endurance / Fitness** _(optional)_
 
 **Success**
+
 - quick adaptation
+    
 
 **Failure**
+
 - vertigo, nausea, or short-lived movement penalty
+    
 
 ---
 
 ## 🎙️ Read Aloud — Spin Transfer
 
-> Inside the cage there is still no gravity, only handholds, restraints, and the low vibration of machinery that does not sound healthy enough for comfort. When the system engages, the movement is immediate but uneven, as if several compensators are trying to solve the same problem in slightly different ways.
+> The cage starts in freefall. Then the station’s rotation begins to catch hold.
 > 
-> At first nothing seems to change. Then your body notices it before your eyes do. A faint shift in orientation creeps into your sense of balance, followed by the first suggestion of weight. Your boots begin to catch against the deck, lightly at first, then with enough force to matter.
+> Weight returns unevenly. Boots scrape the deck. The frame shudders, overcorrects, and settles.
 > 
-> The station’s rotation does not arrive as a clean pull. It comes in imperfectly, through an old industrial system that was never meant to make this feel smooth. The cage shudders, overcorrects, and steadies again. By the time it settles, gravity exists — but only just, and not in any way that feels entirely trustworthy.
+> By the time it stops, there is weak gravity — enough to stand, not enough to trust.
 
 ---
 
@@ -466,17 +651,27 @@ Once activated, the cage carries the players from static zero-g infrastructure i
 
 The transfer cage opens into the boundary zone of the rotating habitat.
 
-This is not a safe arrival hall. It is a **neutral threshold** between:
+This is a **neutral threshold** between:
+
 - the dead shell behind the players
+    
 - the spinward Old Guard side
+    
 - the counterspinward Recovery Team side
+    
 
 ### Environment
+
 - thin but usable atmosphere
+    
 - weak spin gravity
-- retained pressure, but degraded air quality
-- patched bulkheads and repeatedly repaired systems
-- the first real sense that people still live here
+    
+- degraded air quality
+    
+- patched bulkheads and repaired systems
+    
+- first clear signs of current habitation
+    
 
 Helmets should usually stay on.
 
@@ -484,9 +679,11 @@ Helmets should usually stay on.
 
 ## 🎙️ Read Aloud — Entering the Habitat
 
-> The inner hatch bears the signs of retained pressure. Frost clings to the edges of the seal, and dust shifts in the faint movement of air beyond it. When the door opens, the silence of vacuum gives way to the enclosed sounds of a station that is still barely functioning: distant structural creaks, low vibrations through the deck, and the tired hum of machinery working somewhere behind the walls.
+> The hatch opens into thin air and weak gravity.
 > 
-> The gravity here is weak and inconsistent, enough to stand in but never enough to trust. Loose objects rest where they have fallen. Dust gathers in seams and corners. The corridor around you feels lived in, patched, rerouted, and repeatedly repaired rather than truly maintained.
+> This section is pressurized, but only just. The corridor is patched, dirty, and kept running by repeated repair rather than proper maintenance.
+> 
+> People are still living here.
 
 ---
 
@@ -494,61 +691,105 @@ Helmets should usually stay on.
 
 Before open faction contact, the players have a chance to discover **Talia Serrano**.
 
-This should not be random. Place her in a **sealed off-axis maintenance recess** just beside the threshold zone, behind a partially removed inspection panel or service cover.
+Place her in a **sealed off-axis maintenance recess** beside the threshold zone, behind a partly removed inspection panel or service cover.
 
 She is close enough to:
-- hear movement through the threshold
-- have seen part of the transfer collapse
-- know what the freighter was doing
 
-She is hidden enough to survive because both factions bypassed the compartment during the fighting.
+- hear movement near the transfer point
+    
+- know outsiders have arrived
+    
+- have seen part of the station crisis unfold
+    
 
-### Talia Serrano — Specifics
+She survived because both sides fought past this compartment without clearing it properly.
 
-**Identity**
+---
+
+## Talia Serrano
+
+### Identity
+
 - surviving member of the freighter crew
+    
 - not a formal member of either remaining faction
+    
 - directly involved in the attempted cargo transfer
+    
 
-**Condition**
+### Condition
+
 - dehydrated
+    
 - exhausted
+    
 - lightly wounded
-- frightened, but coherent if stabilized
+    
+- frightened, but coherent once stabilized
+    
 
-**What she knows for sure**
+### What She Knows for Sure
+
 - the freighter brought the cargo
-- the cargo transfer to an internal hold was interrupted
-- command authority collapsed during the transfer attempt
-- the freighter crew split
-- the station was still inhabited when the recovery push began
+    
+- the cargo was supposed to be moved into an internal hold
+    
+- the transfer stopped when people started arguing over authority
+    
+- the freighter crew split over what to do
+    
+- the station was still inhabited when the recovery team pushed in
+    
 
-**What she suspects**
-- there was an external buyer waiting on confirmation
-- the recovery team cares more about the cargo than any survivors
-- nobody now fully controls the situation
+### What She Suspects
 
-**What she does not know**
+- an outside buyer was waiting on confirmation
+    
+- the recovery team cares more about the cargo than survivors
+    
+- nobody now has full control of the situation
+    
+
+### What She Does Not Know
+
 - the full origin of the relic
-- the full corporate chain behind the recovery operation
-- exactly who on either side still holds what information
+    
+- the full corporate chain behind the recovery team
+    
+- exactly who still controls what deeper inside
+    
 
-### What Talia says once stabilized
+---
 
-> “They kept saying it was just recovery. Property. Procedures.  
-> But people were still here. People were still alive.  
-> We were supposed to move it and leave. Then command broke, the crew split, and everything turned into a grab.”
+## What Talia Tells the Players
+
+Keep it short and clear. For example:
+
+> “We brought the cargo in on the freighter. It was supposed to go into internal storage.”
+> 
+> “Then people started arguing over who had authority to move it.”
+> 
+> “The crew split. The station split. Then the armed team came in.”
+> 
+> “If they find it first, they won’t care who’s still alive.”
 
 ### GM Guidance
-Talia should not dump the whole scenario.  
-She should give the players:
-- a human perspective
-- confirmation that the station was inhabited
-- confirmation that the freighter crew was part of the transfer
-- a reason to see both factions as dangerous in different ways
 
-If protected, she may ask for extraction later.  
-If threatened, she shuts down fast and becomes far less useful.
+Talia should not explain everything.
+
+Her purpose is to give the players:
+
+- a human voice
+    
+- confirmation that the freighter was part of the transfer
+    
+- confirmation that the station was inhabited before the assault
+    
+- confirmation that both remaining sides are dangerous in different ways
+    
+
+If protected, she can become an important witness later.  
+If threatened, she becomes guarded and far less useful.
 
 ---
 
@@ -559,61 +800,101 @@ Once inside the rotating section, the players are no longer exploring a dead sta
 Use the environment to steer first contact.
 
 ### If they move spinward
+
 They are more likely to reach the **Old Guard** first.
 
 ### If they move counterspinward
-They are more likely to reach the **Corporate Recovery Team** first.
+
+They are more likely to reach the **Recovery Team** first.
 
 ### What they can notice
+
 - patched conduits and bulkhead seals
+    
 - recently moved crates and tools
-- signs of ration use and habitation
-- corridors maintained just enough to remain defensible
-- a station that is still being used, not merely occupied
+    
+- ration use and sleeping setups
+    
+- corridors kept functional for defense
+    
+- a station still in use, not just occupied after a battle
+    
 
 ---
 
 ## Encounter Option 1 — Recovery Team
 
 ### Typical Route Trigger
+
 Players move toward:
+
 - stronger power signatures
-- more controlled corridor approaches
-- harder defensive geometry
+    
+- controlled corridor approaches
+    
+- cleaner defensive lines
+    
 - spaces that feel tactical rather than lived in
+    
 
 ### 🎙️ Read Aloud — Recovery Team Contact
 
-> The corridor ahead is suddenly cut by a hard beam of light. It does not sweep or search. It fixes itself in place with deliberate control, holding the passage like a boundary. Beyond it, a figure is visible behind cover, armored and steady, weapon raised but not yet firing. Others shift in the half-light behind that first silhouette, disciplined enough to stay mostly concealed.
+> A hard white beam locks across the corridor ahead.
+> 
+> Behind cover, an armored figure holds position with a weapon raised. More shapes stay back in the half-light, controlled and disciplined.
+> 
+> These are not station locals.
 
 ### Overview
+
 - disciplined
+    
 - professional
+    
 - armed
+    
 - still mission-focused despite losses
+    
 - suspicious, but willing to talk if the players seem useful
+    
 
 ---
 
 ## Encounter Option 2 — Old Guard
 
 ### Typical Route Trigger
+
 Players move toward:
-- visibly inhabited passages
+
+- inhabited-looking passages
+    
 - patched service corridors
+    
 - maintained utility routes
-- spaces that feel lived in rather than optimized for control
+    
+- spaces that feel lived in rather than tactically arranged
+    
 
 ### 🎙️ Read Aloud — Old Guard Contact
 
-> The lighting shifts before you see anyone. Emergency strips flicker along patched walls and improvised repairs, and then voices carry down the corridor — unfiltered, tired, and immediately alert to your presence. Figures step out from partial cover with weapons raised, but not with the stillness or precision of drilled soldiers.
+> Voices carry ahead before the players see anyone.
+> 
+> Then several figures step out from patched cover with weapons raised. Their gear is rough, mixed, and station-worn.
+> 
+> They look like people defending their home, not running a clean operation.
 
 ### Overview
+
 - rougher gear
+    
 - station-familiar
+    
 - defensive rather than formally tactical
-- more openly human in interaction
-- cautious, but easier to read than the recovery side
+    
+- easier to read emotionally than the recovery side
+    
+- cautious, but not immediately hostile
+    
 
 ---
 
@@ -622,13 +903,19 @@ Players move toward:
 Neither faction should attack immediately unless the players do something openly aggressive.
 
 Both sides will:
-- assess the newcomers
-- test their usefulness
-- establish control of the interaction
-- try to determine whether the players change the balance of the station
 
-The important tonal shift is this:
-the players are no longer just exploring a battlefield. They are now moving between live interests inside a failing station.
+- assess the newcomers
+    
+- test whether they are useful
+    
+- try to control the conversation
+    
+- determine whether the players change the balance inside the station
+    
+
+The tonal shift here is simple:
+
+the players are no longer exploring wreckage — they are now inside a live conflict.
 
 ---
 
@@ -637,8 +924,17 @@ the players are no longer just exploring a battlefield. They are now moving betw
 By the end of Act 2, the players should understand:
 
 - the station is still inhabited
+    
 - two hostile factions remain
+    
 - the crisis involved both a boarding action and an internal split
+    
 - the freighter is materially important
+    
 - the rotating habitat is unstable and degrading
+    
 - escape will require leverage, repair, cooperation, or violence
+    
+
+I can also do one more pass that makes the clues even more “GM-proof” by adding a small box under each important discovery with:  
+**what the players should definitely understand** / **what a good roll adds**.

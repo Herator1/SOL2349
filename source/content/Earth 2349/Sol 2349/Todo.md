@@ -1,33 +1,3 @@
-1. Prio - Worldbuilding
-	1. Earth - Megacities
-	2. Docks and Stations
-	3. Lagrange Points ausbauen
-	4. Mars und Venus ausbauen
-2. Prio - Lore
-	1. Humanity in Space (Culture)
-3. Prio - Technology
-	1. Live Support and Artificial Gravity
-4. Prio - Missions
-	1. Cloudfall
-	2. Black Inclination
-	3. Premade Characters
-5. Prio - About the Project
-	1. "FAQ"
-	2. Goals/AI Disclaimer
-
-
----
-
-
-**Phase 2**
-- [[NGOs]]
-- [[The Spacer Code]]
-- [[Medicine and Care in 2349]]
-- [[Cults and Religions]]
-**Phase 3**
-- Ausbau von spezifischen Unterfraktionen je Region
-- Earthside factions
-- Mars institutions
-- Venus labor/syndicate/corporate intermediaries
-- Belt polities
-- Jovian League internal politics
+Szenarios:
+- 1.st Overhaul Ghost Station - 1) das Signal kommt von dem letzten Asteroiden den ihr scannen müsst 2.) Central spine für die Station - macht viel mehr Sinn. 3.) Fraktionen ändern - beide Fraktionen von der Station. 4.) mehr Motivation die Station zu erforschen. 5.) mehr pressure - Stress für die Charaktere.
+- 

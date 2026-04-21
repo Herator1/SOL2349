@@ -11,4 +11,4 @@ These pages describe who holds power, who challenges it, and who shapes daily li
 
 ## Irregular and Non-State Actors
 - [[Criminal Networks]]
-- [[Cults and Religions]]
+- [[Faiths and Spiritual Movements]]

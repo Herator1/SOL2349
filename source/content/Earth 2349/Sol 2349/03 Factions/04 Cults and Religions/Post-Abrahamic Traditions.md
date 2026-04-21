@@ -1,12 +1,10 @@
-# Post-Abrahamic Traditions
-
-| Category | Information |
-|---|---|
-| Type | Continuations and reform movements of Abrahamic religions |
-| Estimated Followers | ~2.5–3 billion |
-| Core Beliefs | Monotheistic traditions adapted to life beyond Earth |
-| Major Locations | [[Earth]], near-Earth orbital habitats, [[Luna]], parts of [[Mars]] |
-| Sacred Places | Earth, Jerusalem, Mecca, Rome, Vatican Orbital Mission |
+| Category            | Information                                                         |
+| ------------------- | ------------------------------------------------------------------- |
+| Type                | Continuations and reform movements of Abrahamic religions           |
+| Estimated Followers | ~2.5–3 billion                                                      |
+| Core Beliefs        | Monotheistic traditions adapted to life beyond Earth                |
+| Major Locations     | [[Earth]], near-Earth orbital habitats, [[Luna]], parts of [[Mars]] |
+| Sacred Places       | Earth, Jerusalem, Mecca, Rome, Vatican Orbital Mission              |
 
 ## Overview
 
@@ -14,7 +12,7 @@ Post-Abrahamic traditions remain the largest religious sphere in human civilizat
 
 These traditions remain strongest on [[Earth]] and in the orbital sphere closest to it. There, old sacred geography, long-standing institutions, dense populations, and historical continuity still matter. Humanity may have expanded across the Solar System, but the cultural and institutional center of these religions remains near its planetary origin.
 
-Further from Earth, these traditions persist, but they usually become more fragmented, more practical, and less socially dominant. In the [[Belt]], nearly every major religion can still be found, but religion usually plays a smaller role in everyday public life than it does on Earth. Distance, contract labor, migration, and mixed station populations tend to weaken old confessional boundaries and encourage a more private or communal form of belief.
+Further from Earth, these traditions persist, but they usually become more fragmented, more practical, and less socially dominant. In the [[Asteroid Belt]], nearly every major religion can still be found, but religion usually plays a smaller role in everyday public life than it does on Earth. Distance, contract labor, migration, and mixed station populations tend to weaken old confessional boundaries and encourage a more private or communal form of belief.
 
 ## Judaism
 

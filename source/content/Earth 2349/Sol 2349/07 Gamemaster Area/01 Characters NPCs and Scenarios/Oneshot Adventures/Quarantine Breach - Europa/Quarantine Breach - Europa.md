@@ -71,7 +71,7 @@ There is no immediate crisis at the start.
 
 → [[Containment Breach – Europa – Scenario Overview]]  
 → [[Containment Breach – Europa – Acts]]  
-→ [[Containment Breach – Europa – Crew]]  
+→ [[Containment Breach - Crew]]  
 → [[Containment Breach – Europa – Premade Characters]]  
-→ [[Containment Breach – Europa – Maps]]  
+→ [[Containment Breach – Maps and Pictures]]  
 → [[Containment Breach – Europa – GM Cheat Sheet]]

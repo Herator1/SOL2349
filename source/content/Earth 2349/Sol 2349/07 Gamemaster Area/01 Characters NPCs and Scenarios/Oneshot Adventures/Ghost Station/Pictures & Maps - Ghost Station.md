@@ -5,9 +5,9 @@ Cross cut scheme of the Helios Survey Vessel Asterion:
 ![[Asterion Outside.png|450]]
 Asterion in Action
 
-![[ChatGPT Image 12. Apr. 2026, 21_51_56.png]]
-Ghost Station - Outside
+![[Pasted image 20260426212318.png|697]]
+Ghost Station - Map
 
+![[Pasted image 20260426212718.png]]
+Ghost Station - Outside View
 
-![[Ghost Station Cross Cut.png]]
-Ghost Station - Cross Cut

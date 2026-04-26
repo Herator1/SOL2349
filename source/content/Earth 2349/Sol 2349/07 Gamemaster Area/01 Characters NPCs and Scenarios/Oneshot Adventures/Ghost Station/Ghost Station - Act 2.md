@@ -1,940 +1,620 @@
-# 🧭 Act 2 — Arrival at the Station
+# Ghost Station — Act 2: Boarding the Station
 
-## Scene Purpose
+## Purpose of This Act
 
-Act 2 establishes Ghost Station as:
+Act 2 turns the station from an external mystery into a dangerous physical environment.
 
-- a damaged but still partially functional Belt installation
-    
-- the site of a recent violent conflict
-    
-- a place where survivors are still present
-    
-- a station divided between dead infrastructure and a small living core
-    
+The crew boards through the damaged **Main Docking Spine**, reaches the **Central Spine**, discovers signs of internal fighting, and begins to understand that the station is unstable, occupied, and divided.
 
-This act should communicate four things quickly:
+By the end of this act, the crew should know:
 
-- the players are vulnerable
-    
-- the station is damaged but not dead
-    
-- the conflict here was recent and involved at least two sides
-    
-- survivors remain inside
-    
+- the station was built into an old hollowed asteroid
+- the Central Spine connects the major station systems
+- the station is actively failing
+- the disaster was caused by fighting between two pirate factions
+- the conflict has a personal core around Arman Volkov and Mira Volkov
+- a sealed container was involved
+- the container is now missing
+- finding it requires active investigation
+- a freighter may be docked deeper in the station structure
 
-The pacing should stay deliberate. This is still the exploration and tension phase, not the final decision phase.
+Act 2 should feel like salvage work inside a wounded habitat.
 
 ---
 
-# Part 1 — Docking, EVA, Outer Shell
+# Starting Situation
 
-## GM Summary
+The Asterion is damaged but still holding position near the station.
 
-The _Asterion_ docks manually with the station. The players enter through the dead outer shell in EVA, move through damaged docking and service sections, identify signs of two distinct groups, find a clear clue that the crisis centered on disputed cargo transfer, and discover the freighter docked elsewhere in the outer structure.
+The crew has chosen an entry method: docking, EVA, emergency airlock, cargo intake, drone-assisted entry, or another improvised route.
 
-Before reaching the inhabited core, they also get the first strong sign that someone is still alive deeper inside.
+The station ahead is dark, partially powered, and visibly damaged. Some systems still answer. Others respond with outdated codes, warning loops, or corrupted telemetry.
 
----
+The crew is not entering a dead ruin.
 
-## Situation
+They are entering a place that is still failing.
 
-- the _Asterion_ is damaged and only barely maneuverable
-    
-- the station does not assist docking
-    
-- the outer shell is partly dead, partly damaged, and partly intact
-    
-- the _Asterion_ remains the crew’s only secure fallback
-    
-- the players do not yet know who fought here, who survived, or what the cargo dispute was about
-    
+Every route through the station should cost something: time, safety, air quality, power, faction attention, or access to another option.
 
-Make the fallback value of the _Asterion_ clear early.
+The **Secondary Spine** and docked freighter should not be treated as obvious from the start. They become a lead through exploration, records, sensor data, survivor testimony, or faction movement.
 
 ---
 
-## 🎙️ Read Aloud — Approach
+# Opening Read-Aloud
 
-> The station fills the forward view: a mined-out asteroid fitted with docking frames, service structures, and one damaged rotating habitat section still turning inside the rock.
+Use or adapt:
+
+> The outer structure fills the forward view.
+>
+> The Main Docking Spine is worse up close: patched pressure tubes, torn plating, broken cargo rails, antenna fragments, and old weld scars layered over older weld scars.
+>
+> Emergency lights blink in uneven rhythm.
+>
+> Somewhere inside, a pump cycles, fails, and starts again.
+>
+> The station accepts your presence without welcoming you.
+
+---
+
+# Scene 1 — Approach and Entry
+
+## Goal
+
+Make entry feel physical, technical, and risky.
+
+The crew should need to solve the immediate problem of getting inside without making the Asterion’s condition worse or exposing themselves to unnecessary danger.
+
+## Entry Options
+
+Use the approach chosen at the end of Act 1.
+
+Possible approaches include manual docking with a damaged collar, EVA entry through station debris, drone scouting, a cargo intake route, or an emergency airlock.
+
+Each option should carry a different cost:
+
+- docking risks further damage to the Asterion
+- EVA risks exposure to debris and poor visibility
+- drone scouting risks signal loss or incomplete information
+- cargo intake gives early cargo clues but may expose the crew to unstable machinery
+- emergency airlock entry is safer but may require power rerouting or manual pressure control
+
+Do not make one approach obviously correct.
+
+The entry point should lead into or toward the **Main Docking Spine**, not directly to the freighter.
+
+## Useful Checks
+
+Possible checks include:
+
+- **Spacefaring:** manage approach, docking, or EVA movement
+- **Engineering:** restore or bypass hatch systems
+- **Operations:** read pressure, power, and access status
+- **Survival:** evaluate atmosphere and suit risks
+- **Science:** interpret environmental anomalies or old mining structure
+
+Failure should increase risk or consume time, not block entry completely.
+
+## What Entry Reveals
+
+The first entry should reveal three things:
+
+1. the station is structurally damaged
+2. systems are still partially active
+3. recent human activity is present
+
+Examples include manually sealed doors, fresh tool marks, used emergency masks, blood traces, patched leaks, spent ammunition, unstable pressure zones, improvised warning signs, or cameras repositioned by hand.
+
+---
+
+# Scene 2 — Dead Systems, Not a Dead Station
+
+## Goal
+
+Establish the station’s condition before any major faction contact.
+
+The players should feel that the station itself is dangerous.
+
+## Station Condition
+
+Use concrete details, but do not overload every scene.
+
+The air may taste stale or metallic. CO₂ levels may be elevated but survivable. Emergency lights flicker between power cycles. Doors hesitate before opening. Condensation gathers on cold panels. Cable bundles cross corridors where panels have been removed. Old warning labels are overwritten by hand. Some compartments are sealed with foam, plates, or emergency film.
+
+The station should feel old, modified, and forced to keep running past its limits.
+
+## Practical Hazards
+
+Use hazards to make routes meaningful.
+
+Possible hazards include bad atmosphere, unstable pressure, unreliable doors, electrical shorts, decompressed side rooms, misleading station maps, drifting debris in microgravity, and sudden movement from old machinery.
+
+The purpose is not to punish the crew.
+
+The purpose is to make movement through the station a decision.
+
+## First Clue of Conflict
+
+The crew should find evidence that the damage was not only accidental.
+
+Use one or two strong signs:
+
+- weapon impacts inside pressurized corridors
+- barricades facing inward
+- blood trails splitting in different directions
+- doors forced from both sides
+- destroyed access panels
+- warning signs written for other humans, not automated systems
+
+At this stage, the players do not need to understand the factions yet.
+
+They should understand that people fought here.
+
+---
+
+# Scene 3 — Reaching the Central Spine
+
+## Goal
+
+Give the players a reliable spatial anchor.
+
+The **Central Spine** is the main hub for decisions, routes, clues, and later pressure.
+
+The players should reach it early in Act 2.
+
+## Description
+
+Use or adapt:
+
+> The corridor opens into a long axial space running deeper into the asteroid.
+>
+> It is too industrial to be a hallway and too crowded to be a simple access tube. Power trunks, pressure lines, cargo rails, camera nodes, emergency lockers, and patched access doors run along its length.
+>
+> Old mining labels sit beneath newer station markings. Some of those have been crossed out and replaced by hand.
+>
+> This is the station’s spine.
+>
+> Damaged, overloaded, but still alive.
+
+## Available Routes
+
+From the Central Spine, the crew can identify routes toward:
+
+- the Main Docking Spine and Asterion
+- cargo and transfer systems integrated along the spine
+- maintenance, power, and life support
+- spin-transfer access to the rotating habitat
+- old mining voids and deep service paths
+- an unclear secondary route deeper into the station structure
+
+The GM does not need to show a complete map.
+
+Give enough orientation for the players to choose a direction.
+
+The secondary route should not immediately be labeled as “freighter.” It may appear as an offset docking branch, cargo-transfer route, secondary berth access, or partially corrupted map section.
+
+## Central Spine Discoveries
+
+The Central Spine should provide the first sense of how the scenario can be investigated.
+
+The crew may find a damaged station map, a cargo movement terminal, an emergency pressure board, a broken camera node, an access control panel, faction markings, signs of firefights, or route labels that contradict each other.
+
+This is a good place to introduce one early technical lead toward the missing container, but not the answer.
+
+---
+
+# Scene 4 — Evidence of Two Factions
+
+## Goal
+
+Reveal that the disaster was caused by internal conflict between two pirate factions.
+
+This should emerge through evidence before exposition.
+
+## Evidence
+
+Use two or three strong clues:
+
+- two distinct sets of markings or tags
+- barricades facing each other across the Central Spine
+- different ammunition or weapon damage patterns
+- contradictory warning messages
+- two access override sets used within minutes of each other
+- camera footage showing armed groups firing inside the station
+- doors locked from opposite sides
+- medical tags separating wounded from different groups
+- references to “Volkov’s people” and “Mira’s crew”
+
+## Interpretation
+
+The crew should be able to conclude:
+
+- the fighting was not an outside raid
+- both sides knew the station layout
+- both sides had access to station systems
+- the conflict damaged critical infrastructure
+- survivors may still be present
+- neither side can be assumed trustworthy
+
+Avoid giving the full history in one log.
+
+Let the players reconstruct it.
+
+---
+
+# Scene 5 — First Contact
+
+## Goal
+
+Introduce survivors or active faction pressure.
+
+This scene should create ambiguity, not immediate clarity.
+
+## First Contact Options
+
+Choose based on pacing and player choices.
+
+### Talia Serrano
+
+An injured station technician hides near the Central Spine, maintenance access, or a sealed side corridor.
+
+She is one of the best first survivors because she can explain systems without solving the whole mystery.
+
+She may say:
+
+> “Don’t trust the map. Half the station has been renamed twice and patched three times.”
+>
+> “The spine is still breathing, but only because someone keeps forcing power through it.”
+>
+> “They moved the container after the shooting started. I saw the lift go down, then the cameras died.”
+
+She can help restore one camera fragment, identify a maintenance route, or point toward systems that are close to failure.
+
+### Hidden Observer
+
+Someone watches the crew through a damaged camera node, suit comm intercept, or maintenance gap.
+
+They may warn, mislead, threaten, or recruit the crew before showing themselves.
+
+This can be Ilya Ro, a Holdout watcher, or a Breakaway scout.
+
+### Faction Patrol
+
+A small armed group encounters the crew.
+
+They are not looking for a fair fight. They want information: who the crew is, whether the Asterion can fly, and whether the crew knows about the container.
+
+### Barricaded Group
+
+A group controls a corridor, medical nook, airlock, or habitat entrance.
+
+They may demand supplies, repairs, proof, weapons, or a promise before allowing access.
+
+### Body With Data
+
+If the GM wants slower contact, the crew first finds a body with logs, access tags, or camera fragments.
+
+This provides information before a living faction appears.
+
+## First Contact Principles
+
+Do not make the first survivor fully reliable.
+
+Do not make the first faction automatically hostile.
+
+Good first contact should raise questions:
+
+- Who started the fight?
+- Who has the container?
+- Who wants the Asterion?
+- Who needs help?
+- Who is lying because they are afraid?
+- Who is lying because they are planning something?
+
+---
+
+# Scene 6 — The Volkov Split
+
+## Goal
+
+Introduce the faction conflict as local, personal, and messy.
+
+The players should learn that this is not simply “pirates versus outsiders.” The station split from within.
+
+## What the Crew May Learn
+
+Through survivors, markings, logs, arguments, or faction contact, the crew may learn:
+
+- **Arman Volkov** leads the Holdouts
+- Arman represents the old station order
+- **Mira Volkov** leads the Breakaway Crew
+- Mira is Arman’s daughter
+- the container triggered the final break
+- Arman wants to keep the station alive and stop Mira from leaving with the container
+- Mira believes the station is already dying and wants to escape with leverage
+- both sides damaged the station during the fight
+
+Do not present this as one clean briefing.
+
+Reveal it through contradictions.
+
+## Example Fragments
+
+text
+VOLKOV ORDER: LOCK SECONDARY ACCESS.
+BREAKAWAY TRAFFIC DETECTED.
+LIFE SUPPORT PRIORITY: HABITAT HOLD.
+
+MIRA BROADCAST FRAGMENT:  
+—he’ll keep you here until the air runs out—  
+—secondary berth is our only exit—  
+—do not let the old man seal the route—
+
+HOLDOUT WARNING:  
+Mira’s crew cut the cargo route.  
+They brought the thing here.  
+They can leave when the dead can breathe again.
+
+## GM Note
+
+Do not make Arman the good parent and Mira the bad child.
+
+Arman represents survival through loyalty, memory, and control.  
+Mira represents survival through escape, rupture, and opportunism.
+
+Both are shaped by the same failing station.
+
+---
+
+# Scene 7 — The Container as an Absence
+
+## Goal
+
+Introduce the sealed container without revealing its location.
+
+The container should appear first as missing cargo, disputed cargo, corrupted data, or something people are afraid to name directly.
+
+## Possible Clues
+
+Use one or two in Act 2. Save the rest for Act 3.
+
+### Cargo Manifest Fragment
+
+A damaged terminal lists a sealed container with incomplete metadata.
+
+TRANSFER ITEM: SEALED INDUSTRIAL CONTAINER  
+ORIGIN: [CORRUPTED]  
+DESTINATION: HOLDING BAY 3 / SECONDARY TRANSFER  
+STATUS: TRANSFER INTERRUPTED  
+AUTHORITY STATE: DISPUTED  
+CURRENT LOCATION: UNKNOWN
+
+### Video Fragment
+
+A damaged camera shows the container being moved through the Central Spine.
+
+The image cuts out before the destination is clear.
+
+### Mass Discrepancy
+
+Cargo records show that a sealed item moved through the station, but current bay mass does not match the manifest.
+
+### Survivor Reference
+
+A survivor refers to “the sealed cargo,” “the box,” “the thing they brought in,” or “the reason they started shooting.”
+
+### Empty Cradle
+
+The crew finds a cargo cradle with cut restraints, scraped rails, and no container.
+
+## What the Crew Should Understand
+
+The players should learn:
+
+- a sealed container was central to the conflict
+- it was moved during the fighting
+- the expected location is wrong
+- no one has a complete answer
+- finding it will require investigation
+
+Do not reveal the artifact too early.
+
+At this stage, the container is the mystery.
+
+---
+
+# Scene 8 — The Freighter as a Lead
+
+## Goal
+
+Make the freighter a discovery, not an obvious starting option.
+
+The freighter is docked at the **Secondary Spine / Freighter Berth**, hidden from the first approach angle by the asteroid shell, station structure, shadow, and damaged geometry.
+
+Act 2 is a good place to introduce it as a possible objective.
+
+## How the Crew May Learn About It
+
+Use one or two:
+
+- docking record mentions an occupied secondary berth
+- cargo route points toward “secondary transfer”
+- a survivor says Mira was trying to reach “the berth”
+- power draw shows a docked vessel or active clamp system
+- a damaged camera briefly shows a freighter lock or hull segment
+- station map includes a corrupted branch labeled “SECONDARY SPINE”
+- a Breakaway scout is moving toward that route
+- Pavel Kest is mentioned as someone who can make “the ship” usable
+
+## What They Should Know
+
+By the end of this reveal, the crew may understand:
+
+- a secondary docking route exists
+- something large may be attached there
+- the freighter may be connected to the container transfer
+- reaching it could create an escape or leverage option
+- factions are likely to contest access
+
+They should not automatically know:
+
+- whether the freighter can fly
+- who controls it
+- whether it has fuel, power, or safe docking clamps
+- what logs it contains
+- whether using it means abandoning the Asterion
+
+---
+
+# Scene 9 — Choosing a Direction
+
+## Goal
+
+End Act 2 with the crew making an informed decision about what to pursue next.
+
+By now, the players should have several competing priorities.
+
+They may want to:
+
+- repair the Asterion
+- stabilize station systems
+- investigate the container
+- contact, avoid, or manipulate Arman’s Holdouts
+- contact, avoid, or manipulate Mira’s Breakaway Crew
+- reach the Secondary Spine or freighter berth
+- enter the rotating habitat
+- search for survivors or medical supplies
+
+Do not force the container search immediately.
+
+The scenario is stronger if the players feel pressure from competing needs.
+
+They may want to survive first.  
+They may want answers first.  
+They may want leverage first.
+
+All are valid.
+
+---
+
+# Act 2 Pacing
+
+Act 2 should not become endless exploration.
+
+After two or three meaningful discoveries, something should change:
+
+- a faction notices the crew
+- air quality worsens
+- a route closes
+- the Asterion reports a worsening condition
+- a camera turns toward the crew
+- a pressure door fails
+- the rotating habitat shudders
+- someone calls for help
+- someone lies to redirect them
+
+The station should feel active even when no enemy is in the room.
+
+If the players spend time, the situation moves.
+
+---
+
+# Act 2 Escalations
+
+Use one or two before the act ends.
+
+## Air Quality Drops
+
+CO₂ rises in part of the Central Spine or habitat access route.
+
+The crew can continue, but stress and time pressure increase.
+
+## Door Failure
+
+A pressure door jams or closes unexpectedly, cutting off a direct route.
+
+The crew must repair, bypass, or detour.
+
+## Faction Movement
+
+One faction notices the crew and begins repositioning toward the Main Docking Spine, Secondary Spine, freighter route, or cargo areas.
+
+## Spin Disturbance
+
+The rotating habitat shudders.
+
+The transfer route becomes temporarily dangerous.
+
+## Camera Node Comes Alive
+
+A damaged camera pans toward the crew.
+
+Someone is watching.
+
+## Asterion Warning
+
+The Asterion reports worsening thermal, power, or hull conditions.
+
+The crew cannot ignore their ship indefinitely.
+
+## Secondary Route Opens
+
+A damaged door or map fragment reveals an offset branch deeper into the station.
+
+The route may lead toward the Secondary Spine, but using it costs time, power, or faction attention.
+
+---
+
+# Act 2 Information Control
+
+The crew should leave Act 2 with enough information to make meaningful choices, not enough to solve everything.
+
+## They Should Learn
+
+- the station is a hollowed-asteroid habitat built from old mining infrastructure
+- the Main Docking Spine is the first access route
+- the Central Spine is the main internal axis
+- cargo and transfer systems are integrated along the spine
+- the station is in poor condition and degrading
+- the damage came from internal fighting
+- Arman Volkov’s Holdouts and Mira Volkov’s Breakaway Crew were involved
+- the conflict has a personal Volkov family core
+- a sealed container was central to the conflict
+- the container is missing
+- survivors or faction members are still active
+- a secondary docking route or hidden berth may exist
+- the crew must choose between survival, investigation, leverage, and rescue
+
+## They Should Not Yet Learn Automatically
+
+- the exact location of the container
+- the full nature of the artifact
+- which faction is telling the truth
+- whether the freighter can safely leave
+- whether the station can be stabilized
+- the complete sequence of the firefight
+- whether Arman or Mira is the better ally
+- whether leaving without answers will be safe later
+
+---
+
+# Transition to Act 3
+
+Act 2 ends when the crew understands the situation well enough to commit to a deeper objective.
+
+Use or adapt:
+
+> The station map flickers on the terminal, then fails again.
 > 
-> Large sections are dark. A few still show weak power. There are no docking lights, no traffic signals, and no response to your approach.
+> You have enough to understand the shape of the problem, not enough to solve it.
 > 
-> This place is damaged, but not dead.
-
----
-
-## Phase 1 — Docking
-
-The players must dock manually.
-
-This is a good moment to reinforce that Ghost Station is illegal, improvised, and outside normal Belt standards. No reciprocity lights. No docking assistance. No acknowledgment of approach.
-
-### Suggested Checks
-
-**Piloting / Coordination**
-
-**Success**
-
-- clean docking
-    
-- stable seal
-    
-- no added strain on the ship
-    
-
-**Partial Success**
-
-- rough docking
-    
-- minor seal stress or clamp strain
-    
-- airlock remains usable, but imperfectly
-    
-
-**Failure**
-
-- hard contact
-    
-- unstable seal, clamp stress, or delayed leak risk
-    
-
-**Engineering Support**
-
-- can reduce risk or stabilize the docking interface
-    
-- good support role for non-pilots
-    
-
----
-
-## 🎙️ Read Aloud — Docking
-
-> The final approach is slow and careful. One berth ahead is torn open; another is barely intact.
+> The Asterion is damaged behind you.
 > 
-> There are no active docking systems. You bring the ship in by hand.
+> The station is failing around you.
 > 
-> The hull connects with a heavy shudder. Clamps bite. The seal holds.
-
----
-
-## Phase 2 — EVA Preparation
-
-The players cannot assume the station is pressurized or safe.
-
-They must:
-
-- suit up
-    
-- decide who leaves the ship
-    
-- choose what equipment to bring
-    
-
-### GM Guidance
-
-Emphasize:
-
-- helmets stay on
-    
-- comms may degrade inside the station
-    
-- the _Asterion_ is damaged, but still safer than the station
-    
-- this is the point where shipboard control ends
-    
-
-Load should matter here.
-
----
-
-## 🎙️ Read Aloud — Airlock
-
-> The inner hatch closes. Pressure drops. Suit audio takes over.
+> Arman’s people are trying to hold the habitat together.
 > 
-> Then the outer door opens.
+> Mira’s crew is moving somewhere deeper in the structure.
 > 
-> The station is only a few meters away.
+> And the sealed container that started all of this is missing.
 
----
-
-## Phase 3 — EVA Exterior
-
-The players move through vacuum and zero-g from the _Asterion_ into the station’s docking section.
-
-### Environment
-
-- zero gravity
-    
-- no sound except suit audio and transmitted vibration
-    
-- drifting debris
-    
-- exposed battle damage
-    
-- clear signs of a recent fight
-    
-
-### Suggested Checks
-
-**EVA / Coordination**
-
-**Success**
-
-- clean movement
-    
-- controlled entry
-    
-- no suit strain
-    
-
-**Failure**
-
-- awkward drift, tether complication, collision, or minor suit stress
-    
-
-Keep EVA tense and deliberate, not clumsy.
-
----
-
-## 🎙️ Read Aloud — Exterior
-
-> From the outside, the station is badly damaged. Hull panels are missing. Several sections are scorched. One docking port has been blown outward from the inside.
-> 
-> Nearby, the wreck of a much larger ship hangs broken across the debris field.
-> 
-> This was a battle.
-
----
-
-## Phase 4 — Entry Corridor
-
-The players enter through a damaged but usable access corridor in the outer docking structure.
-
-### Conditions
-
-- vacuum
-    
-- zero-g
-    
-- no atmosphere
-    
-- controlled corridor damage
-    
-- clear signs of recent fighting
-    
-
-This should feel like damaged infrastructure, not horror scenery.
-
----
-
-## 🎙️ Read Aloud — First Interior
-
-> Your lights catch a corridor still open to vacuum. Burn marks run tight across the walls. Several access panels have been cut open in a hurry.
-> 
-> One body is caught against a wall bracket, still clipped to a harness line.
-> 
-> This section was fought over at close range.
-
----
-
-## Phase 5 — Outer Section Exploration
-
-The players move deeper through the docking section and dead service corridors.
-
-### What They Find
-
-#### Dead Station Defenders
-
-- patched suits
-    
-- improvised armor
-    
-- practical tools and weapons
-    
-- bodies in cover positions
-    
-- gear suggests smugglers, salvagers, or long-term station users
-    
-
-#### Dead Recovery Personnel
-
-- cleaner, more standardized equipment
-    
-- stripped or absent insignia
-    
-- breaching gear
-    
-- better armor
-    
-- more controlled firing positions
-    
-- bodies usually farther forward, in push positions
-    
-
-Use roughly **3 dead station defenders for every 1 dead recovery operator**.
-
-That ratio helps show:
-
-- the recovery side was better equipped
-    
-- the defenders knew the station and made them pay for every corridor
-    
-
-### Suggested Checks
-
-**Perception / Analysis**
-
-**Success**
-
-- two distinct groups are obvious
-    
-- this was not just random damage or a decompression event
-    
-
-**Security / Combat Analysis / Intellect**
-
-**Success**
-
-- one side pushed inward in an organized assault
-    
-- the other side defended prepared positions
-    
-- this was a boarding action followed by internal fighting
-    
-
----
-
-## Phase 6 — Cargo Dispute Clue
-
-This is the first fixed clue and should appear before the players reach the inhabited core.
-
-**Location:**  
-A jammed service junction between **Dock 1** and the **spin-transfer lift**.
-
-### What Is There
-
-- a dark utility alcove
-    
-- a dropped cargo tether
-    
-- a smeared handprint beside a manual hatch wheel
-    
-- a damaged terminal still running on residual power
-    
-- two dead bodies nearby: one in freighter work gear, one in station gear
-    
-
-### What the Terminal Shows
-
-The terminal is damaged, but the relevant entries are easy to recover:
-
-> **TRANSFER HOLD 2 — ACCESS LOCKED**  
-> **CARGO MOVE SUSPENDED**  
-> **AUTHORITY CONFLICT**  
-> **TRANSFER CREW DIVIDED**  
-> **MANUAL CONFIRMATION REQUIRED**
-
-### What This Clearly Tells the Players
-
-- cargo was being moved before the fighting
-    
-- the move was interrupted
-    
-- the people in charge were no longer agreeing
-    
-- the split started before the station was fully overrun
-    
-
-### GM Guidance
-
-Do **not** hide this behind difficult rolls.
-
-If the players inspect the terminal or bodies at all, they get the core meaning:
-
-**there was a cargo transfer, command authority broke down, and people started choosing sides.**
-
-A good roll can add detail, but not basic understanding.
-
----
-
-## Phase 7 — The Freighter
-
-The players reach a secondary docking bay and find the freighter.
-
-This should register immediately as:
-
-- a second ship
-    
-- a possible escape option
-    
-- a likely source of parts
-    
-- something directly tied to the conflict
-    
-
-### Description
-
-- medium Belt freighter
-    
-- practical, work-built hull
-    
-- battle-scarred but not destroyed
-    
-- still docked, not drifting
-    
-- farther from the _Asterion_, on another outer docking position
-    
-
----
-
-## 🎙️ Read Aloud — The Freighter
-
-> The corridor opens into a second docking space.
-> 
-> Another ship is still secured in the bay: a medium freighter, blunt-hulled and built for Belt cargo work.
-> 
-> Its hull is scarred and heat-marked, but the frame is intact.
-> 
-> It was docked here on purpose, and it never left.
-
----
-
-### Suggested Check
-
-**Engineering / Systems**
-
-**Success**
-
-- the freighter is damaged, but repairable
-    
-- its drive section appears mostly intact
-    
-- it could become an escape option with moderate repair work
-    
-- it may also contain useful components for the _Asterion_
-    
-
-**High Success**
-
-- the freighter is easier to return to emergency flight than the _Asterion_ is to restore for a safe burn
-    
-- the _Asterion_ has the worse propulsion problem
-    
-
-**Failure**
-
-- the freighter is clearly not dead, but exact repair value remains unclear
-    
-
-### GM Guidance
-
-Do not fully explain the repair dilemma yet, but seed it here:
-
-- _Asterion_ = worse propulsion damage
-    
-- freighter = better propulsion condition, worse overall condition
-    
-
-That gives Act 3 a solid practical base.
-
----
-
-## Phase 8 — First Signs of Life
-
-Before the spin transition, the players should get a clear indication that survivors remain deeper inside.
-
-This is still not open contact, but it should not be cryptic.
-
-### Possible Evidence
-
-- localized power draw deeper in the station
-    
-- a pressure zone still being maintained
-    
-- a manually rerouted signal
-    
-- a short voice fragment on local comms
-    
-
-### Suggested Checks
-
-**Sensors / Comms / Systems**
-
-**Success**
-
-- isolated internal activity detected
-    
-- someone is still operating systems deeper inside
-    
-
-**High Success**
-
-- short human transmission fragment
-    
-- likely local and recent
-    
-
----
-
-## 🎙️ Read Aloud — Signal
-
-> Your systems pick up active power use deeper inside the station.
-> 
-> A moment later, a short comm fragment cuts through the noise — too broken to make out words, but clearly human and clearly recent.
-> 
-> Someone is still alive in there.
-
----
-
-## End of Part 1
-
-By the end of this section, the players should understand:
-
-- the station is still partly active
-    
-- the battle was recent
-    
-- at least two sides were involved
-    
-- the conflict included a cargo transfer dispute
-    
-- there is a second ship
-    
-- survivors are likely still present deeper inside
-    
-
----
-
-# Part 2 — Spin Transfer, Survivor, First Contact
-
-## GM Summary
-
-The players move from the dead outer shell to the only surviving inhabited part of the station. To reach it, they must use the improvised spin-transfer system that connects static infrastructure to the rotating inner core.
-
-At the threshold they can find the lone survivor, **Talia Serrano**, hidden in a maintenance recess. She gives the first direct human explanation of the crisis before the players move into territory controlled by one of the two remaining factions.
-
-This section transitions the scenario from wreckage exploration to live human conflict.
-
----
-
-## Scene Purpose
-
-This section should:
-
-- make the station feel structurally believable
-    
-- introduce unstable spin gravity as a physical problem
-    
-- establish the threshold between dead shell and inhabited core
-    
-- place the survivor before faction commitment
-    
-- prepare first contact with Old Guard or Recovery Team
-    
-
----
-
-## Phase 1 — Reaching the Transfer System
-
-The dead corridors do not connect directly to the surviving habitat. Instead, the players reach an old industrial transfer node: a reinforced shaft and cargo lift system connecting the static shell to the rotating core.
-
-### What the Players Realize
-
-- the outer shell remains zero-g
-    
-- the inhabited section rotates deeper inside
-    
-- the connection is mechanical and improvised
-    
-- this station grew out of mining and salvage infrastructure
-    
-
-### Suggested Checks
-
-**Engineering / Systems**
-
-**Success**
-
-- the players understand how the transfer works
-    
-- they identify timing problems, worn couplings, or failing dampers
-    
-- they reduce the risk before activation
-    
-
-**Failure**
-
-- the lift still works
-    
-- the handover feels rougher and less controlled
-    
-
-**Perception / Analysis**
-
-**Success**
-
-- old mining and cargo markings make the station’s original industrial use obvious
-    
-- this system was built for freight, not comfort
-    
-
----
-
-## 🎙️ Read Aloud — Transfer System
-
-> The corridor ends at a reinforced shaft and an old industrial transfer cage.
-> 
-> This is not a passenger lift. It was built to move cargo, machinery, and maintenance crews between mismatched station sections.
-> 
-> It still works. Barely.
-
----
-
-## Phase 2 — The Spin Transfer
-
-Once activated, the cage carries the players from static zero-g infrastructure into the rotating inner core.
-
-### What Happens
-
-- the cage begins in zero-g
-    
-- rotation gradually asserts itself
-    
-- the handover is rough
-    
-- gravity arrives unevenly before stabilizing at a weak level
-    
-
-### Suggested Checks
-
-**Coordination / Low-G Movement**
-
-**Success**
-
-- players brace properly
-    
-- they arrive steady and ready
-    
-
-**Failure**
-
-- awkward impact, dropped gear, or brief disorientation
-    
-
-**Endurance / Fitness** _(optional)_
-
-**Success**
-
-- quick adaptation
-    
-
-**Failure**
-
-- vertigo, nausea, or short-lived movement penalty
-    
-
----
-
-## 🎙️ Read Aloud — Spin Transfer
-
-> The cage starts in freefall. Then the station’s rotation begins to catch hold.
-> 
-> Weight returns unevenly. Boots scrape the deck. The frame shudders, overcorrects, and settles.
-> 
-> By the time it stops, there is weak gravity — enough to stand, not enough to trust.
-
----
-
-## Phase 3 — Threshold Zone
-
-The transfer cage opens into the boundary zone of the rotating habitat.
-
-This is a **neutral threshold** between:
-
-- the dead shell behind the players
-    
-- the spinward Old Guard side
-    
-- the counterspinward Recovery Team side
-    
-
-### Environment
-
-- thin but usable atmosphere
-    
-- weak spin gravity
-    
-- degraded air quality
-    
-- patched bulkheads and repaired systems
-    
-- first clear signs of current habitation
-    
-
-Helmets should usually stay on.
-
----
-
-## 🎙️ Read Aloud — Entering the Habitat
-
-> The hatch opens into thin air and weak gravity.
-> 
-> This section is pressurized, but only just. The corridor is patched, dirty, and kept running by repeated repair rather than proper maintenance.
-> 
-> People are still living here.
-
----
-
-## Phase 4 — The Lone Survivor
-
-Before open faction contact, the players have a chance to discover **Talia Serrano**.
-
-Place her in a **sealed off-axis maintenance recess** beside the threshold zone, behind a partly removed inspection panel or service cover.
-
-She is close enough to:
-
-- hear movement near the transfer point
-    
-- know outsiders have arrived
-    
-- have seen part of the station crisis unfold
-    
-
-She survived because both sides fought past this compartment without clearing it properly.
-
----
-
-## Talia Serrano
-
-### Identity
-
-- surviving member of the freighter crew
-    
-- not a formal member of either remaining faction
-    
-- directly involved in the attempted cargo transfer
-    
-
-### Condition
-
-- dehydrated
-    
-- exhausted
-    
-- lightly wounded
-    
-- frightened, but coherent once stabilized
-    
-
-### What She Knows for Sure
-
-- the freighter brought the cargo
-    
-- the cargo was supposed to be moved into an internal hold
-    
-- the transfer stopped when people started arguing over authority
-    
-- the freighter crew split over what to do
-    
-- the station was still inhabited when the recovery team pushed in
-    
-
-### What She Suspects
-
-- an outside buyer was waiting on confirmation
-    
-- the recovery team cares more about the cargo than survivors
-    
-- nobody now has full control of the situation
-    
-
-### What She Does Not Know
-
-- the full origin of the relic
-    
-- the full corporate chain behind the recovery team
-    
-- exactly who still controls what deeper inside
-    
-
----
-
-## What Talia Tells the Players
-
-Keep it short and clear. For example:
-
-> “We brought the cargo in on the freighter. It was supposed to go into internal storage.”
-> 
-> “Then people started arguing over who had authority to move it.”
-> 
-> “The crew split. The station split. Then the armed team came in.”
-> 
-> “If they find it first, they won’t care who’s still alive.”
-
-### GM Guidance
-
-Talia should not explain everything.
-
-Her purpose is to give the players:
-
-- a human voice
-    
-- confirmation that the freighter was part of the transfer
-    
-- confirmation that the station was inhabited before the assault
-    
-- confirmation that both remaining sides are dangerous in different ways
-    
-
-If protected, she can become an important witness later.  
-If threatened, she becomes guarded and far less useful.
-
----
-
-## Phase 5 — Reading the Core
-
-Once inside the rotating section, the players are no longer exploring a dead station. They are moving through a small inhabited pressure zone divided between hostile survivors.
-
-Use the environment to steer first contact.
-
-### If they move spinward
-
-They are more likely to reach the **Old Guard** first.
-
-### If they move counterspinward
-
-They are more likely to reach the **Recovery Team** first.
-
-### What they can notice
-
-- patched conduits and bulkhead seals
-    
-- recently moved crates and tools
-    
-- ration use and sleeping setups
-    
-- corridors kept functional for defense
-    
-- a station still in use, not just occupied after a battle
-    
-
----
-
-## Encounter Option 1 — Recovery Team
-
-### Typical Route Trigger
-
-Players move toward:
-
-- stronger power signatures
-    
-- controlled corridor approaches
-    
-- cleaner defensive lines
-    
-- spaces that feel tactical rather than lived in
-    
-
-### 🎙️ Read Aloud — Recovery Team Contact
-
-> A hard white beam locks across the corridor ahead.
-> 
-> Behind cover, an armored figure holds position with a weapon raised. More shapes stay back in the half-light, controlled and disciplined.
-> 
-> These are not station locals.
-
-### Overview
-
-- disciplined
-    
-- professional
-    
-- armed
-    
-- still mission-focused despite losses
-    
-- suspicious, but willing to talk if the players seem useful
-    
-
----
-
-## Encounter Option 2 — Old Guard
-
-### Typical Route Trigger
-
-Players move toward:
-
-- inhabited-looking passages
-    
-- patched service corridors
-    
-- maintained utility routes
-    
-- spaces that feel lived in rather than tactically arranged
-    
-
-### 🎙️ Read Aloud — Old Guard Contact
-
-> Voices carry ahead before the players see anyone.
-> 
-> Then several figures step out from patched cover with weapons raised. Their gear is rough, mixed, and station-worn.
-> 
-> They look like people defending their home, not running a clean operation.
-
-### Overview
-
-- rougher gear
-    
-- station-familiar
-    
-- defensive rather than formally tactical
-    
-- easier to read emotionally than the recovery side
-    
-- cautious, but not immediately hostile
-    
-
----
-
-## GM Guidance — First Contact
-
-Neither faction should attack immediately unless the players do something openly aggressive.
-
-Both sides will:
-
-- assess the newcomers
-    
-- test whether they are useful
-    
-- try to control the conversation
-    
-- determine whether the players change the balance inside the station
-    
-
-The tonal shift here is simple:
-
-the players are no longer exploring wreckage — they are now inside a live conflict.
-
----
-
-## End of Act 2
-
-By the end of Act 2, the players should understand:
-
-- the station is still inhabited
-    
-- two hostile factions remain
-    
-- the crisis involved both a boarding action and an internal split
-    
-- the freighter is materially important
-    
-- the rotating habitat is unstable and degrading
-    
-- escape will require leverage, repair, cooperation, or violence
-    
-
-I can also do one more pass that makes the clues even more “GM-proof” by adding a small box under each important discovery with:  
-**what the players should definitely understand** / **what a good roll adds**.
+Act 3 begins when the crew chooses what they are willing to risk next.

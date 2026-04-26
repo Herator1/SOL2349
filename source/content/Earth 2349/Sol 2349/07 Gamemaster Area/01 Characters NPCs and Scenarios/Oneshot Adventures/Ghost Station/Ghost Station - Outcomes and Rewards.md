@@ -1,505 +1,660 @@
-# 🧭 Outcomes & Rewards — Ghost Station
+## Purpose of This Page
 
-There is no single correct ending to _Ghost Station_.
+This page helps the GM resolve the consequences of **Ghost Station**.
 
-The outcome depends on:
+The scenario should not end with a single correct solution.
 
-- which faction the players support, if any
-    
-- which ship they get working
-    
-- whether they keep, surrender, destroy, or lose the relic
-    
-- who they bring out alive
-    
-- how badly the station deteriorates before departure
-    
+The crew may escape, recover the container, save survivors, stabilize the station, side with Arman, side with Mira, abandon the site, or leave with only partial answers.
 
-In _SOL 2349_, success does not mean a clean victory. It usually means getting out alive with damage, obligations, witnesses, or something that other people will come looking for later.
+Rewards should reflect what the crew actually chose to risk.
 
-The best outcomes in this scenario should feel like:
-
-**survival, but not closure.**
+In Ghost Station, the most important rewards are not only money or equipment. They are information, leverage, reputation, access, favors, debts, and consequences.
 
 ---
 
-# 🟢 Ending 1 — Fragile Cooperation
+# Outcome Logic
 
-## Summary
+At the end of the scenario, resolve four questions:
 
-The players force a temporary truce between the Old Guard and the Recovery Team. The two sides cooperate just long enough to stabilize one ship, preserve enough life support to finish repairs, or evacuate survivors before the station degrades further.
+1. **How did the crew leave?**
+2. **What happened to the container?**
+3. **Who survived or benefited?**
+4. **What truth did the crew carry away?**
 
-This is the closest thing to a good ending, but it is still unstable. The conflict is paused, not solved.
+These answers determine the rewards and future consequences.
 
----
+The GM does not need to close every thread.
 
-## When to Use This Ending
-
-Use this ending if most of the following are true:
-
-- the players negotiated with both sides successfully
-    
-- neither faction has been fully broken
-    
-- at least limited cooperation became possible
-    
-- one ship is repaired or patched well enough to leave
-    
-- the players choose survival over finishing the conflict
-    
+Ghost Station works best if the ending leaves useful loose ends.
 
 ---
 
-## 🎙️ Read Aloud
+# Primary Outcomes
 
-> In the end, nobody wins Ghost Station.
-> 
-> The agreement is narrow, tense, and built under pressure. Weapons stay visible. Routes stay controlled. People who fought each other a short time ago now pass tools, move cargo, seal hatches, and watch each other across the same failing corridors. No one mistakes it for trust. It is simply the shortest possible path to survival.
-> 
-> Repairs are completed under guard. Evacuation happens in stages. Orders are brief, practical, and stripped of everything except necessity. The station continues to deteriorate around all of you, but not fast enough to prevent departure.
-> 
-> When the ships finally pull away, the station remains behind: damaged, partly powered, still holding wreckage, bodies, and the evidence of what happened here. The crisis is not over. It has only been interrupted long enough for people to get out alive.
+## Asterion Escape
 
----
+The crew repairs the Asterion enough to leave the station area.
 
-## Rewards / Consequences
+This is the cleanest survival outcome, but it may still come at a cost.
 
-### Potential Rewards
+Possible variations:
 
-- reputation for handling a live crisis without letting it turn into total collapse
-    
-- access to shared supplies, salvage, or emergency support during departure
-    
-- possible future goodwill from individuals on both sides
-    
+- the Asterion leaves with emergency repairs only
+- the ship can fly but needs dockyard work later
+- the crew leaves with limited reserves
+- cargo, salvage, or survivors must be abandoned to reduce risk
+- the Asterion escapes damaged and unreliable
 
-### Likely Consequences
+Possible rewards:
 
-- both factions survive and may reappear later
-    
-- neither side fully trusts the players
-    
-- the players may gain a reputation as useful intermediaries in unstable situations
-    
+- salvaged spare parts
+- station navigation data
+- proof of the hidden station’s location
+- recovered sensor logs
+- cargo or docking records
+- improved reputation as a crew that survives difficult salvage
 
----
+Possible consequences:
 
-## Follow-Up Hooks
-
-- one side later asks for transport, mediation, or discreet assistance
-    
-- the ownership of the relic resurfaces
-    
-- one survivor claims the players promised more than they delivered
-    
-- Ghost Station becomes the subject of a later salvage or investigation dispute
-    
+- the Asterion remains unreliable until properly repaired
+- a faction knows the ship’s profile
+- the crew leaves people or valuable cargo behind
+- the debris field or station remains a hazard for others
 
 ---
 
-# 🟡 Ending 2 — Recovery Team Alignment
+## Freighter Escape
 
-## Summary
+The crew uses the docked freighter to escape or as a secondary vessel.
 
-The players back the Recovery Team, help secure the relic, and either evacuate with them or enable their mission to succeed. The station and its surviving operators become secondary to containment and extraction.
+This is a high-impact outcome because it changes ownership, logistics, and future options.
 
-This is efficient, practical, and morally cold.
+Possible variations:
 
----
+- the crew abandons the Asterion and escapes by freighter
+- the freighter is used to tow, shield, or support the Asterion
+- the freighter carries survivors away
+- Arman’s Holdouts or Mira’s Breakaway Crew escape with the freighter
+- the freighter is stripped for parts instead of flown
 
-## When to Use This Ending
+Possible rewards:
 
-Use this ending if most of the following are true:
+- a damaged but valuable vessel
+- cargo records
+- compatible repair components
+- black-market route data
+- proof of the container transfer
+- a possible salvage claim, if the crew can defend it
 
-- the players openly cooperate with Markovic
-    
-- the relic ends up in Recovery Team custody
-    
-- Old Guard resistance is neutralized, bypassed, or abandoned
-    
-- the players help secure an exit route or working ship
-    
-- extraction is treated as the main objective
-    
+Possible consequences:
 
----
+- unclear ownership
+- legal or contract disputes
+- faction claims
+- hidden trackers or hostile locks
+- expensive repairs
+- unwanted attention from pirates, insurers, authorities, or buyers
+- someone may accuse the crew of theft rather than salvage
 
-## 🎙️ Read Aloud
-
-> Once the final decision is made, the station stops being a place and becomes a route problem.
-> 
-> Corridors are reduced to access points. Survivors are reduced to variables. Systems are stabilized only where they support movement, containment, or departure. The people around you stop arguing about what should happen and start acting on what will happen.
-> 
-> The Recovery Team moves with the focus of people finishing a compromised job under narrowing conditions. The relic is secured. Witnesses are counted, controlled, or left behind. Anything that does not serve the extraction timeline is dropped from the plan.
-> 
-> By the time the ship leaves, the outcome is already fixed. Ghost Station recedes into the black still damaged, still unstable, and no longer central. What mattered was recovered. Everything else was treated as loss, delay, or debris.
+The freighter should feel valuable, but never free.
 
 ---
 
-## Rewards / Consequences
+## Container Recovered
 
-### Potential Rewards
+The crew finds and removes the sealed container.
 
-- payment or off-book compensation in **SOL**
-    
-- access to higher-tier corporate contacts, directly or indirectly
-    
-- possible future work involving recovery, transport, security, or containment
-    
+This is the most valuable and dangerous outcome.
 
-### Likely Consequences
+Possible variations:
 
-- surviving station personnel will remember the players’ choice
-    
-- the players may come under quiet scrutiny from actors connected to the operation
-    
-- [[Helios]] may ask difficult questions if the _Asterion_ returns from a deniable incident with missing or altered logs
-    
+- the crew recovers the container unopened
+- the crew opens it and learns what is inside
+- the crew transfers it to the Asterion
+- the crew loads it onto the freighter
+- one faction helps recover it and expects payment
+- the crew hides the container for later retrieval
 
-### Cost
+Possible rewards:
 
-- survivors may be abandoned
-    
-- the players may become associated with the destruction or suppression of Ghost Station
-    
-- they may now be “known” to organizations that prefer not to know civilians by name
-    
+- major financial value
+- powerful bargaining leverage
+- access to buyers or research actors
+- proof of AI-era technology trafficking
+- rare data, material, or hardware
+- future story hooks
 
----
+Possible consequences:
 
-## Follow-Up Hooks
+- Arman may demand that it stay on the station
+- Mira may pursue it as her only way out
+- surviving faction members may hunt the crew
+- outside buyers may learn about it
+- authorities may investigate
+- the artifact may be difficult to transport safely
+- the crew may not understand what risks it carries
+- selling it may create legal, ethical, or political problems
 
-- a second recovery job tied to another suspect object
-    
-- quiet surveillance or auditing after return
-    
-- a transport mission that is clearly linked to the same network
-    
-- a witness or survivor resurfaces with a different version of events
-    
+The container should never feel like simple treasure.
+
+It is leverage, liability, and temptation.
 
 ---
 
-# 🔴 Ending 3 — Old Guard Alignment
+## Container Destroyed
 
-## Summary
+The crew destroys the container or makes the artifact unrecoverable.
 
-The players side with the Old Guard, block or evade the Recovery Team, and escape with Old Guard survivors, the freighter, or both. This usually means embracing Belt survival logic over formal authority.
+This may be a moral, practical, or desperate decision.
 
-This is not noble, but it is believable and grounded.
+Possible reasons:
 
----
+- the artifact is too dangerous
+- transport is impossible
+- factions are closing in
+- the crew wants to prevent escalation
+- the station is collapsing
+- the crew cannot safely identify what the artifact does
 
-## When to Use This Ending
+Possible rewards:
 
-Use this ending if most of the following are true:
+- prevents immediate misuse
+- denies both factions their objective
+- may reduce pursuit from buyers
+- may earn trust from authorities or ethical actors if evidence remains
 
-- the players side openly with Volkov and the station defenders
-    
-- the Recovery Team loses access, leverage, or survivability
-    
-- the players help secure a ship for station-aligned escape
-    
-- the relic is denied to the Recovery Team
-    
-- the departure includes Old Guard survivors or assets
-    
+Possible consequences:
 
----
+- loss of major financial value
+- Arman or Mira may blame the crew
+- proof may be incomplete
+- buyers or sponsors may be angered
+- destruction may not be fully verifiable
+- fragments may remain
 
-## 🎙️ Read Aloud
-
-> The escape is improvised, hard-driven, and full of compromises made too quickly to revisit.
-> 
-> Repairs are finished under pressure. Cargo is cut loose where necessary. Passenger counts change more than once. Routes through the dead shell are used one final time with the knowledge that there may not be a second chance if anything fails.
-> 
-> The people leaving with you are armed, tired, and not pretending to be friends. They carry station habits with them: quick suspicion, quick adaptation, and an understanding that survival does not require agreement. It only requires enough shared interest to get clear of immediate danger.
-> 
-> Behind you, Ghost Station remains damaged and partly occupied or begins falling silent entirely, depending on how much was left functional. The fight is no longer yours to finish. But the people you chose to carry out are alive, and that decision will matter later.
+Destroying the artifact should be a valid ending, not a failure.
 
 ---
 
-## Rewards / Consequences
+## Container Abandoned
 
-### Potential Rewards
+The crew leaves without recovering the container.
 
-- access to smuggling, salvage, or grey-market Belt contacts
-    
-- practical control or partial claim over the freighter
-    
-- salvageable cargo, tools, components, or station-grade supplies
-    
+This may happen because they never found it, chose survival over risk, or decided it was not worth the cost.
 
-### Likely Consequences
+Possible variations:
 
-- Recovery Team backers or proxies may pursue the players later
-    
-- the players become linked to an illegal or semi-legal station operation
-    
-- hiding the relic or related cargo becomes harder once more people survive to talk about it
-    
+- the container remains hidden
+- Arman’s Holdouts later find it
+- Mira’s Breakaway Crew later find it
+- the station collapse buries it
+- the crew marks its possible location for later
+- the crew transmits a warning
+- the crew keeps evidence but not the artifact
 
-### Cost
+Possible rewards:
 
-- corporate hostility increases
-    
-- future inspections, docking clearances, or contracts may become more complicated
-    
-- some ports or employers may quietly decide the players are trouble
-    
+- survival
+- partial information
+- recovered logs
+- reduced immediate risk
+- a possible future salvage claim
 
----
+Possible consequences:
 
-## Follow-Up Hooks
+- someone else may recover it
+- the crew may regret leaving it
+- factions may still pursue them for what they know
+- the site may become contested later
+- the truth remains incomplete
 
-- a smuggling or discreet delivery job through Belt contacts
-    
-- dispute over freighter ownership, cargo, or salvage rights
-    
-- pursuit by a deniable recovery force
-    
-- Old Guard survivors ask for transport, safe harbor, or help disappearing
-    
+Leaving without the container should feel practical, not wrong.
 
 ---
 
-# ⚫ Ending 4 — Independent Escape
+## Station Stabilized
 
-## Summary
+The crew repairs enough infrastructure to keep part of the station alive.
 
-The players avoid fully backing either faction, get one ship working, and leave while the station conflict remains unresolved. They may save themselves and perhaps a small number of others, but they do not try to settle the larger conflict.
+This is a strong technical and humanitarian outcome.
 
-This is one of the most realistic endings in setting terms. It is also one of the most morally ambiguous.
+Possible variations:
 
----
+- life support remains stable for several hours
+- pressure control is restored in key sections
+- the rotating habitat is stabilized
+- survivors can shelter until rescue or recovery
+- routes are opened for evacuation
+- the comm array sends a clearer signal
 
-## When to Use This Ending
+Possible rewards:
 
-Use this ending if most of the following are true:
+- survivor gratitude
+- faction de-escalation
+- access to station records
+- technical reputation
+- salvage rights or future station access
+- a safer exit route
+- possible witnesses who can support the crew’s claims
 
-- the players avoid deep commitment to either faction
-    
-- they focus mainly on ship repair and escape
-    
-- they manage access, deception, or timing carefully
-    
-- the station remains divided when they leave
-    
-- the conflict continues without them
-    
+Possible consequences:
 
----
+- the station remains contested
+- saved survivors may include dangerous people
+- Arman may use repairs to regain control
+- Mira may use repairs to escape
+- rescue authorities, pirates, or claimants may arrive later
+- the crew may be drawn into ownership disputes
 
-## 🎙️ Read Aloud
-
-> In the end, the players choose a boundary and hold to it.
-> 
-> They repair what they need, secure what they can carry, and stop taking responsibility for anything beyond the minimum required to leave. Negotiations become temporary. Promises become narrow. The station remains inhabited, armed, and unstable behind them, but no longer inside the plan they are willing to carry.
-> 
-> Departure is practical rather than dramatic. Checklists matter more than speeches. Pressure seals, fuel state, alignment, and thrust margins replace every larger question that Ghost Station tried to impose.
-> 
-> When the ship finally separates, the station is still there: damaged, divided, and moving toward an outcome the players will not see. They leave with distance, not resolution.
-
----
-
-## Rewards / Consequences
-
-### Potential Rewards
-
-- cleanest immediate escape
-    
-- fewer direct obligations to either faction
-    
-- possible possession of ship, cargo, or relic if handled carefully
-    
-
-### Likely Consequences
-
-- missed opportunities for payment, alliance, or leverage
-    
-- delayed consequences instead of immediate ones
-    
-- both factions may later claim the players interfered, stole, withheld aid, or concealed evidence
-    
-
-### Cost
-
-- the players may have saved themselves by leaving others behind
-    
-- later fallout may arrive without warning
-    
-- sensor logs, transponder traces, or survivor testimony may still connect them to the incident
-    
+Stabilizing the station should change the ending even if the container is lost.
 
 ---
 
-## Follow-Up Hooks
+## Station Lost
 
-- a later claim dispute over cargo, relic, or salvage
-    
-- an unexpected message from a survivor
-    
-- pursuit or inquiry triggered by logs the players thought were erased
-    
-- a later job offer clearly based on knowledge of what happened at Ghost Station
-    
+The station fails beyond recovery.
 
----
+This may be caused by collapse, decompression, fire, spin failure, faction sabotage, or the crew choosing escape over repair.
 
-# 💥 Ending 5 — Collapse / Violent Resolution
+Possible variations:
 
-## Summary
+- parts of the station remain salvageable
+- survivors are lost
+- the container becomes trapped
+- the freighter detaches, is lost, or is destroyed
+- the debris field expands
+- the station becomes a future hazard
 
-The standoff fails completely. One or both factions are destroyed, the station suffers catastrophic damage, and escape becomes a matter of surviving collapse rather than controlling the situation.
+Possible rewards:
 
-This is the harshest ending and should feel costly even if the players survive.
+- the crew survives with what they carried
+- station logs may still prove what happened
+- salvage claims may become simpler if no one remains alive to contest them
 
----
+Possible consequences:
 
-## When to Use This Ending
+- survivor deaths
+- moral fallout
+- legal questions
+- lost evidence
+- increased debris hazard
+- possible blame if the crew’s actions contributed
 
-Use this ending if most of the following are true:
-
-- negotiations fail completely
-    
-- open fighting spreads through key station routes
-    
-- repair work happens under fire or is abandoned
-    
-- critical systems fail faster than anyone can contain them
-    
-- escape becomes chaotic and last-minute
-    
+The station’s destruction should be possible, but it should matter.
 
 ---
 
-## 🎙️ Read Aloud
+# Faction Outcomes
 
-> The situation does not resolve. It breaks.
-> 
-> One failure triggers the next: gunfire in a corridor, power loss at the threshold, pressure failure in a route that was supposed to stay usable, structural stress passing into a section already damaged beyond tolerance. After that, nobody is shaping events anymore. They are only reacting to them.
-> 
-> The station begins to come apart in operational terms first and structural terms second. Doors stop answering. Gravity shifts unpredictably. Emergency systems overload or fail outright. Compartments that were contested minutes ago become inaccessible, lethal, or irrelevant.
-> 
-> Escape stops being a question of who controls Ghost Station. It becomes a question of who can still reach a hull, seal a compartment, light a drive, and get clear before the next failure closes the route.
-> 
-> By the time a ship finally leaves, there is very little left behind that still qualifies as a functioning habitat. The station is broken, scattered, venting, dark in large sections, and no longer something anyone can hold. Whatever was hidden there is now either gone, buried, or drifting among the wreckage.
+## Arman Victory
 
----
+Arman Volkov and the Holdouts keep control of the habitat, station systems, container route, or remaining survivors.
 
-## Rewards / Consequences
+Possible rewards:
 
-### Potential Rewards
+- safe passage through Holdout areas
+- medical aid
+- station access codes
+- old mining route knowledge
+- testimony from station locals
+- a future favor from Arman
+- permission to take limited salvage
 
-- emergency salvage, if the players move quickly
-    
-- relic possession by force of circumstance
-    
-- elimination of immediate rivals or pursuers
-    
+Possible consequences:
 
-### Likely Consequences
+- Mira’s Breakaway Crew may be trapped, killed, or left behind
+- Arman may continue preserving a station that should be abandoned
+- saved survivors may remain under his control
+- the crew may be seen as supporting the old station order
+- Mira or her survivors may seek revenge
 
-- ship damage, injuries, or crew losses
-    
-- [[Helios]] scrutiny, contractual consequences, or penalties if the _Asterion_ survives
-    
-- unstable reputation among future employers or contacts
-    
-- loss of future opportunities tied to survivors, witnesses, or station access
-    
-
-### Cost
-
-- this is usually the most expensive ending in terms of equipment, trust, and long-term stability
-    
-- it creates the most debris, uncertainty, and future investigation
-    
+An Arman victory should preserve something, but at a cost.
 
 ---
 
-## Follow-Up Hooks
+## Mira Victory
 
-- investigation into the destruction of the station
-    
-- salvage-rights dispute over Ghost Station wreckage
-    
-- search for missing cargo, survivors, or black-box data
-    
-- pressure from outside actors convinced that something valuable was not actually destroyed
-    
+Mira Volkov and the Breakaway Crew gain access to the freighter, container, Asterion, or escape route.
 
----
+Possible rewards:
 
-# 🧪 Optional Relic Add-On
+- freighter access
+- cargo route information
+- repair parts
+- armed support
+- a share of salvage or artifact value
+- a future contact in the Belt underworld
 
-Use this add-on if the players leave with the relic, no matter which ending they got.
+Possible consequences:
 
----
+- weaker survivors may be abandoned
+- the station may fail faster
+- Arman’s Holdouts may be trapped or killed
+- Mira may break promises once escape is possible
+- the crew may be seen as helping pirates flee with dangerous cargo
 
-## 🎙️ Read Aloud
-
-> It is only after departure, once immediate danger has flattened into procedure, that the first inconsistencies become impossible to ignore.
-> 
-> A timing response arrives late by a fraction of a second. A sensor return resolves correctly, but not on the first pass. A calibration routine completes with no reported fault, then produces a slightly different result when run again under identical conditions.
-> 
-> None of it is dramatic. None of it is enough to trigger alarms by itself.
-> 
-> But the pattern repeats.
-> 
-> The object taken from Ghost Station does not behave like normal cargo. It does not announce a function, expose an interface, or produce any single unmistakable effect. Instead, it disturbs nearby systems in small, consistent, measurable ways — enough to suggest that whatever it is, it remains active at some low level, or at least not fully inert.
-> 
-> Whatever left the station with you, it did not become harmless just because it changed hands.
+A Mira victory should save some people and doom others.
 
 ---
 
-## Relic Consequences
+## Both Factions Broken
 
-If the players leave with the relic, add one or more of the following:
+The crew prevents either faction from gaining clear control.
 
-- sensor and timing anomalies continue aboard ship
-    
-- a third party begins quietly looking for the object
-    
-- someone on the crew wants to sell it, hide it, or study it
-    
-- possession of it becomes harder to conceal than expected
-    
+This may happen through negotiation, sabotage, rescue, exposure, or simple station collapse.
+
+Possible rewards:
+
+- more freedom to act
+- less organized pursuit
+- access to abandoned resources
+- survivor cooperation
+- stronger claim to salvage
+
+Possible consequences:
+
+- power vacuum
+- desperate survivors
+- scattered enemies
+- unclear ownership
+- future claims from outside actors
+- no one left with enough authority to make clean deals
+
+This outcome fits Ghost Station well: no one wins cleanly, but the crew may still escape with leverage.
 
 ---
 
-## Follow-Up Hooks
+## Temporary Truce
 
-- anomaly investigation
-    
-- scientific interest from a credible but discreet actor
-    
-- recovery attempt by a third party
-    
-- growing evidence that more than one group was searching for the same object
-    
+The crew brokers or forces a temporary truce.
+
+This may allow repairs, evacuation, medical treatment, shared access to the Secondary Spine, or enough stability to avoid immediate collapse.
+
+Possible rewards:
+
+- time
+- access
+- survivor cooperation
+- reduced combat
+- better evacuation options
+- witnesses from both sides
+
+Possible consequences:
+
+- the truce may fail after the crew leaves
+- Arman and Mira may both blame the crew if promises are broken
+- the container may become harder to control
+- the crew may become responsible for mediating a conflict they cannot solve
+
+A truce should be useful, fragile, and temporary.
 
 ---
 
-# Final Note for the GM
+# Survivor Outcomes
 
-No ending should feel fully clean.
+## Survivors Evacuated
 
-Even the best outcome should leave behind:
+The crew saves wounded, trapped, or noncombatant survivors.
 
-- survivors
-    
-- claims
-    
-- suspicion
-    
-- practical consequences
-    
-- unresolved ownership
-    
-- future leverage
-    
+Possible rewards:
 
-That is the right tone for _Ghost Station_.
+- testimony
+- gratitude
+- technical help
+- faction de-escalation
+- future contacts
+- moral authority
+- improved reputation
 
-If you want, I can now do one final polish pass over the whole scenario and turn all four acts plus outcomes into one unified **session-ready version** with consistent headings, clue structure, and GM boxes.
+Possible consequences:
+
+- limited ship capacity
+- medical burden
+- political complications
+- rescued pirates may not be innocent
+- one faction may accuse the crew of stealing people, hostages, or witnesses
+
+Survivors are not just rewards.
+
+They are people with needs, histories, and claims.
+
+---
+
+## Survivors Abandoned
+
+The crew leaves survivors behind.
+
+This may be necessary, selfish, or simply the result of pressure.
+
+Possible rewards:
+
+- faster escape
+- more room for salvage
+- lower immediate risk
+- fewer complications aboard the Asterion or freighter
+
+Possible consequences:
+
+- guilt
+- reputation damage if discovered
+- hostile testimony
+- revenge from survivors
+- moral tension among the crew
+- loss of information
+
+Do not frame this automatically as evil.
+
+In Ghost Station, survival choices are often ugly.
+
+---
+
+# Reward Types
+
+## Salvage
+
+Salvage should be useful, limited, and heavy enough to force choices.
+
+Examples:
+
+- repair parts
+- docking hardware
+- radiator material
+- pressure seals
+- battery packs
+- medical kits
+- spare suits
+- tool modules
+- sensor components
+- encrypted data cores
+- cargo records
+- rare industrial materials
+- weapons or ammunition
+- freighter components
+
+Good salvage creates future options.
+
+It should not become a shopping list.
+
+## Information
+
+Information may be more valuable than hardware.
+
+Examples:
+
+- station coordinates
+- faction identities
+- cargo route data
+- proof of AI-era artifact trafficking
+- video evidence of the firefight
+- logs showing who moved the container
+- freighter manifests
+- damaged comm recordings
+- black-market buyer references
+- old mining ownership data
+
+Information can be sold, traded, hidden, leaked, or used as leverage.
+
+## Reputation
+
+The crew’s choices shape how others talk about them.
+
+Possible reputations:
+
+- reliable salvage crew
+- dangerous opportunists
+- people who save their own first
+- people who rescue survivors
+- crew that deals with pirates
+- crew that can survive bad infrastructure
+- crew that knows too much
+- crew that carries something valuable
+
+Reputation should create future opportunities and future risks.
+
+## Contacts and Debts
+
+Survivors, faction members, technicians, brokers, or outside responders may owe the crew.
+
+Possible contacts:
+
+- rescued station technician
+- wounded pirate lieutenant
+- black-market cargo handler
+- independent miner contact
+- freighter engineer
+- survivor who knows hidden routes
+- broker who wants the container
+- authority figure interested in the site
+
+Contacts should not all be friendly.
+
+A debt in the Belt may be valuable, dangerous, or both.
+
+## The Artifact
+
+If the crew recovers the artifact, treat it as a major story object.
+
+Possible forms:
+
+- AI-era data core
+- signal-routing component
+- exotic compute substrate
+- sealed fabrication module
+- pre-war control hardware
+- rare material sample
+- fragmented research archive
+
+It should not be active AI.
+
+It should not solve problems automatically.
+
+It should create questions:
+
+- Who owns it?
+- Who wants it?
+- Is it legal to possess?
+- Is it safe to transport?
+- Does the crew understand what it is?
+- Is selling it worth the risk?
+- Should it be reported, hidden, destroyed, or traded?
+
+---
+
+# Money and Material Payment
+
+Use monetary rewards only if they fit the campaign economy.
+
+Possible sources of payment:
+
+- salvage sale
+- faction payment
+- survivor ransom or reward
+- data sale
+- freighter claim
+- artifact buyer
+- insurance or contract bonus
+- authority reward for evidence
+- research payment for artifact analysis
+
+Payment should depend on proof, transport, legality, and bargaining position.
+
+A crew that leaves with only rumors should earn less than a crew that carries logs, cargo records, or physical evidence.
+
+A crew that recovers the container may gain far more money, but also far more danger.
+
+---
+
+# Consequence Hooks
+
+Use one or more hooks after the scenario.
+
+## Someone Comes Looking
+
+A surviving faction member, buyer, broker, insurer, pirate contact, or authority wants to know what the crew took.
+
+## The Station Was Not as Abandoned as It Seemed
+
+Old ownership claims, miner descendants, pirate contacts, habitat registries, or survivor testimony complicate salvage rights.
+
+## The Artifact Has a Buyer
+
+Someone knew the container was supposed to arrive and now wants answers.
+
+## A Survivor Tells a Different Story
+
+The crew’s actions are challenged by someone they saved, abandoned, betrayed, or underestimated.
+
+## The Asterion Needs Real Repairs
+
+Emergency fixes get the crew away, but the ship now needs dockyard work, money, and time.
+
+## The Freighter Has History
+
+If recovered, the freighter carries debt, hidden cargo, tracking data, legal claims, or enemies.
+
+## The Container Was Only Part of the Deal
+
+The recovered artifact points toward a larger route, buyer network, or AI-era relic trade.
+
+## The Debris Field Remains
+
+If the station was not stabilized or cleared, the site becomes a navigational and salvage hazard.
+
+## Arman and Mira Are Not Finished
+
+If either survives, they may contact the crew later: for revenge, payment, rescue, testimony, or a second chance.
+
+---
+
+# Ending Summary Template
+
+At the end of the session, answer these questions and record them for future use.
+
+Asterion Status:  
+Freighter Status:  
+Station Status:  
+Container Status:  
+Artifact Status:  
+Arman / Holdouts:  
+Mira / Breakaway Crew:  
+Unaligned Survivors:  
+Major Salvage:  
+Major Evidence:  
+New Contacts:  
+New Enemies:  
+Unresolved Hooks:
+
+Use this summary to turn the one-shot into future campaign material if desired.
+
+---
+
+# Final GM Principle
+
+Rewards in Ghost Station should come with weight.
+
+Every useful thing the crew gains should imply a question:
+
+Who owns it?  
+Who wants it?  
+Who knows they have it?  
+What did they leave behind to get it?

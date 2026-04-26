@@ -3,7 +3,7 @@ The research sub carries a small, highly specialized crew. Most personnel assume
 The crew is competent, tired, and used to operating in confinement. Several are hiding something. Only some of those secrets matter.
 
 ---
-![[Pasted image 20260422225311.png]]
+![[Pasted image 20260423211415.png]]
 
 ## Prof. Dr. Lena Orlov
 
